@@ -1,0 +1,162 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="PER: WILLAX TV" tvg-logo="https://3.bp.blogspot.com/-X4ZzWX0VfFw/WJNhgBA-ROI/AAAAAAAA5hM/uIBkm7wkGnIDSVGJH4OOtiNKuYPXW3O9ACLcB/s1600/willax-tv2.jpg" group-title="NACIONALES",1 | WILLAX TV |
+http://00322.xyz:8000/ignaciosilveira18/BYkBr283y8/153640
+#EXTINF:-1 tvg-id="" tvg-id="Latina.pe" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/latina-tv-en-vivo-818.png" group-title="NACIONALES",2 | LATINA TV |
+http://00322.xyz:8000/ignaciosilveira18/BYkBr283y8/157475
+#EXTINF:-1 tvg-id="Canal cuatro Peru" tvg-logo="https://seeklogo.com/images/A/america-television-1987-1989-logo-368AF5DCB9-seeklogo.com.png" group-title="NACIONALES",4 | AMERICA TV HD |
+http://magmas5.com:8000/phd2000/YHJ1X74/3319
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="NACIONALES",5 | PANAMERICANA TV |
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/304306
+#EXTINF:-1 tvg-id="TV PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="NACIONALES",7 | TV PERU |
+http://magmas5.com:8000/phd2000/YHJ1X74/3336
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.tvcl.xyz/peru/canaln.png" group-title="NACIONALES",8 | CANAL N SD |
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/304313
+
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="NACIONALES",9 | ATV PERU |
+https://atvperu.akamaized.net/hls/live/2100630/atv/master.m3u8
+
+
+#EXTINF:-1 tvg_id="PER: Radioprogramas.org" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="NACIONALES",10 | RPP HD |
+http://magmas5.com:8000/phd2000/YHJ1X74/3352
+#EXTINF:-1 tvg-id="PER: Exitosa TV HD" tvg-logo="https://www.radio.es/images/broadcasts/e3/6f/111315/1/c300.png" group-title="NACIONALES",12 | EXITOSA TV HD |
+http://magmas5.com:8000/phd2000/YHJ1X74/126668
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="NACIONALES",16 |ATV SUR HD |
+https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="PER: Conecta2TV (Lima) HD" tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="NACIONALES",15 | CONECTA2 TV HD | 
+http://magmas5.com:8000/phd2000/YHJ1X74/151479
+#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="NACIONALES",17 | NATIVA TV HD |
+https://servilive.com:3449/live/mlecaroslive.m3u8
+#EXTINF:-1 tvg-logo="https://www.ondadigital.pe/imgs/ondadigital.png" group-title="NACIONALES",18 | ONDA DIGITAL HD |
+http://magmas5.com:8000/phd2000/YHJ1X74/151541
+#EXTINF:-1,SUR | ZONA LATINA |
+http://magmas5.com:8000/phd2000/YHJ1X74/4814
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="VARIEDADES",20 | NHK WORLD TV |
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id="Antena 3 HD (MX VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Antena_3_logo_1997.png/190px-Antena_3_logo_1997.png" group-title="VARIEDADES",21 | ANTENA 3 INTERNACIONAL |
+http://hidra.live:80/xaehsalg/454K7nBmkn/302607
+#EXTINF:-1 tvg-id="TVN de Chile HD" tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="VARIEDADES",22 | TVN CHILE |
+http://magmas5.com:8000/phd2000/YHJ1X74/3307
+#EXTINF:-1 tvg-id="Television Publica HD" tvg-logo="https://www.vhv.rs/dpng/d/495-4951177_tv-publica-argentina-logo-hd-png-download.png" group-title="VARIEDADES",23 | TV PUBLICA HD |
+http://magmas5.com:8000/phd2000/YHJ1X74/3534
+#EXTINF:-1 tvg-id="ECU: TELEAMAZONAS (HVEC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="VARIEDADES",24 | TELEAMAZONAS |
+http://magmas5.com:8000/phd2000/YHJ1X74/157474
+#EXTINF:-1 tvg-id="VEN: VENEZOLANA DE TELEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/VTV_logo.PNG/800px-VTV_logo.PNG" group-title="VARIEDADES",25 | VENEZOLANA DE TELEVISION |
+http://magmas5.com:8000/phd2000/YHJ1X74/151658
+#EXTINF:-1 tvg-id="Globovision.com" tvg-logo="https://www.globovision.com/static/img/gv-logo.png" group-title="VARIEDADES",32 | GLOBOVISION TV UHD |
+http://00322.xyz:8000/ignaciosilveira18/BYkBr283y8/156075
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="VARIEDADES",29 | VENEVISION PLUS |
+http://magmas5.com:8000/phd2000/YHJ1X74/151671
+#EXTINF:-1 tvg-logo="https://www.tves.gob.ve/web/wp-content/uploads/2022/07/cropped-LOGO-TVES-CON-BORDE-3-1-e1658289192926-3.png" group-title="VARIEDADES",32 | TVES HD |
+http://magmas5.com:8000/phd2000/YHJ1X74/151672
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/ECTV.svg.png/revision/latest?cb=20220312122532&path-prefix=es" group-title="VARIEDADES",40 | ECUADOR TV |
+http://magmas5.com:8000/phd2000/YHJ1X74/3594
+#EXTINF:-1 tvg-logo="https://abyayalasoberana.org/wp-content/uploads/2022/04/Logo-Abya-Yala-Soberana-050322.jpg" grgoup-title="VARIEDADES",36 | ABYA YALA TV HD |
+http://magmas5.com:8000/phd2000/YHJ1X74/162555
+#EXTINF:-1 tvg-id="Euro Television Italia" tvg-logo="https://w7.pngwing.com/pngs/949/572/png-transparent-eurochannel-television-channel-television-show-euro-channel-channel-television-blue-text.png" group-title="VARIEDADES" ,38 | EURO TV HD |
+http://magmas5.com:8000/phd2000/YHJ1X74/147892
+#EXTINF:-1 tvg-id="CGTV en Español" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cgtnesp.png" group-title="NOTICIAS",50 | CGTN EN ESPAÑOL |
+http://00322.xyz:8000/ignaciosilveira18/BYkBr283y8/156051
+#EXTINF:-1 tvg-id="Telesur" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="NOTICIAS",51 | TELESUR EN ESPAÑOL |
+http://magmas5.com:8000/phd2000/YHJ1X74/151341
+#EXTINF:-1 tvg-id="HISPAN TV NOTICIAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hispan_Tv_logo.svg/1280px-Hispan_Tv_logo.svg.png" group-title="NOTICIAS",53 | HISPAN TV HD |
+http://00322.xyz:8000/ignaciosilveira18/BYkBr283y8/156052
+#EXTINF:-1 tvg-id="France 24 FHD (LAT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NOTICIAS",54 | FRANCE 24 ESPAÑOL HD |    
+http://hidra.live:80/xaehsalg/454K7nBmkn/35185
+#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="NOTICIAS",55 | CANAL 24 HORAS ESPAÑA |
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
+#EXTINF:-1 tvg="Aljazeera HD" tvg-logo="https://m.media-amazon.com/images/I/31AIdoYz1sL.png" group-title="NOTICIAS",56 | ALJAZEERA HD |
+http://hidra.live:80/xaehsalg/454K7nBmkn/35174
+#EXTINF:-1 tvg-id="Bloomberg HD" tvg-logo="https://e7.pngegg.com/pngimages/727/671/png-clipart-bloomberg-round-logo-icons-logos-emojis-iconic-brands-thumbnail.png" group-title="NOTICIAS",58 | BLOOMBERG HD |
+http://hidra.live:80/xaehsalg/454K7nBmkn/35177
+#EXTINF:-1 tvg-id="Cable Noticias HD" tvg-logo="https://www.monitoreodemedios.co/wp-content/uploads/2016/03/CABLENOTICIAS-C.png" group-title="NOTICIAS",60 | CABLE NOTICIAS HD |
+http://hidra.live:80/xaehsalg/454K7nBmkn/35178
+#EXTINF:-1 tvg-id="RT en Español FHD (LAT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/640px-Russia-today-logo.svg.png" group-title="NOTICIAS",66 | RT EN ESPAÑOL HD |
+http://hidra.live:80/xaehsalg/454K7nBmkn/35191
+#EXTINF:-1 tvg-id="noticias 24.org" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/24_Horas_TVN_logo.png" group-title="NOTICIAS",97 | 24 HORAS CHILE |
+http://magmas5.com:8000/phd2000/YHJ1X74/3533
+
+#EXTINF:-1 tvg-id="PER: Bethel TV HD" tvg-logo="https://distribucion.betheltv.tv/assets/imagenes/logo_2dbethel.png" group-title="RELIGIOSO", 100 | BETHEL TV HD |
+http://magmas5.com:8000/phd2000/YHJ1X74/151461
+#EXTINF:-1 tvg-id="jn 19" tvg-logo="https://pbs.twimg.com/profile_images/565018162916114432/7h5k-iqC_400x400.png" group-title="RELIGIOSO",105 | JN19 HD |
+http://magmas5.com:8000/phd2000/YHJ1X74/151511
+#EXTINF:-1 tvg-id="PER: CANAL CRISTIANO" tvg-logo="https://1.bp.blogspot.com/-BAWPFd91JnM/YA4Lcnz1aLI/AAAAAAAADGg/mFWRRAT_W3ge6u1o735NOTcYIg6wfgUagCLcBGAsYHQ/s580/nubeh-tv-venezuela.jpg" group-title="RELIGIOSO",118 | NUBEH.TV SD |
+http://magmas5.com:8000/phd2000/YHJ1X74/3333
+
+#EXTINF:-1 tvg-id="LOS AÑOS MARAVILLOSOS" tvg-logo="https://seeklogo.com/images/T/The_Wonder_Years-logo-508FD9C243-seeklogo.com.png" group-title="SERIES",200 | THE WONDER YEARS |
+http://hidra.live:80/xaehsalg/454K7nBmkn/49259
+#EXTINF:-1 tvg-id"Gallo Claudio" tvg-logo="https://static.wikia.nocookie.net/looneytunes/images/4/49/Gallo_Claudio.jpg/revision/latest/scale-to-width-down/140?cb=20111104190434&path-prefix=es" group-title="SERIES",201 | GALLO CLAUDIO SD |
+http://hidra.live:80/xaehsalg/454K7nBmkn/58088
+#EXTINF:-1 tvg-id="Hechizada.español" tvg-logo="https://i0.wp.com/cuatrobastardos.com/wp-content/uploads/2018/08/bewitched-8-feb-2018.jpg" group-title="SERIES",202 | HECHIZADA SD |
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/49192
+#EXTINF:-1 tvg-id="Los Tres Chiflados.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Three_Stooges_1937.jpg/800px-Three_Stooges_1937.jpg" group-title="SERIES",203 | LOS TRES CHIFLADOS |
+http://00322.xyz:8000/ignaciosilveira18/BYkBr283y8/159340
+#EXTINF:-1 tvg-id="Mi bella genio.com" tvg-logo="https://cdn.shopify.com/s/files/1/0569/2414/3824/products/DSC5823-PhotoRoom_1200x1200.png" group-title="SERIES",205 | MI BELLA GENIO |
+http://magmas5.com:8000/phd2000/YHJ1X74/145914
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Kung Fu Panda HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="SERIES",205 | KUNG FU PANDA |
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/50606
+#EXTINF:-1 tvg-id="" tvg-name="24H | Los PicaPiedra" tvg-logo="http://streamgo.vip:8008/images/d689f9b534ccdfebafd0371b07760a53.png" group-title="SERIES",208 | LOS PICAPIEDRA | 
+http://streamgo.vip:8008/carlos03/carlos03/324671
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El pajaro loco" tvg-logo="http://streamgo.vip:8008/images/d689f9b534ccdfebafd0371b07760a53.png" group-title="SERIES",210 | EL PAJARO LOCO |
+http://streamgo.vip:8008/carlos03/carlos03/324657
+
+#EXTINF:-1 tvg-id="Movistar Deportes" tvg-logo="https://www.nicepng.com/png/detail/297-2976491_paquet-deportes-producte-movistar-deportes-logo.png" group-title="DEPORTES",300 | MOVISTAR DEPORTES |
+http://hidra.live:80/xaehsalg/454K7nBmkn/34743
+#EXTINF:-1 tvg-id="Liga Uno Max.gob" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo-golperu-1.png" group-title="DEPORTES",301 | LIGA1 MAX HD |
+http://00322.xyz:8000/ignaciosilveira18/BYkBr283y8/159941
+#EXTINF:-1 TVG-ID="CMD PERU" TVG-LOGO="https://seeklogo.com/images/C/cmd-logo-2B28D2D4F7-seeklogo.com.png" group-title="DEPORTES",303 | CMD PERU |
+http://magmas5.com:8000/phd2000/YHJ1X74/3338
+#EXTINF:-1 tvg-id="GolPeru SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/GolTVLatamHD-2014.png/revision/latest/scale-to-width-down/1200?cb=20200105205809&path-prefix=es" group-title="DEPORTES",306 | GOL PERU HD |
+http://hidra.live:80/xaehsalg/454K7nBmkn/34744
+#EXTINF:-1 tvg-id="" tvg-name="PE | LIGA 1" tvg-logo="http://streamgo.vip:8008/images/32e8419a7ecb8f918c70fdadf783e3d8.png" group-title="DEPORTES",307 | LIGA 1 PERU |
+http://streamgo.vip:8008/carlos03/carlos03/252156
+#EXTINF:-1 tvg-id="Espn Sur.pe" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="DEPORTES",308 | ESPN PERU HD | 
+http://magmas5.com:8000/phd2000/YHJ1X74/3036
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/monterricotv.png" group-title="DEPORTES",310 | Monterrico TV FHD | 
+http://magmas5.com:8000/phd2000/YHJ1X74/151533
+#EXTINF:-1 group-title="DEPORTES",312 | MERIDIANO TV SD |
+http://magmas5.com:8000/phd2000/YHJ1X74/151873
+#EXTINF:-1 group-title="DEPORTES",319 | DIRECTV SPORTS PERU |
+http://magmas5.com:8000/phd2000/YHJ1X74/151931
+#EXTINF:-1 group-title="DEPORTES",320 | CICLISMO #2 |
+http://magmas5.com:8000/phd2000/YHJ1X74/151968
+#EXTINF:-1 tvg-id="ovacion" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Ovacion_logo.jpg/" group-title="DEPORTES",322 | Ovacion TV HD |
+
+http://magmas5.com:8000/phd2000/YHJ1X74/151545
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 2 " tvg-logo="http://streamgo.vip:8008/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="⭐️ DEPORTE VIP",800 | ESPN 2 | 
+http://streamgo.vip:8008/carlos03/carlos03/167724
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 3" tvg-logo="http://streamgo.vip:8008/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="⭐️ DEPORTE VIP",802 | ESPN 3 |
+http://streamgo.vip:8008/carlos03/carlos03/167725
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 4" tvg-logo="http://streamgo.vip:8008/images/9c83acb71e6f939bae03936d2c827d7c.png" group-title="⭐️ DEPORTE VIP",804 | ESPN 4 |
+http://streamgo.vip:8008/carlos03/carlos03/167726
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN EXTRA" tvg-logo="http://streamgo.vip:8008/images/cb88103bd31fe7d6cf58e9a7c023b120.png" group-title="⭐️ DEPORTE VIP",806 | ESPN EXTRA |
+http://streamgo.vip:8008/carlos03/carlos03/167727
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS 1" tvg-logo="http://streamgo.vip:8008/images/65d1b536a5c2eb33ca65344adeabdfba.png" group-title="⭐️ DEPORTE VIP",810 | FOX SPORTS 1 |
+http://streamgo.vip:8008/carlos03/carlos03/167734
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS 2" tvg-logo="http://streamgo.vip:8008/images/662bcded4f5297763f6972c2f9f128e3.png" group-title="⭐️ DEPORTE VIP",812 | FOX SPORTS 2 |
+http://streamgo.vip:8008/carlos03/carlos03/167735
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS 3" tvg-logo="http://streamgo.vip:8008/images/45cc809470ff04975580e02af75b021e.png" group-title="⭐️ DEPORTE VIP",DEPORTES | FOX SPORTS 3
+http://streamgo.vip:8008/carlos03/carlos03/167736
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS PREMIUM" tvg-logo="http://streamgo.vip:8008/images/65d1b536a5c2eb33ca65344adeabdfba.png" group-title="⭐️ DEPORTE VIP",814| FOX SPORTS PREMIUM
+http://streamgo.vip:8008/carlos03/carlos03/167737
+
+#EXTINF:-1,CINE: A&E ARG HD
+http://magmas5.com:8000/phd2000/YHJ1X74/36
+#EXTINF:-1,CINE: AMC ARG
+http://magmas5.com:8000/phd2000/YHJ1X74/37
+#EXTINF:-1,CINE: STUDIO UNIVERSAL ARG
+http://magmas5.com:8000/phd2000/YHJ1X74/38
+#EXTINF:-1,CINE: UNIVERSAL CHANNEL MX SD
+http://magmas5.com:8000/phd2000/YHJ1X74/39
+#EXTINF:-1,CINE: WARNER SD
+http://magmas5.com:8000/phd2000/YHJ1X74/40
+#EXTINF:-1,CINE: SPACE MX SD
+http://magmas5.com:8000/phd2000/YHJ1X74/41
+#EXTINF:-1,CINE: PARAMOUNT NETWORK
+http://magmas5.com:8000/phd2000/YHJ1X74/48
+#EXTINF:-1,CINE: HBO SD
+http://magmas5.com:8000/phd2000/YHJ1X74/49
+#EXTINF:-1,CINE: HBO 2 SD
+http://magmas5.com:8000/phd2000/YHJ1X74/50
+#EXTINF:-1,CINE: HBO FAMILY SD
+http://magmas5.com:8000/phd2000/YHJ1X74/51
