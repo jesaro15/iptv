@@ -1,0 +1,60 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="WILLAX" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/willax.png" group-title="PERÚ",WILLAX HD
+http://nxt.plus:8080/jesus01/jesus01/14446
+
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="LATINA HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/latina-hd.png" group-title="PERÚ",LATINA HD
+http://nxt.plus:8080/jesus01/jesus01/1169
+
+#EXTINF:-1 tvg_id="PER: Radioprogramas.org" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="NACIONALES",10 | RPP SD |
+http://magmas5.com:8000/phd2000/YHJ1X74/3352
+
+#EXTINF:-1 tvg-id="" tvg-name="PE| RPP" tvg-logo="http://daleplaypro.com:8080/images/c499e108105db252488745a0c2fce85a.png" group-title="TV | PERU",PE| RPP
+http://daleplay.club:8080/TvPAj/PresmajbvfSp/135831
+
+#EXTINF:-1 tvg-id="Canal cuatro Peru" tvg-logo="https://seeklogo.com/images/A/america-television-1987-1989-logo-368AF5DCB9-seeklogo.com.png" group-title="NACIONALES",04 | AMERICA TV HD |
+http://magmas5.com:8000/phd2000/YHJ1X74/3319
+
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="NACIONALES",05 | PANAMERICANA TV |HD
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/304306
+
+#EXTINF:-1 tvg-id="" tvg-name="EXITOSA HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/exitosa-hd.png" group-title="PERÚ",EXITOSA HD
+http://nxt.plus:8080/jesus01/jesus01/18054
+
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV PERU" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/tv-peru.png" group-title="PERÚ",TV PERU
+http://nxt.plus:8080/jesus01/jesus01/65706
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL IPE HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/canal-ipe-hd.png" group-title="PERÚ",CANAL IPE HD
+http://nxt.plus:8080/jesus01/jesus01/58318
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL N HD*" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/canal-n-hd.png" group-title="PERÚ",CANAL N HD*
+http://nxt.plus:8080/jesus01/jesus01/116427
+
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/atv-hd.png" group-title="PERÚ",ATV HD
+http://nxt.plus:8080/jesus01/jesus01/16492
+
+#EXTINF:-1 tvg-id="ATV+.pe" tvg-name="ATV+ HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/atv-plus.png" group-title="PERÚ",ATV+ HD
+http://nxt.plus:8080/jesus01/jesus01/18052
+
+#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="NACIONALES",17 | NATIVA TV HD |
+https://servilive.com:3449/live/mlecaroslive.m3u8
+
+#EXTINF:-1 tvg-id="PER: Conecta2TV (Lima) HD" tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="NACIONALES",16 | CONECTA2 TV HD | 
+http://magmas5.com:8000/phd2000/YHJ1X74/151479
+
+#EXTINF:-1 tvg_id="Onda Digital.com" tvg-logo="https://www.ondadigital.pe/imgs/ondadigital.png" group-title="NACIONALES",18 | ONDA DIGITAL HD |
+http://magmas5.com:8000/phd2000/YHJ1X74/151541
+
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="NACIONALES",15 |ATV SUR HD |
+https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="KARIBEÑA HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/karibena-hd.png" group-title="PERÚ",KARIBEÑA HD
+http://nxt.plus:8080/jesus01/jesus01/17786
+
+#EXTINF:-1 tvg-id="" tvg-name="BHTV HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/bhtv-hd.png" group-title="PERÚ",BHTV HD
+http://nxt.plus:8080/jesus01/jesus01/18053
+
+
+
+
+
+
