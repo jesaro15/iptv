@@ -1,0 +1,70 @@
+#EXTM3U
+
+#EXTINF:-1,LATINA TV SD
+https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
+
+#EXTINF:-1,NATIVA HD [Not 24/7]
+https://servilive.com:3449/live/mlecaroslive.m3u8
+
+#EXTINF:-1,ONDA DIGITAL HD [Not 24/7]
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+
+#EXTINF:-1,TRIVU HD [Not 24/7]
+https://servilive.com:3244/live/trivutvlive.m3u8
+
+#EXTINF:-1,ATV SUR HD [Not 24/7]
+https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
+
+#EXTINF:-1,CAJAMARCA TV SD
+https://ca2.inka.net.pe/cajamarcatv/index.m3u8
+
+
+
+#EXTINF:-1,AMERICA TV HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/43320
+
+#EXTINF:-1,TV PUBLICA (TVP) FHD [Not 24/7]
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+
+#EXTINF:-1,BOLIVIA TV HD [Not 24/7]
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+
+#EXTINF:-1,LA IGUANA TV FHD [Not 24/7]
+https://ythls.onrender.com/channel/UCCc2H9_eNnU7ucq2n7Sh3Rg.m3u8
+
+#EXTINF:-1,NTN 24 SD
+http://685335302278555118.ot0711.xyz:80/play/mi923677/5696656621/555118.ts
+
+#EXTINF:-1,Rai Italia HD 
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35085
+
+#EXTINF:-1,IRAN INTERNATIONAL FHD
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+
+#EXTINF:-1,DW ESPAÑOL FHD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1,HISPANTV FHD
+http://iptvmedia.live:8080/F12406/e3c12acf/187027
+
+#EXTINF:-1,CGTN EN ESPAÑOL SD
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1,FRANCE 24 EN ESPAÑOL FHD
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+
+#EXTINF:-1,CUBAVISION INTERNACIONAL SD [Not 24/7]
+http://190.122.96.187:8888/http/010
+
+#EXTINF:-1,RT EN ESPAÑOL SD
+http://780439302318343875.ot0711.xyz:80/play/mi923677/5696656621/343875.ts
+
+#EXTINF:-1,RT EN ESPAÑOL HD
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1,RT EN ESPAÑOL FHD
+https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
+
+
+
+
