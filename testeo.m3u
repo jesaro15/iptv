@@ -110,8 +110,8 @@ https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 http://190.122.96.187:8888/http/010
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NOTICIAS",119 | TELESUR EN ESPAÑOL HD |
 http://tv.fullytv.com:8080/GloriaF21/Fredicks7767/1161239
-#EXTINF:-1 group-title=NOTICIAS" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png",119.1 | TELESUR EN ESPAÑOL FHD |
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 group-title=NOTICIAS" tvg-logo="",119.1 | TELESUR EN ESPAÑOL FHD |
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NOTICIAS",119.2 | TELESUR* EN ESPAÑOL HD |
 http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/151589
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NOTICIAS",119.3 | TELESUR** EN ESPAÑOL HD |
