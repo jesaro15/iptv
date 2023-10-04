@@ -27,7 +27,8 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="TV NAC",PE | PBO TV
 https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 
-#EXTINF:-1 tvg-id="PeruMagico.pe" tvg-logo="https://i.imgur.com/Z4ELxRP.png" group-title="TV NAC",PE | PERU MAGICO
+#EXTINF:-1 tvg-id="PeruMagico.pe" tvg-logo="https://i.imgur.com/Z4ELxRP.png" group-title="TV NAC",PE | GLOBAL TV
+http://svtv.xyz:8080/live/Rigo2/r4TqXGc/447335.ts
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="TV NAC",PE | NATIVA TV
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
@@ -36,7 +37,7 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
 #EXTINF:-1 group-title="TV NAC",ES | ANTENA 3 INT.
-http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758424&f=.m3u8
+http://svtv.xyz:8080/live/Rigo2/r4TqXGc/31906.ts
 
 #EXTINF:-1 group-title="TV NAC",PE | ANTARES TV
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w2074064595.m3u8
@@ -63,14 +64,17 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/052fa3
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV NAC",VE | TELESUR  
-http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/297277
+http://svtv.xyz:8080/live/Rigo2/r4TqXGc/297278.ts
 
 #EXTINF:-1 group-title="TV NAC",PE | TELESUR**
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+http://svtv.xyz:8080/live/Rigo2/r4TqXGc/297277.ts
 
 #EXTINF:-1 group-title="TV NAC",COL | CARACOL HD 
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/61894
 
 #EXTINF:-1 group-title="TV NAC",COL | CABLE NOTICIAS HD 
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/chunklist_w401453090.m3u8
+
+#EXTINF:-1 group-title="TV NAC",PE | LIGA 1 MAX *
+http://svtv.xyz:8080/live/Rigo2/r4TqXGc/381978.ts
 
