@@ -1,0 +1,71 @@
+#EXTM3U:
+
+#EXTINF:-1 group-title="TV NAC",PE | WILLAX TV  
+https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmtmGiGaBMrQDj6-0DlAFesACA8cvNkTmHRPT1tE6VNqp)/dm/3/x7x4dgx/s/live-1.m3u8
+
+#EXTINF:-1 tvg-id="OndaDigital.pe" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="TV NAC",PE | ONDA DIGITAL TV
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="TV NAC",PE | OVACION TV
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="TV NAC",PE | PBO TV
+https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
+
+#EXTINF:-1 tvg-id="PeruMagico.pe" tvg-logo="https://i.imgur.com/Z4ELxRP.png" group-title="TV NAC",PE | PERU MAGICO
+
+
+#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="TV NAC",PE | NATIVA TV
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="TV NAC",PE | AGRO TV
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="TV NAC",PE | ATV 
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="TV NAC",PE | LATINA TV
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
+
+#EXTINF:-1 group-title="TV NAC",ES | ANTENA 3 INT.
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758424&f=.m3u8
+
+#EXTINF:-1 group-title="TV NAC",PE | PANAMERICANA TV
+https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFomIaxIZw1r1RhcOAnOiXLkh_fWDwAAWwTqNHru0zHXD)/dm/3/x774s7s/s/live-2.m3u8
+
+#EXTINF:-1 group-title="TV NAC",PE | ANTARES TV
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w2074064595.m3u8
+
+#EXTINF:-1 group-title="TV NAC",PE | BH TV
+https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV NAC",PE | URANIO TV
+https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV NAC",MX | MEMORIAS TV
+https://mediacp.us:8081/8002/index.m3u8
+
+#EXTINF:-1 group-title="TV NAC",COL |RCN PLUS
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV NAC",LAT | ACTUALIDAD RT
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+
+#EXTINF:-1 group-title="TV NAC",PE | SABER MAS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/052fa325-2161-44e0-8e0d-aa4a0e27eee4/4.m3u8
+
+
+#EXTINF:-1 group-title="TV NAC",PE | TELECOLOR TV
+https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV NAC",VE | TELESUR  
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/297277
+
+#EXTINF:-1 group-title="TV NAC",PE | TELESUR**
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 group-title="TV NAC",COL | CARACOL HD 
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/61894
+
+#EXTINF:-1 group-title="TV NAC",COL | CABLE NOTICIAS HD 
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/chunklist_w401453090.m3u8
