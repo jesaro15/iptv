@@ -100,7 +100,7 @@ https://ythls.onrender.com/channel/UCCc2H9_eNnU7ucq2n7Sh3Rg.m3u8
 #EXTINF:-1 group-title="NOTICIAS",108 | CARACOL TV SD |
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/61894
 #EXTINF:-1 group-title="NOTICIAS",108.1 | NTN 24* SD |
-http://xplatinmedia.com:8080/@mrmagicstars/JBJNHuFuV5/60847
+http://160.20.165.245:8000/play/a00y/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",110 | DW ESPAÑOL FHD |
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",112 | HISPANTV SD |
@@ -118,7 +118,7 @@ http://190.122.96.187:8888/http/010
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="NOTICIAS",119 | TELESUR EN ESPAÑOL HD |
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/84356
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NOTICIAS",119.1 | TELESUR EN ESPAÑOL HD |
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+http://181.119.67.75:16123/play/ch43
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NOTICIAS",119.2 | TELESUR* EN ESPAÑOL HD |
 http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/151589
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NOTICIAS",119.3 | TELESUR** EN ESPAÑOL HD |
@@ -149,96 +149,75 @@ https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES PERU",300 | LIGA 1 SD |
 http://tutv.online:8080/9mxee76p89/7dix695u5g/256885
-#EXTINF:-1 group-title="DEPORTES PERU",300.1 | LIGA 1 MAX |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256886
-#EXTINF:-1 group-title="DEPORTES PERU",300.2 | LIGA 1 MAX HD |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256887
-#EXTINF:-1 group-title="DEPORTES PERU",300.3 | LIGA 1 MAX FHD |
+#EXTINF:-1 tvg-logo="https://bolavip.com/__export/1674692739801/sites/bolavip/img/2023/01/25/base_general_-_2023-01-25t192125_027.png_1159711837.png" group-title="DEPORTES PERU",432 | LIGA 1 MAX HD |
+http://weib-tv.com:8880/live/30rodolfo2023xd@/c03f0865366f42ef/309769.m3u
+#EXTINF:-1 group-title="DEPORTES PERU",332.1 | LIGA 1 MAX |
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/360763
+#EXTINF:-1 group-title="DEPORTES PERU",332.2 | LIGA 1 MAX HD |
+http://nxt.plus:8080/jesus01/jesus01/130639
+#EXTINF:-1 group-title="DEPORTES PERU",332.3 | LIGA 1 MAX FHD |
 http://tutv.online:8080/9mxee76p89/7dix695u5g/256888
-#EXTINF:-1 group-title="DEPORTES PERU",300.4 | LIGA 1 MAX HD |
+#EXTINF:-1 group-title="DEPORTES PERU",332.4 | LIGA 1 MAX HD |
 http://tutv.online:8080/9mxee76p89/7dix695u5g/256889
+
+
 #EXTINF:-1 group-title="DEPORTES PERU",302 | GOL PERU FHD |
 http://tutv.online:8080/9mxee76p89/7dix695u5g/256890
 #EXTINF:-1 group-title="DEPORTES PERU",302.1 | GOL PERU FHD |
 http://tutv.online:8080/9mxee76p89/7dix695u5g/256891
 #EXTINF:-1 group-title="DEPORTES PERU",302.2 | GOL PERU HD |
 http://tutv.online:8080/9mxee76p89/7dix695u5g/256892
-#EXTINF:-1 group-title="DEPORTES PERU",302.3 | GOL PERU HD |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256893
-#EXTINF:-1 group-title="DEPORTES PERU",305 | Movistar Deportes HD |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256894
-#EXTINF:-1 group-title="DEPORTES PERU",305 | Movistar Deportes HD |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256895
-#EXTINF:-1 group-title="DEPORTES PERU",306 | Movistar Plus SD |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256896
-#EXTINF:-1 group-title="DEPORTES PERU",307 | DIRECTV SPORTS + | PERU |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256897
-#EXTINF:-1 group-title="DEPORTES PERU",307.1 | DIRECTV SPORTS + | PERU |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256898
-#EXTINF:-1 group-title="DEPORTES PERU",308 | DIRECTV SPORTS 2 | PERU |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256899
-#EXTINF:-1 group-title="DEPORTES PERU",308.1 | DIRECTV SPORTS 2 | PERU |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256900
-#EXTINF:-1 group-title="DEPORTES PERU",310 | DIRECTV SPORTS | PERU |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256901
-#EXTINF:-1 group-title="DEPORTES PERU",310.1 | DIRECTV SPORTS | PERU FHD |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256902
-#EXTINF:-1 group-title="DEPORTES PERU",312 | DIRECTV SPORTS | PERU HD |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256903
-#EXTINF:-1 group-title="DEPORTES PERU",312.1 | DIRECTV SPORTS | PERU HD |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256904
-#EXTINF:-1 group-title="DEPORTES PERU",315 | ESPN 1 | PERU |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256905
-#EXTINF:-1 group-title="DEPORTES PERU",315.1 | ESPN 1 | PERU |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256906
-#EXTINF:-1 group-title="DEPORTES PERU",317 | ESPN 2 | PERU |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256907
-#EXTINF:-1 group-title="DEPORTES PERU",317.1 | ESPN 2 | PERU |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256908
-#EXTINF:-1 group-title="DEPORTES PERU",319 | ESPN 3 | PERU |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256909
-#EXTINF:-1 group-title="DEPORTES PERU",319.1 | ESPN 3 | PERU |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256910
-#EXTINF:-1 group-title="DEPORTES PERU",321 | ESPN 4 | PERU |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256911
-#EXTINF:-1 group-title="DEPORTES PERU",321.1 | ESPN 4 | PERU |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256912
-#EXTINF:-1 group-title="DEPORTES PERU",323 | FOX SPORTS 1 | PERU |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256913
-#EXTINF:-1 group-title="DEPORTES PERU",325 | FOX SPORTS 2 | PERU |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256914
-#EXTINF:-1 group-title="DEPORTES PERU",327 | FOX SPORTS 3 | PERU |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/256915
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES PERU",333 | LA LIGA 1 MAX FHD |
-http://nxt.plus:8080/jesus01/jesus01/130639
 
 
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",400 | FOX SPORT 3 |
+http://138.59.177.34:8000/play/a073/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PE ESPN 1 HD" tvg-logo="http://streamgo.vip:8008/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="⭐️ DEPORTE VIP ⭐️",400| ESPN 1 HD |
-http://streamgo.vip:8008/carlos03/carlos03/166603
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 2 " tvg-logo="http://streamgo.vip:8008/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="⭐️ DEPORTE VIP ⭐️",401 | ESPN 2 | 
-http://streamgo.vip:8008/carlos03/carlos03/167724
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 3" tvg-logo="http://streamgo.vip:8008/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="⭐️ DEPORTE VIP ⭐️",402 | ESPN 3 |
-http://streamgo.vip:8008/carlos03/carlos03/167725
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 4" tvg-logo="http://streamgo.vip:8008/images/9c83acb71e6f939bae03936d2c827d7c.png" group-title="⭐️ DEPORTE VIP ⭐️",403 | ESPN 4 |
-http://streamgo.vip:8008/carlos03/carlos03/167726
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN EXTRA" tvg-logo="http://streamgo.vip:8008/images/cb88103bd31fe7d6cf58e9a7c023b120.png" group-title="⭐️ DEPORTE VIP ⭐️",406 | ESPN EXTRA |
-http://streamgo.vip:8008/carlos03/carlos03/167727
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS 1" tvg-logo="http://streamgo.vip:8008/images/65d1b536a5c2eb33ca65344adeabdfba.png" group-title="⭐️ DEPORTE VIP ⭐️",410 | FOX SPORTS 1 |
-http://streamgo.vip:8008/carlos03/carlos03/167734
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS 2" tvg-logo="http://streamgo.vip:8008/images/662bcded4f5297763f6972c2f9f128e3.png" group-title="⭐️ DEPORTE VIP ⭐️",412 | FOX SPORTS 2 |
-http://streamgo.vip:8008/carlos03/carlos03/167735
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS 3" tvg-logo="http://streamgo.vip:8008/images/45cc809470ff04975580e02af75b021e.png" group-title="⭐️ DEPORTE VIP ⭐️",413 | FOX SPORTS 3 |
-http://streamgo.vip:8008/carlos03/carlos03/167736
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS PREMIUM" tvg-logo="http://streamgo.vip:8008/images/65d1b536a5c2eb33ca65344adeabdfba.png" group-title="⭐️ DEPORTE VIP ⭐️",414| FOX SPORTS PREMIUM |
-http://streamgo.vip:8008/carlos03/carlos03/167737
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | GOL TV " tvg-logo="http://streamgo.vip:8008/images/8f20445ff6725fe29543dae90265239f.png" group-title="⭐️ DEPORTE VIP ⭐️",420 | GOL TV | 
-http://streamgo.vip:8008/carlos03/carlos03/167741
-#EXTINF:-1 tvg-id="" tvg-name="PE: LIGA 1 MAX (D)" tvg-logo="https://bolavip.com/__export/1674692739801/sites/bolavip/img/2023/01/25/base_general_-_2023-01-25t192125_027.png_1159711837.png" group-title="⭐️ DEPORTE VIP ⭐️",PE:430 | LIGA 1 MAX HD |
-http://weib-tv.com:8880/live/30rodolfo2023xd@/c03f0865366f42ef/309769.m3u
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",400.1   FOX SPORT 3 |
+http://181.119.67.75:16123/play/ch21
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",405 | FOX SPORT 2 |
+http://181.119.67.75:16123/play/ch20
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",407 | ESPN |
+http://181.119.67.75:16123/play/ch16
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",407.1 | ESPN |
+http://138.59.177.34:8000/play/a058/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",409 | ESPN 2 |
+http://181.119.67.75:16123/play/ch17
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",412 | ESPN 3 |
+http://181.119.67.75:16123/play/ch18
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",420 | ESPN 4 |
+http://181.119.67.75:16123/play/ch19
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",424 | ESPN 1 FHD. |
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/292819
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",425 | ESPN 1 FHD..|
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/292820
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",426 | ESPN 1 FHD |
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/296549
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",428 | ESPN 2 FHD |
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/296547
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",430 | ESPN 2 FHD |
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/296548
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",432 | ESPN 3 FHD |
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/296545
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",500 | ECUADOR-TV SD |
@@ -387,34 +366,9 @@ http://magi-stv.net:8080/BUZZTVAK/E9ZG2U/2090952
 
 deportes argentina
 
-#EXTINF:-1 group-title="FULL DEPORTES",810 | ESPN SD  (ARG) |
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34659
-#EXTINF:-1 group-title="FULL DEPORTES",814 | ESPN HD (ARG) |
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34660
-#EXTINF:-1 group-title="FULL DEPORTES",816 | ESPN FHD (ARG) |
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34661
-#EXTINF:-1 group-title="FULL DEPORTES",820 | ESPN 2 SD (ARG) |
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34662
-#EXTINF:-1 group-title="FULL DEPORTES",822 | ESPN 2 HD (ARG) |
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34663
-#EXTINF:-1 group-title="FULL DEPORTES",824 | ESPN 2 FHD (ARG) |
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34664
-#EXTINF:-1 group-title="FULL DEPORTES",827 | ESPN 3 SD (ARG) |
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34665
-#EXTINF:-1 group-title="FULL DEPORTES",829 | ESPN 3 HD (ARG) |
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34666
-#EXTINF:-1 group-title="FULL DEPORTES",832 | ESPN 3 FHD (ARG) |
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34667
-#EXTINF:-1 group-title="FULL DEPORTES",836 | ESPN Extra SD (ARG) |
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312846
-#EXTINF:-1 group-title="FULL DEPORTES",838 | ESPN Extra FHD (ARG) |
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312844
-#EXTINF:-1 group-title="FULL DEPORTES",840 | ESPN Premium SD (ARG) |
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312847
-#EXTINF:-1 group-title="FULL DEPORTES",842 | ESPN Premium HD (ARG) |
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123874
-#EXTINF:-1 group-title="FULL DEPORTES",845 | ESPN Premium FHD (ARG) |
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34648
+
+
+
 
 
 
