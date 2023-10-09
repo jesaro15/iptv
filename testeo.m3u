@@ -1,0 +1,900 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s80845_ll_h3_aa.png" group-title="TV NACIONAL",1 | WILLAX SD |
+http://tv.fullytv.com:8080/GloriaF21/Fredicks7767/1105664
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/willax.png" group-title="TV NACIONAL",1.1 | WILLAX HD |
+http://playhispano.org:8080/userlw/led5120/86497
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="TV NACIONAL",2 | LATINA TV SD |
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="TV NACIONAL",2.1 | LATINA TV HD |
+https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="TV NACIONAL",3 | RPP TV SD |
+
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/rppe.png" group-title="TV NACIONAL",3.1 | RPP TV HD |
+http://sdmex.xyz:8080/JOHANA/johana/10633
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="TV NACIONAL",3.2 | RPP TV SD |
+http://00322.xyz:8000/coachprato/40437757/4845
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/800px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="TV NACIONAL",4 | AMERICA TV SD |
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/153834
+#EXTINF:-1 tvg-logo="https://media.giphy.com/avatars/america-tv/xQbOxJZdsl4g.png" group-title="TV NACIONAL",4.1 | AMERICA TV HD |
+http://sdmex.xyz:8080/JOHANA/johana/199968
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/panamericanape.png" group-title="TV NACIONAL",5 | PANAMERICANA TV HD |
+http://sdmex.xyz:8080/JOHANA/johana/10640
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/1200px-Panamericana-tv.svg.png" group-title="TV NACIONAL",5.1 | PANAMERICANA TV SD |
+http://sdmex.xyz:8080/JOHANA/johana/10628
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s113719_ll_h3_aa.png" group-title="TV NACIONAL",6 | EXITOSA TV SD |
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s113719_ll_h3_aa.png" group-title="TV NACIONAL",6.1 | EXITOSA TV SD |
+http://nxt.plus:8080/jesus01/jesus01/18054
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/exitosape.png" group-title="TV NACIONAL",6.2 | EXITOSA TV SD |
+http://premiumultra.xyz:8080/47kwpu88de34be62/m72me52wu32m/261
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="TV NACIONAL",7 | TV PERU |
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/TV_Per%C3%BA_Noticias_2015_-_2017.png" group-title="TV NACIONAL",7.1 | TV PERU NOTICIAS |
+https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/4e22375e9e0c7192c6e44bb70522bf4b.jpg" group-title="TV NACIONAL",8 | CANAL N SD |
+http://kp-thebestiptv.com:8080/guiuseppe/hutkxwkhmc/43144
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/4e22375e9e0c7192c6e44bb70522bf4b.jpg" group-title="TV NACIONAL",8.1 | CANAL N HD |
+http://tutv.online:8080/9mxee76p89/7dix695u5g/178239
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-E0FD3BBF05-seeklogo.com.png" group-title="TV NACIONAL",9 | ATV SD |
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-E0FD3BBF05-seeklogo.com.png" group-title="TV NACIONAL",9.1 | ATV SD |
+http://tv.fullytv.com:8080/GloriaF21/Fredicks7767/8333
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="TV NACIONAL",9.2 | ATV PLUS SD |
+https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="TV NACIONAL",9.3 | ATV PLUS HD |
+http://weib-tv.com:8880/live/30rodolfo2023xd@/c03f0865366f42ef/9484.m3u
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-sur-pe.png" group-title="TV NACIONAL",9.5 | ATV SUR SD |
+http://sdmex.xyz:8080/JOHANA/johana/202722
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="TV NACIONAL",10 | NATIVA TV HD |
+https://servilive.com:3449/live/mlecaroslive.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Onda_Digital.png" group-title="TV NACIONAL",11 | ONDA DIGITAL HD |
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://futureleaders.llorenteycuenca.com/wp-content/uploads/2020/08/logo-trivu-color.png" group-title="TV NACIONAL",12 | TRIVU TV HD |
+https://servilive.com:3244/live/trivutvlive.m3u8
+#EXTINF:-1 tvg-logo="https://futureleaders.llorenteycuenca.com/wp-content/uploads/2020/08/logo-trivu-color.png" group-title="TV NACIONAL",12.1 |TRIVU TV FHD |
+https://ott1.hdlatam.tv/live/trivutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/LogoGlobalTV.png" group-title="TV NACIONAL",13 | GLOBAL TV HD |
+http://weib-tv.com:8880/live/30rodolfo2023xd@/c03f0865366f42ef/9479.m3u
+#EXTINF:-1 tvg-id="" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="TV NACIONAL",17 | URANIO TV HD |
+https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="TV NACIONAL",18 | MAXIMA-TV SD |
+http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/151475
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Cajamarca_TV.png" group-title="TV NACIONAL",19 | CNC TV HD |
+http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/151465
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s86a1480785a470a0/image/id3161df1e2dbb9ed/version/1615876726/image.png" group-title="TV NACIONAL",22 | ANTARES TV SD |
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Fuego_tv.png" group-title="TV NACIONAL",24 | FUEGO TV |
+https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peru-magico-pe.png" group-title="TV NACIONAL",27 | PERU MAGICO HD |
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/124556
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="TV NACIONAL",29 | CONECTA2 TV HD |
+https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="TV NACIONAL",32 | BHTV HD |
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="TV NACIONAL",35 | CONTROVERSIA TV HD |
+https://live.obslivestream.com/controversiatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lppmyxD.png" group-title="TV NACIONAL",37 | DIASPORA TV HD |
+https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2zCD4TB.png" group-title="TV NACIONAL",39 | DOBLE C TELEVISIÓN |
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QEMBpdS.png" group-title="TV NACIONAL",42 | TELE2000 HD |
+https://servilive.com:3126/live/tele2000live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="TV NACIONAL",45 | TV PERUANISIMA HD |
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbZYWEQ.png" group-title="TV NACIONAL",47 | VISIÓN SUR HD |
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s13908g.png" group-title="TV NACIONAL",49 | RADIO SAN BORJA HD |
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/273930
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="NOTICIAS",102 | TV PUBLICA (TVP) FHD |
+http://kp-thebestiptv.com:8080/guiuseppe/hutkxwkhmc/45442
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="NOTICIAS",102.1 | TV PUBLICA (TVP) FHD |
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2019_12/large.1365812628_BoliviaTV20191b.png.ed374f34c0627622a7f2492628abb066.png" group-title="NOTICIAS",104 | BOLIVIA TV HD |
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1499457117325082625/G1-OApec_400x400.jpg" group-title="NOTICIAS",106 | LA IGUANA TV FHD |
+https://ythls.onrender.com/channel/UCCc2H9_eNnU7ucq2n7Sh3Rg.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_2017.png/revision/latest?cb=20210217012618&path-prefix=es" group-title="NOTICIAS",108 | CARACOL TV SD |
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/61894
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="NOTICIAS",108.1 | NTN 24* SD |
+http://160.20.165.245:8000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/23/40/png-transparent-logo-deutsche-welle-dw-tv-dw-espanol-lacrosse-talk-radio-television-blue-text.png" group-title="NOTICIAS",110 | DW ESPAÑOL FHD |
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.azam.info/images/hispan-tv-logo-television-station-interview.png" group-title="NOTICIAS",112 | HISPANTV SD |
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/43941
+#EXTINF:-1 tvg-logo="https://www.azam.info/images/hispan-tv-logo-television-station-interview.png" group-title="NOTICIAS",112.1 | HISPANTV FHD |
+http://tv.proyectox.vip:43201/elwepaman/CphvdYcr8A/153994
+#EXTINF:-1 tvg-logo="https://www.azam.info/images/hispan-tv-logo-television-station-interview.png" group-title="NOTICIAS",112.2 | HISPANTV FHD |
+http://weib-tv.com:80/30rodolfo2023xd@/c03f0865366f42ef/79476
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="NOTICIAS",114 | CGTN EN ESPAÑOL SD |
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/640px-France24.png" group-title="NOTICIAS",116 | FRANCE 24 EN ESPAÑOL FHD |
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",118 | CUBAVISION INTERNACIONAL SD |
+http://190.122.96.187:8888/http/010
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="NOTICIAS",119 | TELESUR EN ESPAÑOL HD |
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/84356
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="NOTICIAS",119.1 | TELESUR EN ESPAÑOL HD |
+http://181.119.67.75:16123/play/ch43
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="NOTICIAS",119.2 | TELESUR* EN ESPAÑOL HD |
+http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/151589
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="NOTICIAS",119.3 | TELESUR** EN ESPAÑOL HD |
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/297278
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="NOTICIAS",120 | RT EN ESPAÑOL SD |
+https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="NOTICIAS",120.1 | RT EN ESPAÑOL HD |
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="NOTICIAS",120.2 | RT EN ESPAÑOL FHD |
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",122 | ALJAZEERA ENGLISH HD |
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/288937
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/854/340/png-clipart-logo-canal-institucional-graphic-designer-y-40-the-deep-joy-design-text-orange-thumbnail.png" group-title="NOTICIAS",123 | CANAL INSTITUCIONAL COLOMBIA |
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="NOTICIAS",124 | CNN EN ESPAÑOL HD |
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/31075
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS",124.1 | CNN EN ESPAÑOL FHD |
+http://181.78.24.67:8010/play/a03p/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",125 | LA 1 TV FHD |
+http://evolutiontv.xyz:8080/VIDIAHD/lBTRUXiXbm/98261
+#EXTINF:-1 group-title="NOTICIAS",127 | CABLE-NOTICIAS FHD |
+http://tutv.online:8080/9mxee76p89/7dix695u5g/256972
+#EXTINF:-1 group-title="NOTICIAS",128 | MEGA-NOTICIAS FHD |
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313026
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="NOTICIAS",128 | EURO NEWS FHD |
+https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2023_03/large.Liga1Max-Peru.png.ba23f1bb74eff43935ec713b7d10f400.png" group-title="DEPORTES PERU",300 | LIGA 1 SD |
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298923
+#EXTINF:-1 tvg-logo="https://bolavip.com/__export/1674692739801/sites/bolavip/img/2023/01/25/base_general_-_2023-01-25t192125_027.png_1159711837.png" group-title="DEPORTES PERU",302 | LIGA 1 MAX HD |
+http://weib-tv.com:8880/live/30rodolfo2023xd@/c03f0865366f42ef/309769.m3u
+#EXTINF:-1 tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2023_03/large.Liga1Max-Peru.png.ba23f1bb74eff43935ec713b7d10f400.png" group-title="DEPORTES PERU",302.1 | LIGA 1 MAX |
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/360763
+#EXTINF:-1 tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2023_03/large.Liga1Max-Peru.png.ba23f1bb74eff43935ec713b7d10f400.png" group-title="DEPORTES PERU",302.2 | LIGA 1 MAX HD |
+http://nxt.plus:8080/jesus01/jesus01/130639
+#EXTINF:-1 tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2023_03/large.Liga1Max-Peru.png.ba23f1bb74eff43935ec713b7d10f400.png" group-title="DEPORTES PERU",302.3 | LIGA 1 MAX FHD |
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298922
+#EXTINF:-1 tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2023_03/large.Liga1Max-Peru.png.ba23f1bb74eff43935ec713b7d10f400.png" group-title="DEPORTES PERU",302.4 | LIGA 1 MAX HD |
+http://evolutiontv.xyz:8080/VIDIAHD/lBTRUXiXbm/97794
+
+
+#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/8309648923bf090f5ed7eb3c96b9ab9b.png" group-title="DEPORTES PERU",330 | GOL PERU 1 |
+http://svtv.xyz:8080/live/Rigo2/r4TqXGc/22913.ts
+#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/8309648923bf090f5ed7eb3c96b9ab9b.png" group-title="DEPORTES PERU",330.1 | GOL PERU 2 |
+http://svtv.xyz:8080/live/Rigo2/r4TqXGc/124533.ts
+#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/8309648923bf090f5ed7eb3c96b9ab9b.png" group-title="DEPORTES PERU",330.2 | GOL PERU 3 |
+http://svtv.xyz:8080/live/Rigo2/r4TqXGc/31935.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/7d7a4be3ab7745748250a36797d63dee.png" group-title="DEPORTES PERU",350 | MOVISTAR DEPORTES |
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298924
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",405 | FOX SPORT 2 |
+http://181.119.67.75:16123/play/ch20
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",400 | FOX SPORT 3 |
+http://138.59.177.34:8000/play/a073/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",400.1   FOX SPORT 3 |
+http://181.119.67.75:16123/play/ch21
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",407 | ESPN |
+http://181.119.67.75:16123/play/ch16
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",407.1 | ESPN |
+http://138.59.177.34:8000/play/a058/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",409 | ESPN 2 |
+http://181.119.67.75:16123/play/ch17
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",412 | ESPN 3 |
+http://181.119.67.75:16123/play/ch18
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",420 | ESPN 4 |
+http://181.119.67.75:16123/play/ch19
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",424 | ESPN 1 FHD. |
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/292819
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",425 | ESPN 1 FHD..|
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/292820
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",426 | ESPN 1 FHD |
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/296549
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",428 | ESPN 2 FHD |
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/296547
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",430 | ESPN 2 FHD |
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/296548
+
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",432 | ESPN 3 FHD |
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/296545
+
+
+#EXTINF:-1 tvg-logo="tvg-logo=https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/ s65930_dark_360w_270h.png" group-title="⭐️ DEPORTE VIP ⭐️",433 | ESPN EXTRA FHD |
+http://181.119.67.75:16123/play/ch90
+
+#EXTINF:-1 tvg-logo=https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/ s72291_dark_360w_270h.png" group-title="⭐️ DEPORTE VIP ⭐️" ,450 | CLARO DEPORTES |
+http://138.59.177.34:8000/play/a06h/index.m3u8
+ 
+#EXTINF:-1 tvg-logo=https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/ s72291_dark_360w_270h.png" group-title="⭐️ DEPORTE VIP ⭐️",450.1 | CLARO DEPORTES HD |
+http://138.59.177.34:8000/play/a01i/index.m3u8
+ 
+#EXTINF:-1 tvg-name= tvg-logo=https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119143_dark_360w_270h.png" group-title="⭐️ DEPORTE VIP ⭐️",452 | CLARO DEPORTES 2 | 
+http://138.59.177.34:8000/play/a045/index.m3u8
+ 
+#EXTINF:-1 tvg-logo=https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119143_dark_360w_270h.png" group-title="⭐️ DEPORTE VIP ⭐️",452.1 | CLARO DEPORTES 2 HD | 
+http://138.59.177.34:8000/play/a01j/index.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",500 | ECUADOR-TV SD |
+http://magmas5.com:8000/phd2000/YHJ1X74/3594
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",501 | TCTELEVISION SD |
+http://magi-stv.net:8080/BUZZTVAK/E9ZG2U/172233
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",502 | ABYA YALA TV HD |
+http://magmas5.com:8000/phd2000/YHJ1X74/162555
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="VARIEDADES",503 | BOLIVISION |
+http://00322.xyz:8000/coachprato/40437757/4902
+#EXTINF:-1 tvg-id="CO - Telecaribe" tvg-name="CO | Telecaribe HD" tvg-logo="https://i.ibb.co/wBVxBV8/8-UG1-Chg-G-400x400.jpg" group-title="VARIEDADES",503 | TELECARIBE SD |
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/5823
+#EXTINF:-1 tvg-id="CO - Telepacifico" tvg-name="CO | TelePacifico HD" tvg-logo="https://s18.postimg.cc/rigarlzyh/Telepacifico.png" group-title="VARIEDADES",504 | TELEPACIFICO SD |
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/8361
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="COL-RCN (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" group-title="VARIEDADES",505 | RCN FHD |
+http://tutv.online:8080/9mxee76p89/7dix695u5g/256967
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",505.1 | RCN SD |
+http://tv.proyectox.vip:43201/elwepaman/CphvdYcr8A/22137
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",506 | VENEZOLANA TV HD |
+http://tv.fullytv.com:8080/GloriaF21/Fredicks7767/18596
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",506.1 | VENEZOLANA TV SD |
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjYhMyq9AVXIvLNJ5BpiAcNUmYLwDmyjr2fqVa41oPrL)/dm/3/x828i6j/s/live-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/640px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="VARIEDADES",506.2 | VENEZOLANA TV SD |
+http://00322.xyz:8000/coachprato/40437757/4880
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="VARIEDADES",507 | GLOBOVISION SD |
+http://00322.xyz:8000/coachprato/40437757/4826
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="VARIEDADES",507.1 | GLOBOVISION* HD |
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/148597
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",508 | VENEVISION SD |
+http://tv.fullytv.com:8080/GloriaF21/Fredicks7767/18595
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",509 | MULTIVISION CUBA |
+http://weib-tv.com:8880/live/30rodolfo2023xd@/c03f0865366f42ef/17421.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",512 | WAPA TV SD |
+http://sdmex.xyz:8080/JOHANA/johana/126163
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",513 | LATELE SD |
+http://magi-stv.net:8080/BUZZTVAK/E9ZG2U/2107635
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",515 | NHK WORLD SD |
+http://210.210.155.35/uq2663/h/h23/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",515.1 | NHK JAPAN HD |
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",517 | ANTENA 3 SD |
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/55885
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",517.1 | ANTENA 3 INT. SD |
+http://sdmex.xyz:8080/JOHANA/johana/197234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",517.2 | ANTENA 3 INT. FHD |
+http://sdmex.xyz:8080/JOHANA/johana/197426
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",519 | MEGA NOTICIAS HQ |
+http://premiumultra.xyz:8080/47kwpu88de34be62/m72me52wu32m/637
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",519.1 | CABLE NOTICIAS HD |
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/chunklist_w401453090.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",519.2 | RAI ITALIA HD |
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313189
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",519.3 | RAI ITALIA FHD |
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35085
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",520 | TVE SD |
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/35167
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",521 | LA 1 SD |
+http://tv.fullytv.com:8080/GloriaF21/Fredicks7767/53894
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",522 | CAPITAL TV SD |
+http://887810633231314351.ot0711.xyz:80/play/vi1202277/Smh3bbJwyAAw/314351.ts
+#EXTINF:-1 tvg-id="CO - Canal Capital" tvg-name="CO | Canal Capital" tvg-logo="https://i.ibb.co/H21VvBK/capital.png" group-title="VARIEDADES",522.1 | CAPITAL TV SD |
+http://weib-tv.com:8880/live/30rodolfo2023xd@/c03f0865366f42ef/13792.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",525 | AMERICA TV HD |
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",528 | TELEAMAZONAS HD |
+http://skycastersupports.mine.nu:25461/cat/cat/3747
+#EXTINF:-1 tvg-id="" tvg-name="Canal 2 Nicaragua" tvg-logo="https://www.tigo.com.ni/sites/tigodiscovery.ni/files/canal2.png" group-title="VARIEDADES",530 | CANAL 2 NICARAGUA HD |
+http://xplatinmedia.com:8080/@mrmagicstars/JBJNHuFuV5/120001
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Nicaragua" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Canal_4_Nicaragua_2014.png/revision/latest?cb=20180428183227" group-title="VARIEDADES",532 | CANAL 4 NICARAGUA HD |
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/14956
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 Nicaragua" tvg-logo="https://i.imgur.com/Jo6nRty.png" group-title="VARIEDADES",534 | CANAL 6 NICARAGUA HD |
+http://iptvaruba.com:8080/mitrovic/f261dbc5c4/76278
+#EXTINF:-1 tvg-id="" tvg-name="Canal 8 Nicaragua" tvg-logo="https://4.bp.blogspot.com/-HAn5ljHVCa4/W3Urt8CxzRI/AAAAAAAADTc/3wOGrxZf_HgDQGk4gcOcO_TCf1wURMI7wCLcBGAs/s1600/canal8.png" group-title="VARIEDADES",536 | CANAL 8 NICARAGUA HD |
+https://60417ddeaf0d9.streamlock.net/tn8/videotn8/chunklist_w820400656.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIzIDc6MDI6NDAgUE0maGFzaF92YWx1ZT1FR1RZWVAySG5yZXcwVVk4WThUYlVnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
+#EXTINF:-1 tvg-id="" tvg-logo="http://zeroxtv.xyz:2082/images/9667cdd7b147e56b7ed17270b66f5a3e.png" group-title="VARIEDADES",538 | TELEFUTURO (PY) | 
+http://magi-stv.net:8080/BUZZTVAK/E9ZG2U/2107631
+
+$$$$$$$$SERIES$$$$$
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SERIES",600 | HECHIZADA FHD |
+http://tutv.online:8080/9mxee76p89/7dix695u5g/196877
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SERIES",600.1 | HECHIZADA HD |
+http://tv.proyectox.vip:43201/elwepaman/CphvdYcr8A/37803
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SERIES",602 | MI BELLA GENIO SD |
+http://tutv.online:8080/9mxee76p89/7dix695u5g/178453
+#EXTINF:-1 group-title="SERIES",602.1 | MI BELLA GENIO HD |
+http://tutv.online:8080/9mxee76p89/7dix695u5g/193032
+#EXTINF:-1 group-title="SERIES",602.2 | MI BELLA GENIO FHD |
+http://premiumultra.xyz:8080/47kwpu88de34be62/m72me52wu32m/62422
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SERIES",605 | EL SUPER AGENTE 86 SD |
+http://tutv.online:8080/9mxee76p89/7dix695u5g/193018
+#EXTINF:-1,24/7 VIP Kung Fu Panda HD group-title="SERIES",606 | LOS AÑOS MARAVILLOSOS |
+http://premiumultra.xyz:8080/47kwpu88de34be62/m72me52wu32m/804
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="SERIES",608 | MAC GIVER SD |
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/49186
+#EXTINF:-1,24/7 VIP Kung Fu Panda HD group-title="SERIES",610 | EL PRINCIPE DEL RAP |
+http://tutv.online:8080/9mxee76p89/7dix695u5g/196849
+#EXTINF:-1,24/7 VIP Kung Fu Panda HD group-title="SERIES",610.1 | EL PRINCIPE DEL RAP |
+http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/397198
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SERIES",612 | BRUCE LEE SD |
+http://tv.proyectox.vip:43201/elwepaman/CphvdYcr8A/37763
+#EXTINF:-1,24/7 VIP Kung Fu Panda HD group-title="SERIES",614 | ALF HD |
+http://tutv.online:8080/9mxee76p89/7dix695u5g/196766
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SERIES",618 | EL CHAVO DEL 8 HD | 
+http://tutv.online:8080/9mxee76p89/7dix695u5g/196844
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SERIES",618.1 | EL CHAVO DEL 8 HD |
+http://tutv.online:8080/9mxee76p89/7dix695u5g/169534
+#EXTINF:-1,24/7 VIP Kung Fu Panda HD group-title="SERIES",620 | KUNG FU PANDA HD |
+http://hidra.live:80/ilseucuh/J52j6Fslu8/50606
+#EXTINF:-1,24/7 VIP Kung Fu Panda HD group-title="SERIES",622 | EL GALLO CLAUDIO HD |
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/58088
+#EXTINF:-1,24/7 VIP Kung Fu Panda HD group-title="SERIES",622.1 | EL GALLO CLAUDIO FHD |
+http://premiumultra.xyz:8080/47kwpu88de34be62/m72me52wu32m/798
+#EXTINF:-1,24/7 VIP Kung Fu Panda HD group-title="SERIES",623 | LOS THUNDERCATS HD |
+http://premiumultra.xyz:8080/47kwpu88de34be62/m72me52wu32m/718
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ceoapps.org/logos/pajaroloco.png" group-title="SERIES",624 | EL PAJARO LOCO HD | 
+http://magi-stv.net:8080/BUZZTVAK/E9ZG2U/2090884
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/75/194/png-transparent-the-flintstones-thumbnail.png" group-title="SERIES",625 | LOS PICAPIEDRAS 1 |
+http://premiumultra.xyz:8080/47kwpu88de34be62/m72me52wu32m/62367
+#EXTINF:-1 group-title="SERIES",625.1 | LOS PICAPIEDRAS HD 2 |
+http://tutv.online:8080/9mxee76p89/7dix695u5g/196921
+#EXTINF:-1 group-title="SERIES",625.2 | LOS PICAPIEDRAS HD 3 |
+http://premiumultra.xyz:8080/47kwpu88de34be62/m72me52wu32m/62381
+#EXTINF:-1,24/7 VIP Kung Fu Panda HD group-title="SERIES",626 | LA PANTERA ROSA |
+http://premiumultra.xyz:8080/47kwpu88de34be62/m72me52wu32m/726
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ceoapps.org/logos/panterarosa.png" group-title="SERIES",626.1 | LA PANTERA ROSA |
+http://sdmex.xyz:8080/JOHANA/johana/2090971
+#EXTINF:-1 tvg-logo="https://iili.io/HMb96nj.jpg" group-title="SERIES",628 | TOM & JERRY |
+http://premiumultra.xyz:8080/47kwpu88de34be62/m72me52wu32m/774
+#EXTINF:-1 tvg-logo="https://iili.io/HMb96nj.jpg" group-title="SERIES",628.1 | TOM & JERRY |
+http://premiumultra.xyz:8080/47kwpu88de34be62/m72me52wu32m/61145
+#EXTINF:-1 tvg-logo="https://iili.io/HMb96nj.jpg" group-title="SERIES",628.2 | TOM & JERRY |
+http://premiumultra.xyz:8080/47kwpu88de34be62/m72me52wu32m/711
+#EXTINF:-1 tvg-logo="http://offshore.lat:8001/images/299e6f4ba1be6746978a410b5d08da78.png" group-title="SERIES",630 | DON GATO Y SU PANDILLA |
+http://premiumultra.xyz:8080/47kwpu88de34be62/m72me52wu32m/62356
+#EXTINF:-1,24/7 VIP Kung Fu Panda HD group-title="SERIES",631 | LOONEY TUNES |
+http://tutv.online:8080/9mxee76p89/7dix695u5g/196911
+#EXTINF:-1 tvg-logo="https://iili.io/HWY4lf4.jpg" group-title="SERIES",631.1 | LOONEY TUNES |
+http://premiumultra.xyz:8080/47kwpu88de34be62/m72me52wu32m/61156
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="SERIES",633 | TINY TOONS SD |
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/50642
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/659/518/png-transparent-wile-e-coyote-and-the-road-runner-looney-tunes-greater-roadrunner-bugs-miscellaneous-mammal-vertebrate-thumbnail.png" group-title="SERIES",635 | EL CORRECAMINOS |
+http://premiumultra.xyz:8080/47kwpu88de34be62/m72me52wu32m/62369
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/659/518/png-transparent-wile-e-coyote-and-the-road-runner-looney-tunes-greater-roadrunner-bugs-miscellaneous-mammal-vertebrate-thumbnail.png" group-title="SERIES",635.1 | EL COYOTE Y EL CORRECAMINOS |
+http://magi-stv.net:8080/BUZZTVAK/E9ZG2U/2090952
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="El Disidente (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bayFSo6izaRAyQipQAMQxuZNPlA.jpg" group-title="ESTRENOS 20-21",El Disidente (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131772.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En guerra con mi abuelo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVtfWL4VSWvaVanw3FrIsMghFTM.jpg" group-title="ESTRENOS 20-21",En guerra con mi abuelo (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131916.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre del Agua (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lXwd3eZOE8KoLsmIw7evmiDFTF.jpg" group-title="ESTRENOS 20-21",El Hombre del Agua (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131917.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casa de los abuelos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDlzLKAmK3SiEoVsMXFPGsF9iwg.jpg" group-title="ESTRENOS 20-21",La casa de los abuelos (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131918.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Secreto del Lago (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycEK01R3fABSKVgAdG1vOrT5rC4.jpg" group-title="ESTRENOS 20-21",El Secreto del Lago (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher: La pesadilla del lobo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUxzaXAV15QMKtUP1xo57Jr8cuo.jpg" group-title="ESTRENOS 20-21",The Witcher: La pesadilla del lobo (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las brujas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PxbO8UzZ17dMcqs0YwAnKuwfHA.jpg" group-title="ESTRENOS 20-21",Las brujas (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131922.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The World to Come (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg" group-title="ESTRENOS 20-21",The World to Come (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131923.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La otra Missy (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MQScaFf8Uu8Hj9omCQju4KsWAA.jpg" group-title="ESTRENOS 20-21",La otra Missy (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131924.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La apariencia de las cosas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wDmFicGRYetVMXcDmz0CvM7ZOJ.jpg" group-title="ESTRENOS 20-21",La apariencia de las cosas (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131925.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una Mente Canina (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/us6f635Lq7k9oIBAosl1hx87jgr.jpg" group-title="ESTRENOS 20-21",Una Mente Canina (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131926.mkv
+#EXTINF:-1 tvg-id="" tvg-name="This Is the Night (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZPyZ22kzcmfyt1dQapaSiQenvI.jpg" group-title="ESTRENOS 20-21",This Is the Night (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131927.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La magia de la isla (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wk8EeuRPOASUKGXyiiSsUViU99R.jpg" group-title="ESTRENOS 20-21",La magia de la isla (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131928.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aquellos que desean mi muerte (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tu6kz9Ejm7wljiO58waAuwn1miV.jpg" group-title="ESTRENOS 20-21",Aquellos que desean mi muerte (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131929.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wy8A7Lsh5WLXi99VeJa47l8MC5l.jpg" group-title="ESTRENOS 20-21",Persecucion del trueno (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131930.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fuerza Trueno (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9r4aLl7OAXdGK49u5oEjlbHKA3.jpg" group-title="ESTRENOS 20-21",Fuerza Trueno (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131931.mkv
+#EXTINF:-1 tvg-id="" tvg-name="tick, tick... BOOM! (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg" group-title="ESTRENOS 20-21",tick, tick... BOOM! (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131932.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Éxodo: La última marea (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQfDKLzOL8NaZxSmu4Fm8N6jGkm.jpg" group-title="ESTRENOS 20-21",Éxodo: La última marea (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131933.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hasta la muerte (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9azVNvLVswNn1dj43YbJ5sZiykd.jpg" group-title="ESTRENOS 20-21",Hasta la muerte (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131934.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Se terminó el tiempo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uESOe0IyKEZaIy0D3WZA3qZRELv.jpg" group-title="ESTRENOS 20-21",Se terminó el tiempo (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131935.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tiempo de caza (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iF1eloJBtw0frs2EeshncF2oRCT.jpg" group-title="ESTRENOS 20-21",Tiempo de caza (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Las aventuras de Timmy Fracaso (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bN7aRB5wrxKklCZZKSJKeb6LCFo.jpg" group-title="ESTRENOS 20-21",Las aventuras de Timmy Fracaso (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131937.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TINA (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bL2FNPhiPqDyirzU3rfaXDiWRXs.jpg" group-title="ESTRENOS 20-21",TINA (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131938.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Todos Los Chicos Para Siempre (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bGVC0tkhvihjZHNFJuiuY2YcN7.jpg" group-title="ESTRENOS 20-21",A Todos Los Chicos Para Siempre (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131939.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Together (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6J0Z0VUKyLyx4lZJXSd2OwFMmkW.jpg" group-title="ESTRENOS 20-21",Together (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131940.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Baile de las Locas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqNxbakTCLzdjeuayXsCeASpJ3A.jpg" group-title="ESTRENOS 20-21",El Baile de las Locas (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Glück (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnadHcVmNYbz8PVQlNo9MpG63Rv.jpg" group-title="ESTRENOS 20-21",Glück (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131110.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Érase una vez... (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KMi2m7l12w7gCKsR6j4N0J2Ygz.jpg" group-title="ESTRENOS 20-21",Érase una vez... (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131164.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ven a Jugar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lwliMeRlnMZDYVsjoabTlFRLaQ.jpg" group-title="ESTRENOS 20-21",Ven a Jugar (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131165.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nunca cierres los ojos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5sHI8jl8N2sOahsRd7DxkbVJgqP.jpg" group-title="ESTRENOS 20-21",Nunca cierres los ojos (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un príncipe en Nueva York 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJFvY25lPaKlapYOeIH6N5aKcbh.jpg" group-title="ESTRENOS 20-21",Un príncipe en Nueva York 2 (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Competencia oficial (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVRPUtO6i13YuFf6uk4RWYHzvBh.jpg" group-title="ESTRENOS 20-21",Competencia oficial (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Concrete Cowboy (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVRPUtO6i13YuFf6uk4RWYHzvBh.jpg" group-title="ESTRENOS 20-21",Concrete Cowboy (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un Debate Brillante (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MnS4GLxztucU4BGLtXFaDCqVL3.jpg" group-title="ESTRENOS 20-21",Un Debate Brillante (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Copshop: Juego de Criminales (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9P0URZBpYTPL1h1pYG2ooTiKOH5.jpg" group-title="ESTRENOS 20-21",Copshop: Juego de Criminales (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coronavirus: El origen (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIQ73LKnf1b1YqG9ZYZy19voSMD.jpg" group-title="ESTRENOS 20-21",Coronavirus: El origen (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131173.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invasión cósmica (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39acZEDXF4ahTR8ZgXBelt0AW5i.jpg" group-title="ESTRENOS 20-21",Invasión cósmica (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131174.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmoball (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AkgB1GoseuOB0i14uC185oqmCz.jpg" group-title="ESTRENOS 20-21",Cosmoball (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Country.at.Heart.2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AkgB1GoseuOB0i14uC185oqmCz.jpg" group-title="ESTRENOS 20-21",Country.at.Heart.2020
+http://nxt.plus:8080/movie/jesus01/jesus01/131176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Akelarre (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZmlEn9fBR6syM5JNmiUoiYhXov.jpg" group-title="ESTRENOS 20-21",Akelarre (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diarios del Covid, NYC (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DKFo17a9M3ESdBX1XdqNdEusGi.jpg" group-title="ESTRENOS 20-21",Diarios del Covid, NYC (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cowboys (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88ddT0lpefhVCwN0hNCA4dH2IKU.jpg" group-title="ESTRENOS 20-21",Cowboys (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131179.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crack: Cocaína, corrupción y conspiración (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVKWtkgwCd34wT10v0Bwg1NYYcc.jpg" group-title="ESTRENOS 20-21",Crack: Cocaína, corrupción y conspiración (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131180.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loco, No Demente (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NCSkyVXVpMOUc6u8yhyXo107Qu.jpg" group-title="ESTRENOS 20-21",Loco, No Demente (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131181.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crisis (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15e2VcMTtk3pqgGlHWxisvygFAw.jpg" group-title="ESTRENOS 20-21",Crisis (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131182.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cry Macho (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Vnc9uGcLSXg03al7G3AhBciMUi.jpg" group-title="ESTRENOS 20-21",Cry Macho (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131183.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cuando llega el amor (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYqQBBPJHu3oYoDuH288bkaoPu.jpg" group-title="ESTRENOS 20-21",Cuando llega el amor (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131184.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atrapados en el cubo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqsO5PpQo6VhtrQwaFYaMaZyTKo.jpg" group-title="ESTRENOS 20-21",Atrapados en el cubo (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131185.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una Ciudad Despiadada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fM45vv3RVSZX5ojpJgTiXpE7gRW.jpg" group-title="ESTRENOS 20-21",Una Ciudad Despiadada (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131186.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cyrano (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32nYknMmMN3tvVYSy98uth7SbKY.jpg" group-title="ESTRENOS 20-21",Cyrano (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131187.mkv
+#EXTINF:-1 tvg-id="" tvg-name="5 Sangres (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVV1uO2JJ3Tao71deZZTHXeIVYT.jpg" group-title="ESTRENOS 20-21",5 Sangres (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131188.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ballet para Navidad (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkxffROncVaBTs4AfJ9ZGvoYGmu.jpg" group-title="ESTRENOS 20-21",Ballet para Navidad (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Instinto peligroso (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubeZN7kWlr7Bl1OxdBPck43FhD3.jpg" group-title="ESTRENOS 20-21",Instinto peligroso (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131190.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Instinto peligroso (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubeZN7kWlr7Bl1OxdBPck43FhD3.jpg" group-title="ESTRENOS 20-21",Instinto peligroso (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131191.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Danyka (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ah14RS4ftgyTobHfKzYmehxImX.jpg" group-title="ESTRENOS 20-21",Danyka (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131192.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dark Web: Cicada 3301 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAYegkG73JUbHuHt4k6ZRbVcZX.jpg" group-title="ESTRENOS 20-21",Dark Web: Cicada 3301 (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131193.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boda Negra (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Erot7a3dR4k73cViA6zn8bFz6G.jpg" group-title="ESTRENOS 20-21",Boda Negra (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi novia de mentira (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXdLiH2H3Ze4lzMXWB4gw6ZlbHI.jpg" group-title="ESTRENOS 20-21",Mi novia de mentira (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131195.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Citas en Nueva York (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lktpcVcrDHH3RWCvY2URYuKN0VC.jpg" group-title="ESTRENOS 20-21",Citas en Nueva York (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131196.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Impase (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twq3furytKDwI1pfcy8ElKoMjz1.jpg" group-title="ESTRENOS 20-21",Impase (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131197.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ilusiones mortales (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wj0PpS8cvXCNB3Wvhe6w5k0Nnke.jpg" group-title="ESTRENOS 20-21",Ilusiones mortales (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131198.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Querido Evan Hansen (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhkBAcAmQRkyzmmbAcG3OjLdBq8.jpg" group-title="ESTRENOS 20-21",Querido Evan Hansen (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131199.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi muerte (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXeoXfMXDi7TuKCO9OmNgB5xFCG.jpg" group-title="ESTRENOS 20-21",Mi muerte (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muerte al 2020 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpvq9Ds8XuDvrfmmYbyP9zthKln.jpg" group-title="ESTRENOS 20-21",Muerte al 2020 (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muerte al verano (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pm5JawA75k5nSJ7wiTjyXsJ0Ntf.jpg" group-title="ESTRENOS 20-21",Muerte al verano (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131202.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Deuda 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGgCTPrWqyyUpfXVXETBmmOQdHr.jpg" group-title="ESTRENOS 20-21",La Deuda 2 (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sueño Mortal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmWqh660FczR7pXvvFxk208ZLwo.jpg" group-title="ESTRENOS 20-21",Sueño Mortal (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alerta en lo Profundo 3 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96rOUJEbHrhVW7JYzPJm5ZyMDg0.jpg" group-title="ESTRENOS 20-21",Alerta en lo Profundo 3 (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Libéranos del mal (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovgNfybarNvW6feJUch0afO73Bx.jpg" group-title="ESTRENOS 20-21",Libéranos del mal (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En La Mente Del Demonio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alKL8RfxoPunXZNRvSuPUtRkwu5.jpg" group-title="ESTRENOS 20-21",En La Mente Del Demonio (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Descarrilados (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecbeh7LvjogNiymqDRa9cjHYFj1.jpg" group-title="ESTRENOS 20-21",Descarrilados (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El estallido de la noticia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWjCiyjheEXDluWi1uAVKtdpkYd.jpg" group-title="ESTRENOS 20-21",El estallido de la noticia (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dianas bryllup (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpUiesCTeyVTiTVeo92Ue7OUWjn.jpg" group-title="ESTRENOS 20-21",Dianas bryllup (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Descansa en paz, Dick Johnson (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2h8bkpyGK0U5cVCH79Hzw1LT5qn.jpg" group-title="ESTRENOS 20-21",Descansa en paz, Dick Johnson (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diego, El último adiós (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OoFWIv9RzPhcKspB10wnW2gKgM.jpg" group-title="ESTRENOS 20-21",Diego, El último adiós (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pasión, amor y muerte (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvS6mB1RLMRBY5l4TPQmPdG2QBq.jpg" group-title="ESTRENOS 20-21",Pasión, amor y muerte (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Divorcio en Las Vegas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qo7ECVZ6KybwFiM6VlbEaqYcuy7.jpg" group-title="ESTRENOS 20-21",Divorcio en Las Vegas (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las Aventuras del Doctor Dolittle (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aodZLzbl7JaKSsdV6EJzl86EjcX.jpg" group-title="ESTRENOS 20-21",Las Aventuras del Doctor Dolittle (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dolly Parton: Un tributo a MusiCares (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXkELm9DENmIOuMgveR1RzjCctD.jpg" group-title="ESTRENOS 20-21",Dolly Parton: Un tributo a MusiCares (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131218.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No Respires 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0kJOePRfC59exAb7e3wrCTSMbK.jpg" group-title="ESTRENOS 20-21",No Respires 2 (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No miren arriba (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsI7AEaq7qr5h3z5dnG3QIS13Yk.jpg" group-title="ESTRENOS 20-21",No miren arriba (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No le digas a nadie (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tY8yMwtvBDrSDhXW1ySFaCAlgk.jpg" group-title="ESTRENOS 20-21",No le digas a nadie (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doors (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGPUXyhQTOqskKdDOD3Fmicqfc0.jpg" group-title="ESTRENOS 20-21",Doors (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abajo el Rey (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/up0rp9N57JYWggYs9GzfwXDtOTO.jpg" group-title="ESTRENOS 20-21",Abajo el Rey (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131223.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Chica y el Dragón (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erpbykjzD1AHXiJAgP59p7hWzUs.jpg" group-title="ESTRENOS 20-21",La Chica y el Dragón (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Furia Del Dragon (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PxTvaljBCVJHEFW8q9eLY7iieZ.jpg" group-title="ESTRENOS 20-21",Furia Del Dragon (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cabalgando a la Gloria (Dream Horse) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNMl35wMYOPXv5SqBUSurb89HhS.jpg" group-title="ESTRENOS 20-21",Cabalgando a la Gloria (Dream Horse) (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Atrapa Sueños (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3F4rrXcrS0XN5vQ5PRMvxg0yLou.jpg" group-title="ESTRENOS 20-21",El Atrapa Sueños (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Duna (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qf5bntGx2p5kQKO7zUbHrbOx9pp.jpg" group-title="ESTRENOS 20-21",Duna (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Duro De Cuidar 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpfIHi2nT7hRGphllLz0Nz8fIFV.jpg" group-title="ESTRENOS 20-21",Duro De Cuidar 2 (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dynasty Warriors (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1w0AkplNn51VZZ9ehA9I0hqJzLs.jpg" group-title="ESTRENOS 20-21",Dynasty Warriors (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="East of the Mountains (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GHN8Y0Nax8qquwwS49OuL1R018.jpg" group-title="ESTRENOS 20-21",East of the Mountains (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La masacre del conejito de pascua (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2g2IqiEKJ0C3DGyB1Jy7NAdR57Z.jpg" group-title="ESTRENOS 20-21",La masacre del conejito de pascua (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En el límite del mundo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jGu973ROfh4B9dG6XD32IbxBDS.jpg" group-title="ESTRENOS 20-21",En el límite del mundo (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eiffel (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o55rQ68NAwCON1Xlcj14NwpzPbR.jpg" group-title="ESTRENOS 20-21",Eiffel (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El exorcismo de Carmen Farías (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMyOSRURkxF6YId9vOTGsBH1jRb.jpg" group-title="ESTRENOS 20-21",El exorcismo de Carmen Farías (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131235.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Planeta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIj1KCnZJqa90LtypCqKqi2oWPb.jpg" group-title="ESTRENOS 20-21",El Planeta (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El rey de la fiesta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEgbmUbM4aLy5U5qc1BC93BmZSM.jpg" group-title="ESTRENOS 20-21",El rey de la fiesta (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131237.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Amarre (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfRk3lcBmIicDobV0i5YXktqRgq.jpg" group-title="ESTRENOS 20-21",El Amarre (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El año de la furia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmJLT7KAZf1V2QgQ3WIUqWNVyeQ.jpg" group-title="ESTRENOS 20-21",El año de la furia (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El camino de regreso (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSr8I4ObWVa38Y0WofCYW1TACoa.jpg" group-title="ESTRENOS 20-21",El camino de regreso (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Comediante (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsA8P4GRyAMtnNItf4dsOKZXeLh.jpg" group-title="ESTRENOS 20-21",El Comediante (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los elefantes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fO6SPxlzfRBMp8qJ51dQrSBgEcg.jpg" group-title="ESTRENOS 20-21",Los elefantes (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131245.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El experimento fantasma (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eLNJYehI3VwIe5S7Yz3uxVWVOa.jpg" group-title="ESTRENOS 20-21",El experimento fantasma (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre Búfalo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNk410gbFAuRPxreHsDjdqQn73h.jpg" group-title="ESTRENOS 20-21",El Hombre Búfalo (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El inconveniente (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Wpofdybiqlgh2ISsez2rviHHWc.jpg" group-title="ESTRENOS 20-21",El inconveniente (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Jardín Secreto (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/figneljeYCOBLAyyi1odZxz8h5g.jpg" group-title="ESTRENOS 20-21",El Jardín Secreto (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El llamado salvaje (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KlzkeqqmXaDdXo7D6pq7qQLJoM.jpg" group-title="ESTRENOS 20-21",El llamado salvaje (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131250.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El niño de Medellín (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWD0WH0d9dDPK54Dt8IJsjaEcxO.jpg" group-title="ESTRENOS 20-21",El niño de Medellín (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131252.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El olvido que seremos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38ZpJoyVkM0nCiBPvZMqtQjAnrY.jpg" group-title="ESTRENOS 20-21",El olvido que seremos (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131253.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El padre que mueve montañas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoyBEeKlrtCPLJc0Rxk7likZLU5.jpg" group-title="ESTRENOS 20-21",El padre que mueve montañas (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131254.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El par perfecto (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXAVrQQi0PR4eptYvppdJUk3SAk.jpg" group-title="ESTRENOS 20-21",El par perfecto (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131255.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El prófugo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNNgQ8hjUQoQzxJ4czaWPTLQJZn.jpg" group-title="ESTRENOS 20-21",El prófugo (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131256.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cinquième set (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkammOak2515Fq4mAsB7gGmRyFK.jpg" group-title="ESTRENOS 20-21",Cinquième set (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131257.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Verano que Vivimos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxbnkrC2GWEVbkUPzwFi1QX1qbP.jpg" group-title="ESTRENOS 20-21",El Verano que Vivimos (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131258.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elyse (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2Yim2yCF8oGfRW7jOKcZ8MIrJN.jpg" group-title="ESTRENOS 20-21",Elyse (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131259.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Combate (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0oydjV0QV82AG38I70xTP0nTzl.jpg" group-title="ESTRENOS 20-21",El Combate (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131260.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Mágico Viaje de Emily (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95SFJwpUz90LPdXxHF9Nkho9o1f.jpg" group-title="ESTRENOS 20-21",El Mágico Viaje de Emily (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131261.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Encounter (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k70y0glZwCEgzNAq5r9fPnSsea9.jpg" group-title="ESTRENOS 20-21",Encounter (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Especies en Peligro (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccsSqbpEqr2KK9eMvoeF8ERFCd5.jpg" group-title="ESTRENOS 20-21",Especies en Peligro (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131263.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zona de choque (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4N4ZaszcJC3A9SkmTURdQChZBHU.jpg" group-title="ESTRENOS 20-21",Zona de choque (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8STWO9pUTqubPV04iXZ2R6SClME.jpg" group-title="ESTRENOS 20-21",Enola Holmes (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fuga de Pretoria (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1U0LBEaGwQM9sUNfj0flSoGStzJ.jpg" group-title="ESTRENOS 20-21",Fuga de Pretoria (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escape Room 2: Reto mortal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEmpLIyeRGR683s31Q9oCwkSoCi.jpg" group-title="ESTRENOS 20-21",Escape Room 2: Reto mortal (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escapa del Undertaker (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSF7INctoCQ4iPFRiRkZjIQIIVa.jpg" group-title="ESTRENOS 20-21",Escapa del Undertaker (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="España: la primera globalización (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKGE5EhmoJdSLVbtfRJ57lu8Xd0.jpg" group-title="ESTRENOS 20-21",España: la primera globalización (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eternals (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2RltE8xIdK5zrQgNxxXh4OAvHO.jpg" group-title="ESTRENOS 20-21",Eternals (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131270.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cada respiro que das (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUxadKYbRH5zt1yg1cf54zIu5qm.jpg" group-title="ESTRENOS 20-21",Cada respiro que das (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mal de ojo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KVwganYfJgrLXu26BuW82BJo73.jpg" group-title="ESTRENOS 20-21",Mal de ojo (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Misión de rescate (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rG1pDArHdcPJspwannvKxlIzERC.jpg" group-title="ESTRENOS 20-21",Misión de rescate (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rápidos y furiosos 9 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rI2F6jZ6a7K0bODSJStywn3eHLm.jpg" group-title="ESTRENOS 20-21",Rápidos y furiosos 9 (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fake Famous: Un Experimento Social Irreal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWNK3XH1W8cVDVLeysQ5snCMqxW.jpg" group-title="ESTRENOS 20-21",Fake Famous: Un Experimento Social Irreal (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un hombre solo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxhuxvPlNiGMTc5K4ElMFKw4suN.jpg" group-title="ESTRENOS 20-21",Un hombre solo (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En busca de Fígaro (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIZsmmzQuWPOImkQdfA3CzlaVL6.jpg" group-title="ESTRENOS 20-21",En busca de Fígaro (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="False Positive (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HSov8EW2fI3oQbUJxOvnf684ej.jpg" group-title="ESTRENOS 20-21",False Positive (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un Mundo Encantado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ypM0AhARyw0CJ66qtAfVhgwXw0.jpg" group-title="ESTRENOS 20-21",Un Mundo Encantado (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fangio: El hombre que domaba las máquinas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n199ZFTAYDB7LFAzjXe1wvusn0g.jpg" group-title="ESTRENOS 20-21",Fangio: El hombre que domaba las máquinas (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fantasías (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KAV8Djljk3fR1FQ17oC6LgfkCW.jpg" group-title="ESTRENOS 20-21",Fantasías (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fatale: Juego Fatal (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iP8TZ5lJLWYcq8LnaRoQcO4AckN.jpg" group-title="ESTRENOS 20-21",Fatale: Juego Fatal (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Papá en Noel (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gh4I5G1VxZl5jGLaT2J0hvNQ4Tw.jpg" group-title="ESTRENOS 20-21",Papá en Noel (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paternidad (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hRAvXdpCMDm9WDOMFksY7nZAhl.jpg" group-title="ESTRENOS 20-21",Paternidad (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fátima: La película (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRAToGJITHaK6QvfImPaE2ofBwF.jpg" group-title="ESTRENOS 20-21",Fátima: La película (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Matar a Santa (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Z6huzUPEZjhpx2Ud5pO4XpTJQ2.jpg" group-title="ESTRENOS 20-21",Matar a Santa (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131287.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fauna (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjJLJNDwBl11aqGTIW9wQgL7IK1.jpg" group-title="ESTRENOS 20-21",Fauna (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="FBF (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjJLJNDwBl11aqGTIW9wQgL7IK1.jpg" group-title="ESTRENOS 20-21",FBF (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Miedo a la Lluvia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hmaACPJfI2M0v38DeltW3dSggT.jpg" group-title="ESTRENOS 20-21",Miedo a la Lluvia (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La calle del terror (Parte 1): 1994 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGf1snRLGQpiUkWvJSGwiSXW9sR.jpg" group-title="ESTRENOS 20-21",La calle del terror (Parte 1): 1994 (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La calle del terror (Parte 2): 1978 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPcLH9QHrRb9ZRplxWOMO38ImL8.jpg" group-title="ESTRENOS 20-21",La calle del terror (Parte 2): 1978 (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La calle del terror (Parte 3): 1666 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouTHprNeiOYDS5zw5x7wrBF79q7.jpg" group-title="ESTRENOS 20-21",La calle del terror (Parte 3): 1666 (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ferry (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5D1Tku9nfD5JjB9sLdotxTtTRw9.jpg" group-title="ESTRENOS 20-21",Ferry (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fever Dream (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aM4tuBraUhSA2fQrZwWzBifnZvz.jpg" group-title="ESTRENOS 20-21",Fever Dream (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Finch (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg" group-title="ESTRENOS 20-21",Finch (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Allí me encontrarás (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDMT90p0KaqMqIPCqPi8u631RqS.jpg" group-title="ESTRENOS 20-21",Allí me encontrarás (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Flee: Huyendo De Casa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oRhbRFKB16eSToMYDBNb5uZggT.jpg" group-title="ESTRENOS 20-21",Flee: Huyendo De Casa (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Follow Me (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glwOyoD0Pzxzyb3l7nELEgjSjQ8.jpg" group-title="ESTRENOS 20-21",Follow Me (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Snoopy presenta: Por los viejos tiempos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZPHo3miiG0Xc8VyGvzGkkC6mkh.jpg" group-title="ESTRENOS 20-21",Snoopy presenta: Por los viejos tiempos (2021)
+http://nxt.plus:8080/movie/jesus01/jesus01/131301.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Force of Nature (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZPHo3miiG0Xc8VyGvzGkkC6mkh.jpg" group-title="ESTRENOS 20-21",Force of Nature (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre Invisible (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xk4RpcvVQ7JmnrkQtZ479EwWieT.jpg" group-title="ESTRENOS 20-21",El Hombre Invisible (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/131364.mkv
+
+
+
+%%%%%ACCION%%%%%
+
+
+#EXTINF:-1 tvg-id="" tvg-name="xXx 2: Estado de Emergencia (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A72pDnqEmW9P2NsNL9n50MZk3zk.jpg" group-title="ACCION",Estado de Emergencia (2005)
+http://nxt.plus:8080/movie/jesus01/jesus01/156295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="xXx: Reactivado (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOT9ca00e4hrMdgu1lDKvbIG6RI.jpg" group-title="ACCION",Reactivado (2017)
+http://nxt.plus:8080/movie/jesus01/jesus01/156294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="xXx (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewGhwS8dbAfFDJBEpbsWOuwS4Ov.jpg" group-title="ACCION",xXx (2002)
+http://nxt.plus:8080/movie/jesus01/jesus01/156293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V de venganza (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RGtqJD856BJ7kZ88v7ZPz84tU6.jpg" group-title="ACCION",V de venganza (2006)
+http://nxt.plus:8080/movie/jesus01/jesus01/156292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tropa de Élite 2 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geK5X7cIWap06q7J2ZiyQr2scrc.jpg" group-title="ACCION",Tropa de Élite 2 (2010)
+http://nxt.plus:8080/movie/jesus01/jesus01/156291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tropa de Élite (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfYxW49qwF6ruBs9QvM4VwKsUuz.jpg" group-title="ACCION",Tropa de Élite (2007)
+http://nxt.plus:8080/movie/jesus01/jesus01/156290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Triple amenaza (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0f9Wxtun2RT1hZbA6GnEbnEQFC.jpg" group-title="ACCION",Triple amenaza (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Triple frontera (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYWfXTIfuAUr9ZmgYnQc5sjz26j.jpg" group-title="ACCION",Triple frontera (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Centro de trauma (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2z2jsaDHxZE9L85LORRuwg1L1M2.jpg" group-title="ACCION",Centro de trauma (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156287.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tomb Raider: Las aventuras de Lara Croft (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ef7sUooM7E5sl4Wk3f6QlQtGyOY.jpg" group-title="ACCION",Tomb Raider: Las aventuras de Lara Croft (2018)
+http://nxt.plus:8080/movie/jesus01/jesus01/156286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Caballeros (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/916a5VjtiAm5A1ZHCg6e25EFs7R.jpg" group-title="ACCION",Los Caballeros (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La mensajera (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qobimZ1TkVJYiJDAOzVRMdBX3a8.jpg" group-title="ACCION",La mensajera (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Santo (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FOaeTJhgYXNxwEo8bBOayFK7tQ.jpg" group-title="ACCION",El Santo (1997)
+http://nxt.plus:8080/movie/jesus01/jesus01/156283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Búnker (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hk97lGEZcgeQwNhMdByCEV1hIV.jpg" group-title="ACCION",El Búnker (2018)
+http://nxt.plus:8080/movie/jesus01/jesus01/156281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stuber: Locos al volante (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SCb7NfYOrKNMnfCn0LjOPQEVgb.jpg" group-title="ACCION",Stuber: Locos al volante (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal 4: El día del juicio final (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVmVCX28whqv18BWr6NIssBy6EO.jpg" group-title="ACCION",Soldado Universal 4: El día del juicio final (2012)
+http://nxt.plus:8080/movie/jesus01/jesus01/156279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal 3: La última batalla (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mS6nV0tWZTa8pqCfchomQw3ai42.jpg" group-title="ACCION",Soldado Universal 3: La última batalla (2009)
+http://nxt.plus:8080/movie/jesus01/jesus01/156278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal 2: El regreso (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9snWHsV6Sb6NZAUQJCOunxKGQX.jpg" group-title="ACCION",Soldado Universal 2: El regreso (1999)
+http://nxt.plus:8080/movie/jesus01/jesus01/156277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tDZYNUejzSMyO109PTPZLb4yhi.jpg" group-title="ACCION",Soldado Universal (1992)
+http://nxt.plus:8080/movie/jesus01/jesus01/156276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Onda expansiva: Cuenta regresiva hacia el desastre (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBD608VF4TcFHmP7SuC0OcvZQ0b.jpg" group-title="ACCION",Onda expansiva: Cuenta regresiva hacia el desastre (2017)
+http://nxt.plus:8080/movie/jesus01/jesus01/156275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaft (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11DO3f5VxOBT7d2huEsu7mfBDWg.jpg" group-title="ACCION",Shaft (2000)
+http://nxt.plus:8080/movie/jesus01/jesus01/156274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaft (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pesSqCVneMabei0js9hL9Gby9mz.jpg" group-title="ACCION",Shaft (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Represalia (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBsQUK5QSeZjRPLFUVgSGHxj2PI.jpg" group-title="ACCION",Represalia (2018)
+http://nxt.plus:8080/movie/jesus01/jesus01/156272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Primal: Tales of Savagery (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NBBkdxH0TjQEBSN2AzeE1sgsF9.jpg" group-title="ACCION",Primal: Tales of Savagery (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156271.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Polar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjbdSpHqd8dmkrx0K0qYqh5W5Qn.jpg" group-title="ACCION",Polar (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156270.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Punto de Quiebre (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q94is4wMyWzDIMbdOzAAhk3oWqE.jpg" group-title="ACCION",Punto de Quiebre (2015)
+http://nxt.plus:8080/movie/jesus01/jesus01/156269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Living (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4WsK588j8Cj1uRjVbOFd8gcwHa.jpg" group-title="ACCION",Living (2022)
+http://nxt.plus:8080/movie/jesus01/jesus01/159979.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Babylon (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLZULW6Kn5imFM427tWfqIPMLmP.jpg" group-title="ACCION",Babylon (2022)
+http://nxt.plus:8080/movie/jesus01/jesus01/159980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Quemarropa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kX02JwHYaKYIvhP4HN5Qjrug7D.jpg" group-title="ACCION",A Quemarropa (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Operation Mekong (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNuzBcZn9K8LkywDhpCuif46gch.jpg" group-title="ACCION",Operation Mekong (2016)
+http://nxt.plus:8080/movie/jesus01/jesus01/156267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Olimpo Bajo Fuego (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AWmaBCfX6x3KTa4w5rGLMevNdU.jpg" group-title="ACCION",Olimpo Bajo Fuego (2013)
+http://nxt.plus:8080/movie/jesus01/jesus01/156266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Misterio a bordo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aiIBgxiiSlzLWO3lZsD0ddqnMuF.jpg" group-title="ACCION",Misterio a bordo (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Misión submarino (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nxYXbkuzJe5y3flRe7KmqvC0YW.jpg" group-title="ACCION",Misión submarino (2018)
+http://nxt.plus:8080/movie/jesus01/jesus01/156264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Midway: Batalla en el Pacífico (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfmGUN9SW2t4hYUxIDu2niTJKhB.jpg" group-title="ACCION",Midway: Batalla en el Pacífico (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156263.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Londres Bajo Fuego (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgivYpNxC0SqN2u8JY5udZeX3eE.jpg" group-title="ACCION",Londres Bajo Fuego (2016)
+http://nxt.plus:8080/movie/jesus01/jesus01/156262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leones por corderos (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbZWUFICECQGumZL7V2z0HgkRwe.jpg" group-title="ACCION",Leones por corderos (2007)
+http://nxt.plus:8080/movie/jesus01/jesus01/156261.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Línea de fuego (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3APp2ZPPOM0QvAYkbJOSshLhCF.jpg" group-title="ACCION",Línea de fuego (2013)
+http://nxt.plus:8080/movie/jesus01/jesus01/156260.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Canto del Lobo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oSxFcIxBcJqkajoRgEy4byQsBF.jpg" group-title="ACCION",El Canto del Lobo (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156259.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kingsman: El servicio secreto (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RNABhJ8sTfenTz84ADVUbPllxq.jpg" group-title="ACCION",Kingsman: El servicio secreto (2014)
+http://nxt.plus:8080/movie/jesus01/jesus01/156258.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kingsman: El círculo dorado (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0tCSswCeMBzaDsyXc82qfDDvPD.jpg" group-title="ACCION",Kingsman: El círculo dorado (2017)
+http://nxt.plus:8080/movie/jesus01/jesus01/156257.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asesinos Anónimos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llESeuE3PnMy6WpF2hZpSaRIc5a.jpg" group-title="ACCION",Asesinos Anónimos (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156256.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El informante (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzIuRQlq9LfRipziI4cfXsUBYWm.jpg" group-title="ACCION",El informante (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156255.mkv
+#EXTINF:-1 tvg-id="" tvg-name="John Wick 3: Parabellum (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/meODtyCmxvk4iDYGVwkfsVRNIa5.jpg" group-title="ACCION",John Wick 3: Parabellum (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156254.mkv
+#EXTINF:-1 tvg-id="" tvg-name="John Wick 2: Un Nuevo Día Para Matar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAAikrL3kH3TopsDC2Bgo4ARUiP.jpg" group-title="ACCION",John Wick 2: Un Nuevo Día Para Matar (2017)
+http://nxt.plus:8080/movie/jesus01/jesus01/156253.mkv
+#EXTINF:-1 tvg-id="" tvg-name="John Wick: Otro Día Para Matar (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHJX5D5FKKoC0GWUAWFq2qJZrPv.jpg" group-title="ACCION",John Wick: Otro Día Para Matar (2014)
+http://nxt.plus:8080/movie/jesus01/jesus01/156252.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Plan Perfecto:  El Más Buscado (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIAeOdQnPi4nnQqTs2YkHJsrs7I.jpg" group-title="ACCION",El Plan Perfecto:  El Más Buscado (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo amenaza (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzUE4EsngobPaDL9jvRLaYb2Tbs.jpg" group-title="ACCION",Bajo amenaza (2005)
+http://nxt.plus:8080/movie/jesus01/jesus01/156250.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hombre en llamas (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Nsl1f7qLoe3ZGbb5kvhQQWBRx3.jpg" group-title="ACCION",Hombre en llamas (2004)
+http://nxt.plus:8080/movie/jesus01/jesus01/156249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Balas de venganza (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8toDIronC85Qsd0EhKdtzJAIs4q.jpg" group-title="ACCION",Balas de venganza (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una noche dura (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shi9Fdv2noZXOkGZLjqMBSfbGVW.jpg" group-title="ACCION",Una noche dura (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guns Akimbo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0F95AfQWzNqy9Ch86U0L1cnEVr.jpg" group-title="ACCION",Guns Akimbo (2020)
+http://nxt.plus:8080/movie/jesus01/jesus01/156246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maldad Oculta (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/OQf805zU1G5W1fAFc5pWTsvSCn.jpg" group-title="ACCION",Maldad Oculta (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156245.mkv
+#EXTINF:-1 tvg-id="" tvg-name="60 Segundos (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3kpgUWhCaiDCHjGLq7vexl27fE.jpg" group-title="ACCION",60 Segundos (2000)
+http://nxt.plus:8080/movie/jesus01/jesus01/156244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Flyboys (2006)" tvg-logo="https://pics.filmaffinity.com/Sky_Kids-359855789-large.jpg" group-title="ACCION",Flyboys (2006)
+http://nxt.plus:8080/movie/jesus01/jesus01/156243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atentado en el estadio (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g10vrfED6SZmHBFiTBKyvR7y6K.jpg" group-title="ACCION",Atentado en el estadio (2018)
+http://nxt.plus:8080/movie/jesus01/jesus01/156242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Familia de Medianoche (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYDK57xzZli6krR6iGQQcqxaz91.jpg" group-title="ACCION",Familia de Medianoche (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156241.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Plan de Escape 3: El rescate (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNj1p2rItPNlUXck8yLFIC39T1u.jpg" group-title="ACCION",Plan de Escape 3: El rescate (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Plan de Escape 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vASI2XYuHVFlhzSKMrWsgL75wdK.jpg" group-title="ACCION",Plan de Escape 2 (2018)
+http://nxt.plus:8080/movie/jesus01/jesus01/156239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Transportador: Recargado (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQ8jVLAVUG3XozFcFKyXMaWam2D.jpg" group-title="ACCION",El Transportador: Recargado (2015)
+http://nxt.plus:8080/movie/jesus01/jesus01/156238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Transportador 3 (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6jWpnsmiFJR9idlCOUCeP3m03I.jpg" group-title="ACCION",El Transportador 3 (2008)
+http://nxt.plus:8080/movie/jesus01/jesus01/156237.mkv
+#EXTINF:-1 tvg-id="" tvg-name="6 en la sombra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ug4XukdNLwD9Ygyw4V0L5DjoNAp.jpg" group-title="ACCION",6 en la sombra (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156199.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nueva York Sin Salida (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvd6UqDqoYv0gMSqzFyiZkC8eny.jpg" group-title="ACCION",Nueva York Sin Salida (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El gran asalto (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UPlLPXINfeeABoV6zyvQKLW2I4.jpg" group-title="ACCION",El gran asalto (2018)
+http://nxt.plus:8080/movie/jesus01/jesus01/156201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ajuste De Cuentas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9JXmVg42jaEB2zuIQ9zHCbZNyy.jpg" group-title="ACCION",Ajuste De Cuentas (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156202.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crimen y Deseo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3IZqv1SzNkE97DSGKqhI8v8Fhv.jpg" group-title="ACCION",Crimen y Deseo (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente bajo fuego (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zC8HSq4xWsPgPDjgmlFix4VMtaD.jpg" group-title="ACCION",Agente bajo fuego (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Salt (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttPF7duHyOpakOUg8iALzvockdd.jpg" group-title="ACCION",Agente Salt (2010)
+http://nxt.plus:8080/movie/jesus01/jesus01/156205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anna: El peligro tiene nombre (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLBq1ANzAHgVfQSK6urU0HaTGPS.jpg" group-title="ACCION",Anna: El peligro tiene nombre (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Armados y peligrosos (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0osDL7XE6v8pseLPoo1P6TaiDx.jpg" group-title="ACCION",Armados y peligrosos (2013)
+http://nxt.plus:8080/movie/jesus01/jesus01/156208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asalto al camión blindado (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqOOQcqtc1nsiy9yrvhWsr8s36k.jpg" group-title="ACCION",Asalto al camión blindado (2009)
+http://nxt.plus:8080/movie/jesus01/jesus01/156209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rescate del metro 123 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A06gSqAO7Xzdi1zBRXXzzUVhiAI.jpg" group-title="ACCION",Rescate del metro 123 (2009)
+http://nxt.plus:8080/movie/jesus01/jesus01/156210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ashfall: Alerta Roja (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3BP44EvnJIIhyNVwPT0IpvNAoc.jpg" group-title="ACCION",Ashfall: Alerta Roja (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atracción peligrosa (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VLzLzGr78AOnAUPv6iCcMNoFDB.jpg" group-title="ACCION",Atracción peligrosa (2010)
+http://nxt.plus:8080/movie/jesus01/jesus01/156212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys: Dos policías rebeldes (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHalcWY9Ed5KSl35r9ddU2dnyJA.jpg" group-title="ACCION",Bad Boys: Dos policías rebeldes (1995)
+http://nxt.plus:8080/movie/jesus01/jesus01/156213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys 2 (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyHDZB87UQF9cu6uuQzhhaKGvuo.jpg" group-title="ACCION",Bad Boys 2 (2003)
+http://nxt.plus:8080/movie/jesus01/jesus01/156214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tierra de los Bravos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofpee59pHR3316IPC2ncHX2qDFE.jpg" group-title="ACCION",Tierra de los Bravos (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El traficante (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZDFly2PVQRtoogskeMRH3goeeM.jpg" group-title="ACCION",El traficante (2018)
+http://nxt.plus:8080/movie/jesus01/jesus01/156216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fuera De La Ley (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYAGOLyEH93GePufC7vQ9gzFwn7.jpg" group-title="ACCION",Fuera De La Ley (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hermanos de Sangre (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46Z8vyP3G10ASVeLKERc3qgta1E.jpg" group-title="ACCION",Hermanos de Sangre (2018)
+http://nxt.plus:8080/movie/jesus01/jesus01/156218.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BloodRayne Venganza de sangre (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ev3VZMXSlJ2sWlKevSwDfvRoO0y.jpg" group-title="ACCION",BloodRayne Venganza de sangre (2005)
+http://nxt.plus:8080/movie/jesus01/jesus01/156219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BloodRayne 2: Deliverance (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ynWRHGfbEiF2rt68IulBcvBuzm.jpg" group-title="ACCION",BloodRayne 2: Deliverance (2007)
+http://nxt.plus:8080/movie/jesus01/jesus01/156220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BloodRayne 3: La sangre del Reich (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNYddYcl1fhDu7CGe7l0LnVCyYI.jpg" group-title="ACCION",BloodRayne 3: La sangre del Reich (2010)
+http://nxt.plus:8080/movie/jesus01/jesus01/156221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ángeles de Charlie (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vISsOjLk8HGQAK1HgajNSBGQWy.jpg" group-title="ACCION",Ángeles de Charlie (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escolta (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdah0UpjZmy8OAsSuYWVz1aMH7L.jpg" group-title="ACCION",Escolta (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Sangre Fría (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UElHPbyw7c7lcqR5bqhlemiQMr.jpg" group-title="ACCION",A Sangre Fría (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Venganza (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfZClfVlLJI6RWjKlMBiuvosYEy.jpg" group-title="ACCION",Venganza (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Contracara (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kH27W9aZWA3D122gwK2WnKRIwI1.jpg" group-title="ACCION",Contracara (1997)
+http://nxt.plus:8080/movie/jesus01/jesus01/156229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El tigre y el dragón (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNHT7JrAzPMMSVmI9XBZpYkeocr.jpg" group-title="ACCION",El tigre y el dragón (2000)
+http://nxt.plus:8080/movie/jesus01/jesus01/156230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZiSpoGmcX3xuICpqwqeUcjV7Ix.jpg" group-title="ACCION",Medalla de Oro "Doble Dragón" (1990)
+http://nxt.plus:8080/movie/jesus01/jesus01/156231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alta Velocidad (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvsLqUxjyBBYXlbcUdIzt3hvhfh.jpg" group-title="ACCION",Alta Velocidad (2001)
+http://nxt.plus:8080/movie/jesus01/jesus01/156232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Duro de cuidar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uT29bkqVszT8r6DhC9lTuOx6rK.jpg" group-title="ACCION",Duro de cuidar (2017)
+http://nxt.plus:8080/movie/jesus01/jesus01/156233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Camino: Una película de Breaking Bad (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bykSMP21J3RzX3YmYo6hlVH4UE6.jpg" group-title="ACCION",El Camino: Una película de Breaking Bad (2019)
+http://nxt.plus:8080/movie/jesus01/jesus01/156234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Transportador (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEiyyNU0CVZBgmH08l3GMgw4BfZ.jpg" group-title="ACCION",El Transportador (2002)
+http://nxt.plus:8080/movie/jesus01/jesus01/156235.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Transportador 2 (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nwDiK9Dd7cHMAEWP9b8flhu7Wlg.jpg" group-title="ACCION",El Transportador 2 (2005)
+http://nxt.plus:8080/movie/jesus01/jesus01/156236.mkv
+deportes COLOMBIA
