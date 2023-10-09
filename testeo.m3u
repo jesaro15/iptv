@@ -56,8 +56,8 @@ https://servilive.com:3244/live/trivutvlive.m3u8
 https://ott1.hdlatam.tv/live/trivutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/LogoGlobalTV.png" group-title="TV NACIONAL",13 | GLOBAL TV HD |
 http://weib-tv.com:8880/live/30rodolfo2023xd@/c03f0865366f42ef/9479.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Cajamarca_TV.png" group-title="TV NACIONAL",17 | CAJAMARCA TV HD |
-https://ca2.inka.net.pe/cajamarcatv/tracks-v1a1/mono.m3u8?remote=201.218.159.218&token=2f6bd46860dfc20262813a29847e696f74ef8a93-e6d2e367729088449dc36f490fa5bc9a-1696182457-1696175257
+#EXTINF:-1 tvg-id="" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="TV NACIONAL",17 | URANIO TV HD |
+https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="TV NACIONAL",18 | MAXIMA-TV SD |
 http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/151475
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Cajamarca_TV.png" group-title="TV NACIONAL",19 | CNC TV HD |
