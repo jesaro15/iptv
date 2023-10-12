@@ -84,7 +84,13 @@ https://servilive.com:3126/live/tele2000live.m3u8
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbZYWEQ.png" group-title="TV NACIONAL",47 | VISIÓN SUR HD |
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s13908g.png" group-title="TV NACIONAL",49 | RADIO SAN BORJA HD |
+#EXTINF:-1 tvg-id="" tvg-name="UTV" tvg-logo="" group-title="TV NACIONAL",48 | UTV |
+http://oaktvpro.club:8080/Nando19/Nando921/127408
+#EXTINF:-1 tvg-id="" tvg-name="TELESUR ILO" tvg-logo="http://oaktvpro.club:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="TV NACIONAL",49 | TELESUR ILO |
+http://oaktvpro.club:8080/Nando19/Nando921/127695
+#EXTINF:-1 tvg-id="" tvg-name="TELESUR AREQUIPA" tvg-logo="http://oaktvpro.club:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="TV NACIONAL",50 | TELESUR AREQUIPA |
+http://oaktvpro.club:8080/Nando19/Nando921/127696
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s13908g.png" group-title="TV NACIONAL",51 | RADIO SAN BORJA HD |
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/273930
 
 
