@@ -17,7 +17,7 @@ http://00322.xyz:8000/coachprato/40437757/4845
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/800px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="TV NACIONAL",4 | AMERICA TV SD |
 http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/153834
 #EXTINF:-1 tvg-logo="https://media.giphy.com/avatars/america-tv/xQbOxJZdsl4g.png" group-title="TV NACIONAL",4.1 | AMERICA TV HD |
-http://sdmex.xyz:8080/JOHANA/johana/199968
+http://oaktvpro.club:8080/Nando19/Nando921/3402
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/panamericanape.png" group-title="TV NACIONAL",5 | PANAMERICANA TV HD |
 http://sdmex.xyz:8080/JOHANA/johana/10640
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/1200px-Panamericana-tv.svg.png" group-title="TV NACIONAL",5.1 | PANAMERICANA TV SD |
@@ -33,9 +33,9 @@ https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/ind
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/TV_Per%C3%BA_Noticias_2015_-_2017.png" group-title="TV NACIONAL",7.1 | TV PERU NOTICIAS |
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/4e22375e9e0c7192c6e44bb70522bf4b.jpg" group-title="TV NACIONAL",8 | CANAL N SD |
-http://kp-thebestiptv.com:8080/guiuseppe/hutkxwkhmc/43144
+http://oaktvpro.club:8080/Nando19/Nando921/3410
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/4e22375e9e0c7192c6e44bb70522bf4b.jpg" group-title="TV NACIONAL",8.1 | CANAL N HD |
-http://tutv.online:8080/9mxee76p89/7dix695u5g/178239
+http://oaktvpro.club:8080/Nando19/Nando921/3409
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-E0FD3BBF05-seeklogo.com.png" group-title="TV NACIONAL",9 | ATV SD |
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-E0FD3BBF05-seeklogo.com.png" group-title="TV NACIONAL",9.1 | ATV SD |
@@ -386,7 +386,8 @@ http://magi-stv.net:8080/BUZZTVAK/E9ZG2U/2090952
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="¿Quién engañó a Roger Rabbit? (1988)" tvg-logo="http://streamgo.vip:8008/images/e686874c30810d7315cf845079252f90.jpg" group-title="ESTRENOS 20-21",¿Quién engañó a Roger Rabbit? (1988)
+http://streamgo.vip:8008/movie/JorgeUPinto/bp2NQLmY95Xn/266691.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Disidente (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bayFSo6izaRAyQipQAMQxuZNPlA.jpg" group-title="ESTRENOS 20-21",El Disidente (2020)
 http://nxt.plus:8080/movie/jesus01/jesus01/131772.mkv
 #EXTINF:-1 tvg-id="" tvg-name="En guerra con mi abuelo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVtfWL4VSWvaVanw3FrIsMghFTM.jpg" group-title="ESTRENOS 20-21",En guerra con mi abuelo (2020)
