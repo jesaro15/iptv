@@ -247,8 +247,8 @@ http://138.59.177.34:8000/play/a01j/index.m3u8
 http://magmas5.com:8000/phd2000/YHJ1X74/3594
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",501 | TCTELEVISION SD |
 http://magi-stv.net:8080/BUZZTVAK/E9ZG2U/172233
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIEDADES",502 | ABYA YALA TV HD |
-http://magmas5.com:8000/phd2000/YHJ1X74/162555
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Abya_Yala_TV_2019.png" group-title="VARIEDADES",502 | ABYA YALA TV HD |
+https://master.tucableip.com/abyayalatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="VARIEDADES",503 | BOLIVISION |
 http://00322.xyz:8000/coachprato/40437757/4902
 #EXTINF:-1 tvg-id="CO - Telecaribe" tvg-name="CO | Telecaribe HD" tvg-logo="https://i.ibb.co/wBVxBV8/8-UG1-Chg-G-400x400.jpg" group-title="VARIEDADES",503 | TELECARIBE SD |
