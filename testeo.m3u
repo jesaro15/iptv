@@ -164,11 +164,11 @@ http://oaktvpro.club:8080/Nando19/Nando921/3441
 http://oaktvpro.club:8080/Nando19/Nando921/3442
 
 
-#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/8309648923bf090f5ed7eb3c96b9ab9b.png" group-title="DEPORTES PERU",330 | GOL PERU 1 |
+#EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",330 | GOL PERU 1 |
 http://oaktvpro.club:8080/Nando19/Nando921/3434
-#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/8309648923bf090f5ed7eb3c96b9ab9b.png" group-title="DEPORTES PERU",330.1 | GOL PERU 2 |
+#EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",330.1 | GOL PERU 2 |
 http://oaktvpro.club:8080/Nando19/Nando921/3435
-#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/8309648923bf090f5ed7eb3c96b9ab9b.png" group-title="DEPORTES PERU",330.2 | GOL PERU 3 |
+#EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",330.2 | GOL PERU 3 |
 http://oaktvpro.club:8080/Nando19/Nando921/3436
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/7d7a4be3ab7745748250a36797d63dee.png" group-title="DEPORTES PERU",350 | MOVISTAR DEPORTES |
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298924
@@ -179,28 +179,28 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298924
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",405 | FOX SPORT 2 |
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/394-3949767_fox-sports-fox-sport-2-logo-png-transparent.png" group-title="⭐️ DEPORTE VIP ⭐️",400 | FOX SPORT 2 |
 http://181.119.67.75:16123/play/ch20
 
-#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",400 | FOX SPORT 3 |
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-3_m.png" group-title="⭐️ DEPORTE VIP ⭐️",402 | FOX SPORT 3 |
 http://138.59.177.34:8000/play/a073/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",400.1   FOX SPORT 3 |
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-3_m.png" group-title="⭐️ DEPORTE VIP ⭐️",402.1   FOX SPORT 3 |
 http://181.119.67.75:16123/play/ch21
 
-#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",407 | ESPN |
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espn-deportes-logo-822209EBA3-seeklogo.com.png" group-title="⭐️ DEPORTE VIP ⭐️",407 | ESPN |
 http://181.119.67.75:16123/play/ch16
 
-#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",407.1 | ESPN |
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espn-deportes-logo-822209EBA3-seeklogo.com.png" group-title="⭐️ DEPORTE VIP ⭐️",407.1 | ESPN |
 http://138.59.177.34:8000/play/a058/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",409 | ESPN 2 |
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/espn-2-logo-black-and-white.png" group-title="⭐️ DEPORTE VIP ⭐️",409 | ESPN 2 |
 http://181.119.67.75:16123/play/ch17
 
-#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",412 | ESPN 3 |
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/319-3195035_image-g-ery-espn3-logo-espn-inc.png" group-title="⭐️ DEPORTE VIP ⭐️",412 | ESPN 3 |
 http://181.119.67.75:16123/play/ch18
 
-#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",420 | ESPN 4 |
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="⭐️ DEPORTE VIP ⭐️",420 | ESPN 4 |
 http://181.119.67.75:16123/play/ch19
 
 #EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",424 | ESPN 1 FHD. |
@@ -221,20 +221,19 @@ http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/296548
 #EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",432 | ESPN 3 FHD |
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/296545
 
-
-#EXTINF:-1 tvg-logo="tvg-logo=https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/ s65930_dark_360w_270h.png" group-title="⭐️ DEPORTE VIP ⭐️",433 | ESPN EXTRA FHD |
+#EXTINF:-1 tvg-logo="" group-title="⭐️ DEPORTE VIP ⭐️",433 | ESPN EXTRA FHD |
 http://181.119.67.75:16123/play/ch90
 
-#EXTINF:-1 tvg-logo=https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/ s72291_dark_360w_270h.png" group-title="⭐️ DEPORTE VIP ⭐️" ,450 | CLARO DEPORTES |
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO_400x400.jpeg" group-title="⭐️ DEPORTE VIP ⭐️" ,450 | CLARO DEPORTES |
 http://138.59.177.34:8000/play/a06h/index.m3u8
  
-#EXTINF:-1 tvg-logo=https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/ s72291_dark_360w_270h.png" group-title="⭐️ DEPORTE VIP ⭐️",450.1 | CLARO DEPORTES HD |
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO_400x400.jpeg" group-title="⭐️ DEPORTE VIP ⭐️",450.1 | CLARO DEPORTES HD |
 http://138.59.177.34:8000/play/a01i/index.m3u8
  
-#EXTINF:-1 tvg-name= tvg-logo=https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119143_dark_360w_270h.png" group-title="⭐️ DEPORTE VIP ⭐️",452 | CLARO DEPORTES 2 | 
+#EXTINF:-1 tvg-name= tvg-logo="https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO_400x400.jpeg" group-title="⭐️ DEPORTE VIP ⭐️",452 | CLARO DEPORTES 2 | 
 http://138.59.177.34:8000/play/a045/index.m3u8
  
-#EXTINF:-1 tvg-logo=https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119143_dark_360w_270h.png" group-title="⭐️ DEPORTE VIP ⭐️",452.1 | CLARO DEPORTES 2 HD | 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO_400x400.jpeg" group-title="⭐️ DEPORTE VIP ⭐️",452.1 | CLARO DEPORTES 2 HD | 
 http://138.59.177.34:8000/play/a01j/index.m3u8
 
 
