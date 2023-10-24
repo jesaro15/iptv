@@ -150,29 +150,33 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313026
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2023_03/large.Liga1Max-Peru.png.ba23f1bb74eff43935ec713b7d10f400.png" group-title="DEPORTES PERU",300 | LIGA 1 SD |
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298923
-#EXTINF:-1 tvg-logo="https://bolavip.com/__export/1674692739801/sites/bolavip/img/2023/01/25/base_general_-_2023-01-25t192125_027.png_1159711837.png" group-title="DEPORTES PERU",302 | LIGA 1 HD |
-http://weib-tv.com:8880/live/30rodolfo2023xd@/c03f0865366f42ef/309769.m3u
-#EXTINF:-1 tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2023_03/large.Liga1Max-Peru.png.ba23f1bb74eff43935ec713b7d10f400.png" group-title="DEPORTES PERU",303 | LIGA 1 MAX |
-http://oaktvpro.club:8080/Nando19/Nando921/3440
-#EXTINF:-1 tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2023_03/large.Liga1Max-Peru.png.ba23f1bb74eff43935ec713b7d10f400.png" group-title="DEPORTES PERU",303.1 | LIGA 1 MAX HD |
-http://oaktvpro.club:8080/Nando19/Nando921/3439
-#EXTINF:-1 tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2023_03/large.Liga1Max-Peru.png.ba23f1bb74eff43935ec713b7d10f400.png" group-title="DEPORTES PERU",303.2 | LIGA 1 MAX FHD |
-http://oaktvpro.club:8080/Nando19/Nando921/3441
-#EXTINF:-1 tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2023_03/large.Liga1Max-Peru.png.ba23f1bb74eff43935ec713b7d10f400.png" group-title="DEPORTES PERU",303.3 | LIGA 1 MAX HD |
-http://oaktvpro.club:8080/Nando19/Nando921/3442
+#EXTINF:-1 tvg-id="" tvg-name="PED01: PE: LIGA 1 FHD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPSN6iiITfD5yHZmDCYJ-TPFhZuWjNB1IhqBpFeMi5FB1.png" group-title="DEPORTES PERU",300 | LIGA 1 SD |
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591312
+#EXTINF:-1 tvg-id="" tvg-name="PED02: PE: LIGA 1 HD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPSN6iiITfD5yHZmDCYJ-TPFhZuWjNB1IhqBpFeMi5FB1.png" group-title="DEPORTES PERU",300.1 | LIGA 1* SD |
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591313
+
+#EXTINF:-1 tvg-id="" tvg-name="PED02: PE: LIGA 1 HD" tvg-logo="https://images.gog-statics.com/8455b20343eea6dc00e5b844f68e3b55370dc8e389ae8a762f343f1c6227b65a_product_card_v2_logo_480x285.png" group-title="DEPORTES PERU",303 | LIGA 1 MAX FHD |
+http://factoryplay.online:8080/CarlosES239/239ESCarlos/103257
+#EXTINF:-1 tvg-id="" tvg-name="PED07: LIGA MAX FHD" tvg-logo="https://images.gog-statics.com/8455b20343eea6dc00e5b844f68e3b55370dc8e389ae8a762f343f1c6227b65a_product_card_v2_logo_480x285.png" group-title="DEPORTES PERU",303.1 | LIGA 1 MAX* SD |
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591318
+#EXTINF:-1 tvg-id="" tvg-name="PED08: LIGA MAX HD" tvg-logo="https://images.gog-statics.com/8455b20343eea6dc00e5b844f68e3b55370dc8e389ae8a762f343f1c6227b65a_product_card_v2_logo_480x285.png" group-title="DEPORTES PERU",303.2 | LIGA 1 MAX** SD |
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591319
 
 
-#EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",330 | GOL PERU 1 |
-http://oaktvpro.club:8080/Nando19/Nando921/3434
-#EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",330.1 | GOL PERU 2 |
-http://oaktvpro.club:8080/Nando19/Nando921/3435
-#EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",330.2 | GOL PERU 3 |
-http://oaktvpro.club:8080/Nando19/Nando921/3436
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/7d7a4be3ab7745748250a36797d63dee.png" group-title="DEPORTES PERU",350 | MOVISTAR DEPORTES |
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298924
+#EXTINF:-1 tvg-id="" tvg-name="PED04: GOL PERU FHD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPTa4IbNNwiIx4z_LNpRIYdQYaoGICEbiruhS34r64w1v.png" group-title="DEPORTES PERU",305 | GOL PERU SD |
+http://factoryplay.online:8080/CarlosES239/239ESCarlos/233307
+#EXTINF:-1 tvg-id="" tvg-name="PED04: GOL PERU FHD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPTa4IbNNwiIx4z_LNpRIYdQYaoGICEbiruhS34r64w1v.png" group-title="DEPORTES PERU",305.1 | GOL PERU* SD |
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591315
+#EXTINF:-1 tvg-id="" tvg-name="PED05: GOL PERU HD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPTa4IbNNwiIx4z_LNpRIYdQYaoGICEbiruhS34r64w1v.png" group-title="DEPORTES PERU",305.2 | GOL PERU** FHD |
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591316
 
+
+#EXTINF:-1 tvg-id="plustvcanal6.pe" tvg-name="PER: M.ovista.r P.lu.s HD (EXCLUSIVO) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_(Peru)_-_2017_logo.png" group-title="DEPORTES PERU",350 | MOVISTAR DEPORTES SD |
+http://factoryplay.online:8080/CarlosES239/239ESCarlos/99679
+#EXTINF:-1 tvg-id="" tvg-name="PED10: MOVISTAR DEPORTES FHD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPZUop-yjq6N8YNO6-24HQZknTAnL35Zj-OAy-v7iCtTI.png" group-title="DEPORTES PERU",350.1 | MOVISTAR DEPORTES* SD |
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591321
+#EXTINF:-1 tvg-id="" tvg-name="PED11: MOVISTAR DEPORTES HD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPZUop-yjq6N8YNO6-24HQZknTAnL35Zj-OAy-v7iCtTI.png" group-title="DEPORTES PERU",350.1 | MOVISTAR DEPORTES** FHD |
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591322
 
 
 
