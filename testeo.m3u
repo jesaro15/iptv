@@ -8,8 +8,8 @@ http://oaktvpro.club:8080/Nando19/Nando921/3419
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="TV NACIONAL",2.1 | LATINA TV HD |
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="TV NACIONAL",3 | RPP TV SD |
-
+#EXTINF:-1 tvg-id="rppnoticias.pe" tvg-name="PER: RPP TV (EXCLUSIVO) UHD" tvg-logo="https://static.semrush.com/power-pages/media/favicons/rpp-pe-favicon-f6d4fc0c.png" group-title="TV NACIONAL",3 | RPP TV HD |
+http://factoryplay.online:8080/CarlosES239/239ESCarlos/99684
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/rppe.png" group-title="TV NACIONAL",3.1 | RPP TV HD |
 http://sdmex.xyz:8080/JOHANA/johana/10633
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="TV NACIONAL",3.2 | RPP TV SD |
