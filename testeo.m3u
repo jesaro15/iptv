@@ -931,6 +931,11 @@ http://nxt.plus:8080/movie/jesus01/jesus01/131364.mkv
 %%%%%ACCION%%%%%
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="El infiltrado (2017)" tvg-logo="http://oaktv.pro:8080/images/266b14b81d0522e6a2982cf41afd8be2.jpg" group-title="ACCION",El infiltrado (2017)
+http://oaktvpro.club:8080/movie/Nando19/Nando921/14042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La isla (2010)" tvg-logo="http://oaktv.pro:8080/images/ff29c37c3387c9821205e6616cf23906.jpg" group-title="ACCION",La isla (2010)
+http://oaktvpro.club:8080/movie/Nando19/Nando921/14048.mkv
 #EXTINF:-1 tvg-id="" tvg-name="xXx 2: Estado de Emergencia (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A72pDnqEmW9P2NsNL9n50MZk3zk.jpg" group-title="ACCION",Estado de Emergencia (2005)
 http://nxt.plus:8080/movie/jesus01/jesus01/156295.mkv
 #EXTINF:-1 tvg-id="" tvg-name="xXx: Reactivado (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOT9ca00e4hrMdgu1lDKvbIG6RI.jpg" group-title="ACCION",Reactivado (2017)
