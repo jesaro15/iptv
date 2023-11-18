@@ -65,6 +65,8 @@ http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/151465
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Fuego_tv.png" group-title="TV NACIONAL",24 | FUEGO TV |
 https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
+#EXTINF:-1 group-title="TV NACIONAL",25 | NACIONAL TV PERU |
+https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peru-magico-pe.png" group-title="TV NACIONAL",27 | PERU MAGICO HD |
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/124556
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="TV NACIONAL",29 | CONECTA2 TV HD |
