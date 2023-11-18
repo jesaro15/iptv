@@ -55,7 +55,7 @@ https://www.chasquirouter.com/salida/trivu.m3u8
 https://ott1.hdlatam.tv/live/trivutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/LogoGlobalTV.png" group-title="TV NACIONAL",13 | GLOBAL TV HD |
 http://oaktvpro.club:8080/Nando19/Nando921/3412
-#EXTINF:-1 group-title="TV NACIONAL",15 | NACIONAL TV PERU |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nacionaltvperu.jpg" group-title="TV NACIONAL",15 | NACIONAL TV PERU |
 https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="TV NACIONAL",17 | URANIO TV HD |
 https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
