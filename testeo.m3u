@@ -50,11 +50,13 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Onda_Digital.png" group-title="TV NACIONAL",11 | ONDA DIGITAL HD |
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://futureleaders.llorenteycuenca.com/wp-content/uploads/2020/08/logo-trivu-color.png" group-title="TV NACIONAL",12 | TRIVU TV HD |
-https://servilive.com:3244/live/trivutvlive.m3u8
+https://www.chasquirouter.com/salida/trivu.m3u8
 #EXTINF:-1 tvg-logo="https://futureleaders.llorenteycuenca.com/wp-content/uploads/2020/08/logo-trivu-color.png" group-title="TV NACIONAL",12.1 |TRIVU TV FHD |
 https://ott1.hdlatam.tv/live/trivutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/LogoGlobalTV.png" group-title="TV NACIONAL",13 | GLOBAL TV HD |
 http://oaktvpro.club:8080/Nando19/Nando921/3412
+#EXTINF:-1 group-title="TV NACIONAL",15 | NACIONAL TV PERU |
+https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="TV NACIONAL",17 | URANIO TV HD |
 https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="TV NACIONAL",18 | MAXIMA-TV SD |
@@ -65,8 +67,6 @@ http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/151465
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Fuego_tv.png" group-title="TV NACIONAL",24 | FUEGO TV |
 https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
-#EXTINF:-1 group-title="TV NACIONAL",25 | NACIONAL TV PERU |
-https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peru-magico-pe.png" group-title="TV NACIONAL",27 | PERU MAGICO HD |
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/124556
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="TV NACIONAL",29 | CONECTA2 TV HD |
