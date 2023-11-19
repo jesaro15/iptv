@@ -99,6 +99,8 @@ http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/273930
 http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/151544
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/OVACION.jpg" group-title="TV NACIONAL",53.1 | OVACION TV HD |
 http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/151545
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",55 | USMP TV |
+https://streamusmptv.ddns.net/live/stream.m3u8
 
 
 
