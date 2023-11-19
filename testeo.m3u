@@ -63,7 +63,7 @@ https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
 http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/151475
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Cajamarca_TV.png" group-title="TV NACIONAL",19 | CNC TV HD |
 http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/151465
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s86a1480785a470a0/image/id3161df1e2dbb9ed/version/1615876726/image.png" group-title="TV NACIONAL",22 | ANTARES TV SD |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/antares.jpg" group-title="TV NACIONAL",22 | ANTARES TV SD |
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Fuego_tv.png" group-title="TV NACIONAL",24 | FUEGO TV |
 https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
@@ -85,11 +85,11 @@ https://servilive.com:3126/live/tele2000live.m3u8
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbZYWEQ.png" group-title="TV NACIONAL",47 | VISIÓN SUR HD |
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UTV" tvg-logo="" group-title="TV NACIONAL",48 | UTV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/UcayaliTV.jpg" group-title="TV NACIONAL",48 | UTV |
 http://oaktvpro.club:8080/Nando19/Nando921/127408
-#EXTINF:-1 tvg-id="" tvg-name="TELESUR ILO" tvg-logo="http://oaktvpro.club:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="TV NACIONAL",49 | TELESUR ILO |
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s305740/images/logod.png" group-title="TV NACIONAL",49 | TELESUR ILO |
 http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/151589
-#EXTINF:-1 tvg-id="" tvg-name="TELESUR AREQUIPA" tvg-logo="http://oaktvpro.club:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="TV NACIONAL",50 | TELESUR AREQUIPA |
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s305740/images/logod.png" group-title="TV NACIONAL",50 | TELESUR AREQUIPA |
 http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/151588
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s13908g.png" group-title="TV NACIONAL",51 | RADIO SAN BORJA HD |
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/273930
