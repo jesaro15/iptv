@@ -107,22 +107,24 @@ https://streamusmptv.ddns.net/live/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="NOTICIAS",102 | TV PUBLICA (TVP) FHD |
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="NOTICIAS",102 | TV PUBLICA ARG |
 http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/589383
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="NOTICIAS",102.1 | TV PUBLICA (TVP) FHD |
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="NOTICIAS",102.1 | TV PUBLICA ARG |
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2019_12/large.1365812628_BoliviaTV20191b.png.ed374f34c0627622a7f2492628abb066.png" group-title="NOTICIAS",104 | BOLIVIA TV HD |
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1499457117325082625/G1-OApec_400x400.jpg" group-title="NOTICIAS",106 | LA IGUANA TV FHD |
-https://ythls.onrender.com/channel/UCCc2H9_eNnU7ucq2n7Sh3Rg.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="NOTICIAS",106 | TVGE HD |
+https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_2017.png/revision/latest?cb=20210217012618&path-prefix=es" group-title="NOTICIAS",108 | CARACOL TV SD |
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/61894
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="NOTICIAS",108.1 | NTN 24* SD |
-http://160.20.165.245:8000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/23/40/png-transparent-logo-deutsche-welle-dw-tv-dw-espanol-lacrosse-talk-radio-television-blue-text.png" group-title="NOTICIAS",110 | DW ESPAÑOL FHD |
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="NOTICIAS",109 | NEGOCIOS TV |
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/23/40/png-transparent-logo-deutsche-welle-dw-tv-dw-espanol-lacrosse-talk-radio-television-blue-text.png" group-title="NOTICIAS",110 | DW ESPAÑOL |
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/23/40/png-transparent-logo-deutsche-welle-dw-tv-dw-espanol-lacrosse-talk-radio-television-blue-text.png" group-title="NOTICIAS",110.1 | DW ESPAÑOL HD |
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://www.azam.info/images/hispan-tv-logo-television-station-interview.png" group-title="NOTICIAS",112 | HISPANTV SD |
-http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/43941
+https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.azam.info/images/hispan-tv-logo-television-station-interview.png" group-title="NOTICIAS",112.1 | HISPANTV FHD |
 https://live3.presstv.ir/hispantv/07.m3u8
 #EXTINF:-1 tvg-logo="https://www.azam.info/images/hispan-tv-logo-television-station-interview.png" group-title="NOTICIAS",112.2 | HISPANTV FHD |
@@ -133,7 +135,7 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cubavision.jpg" group-title="NOTICIAS",118 | CUBAVISION INTERNACIONAL SD |
 http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/587938
-##EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="NOTICIAS",119 | TELESUR EN ESPAÑOL HD |
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="NOTICIAS",119 | TELESUR EN ESPAÑOL HD |
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="NOTICIAS",119.1 | TELESUR EN ESPAÑOL HD |
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
@@ -148,21 +150,24 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="NOTICIAS",120.2 | RT EN ESPAÑOL FHD |
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NOTICIAS",122 | ALJAZEERA ENGLISH HD |
-http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/288937
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/854/340/png-clipart-logo-canal-institucional-graphic-designer-y-40-the-deep-joy-design-text-orange-thumbnail.png" group-title="NOTICIAS",123 | CANAL INSTITUCIONAL COLOMBIA |
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="NOTICIAS",124 | CNN EN ESPAÑOL HD |
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/31075
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS",124.1 | CNN EN ESPAÑOL FHD |
 http://181.78.24.67:8010/play/a03p/index.m3u8
-#EXTINF:-1 group-title="NOTICIAS",125 | LA 1 TV FHD |
-http://evolutiontv.xyz:8080/VIDIAHD/lBTRUXiXbm/98261
-#EXTINF:-1 group-title="NOTICIAS",127 | CABLE-NOTICIAS FHD |
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",125 | LA 1 TV FHD |
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",127 | CABLE-NOTICIAS FHD |
 http://tutv.online:8080/9mxee76p89/7dix695u5g/256972
-#EXTINF:-1 group-title="NOTICIAS",128 | MEGA-NOTICIAS FHD |
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",128 | MEGA-NOTICIAS FHD |
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313026
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="NOTICIAS",128 | EURO NEWS FHD |
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PED01: PE: LIGA 1 FHD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPSN6iiITfD5yHZmDCYJ-TPFhZuWjNB1IhqBpFeMi5FB1.png" group-title="DEPORTES PERU",300 | LIGA 1 SD |
