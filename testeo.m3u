@@ -78,7 +78,7 @@ https://live.obslivestream.com/controversiatv/index.m3u8
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2zCD4TB.png" group-title="TV NACIONAL",39 | DOBLE C TELEVISIÓN |
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QEMBpdS.png" group-title="TV NACIONAL",42 | TELE2000 |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QEMBpdS.png" group-title="TV NACIONAL",42 | TELE 2000 |
 https://servilive.com:3126/live/tele2000live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/peruanisima.jpg" group-title="TV NACIONAL",45 | PERUANISIMA TV | 
 https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/chunklist_w1127370255.m3u8
@@ -87,9 +87,9 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/UcayaliTV.jpg" group-title="TV NACIONAL",48 | UTV |
 http://oaktvpro.club:8080/Nando19/Nando921/127408
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s305740/images/logod.png" group-title="TV NACIONAL",49 | TELESUR ILO |
-http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/151589
+https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s305740/images/logod.png" group-title="TV NACIONAL",50 | TELESUR AREQUIPA |
-http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/151588
+https://1667517699.rsc.cdn77.org/hls/arequipa.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s13908g.png" group-title="TV NACIONAL",51 | RADIO SAN BORJA |
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/273930
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/OVACION.jpg" group-title="TV NACIONAL",53 | OVACION TV  |
@@ -102,6 +102,10 @@ https://streamusmptv.ddns.net/live/stream.m3u8
 https://hls.servidor.stream/storage/megatv.m3u8
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/cadenanoticias.png" group-title="TV NACIONAL",59 | CADENA TV | 
 http://lobo-tv.live:8080/Goyosdmex/SrEaaz7VS8ry/2159183
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",61 | QOSQO TIMES TV |TS
+https://servilive.com:3753/live/qosqotimeslive-53946.ts
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",62 | QOSQO TIMES TV |
+https://servilive.com:3753/live/qosqotimeslive.m3u8
 
 
 
