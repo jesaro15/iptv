@@ -85,8 +85,8 @@ https://servilive.com:3126/live/tele2000live.m3u8
 https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/chunklist_w446651864.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbZYWEQ.png" group-title="TV NACIONAL",47 | VISIÓN SUR |
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",48 | AUTENTICA TV |
-https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",48 | IDENTIDAD TV |
+https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/chunklist_w886518532.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s305740/images/logod.png" group-title="TV NACIONAL",49 | TELESUR ILO |
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s305740/images/logod.png" group-title="TV NACIONAL",50 | TELESUR AREQUIPA |
