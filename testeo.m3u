@@ -73,8 +73,10 @@ https://servilive.com:3114/live/liveulive.m3u8
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="TV NACIONAL",32.1 | BH TV |
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w357457701.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="TV NACIONAL",35 | CONTROVERSIA TV |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="TV NACIONAL",35 | VINILOS TV |
 https://live.obslivestream.com/controversiatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="TV NACIONAL",36 | CONTROVERSIA TV |
+https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lppmyxD.png" group-title="TV NACIONAL",37 | DIASPORA TV |
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2zCD4TB.png" group-title="TV NACIONAL",39 | DOBLE C TELEVISIÓN |
