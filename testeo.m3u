@@ -89,8 +89,10 @@ https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/chunklist_w4466
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",48 | IDENTIDAD TV |
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/chunklist_w886518532.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s305740/images/logod.png" group-title="TV NACIONAL",49 | TELESUR ILO |
-https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s305740/images/logod.png" group-title="TV NACIONAL",49 | TELESUR MOQUEGUA |
+https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s305740/images/logod.png" group-title="TV NACIONAL",49.1 | TELESUR TACNA |
+https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/702_Unitel.png" group-title="TV NACIONAL",50 | UNITEL |
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s13908g.png" group-title="TV NACIONAL",51 | RADIO SAN BORJA |
