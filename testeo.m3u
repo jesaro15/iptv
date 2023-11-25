@@ -59,8 +59,8 @@ https://livestream.perucast.com/low/stream_low/index.m3u8
 https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="TV NACIONAL",18 | MAXIMA-TV SD |
 http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/151475
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Cajamarca_TV.png" group-title="TV NACIONAL",19 | CNC TV |
-http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/151465
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Cajamarca_TV.png" group-title="TV NACIONAL",19 | CNC CAJAMARCA |
+https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/antares.jpg" group-title="TV NACIONAL",22 | ANTARES TV |
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Fuego_tv.png" group-title="TV NACIONAL",24 | FUEGO TV |
