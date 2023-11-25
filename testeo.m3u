@@ -50,7 +50,7 @@ https://www.chasquirouter.com/salida/trivu.m3u8
 #EXTINF:-1 tvg-logo="https://futureleaders.llorenteycuenca.com/wp-content/uploads/2020/08/logo-trivu-color.png" group-title="TV NACIONAL",12.1 |TRIVU TV |
 https://ott1.hdlatam.tv/live/trivutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/LogoGlobalTV.png" group-title="TV NACIONAL",13 | GLOBAL TV |
-http://oaktvpro.club:8080/Nando19/Nando921/3412
+http://lobo-tv.live:8080/Luis440/Luis/2169944
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nacionaltvperu.jpg" group-title="TV NACIONAL",15 | NACIONAL TV PERU |
 https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/SE%C3%91AL%20PERU.jpg" group-title="TV NACIONAL",16 | SEÑAL PERU TV |
