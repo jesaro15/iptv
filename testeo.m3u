@@ -35,48 +35,48 @@ https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/178239.ts
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-E0FD3BBF05-seeklogo.com.png" group-title="TV NACIONAL",9.1 | ATV |
 http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591333
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="TV NACIONAL",9.2 | ATV PLUS |
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="TV NACIONAL",10 | ATV PLUS |
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="TV NACIONAL",9.3 | ATV PLUS |
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="TV NACIONAL",10.1 | ATV PLUS |
 http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591336
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-sur-pe.png" group-title="TV NACIONAL",9.5 | ATV SUR |
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-sur-pe.png" group-title="TV NACIONAL",12 | ATV SUR |
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/ATVSur/ATVSur1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="TV NACIONAL",10 | NATIVA TV |
-https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Onda_Digital.png" group-title="TV NACIONAL",11 | ONDA DIGITAL |
-https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://futureleaders.llorenteycuenca.com/wp-content/uploads/2020/08/logo-trivu-color.png" group-title="TV NACIONAL",12 | TRIVU TV |
-https://www.chasquirouter.com/salida/trivu.m3u8
-#EXTINF:-1 tvg-logo="https://futureleaders.llorenteycuenca.com/wp-content/uploads/2020/08/logo-trivu-color.png" group-title="TV NACIONAL",12.1 |TRIVU TV |
-https://ott1.hdlatam.tv/live/trivutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/LogoGlobalTV.png" group-title="TV NACIONAL",13 | GLOBAL TV |
 http://lobo-tv.live:8080/Luis440/Luis/2169944
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nacionaltvperu.jpg" group-title="TV NACIONAL",15 | NACIONAL TV PERU |
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="TV NACIONAL",15 | NATIVA TV |
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Onda_Digital.png" group-title="TV NACIONAL",16 | ONDA DIGITAL |
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://futureleaders.llorenteycuenca.com/wp-content/uploads/2020/08/logo-trivu-color.png" group-title="TV NACIONAL",17 | TRIVU TV |
+https://www.chasquirouter.com/salida/trivu.m3u8
+#EXTINF:-1 tvg-logo="https://futureleaders.llorenteycuenca.com/wp-content/uploads/2020/08/logo-trivu-color.png" group-title="TV NACIONAL",17.1 |TRIVU TV |
+https://ott1.hdlatam.tv/live/trivutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nacionaltvperu.jpg" group-title="TV NACIONAL",19 | NACIONAL TV PERU |
 https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/SE%C3%91AL%20PERU.jpg" group-title="TV NACIONAL",16 | SEÑAL PERU TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/SE%C3%91AL%20PERU.jpg" group-title="TV NACIONAL",20 | SEÑAL PERU TV |
 https://livestream.perucast.com/low/stream_low/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="TV NACIONAL",17 | URANIO TV |
+#EXTINF:-1 tvg-id="" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="TV NACIONAL",21 | URANIO TV |
 https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="TV NACIONAL",18 | MAXIMA-TV SD |
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="TV NACIONAL",22 | MAXIMA-TV SD |
 http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/151475
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Cajamarca_TV.png" group-title="TV NACIONAL",19 | CNC CAJAMARCA |
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Cajamarca_TV.png" group-title="TV NACIONAL",23 | CNC CAJAMARCA |
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/antares.jpg" group-title="TV NACIONAL",22 | ANTARES TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/antares.jpg" group-title="TV NACIONAL",25 | ANTARES TV |
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xYGkUR9.png" group-title="TV NACIONAL",24 | PERU GO TV |  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xYGkUR9.png" group-title="TV NACIONAL",26 | PERU GO TV |  
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/Cusco/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peru-magico-pe.png" group-title="TV NACIONAL",27 | PERU MAGICO |
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/124556
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="TV NACIONAL",29 | CONECTA2 TV |
 https://servilive.com:3114/live/liveulive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="TV NACIONAL",32 | BH TV |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="TV NACIONAL",31 | BH TV |
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8     
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="TV NACIONAL",32.1 | BH TV |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="TV NACIONAL",31.1 | BH TV |
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w357457701.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="TV NACIONAL",35 | VINILOS TV |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="TV NACIONAL",33 | VINILOS TV |
 https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="TV NACIONAL",36 | CONTROVERSIA TV |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="TV NACIONAL",35 | CONTROVERSIA TV |
 https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lppmyxD.png" group-title="TV NACIONAL",37 | DIASPORA TV |
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
@@ -92,21 +92,21 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/chunklist_w886518532.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s305740/images/logod.png" group-title="TV NACIONAL",49 | TELESUR MOQUEGUA |
 https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s305740/images/logod.png" group-title="TV NACIONAL",49.1 | TELESUR TACNA |
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s305740/images/logod.png" group-title="TV NACIONAL",51 | TELESUR TACNA |
 https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/702_Unitel.png" group-title="TV NACIONAL",50 | UNITEL |
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/702_Unitel.png" group-title="TV NACIONAL",53 | UNITEL |
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s13908g.png" group-title="TV NACIONAL",51 | RADIO SAN BORJA |
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s13908g.png" group-title="TV NACIONAL",54 | RADIO SAN BORJA |
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/273930
-#EXTINF:-1 tvg-logo="https://teleamazonas.pe/wp-content/uploads/2023/09/logo1-teleamazonas.png" group-title="TV NACIONAL",53 | TELEAMAZONAS  |
+#EXTINF:-1 tvg-logo="https://teleamazonas.pe/wp-content/uploads/2023/09/logo1-teleamazonas.png" group-title="TV NACIONAL",55 | TELEAMAZONAS  |
 https://live.tvcontrolcp.com:1936/8054/8054/chunklist_w1423969700.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/OVACION.jpg" group-title="TV NACIONAL",54 | OVACION TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/OVACION.jpg" group-title="TV NACIONAL",57 | OVACION TV |
 http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/151545
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/usmp%20tv.jpg" group-title="TV NACIONAL",55 | USMP TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/usmp%20tv.jpg" group-title="TV NACIONAL",58 | USMP TV |
 https://streamusmptv.ddns.net/live/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="TV NACIONAL",57| MEGA TV |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="TV NACIONAL",59 | MEGA TV |
 https://hls.servidor.stream/storage/megatv.m3u8
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/cadenanoticias.png" group-title="TV NACIONAL",59 | CADENA TV | 
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/cadenanoticias.png" group-title="TV NACIONAL",60 | CADENA TV | 
 http://lobo-tv.live:8080/Goyosdmex/SrEaaz7VS8ry/2159183
 #EXTINF:-1 tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="TV NACIONAL",61 | AUTENTICA TELEVISION |
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
