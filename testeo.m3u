@@ -110,7 +110,7 @@ https://hls.servidor.stream/storage/megatv.m3u8
 http://lobo-tv.live:8080/Goyosdmex/SrEaaz7VS8ry/2159183
 #EXTINF:-1 tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="TV NACIONAL",61 | AUTENTICA TELEVISION |
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",62 | QOSQO TIMES TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/QOSQO%20TIMES.jpg" group-title="TV NACIONAL",62 | QOSQO TIMES TV |
 https://servilive.com:3753/live/qosqotimeslive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",63 | ANDES TV |
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/chunklist_w148685320.m3u8
