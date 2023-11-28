@@ -82,7 +82,7 @@ https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2zCD4TB.png" group-title="TV NACIONAL",39 | DOBLE C TELEVISIÓN |
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QEMBpdS.png" group-title="TV NACIONAL",42 | USIL TELEVISIÓN |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/UsilTv.jpg" group-title="TV NACIONAL",42 | USIL TELEVISIÓN |
 https://per01-lim01.servidor.stream/usiltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/peruanisima.jpg" group-title="TV NACIONAL",45 | PERUANISIMA TV | 
 https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/chunklist_w571425480.m3u8
@@ -106,25 +106,25 @@ http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/151545
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="TV NACIONAL",59 | MEGA TV |
 https://hls.servidor.stream/storage/megatv.m3u8
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/cadenanoticias.png" group-title="TV NACIONAL",60 | CADENA TV | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CadenaTv.jpg" group-title="TV NACIONAL",60 | CADENA TV | 
 http://lobo-tv.live:8080/Goyosdmex/SrEaaz7VS8ry/2159183
 #EXTINF:-1 tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="TV NACIONAL",61 | AUTENTICA TELEVISION |
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/QOSQO%20TIMES.jpg" group-title="TV NACIONAL",62 | QOSQO TIMES TV |
 https://servilive.com:3753/live/qosqotimeslive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",63 | ANDES TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/LosAndes.jpg" group-title="TV NACIONAL",63 | ANDES TV |
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/chunklist_w148685320.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",65 | CANAL X |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CANAL%20X.jpg" group-title="TV NACIONAL",65 | CANAL X |
 https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="TV NACIONAL",66 | GENIOS TV |
 https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="TV NACIONAL",67 | TELECOLOR YURIMAGUAS |
 https://live.obslivestream.com/telecolormux/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",69 | VIA ALTOMAYO TV | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Altomayo.jpg" group-title="TV NACIONAL",69 | VIA ALTOMAYO TV | 
 https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",71 | CABLE PERU TV | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cableperu.jpg" group-title="TV NACIONAL",71 | CABLE PERU TV | 
 https://video2.lhdserver.es/cableperu/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",73 | NOVA STAR TV | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/NovaStar.jpg" group-title="TV NACIONAL",73 | NOVA STAR TV | 
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
 
 
