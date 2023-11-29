@@ -140,7 +140,7 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/589383
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="NOTICIAS",102.1 | TV PUBLICA ARG |
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1 tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2019_12/large.1365812628_BoliviaTV20191b.png.ed374f34c0627622a7f2492628abb066.png" group-title="NOTICIAS",104 | BOLIVIA TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/bolivia.jpg" group-title="NOTICIAS",104 | BOLIVIA TV |
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Tvge.jpg" group-title="NOTICIAS",106 | TVGE |
 https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
@@ -178,7 +178,7 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="NOTICIAS",120.2 | RT EN ESPAÑOL |
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",122 | ALJAZEERA ENGLISH |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Al_Jazeera.jpg" group-title="NOTICIAS",122 | ALJAZEERA ENGLISH |
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/854/340/png-clipart-logo-canal-institucional-graphic-designer-y-40-the-deep-joy-design-text-orange-thumbnail.png" group-title="NOTICIAS",123 | CANAL INSTITUCIONAL COLOMBIA |
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
@@ -186,7 +186,7 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklis
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/31075
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS",124.1 | CNN EN ESPAÑOL |
 http://181.78.24.67:8010/play/a03p/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",125 | LA 1 TV |
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png" group-title="NOTICIAS",125 | LA 1 TV |
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="NOTICIAS",127 | CABLE-NOTICIAS |
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
