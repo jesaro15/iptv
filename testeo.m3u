@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/willax.png" group-title="TV NACIONAL",1 | WILLAX |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/willlax.jpg" group-title="TV NACIONAL",1 | WILLAX |
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/178232.ts
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/willax.png" group-title="TV NACIONAL",1.1 | WILLAX |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/willlax.jpg" group-title="TV NACIONAL",1.1 | WILLAX |
 http://tv.proyectox.vip:8080/L0vjEGB3MC/GF8Nqw8gZ5/116085
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="TV NACIONAL",2 | LATINA TV |
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
@@ -86,7 +86,7 @@ https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 https://per01-lim01.servidor.stream/usiltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/peruanisima.jpg" group-title="TV NACIONAL",45 | PERUANISIMA TV | 
 https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/chunklist_w571425480.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AbZYWEQ.png" group-title="TV NACIONAL",47 | VISIÓN SUR |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/VisionSur.jpg" group-title="TV NACIONAL",47 | VISIÓN SUR |
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",48 | IDENTIDAD TV |
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/chunklist_w886518532.m3u8
@@ -152,11 +152,11 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/23/40/png-transparent-logo-deutsche-welle-dw-tv-dw-espanol-lacrosse-talk-radio-television-blue-text.png" group-title="NOTICIAS",110.1 | DW ESPAÑOL |
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://www.azam.info/images/hispan-tv-logo-television-station-interview.png" group-title="NOTICIAS",112 | HISPANTV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/hispantv.jpg" group-title="NOTICIAS",112 | HISPANTV |
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.azam.info/images/hispan-tv-logo-television-station-interview.png" group-title="NOTICIAS",112.1 | HISPANTV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/hispantv.jpg" group-title="NOTICIAS",112.1 | HISPANTV |
 https://live3.presstv.ir/hispantv/07.m3u8
-#EXTINF:-1 tvg-logo="https://www.azam.info/images/hispan-tv-logo-television-station-interview.png" group-title="NOTICIAS",112.2 | HISPANTV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/hispantv.jpg" group-title="NOTICIAS",112.2 | HISPANTV |
 https://live3.presstv.ir/hispantv/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="NOTICIAS",114 | CGTN EN ESPAÑOL |
 https://livees.cgtn.com/1000e/prog_index.m3u8
