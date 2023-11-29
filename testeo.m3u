@@ -55,7 +55,7 @@ https://ott1.hdlatam.tv/live/trivutv/playlist.m3u8
 https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/SE%C3%91AL%20PERU.jpg" group-title="TV NACIONAL",20 | SEÑAL PERU TV |
 https://livestream.perucast.com/low/stream_low/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="TV NACIONAL",21 | URANIO TV |
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/UranioTv.jpg" group-title="TV NACIONAL",21 | URANIO TV |
 https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="TV NACIONAL",22 | MAXIMA-TV SD |
 http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/151475
@@ -63,7 +63,7 @@ http://magmas5.com:8000/martinmbilbao/MFKVSE16K2/151475
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/antares.jpg" group-title="TV NACIONAL",25 | ANTARES TV |
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xYGkUR9.png" group-title="TV NACIONAL",26 | PERU GO TV |  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/PeruGoTv.jpg" group-title="TV NACIONAL",26 | PERU GO TV |  
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/Cusco/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peru-magico-pe.png" group-title="TV NACIONAL",27 | PERU MAGICO |
@@ -88,7 +88,7 @@ https://per01-lim01.servidor.stream/usiltv/index.m3u8
 https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/chunklist_w571425480.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/VisionSur.jpg" group-title="TV NACIONAL",47 | VISIÓN SUR |
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",48 | IDENTIDAD TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/IdentidadTv.jpg" group-title="TV NACIONAL",48 | IDENTIDAD TV |
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/chunklist_w886518532.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s305740/images/logod.png" group-title="TV NACIONAL",49 | TELESUR MOQUEGUA |
 https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
@@ -142,7 +142,7 @@ http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/589383
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2019_12/large.1365812628_BoliviaTV20191b.png.ed374f34c0627622a7f2492628abb066.png" group-title="NOTICIAS",104 | BOLIVIA TV |
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="NOTICIAS",106 | TVGE |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Tvge.jpg" group-title="NOTICIAS",106 | TVGE |
 https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_2017.png/revision/latest?cb=20210217012618&path-prefix=es" group-title="NOTICIAS",108 | CARACOL TV |
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/61894
