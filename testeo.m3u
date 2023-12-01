@@ -200,3 +200,19 @@ http://160.20.165.245:8000/play/a00y/index.m3u8
 
 
 
+
+
+
+
+
+%%%%%CINE ACCION%%%%%
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Nowhere (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpzFxv78UvYG5yQba2soO5mMl4T.jpg" group-title="CINE ACCION",Nowhere (2023)
+http://svtv.xyz:8080/movie/MariaDiaz/RFZQJtZ/448305.mp4
+
+
+
+
