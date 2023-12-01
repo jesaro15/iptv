@@ -212,6 +212,8 @@ http://160.20.165.245:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Nowhere (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpzFxv78UvYG5yQba2soO5mMl4T.jpg" group-title="CINE ACCION",Nowhere (2023)
 http://svtv.xyz:8080/movie/MariaDiaz/RFZQJtZ/448305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dos Contra El Hielo (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xDJ1n9SvGaIk75Hwz4LRJgyNO3t.jpg" group-title="CINE ACCION",Dos Contra El Hielo (2022)
+http://lobo-tv.live:8080/movie/Luis440/Luis/2095453.mp4
 
 
 
