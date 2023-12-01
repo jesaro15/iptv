@@ -194,8 +194,8 @@ https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313026
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="NOTICIAS",128 | EURO NEWS |
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",130 | NTN 24 |
-http://160.20.165.245:8000/play/a00y/index.
+#EXTINF:-1 tvg-logo="https://www.ntn24.com/__assets/images/logo.png" group-title="NOTICIAS",130 | NTN 24 |
+http://160.20.165.245:8000/play/a00y/index.m3u8
 
 
 
