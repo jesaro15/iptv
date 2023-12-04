@@ -126,6 +126,14 @@ https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/NovaStar.jpg" group-title="TV NACIONAL",73 | NOVA STAR TV | 
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
+#EXTINF:-1 tvg-logo="https://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png",75 | TV COSMOS |
+https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w759963595.m3u8
+#EXTINF:-1 tvg-logo="",76 | MASTER TV |  
+https://tv.ondadigital.pe:1936/master/master/chunklist_w1899308980.m3u8
+#EXTINF:-1 tvg-logo="",77 | SOL TV |  
+https://video03.logicahost.com.br/soltv/soltv/chunklist_w272608635.m3u8
+
+
 
 
 
