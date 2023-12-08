@@ -50,7 +50,7 @@ https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TrivuTv.jpg" group-title="TV NACIONAL",17 | TRIVU TV |
 https://www.chasquirouter.com/salida/trivu.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TrivuTv.jpg" group-title="TV NACIONAL",17.1 |TRIVU TV |
-https://ott1.hdlatam.tv/live/trivutv/playlist.m3u8
+https://www.chasquirouter.com/salida/sd/trivu.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nacionaltvperu.jpg" group-title="TV NACIONAL",19 | NACIONAL TV PERU |
 https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/SE%C3%91AL%20PERU.jpg" group-title="TV NACIONAL",20 | SEÑAL PERU TV |
