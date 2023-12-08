@@ -97,7 +97,7 @@ https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/702_Unitel.png" group-title="TV NACIONAL",53 | UNITEL |
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s13908g.png" group-title="TV NACIONAL",54 | RADIO SAN BORJA |
-http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/273930
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w1741627833.m3u8
 #EXTINF:-1 tvg-logo="https://teleamazonas.pe/wp-content/uploads/2023/09/logo1-teleamazonas.png" group-title="TV NACIONAL",55 | TELEAMAZONAS  |
 https://live.tvcontrolcp.com:1936/8054/8054/chunklist_w1423969700.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/OVACION.jpg" group-title="TV NACIONAL",57 | OVACION TV |
@@ -128,10 +128,10 @@ https://video2.lhdserver.es/cableperu/live.m3u8
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
 #EXTINF:-1 tvg-logo="https://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png" group-title="TV NACIONAL",75 | TV COSMOS |
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w759963595.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",76 | MASTER TV |  
-https://tv.ondadigital.pe:1936/master/master/chunklist_w1899308980.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",77 | SOL TV |  
-https://video03.logicahost.com.br/soltv/soltv/chunklist_w272608635.m3u8
+#EXTINF:-1 tvg-logo="https://mastertvradio.com/img/logo.png" group-title="TV NACIONAL",76 | MASTER TV |  
+https://tv.ondadigital.pe:1936/master/master/chunklist_w1743909154.m3u8
+#EXTINF:-1 tvg-logo="https://soltvperu.com/web/wp-content/uploads/2019/05/soltv-logonew.png" group-title="TV NACIONAL",77 | SOL TV |  
+https://video03.logicahost.com.br/soltv/soltv/chunklist_w100152400.m3u8
 
 
 
