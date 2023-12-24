@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/willlax.jpg" group-title="TV NACIONAL",1 | WILLAX |
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/178232.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/willlax.jpg" group-title="TV NACIONAL",1.1 | WILLAX |
@@ -131,12 +132,43 @@ https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w759963595.m3u8
 #EXTINF:-1 tvg-logo="https://mastertvradio.com/img/logo.png" group-title="TV NACIONAL",76 | MASTER TV |  
 https://tv.ondadigital.pe:1936/master/master/chunklist_w1743909154.m3u8
 #EXTINF:-1 tvg-logo="https://soltvperu.com/web/wp-content/uploads/2019/05/soltv-logonew.png" group-title="TV NACIONAL",77 | SOL TV |  
-https://video03.logicahost.com.br/soltv/soltv/chunklist_w100152400.m3u8
+https://video03.logicahost.com.br/soltv/soltv/chunklist_w1946435464.m3u8
+#EXTINF:-1 tvg-logo="https://soltvperu.com/web/wp-content/uploads/2019/05/soltv-logonew.png" group-title="TV NACIONAL",77.1 | SOL TV |
+https://video03.logicahost.com.br/soltv/soltv/chunklist_w206717324.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",78 | PERU CHANNEL TV |
+https://a.cdni.live/peruchanel/peruchanel/chunklist_w385659098.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",79 | CR TV |
+https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",80 | VCLASSIC TV |
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1888254998.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",80.1| VCLASSIC TV |
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/151478
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/978_DMJ.png" group-title="TV NACIONAL",82 | DMJ | 
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",84 | NATIVA VRAEM |
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",84.1 | NATIVA VRAEM |
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/151637
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",85 | VISION NOTICIAS PERU |
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",85.1 | VISION NOTICIAS PERU |
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/151620
 
 
 
 
 
+
+
+
+
+
+
+
+
+****************************************************************************
+*******************  CANALES DE NOTICIAS INTERNACIONALES  ******************
+****************************************************************************
 ****************************************************************************
 *******************  CANALES DE NOTICIAS INTERNACIONALES  ******************
 ****************************************************************************
