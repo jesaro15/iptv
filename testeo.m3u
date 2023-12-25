@@ -3,9 +3,9 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/willlax.jpg" group-title="TV NACIONAL",1 | WILLAX |
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/178232.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/willlax.jpg" group-title="TV NACIONAL",1.1 | WILLAX |
-http://tv.proyectox.vip:8080/L0vjEGB3MC/GF8Nqw8gZ5/116085
+http://lobo-tv.live:8080/Luis440/Luis/200945
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="TV NACIONAL",2 | LATINA TV |
-https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
+https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="TV NACIONAL",2.1 | LATINA TV |
 https://jireh-2-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="TV NACIONAL",3 | RPP TV |
@@ -13,13 +13,14 @@ http://tv.proyectox.vip:8080/L0vjEGB3MC/GF8Nqw8gZ5/59876
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="TV NACIONAL",3.1 | RPP TV |
 http://00322.xyz:8000/coachprato/40437757/4845
 #EXTINF:-1 tvg-logo="https://media.giphy.com/avatars/america-tv/xQbOxJZdsl4g.png" group-title="TV NACIONAL",4 | AMERICA TV |
-http://tv.proyectox.vip:8080/L0vjEGB3MC/GF8Nqw8gZ5/59859
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/178241.ts
 #EXTINF:-1 tvg-logo="https://media.giphy.com/avatars/america-tv/xQbOxJZdsl4g.png" group-title="TV NACIONAL",4.1 | AMERICA TV |
-http://tv.proyectox.vip:8080/L0vjEGB3MC/GF8Nqw8gZ5/5275
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/panamericanape.png" group-title="TV NACIONAL",5 | PANAMERICANA TV |
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591330
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/178229.ts
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/panamericanape.png" group-title="TV NACIONAL",5.1 | PANAMERICANA TV |
 https://cdnhd.iblups.com/hls/ptv5.m3u8
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/panamericanape.png" group-title="TV NACIONAL",5 | PANAMERICANA TV |
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591330
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/exitosa.jpg" group-title="TV NACIONAL",6 | EXITOSA TV |
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/exitosa.jpg" group-title="TV NACIONAL",6.1 | EXITOSA TV |
@@ -68,7 +69,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/Cusco/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peru-magico-pe.png" group-title="TV NACIONAL",27 | PERU MAGICO |
-http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/124556
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/151547
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="TV NACIONAL",29 | CONECTA2 TV |
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="TV NACIONAL",31 | BH TV |
@@ -169,6 +170,7 @@ http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/151620
 ****************************************************************************
 *******************  CANALES DE NOTICIAS INTERNACIONALES  ******************
 ****************************************************************************
+
 ****************************************************************************
 *******************  CANALES DE NOTICIAS INTERNACIONALES  ******************
 ****************************************************************************
