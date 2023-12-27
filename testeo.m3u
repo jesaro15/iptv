@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/willlax.jpg" group-title="TV NACIONAL",1 | WILLAX |
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/178232.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/willlax.jpg" group-title="TV NACIONAL",1.1 | WILLAX |
@@ -16,9 +17,9 @@ http://00322.xyz:8000/coachprato/40437757/4845
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/178241.ts
 #EXTINF:-1 tvg-logo="https://media.giphy.com/avatars/america-tv/xQbOxJZdsl4g.png" group-title="TV NACIONAL",4.1 | AMERICA TV |
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/178229.ts
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/panamericanape.png" group-title="TV NACIONAL",5.1 | PANAMERICANA TV |
-https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/panamericanape.png" group-title="TV NACIONAL",5 | PANAMERICANA TV |
+https://cdnhd.iblups.com/hls/ptv5.m3u8
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/panamericanape.png" group-title="TV NACIONAL",5.1 | PANAMERICANA TV |
 http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591330
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/exitosa.jpg" group-title="TV NACIONAL",6 | EXITOSA TV |
@@ -150,10 +151,10 @@ https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",84.1 | NATIVA VRAEM |
 http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/151637
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",85 | VISION NOTICIAS PERU |
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",85 | CABLE VISION PERU |
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",85.1 | VISION NOTICIAS PERU |
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/151620
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",85.1 | VISION NDV |
+https://soportedvb.click:3891/live/visionndvlive.m3u8
 
 
 
