@@ -247,6 +247,28 @@ http://160.20.165.245:8000/play/a00y/index.m3u8
 
 
 
+*****************************************
+****************PELICULAS****************
+*****************************************
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/d108d7a118a5ca834232caf17ea78a70d7448ad584bcc2afe29c2af6b7ec34ac.jpg" group-title="PELICULAS",El proyecto colibrí (2019)
+https://jaciptv.com:443/movie/Zona0203/se6LZb3BRuNz/321322.mkv
+
+#EXTINF:-1,El rapto (2023)
+https://jaciptv.com:443/movie/Zona0203/se6LZb3BRuNz/320950.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHDpaLB6gMKyD8hMtSthtV7yPt9.jpg" group-title="PELICULAS",La princesa prometida (1987)
+http://00322.xyz:8000/movie/adrianmalossi13/CQP9TJ8MZD/153584.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lP3eQ8Xnhm46nlVBawLPQGbw4LR.jpg" group-title="PELICULAS",El espíritu de la Navidad (2022)
+http://panthercanary.com:8080/movie/7VRGtRqyXhwp/BjGGpGxeNRLB/59569.mkv
+
+#EXTINF:-1 tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/41812-517098-20230226082213.jpg group-title="PELICULAS",Maravilloso desastre (2023)
+http://nxt.plus:8080/movie/MarceCo/CorreaMar/171433.mkv
+
+
+
 
 ******************************************
 ****************** CINE ACCION ***********
