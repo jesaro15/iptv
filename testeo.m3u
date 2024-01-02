@@ -249,6 +249,8 @@ http://160.20.165.245:8000/play/a00y/index.m3u8
 https://bmcc.nhkworld.jp/live2/index_1M.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="NOTICIAS",132.1 | NHK JAPAN HD |
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",134 | CHILEVISION NOTICIAS |
+https://jireh-2-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_1000.m3u8
 
 
 
