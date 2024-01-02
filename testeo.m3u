@@ -235,7 +235,7 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklis
 http://tv.boxdigital.org:8080/HugoOyarzua2/9HCX3HVA/189450
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS",124.1 | CNN EN ESPAÑOL |
 http://181.78.24.67:8010/play/a03p/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",125 | LA 1 TV |
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="NOTICIAS",125 | LA 1 TV |
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="NOTICIAS",127 | CABLE-NOTICIAS |
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
@@ -245,6 +245,10 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313026
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntn24.com/__assets/images/logo.png" group-title="NOTICIAS",130 | NTN 24 |
 http://160.20.165.245:8000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="NOTICIAS",132 | NHK WORLD SD |
+https://bmcc.nhkworld.jp/live2/index_1M.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="NOTICIAS",132.1 | NHK JAPAN HD |
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
 
 
