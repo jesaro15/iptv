@@ -304,31 +304,38 @@ https://jireh-2-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",200 | LIGA 1 MAX | FHD 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",200 | LIGA 1 |
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/322941.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",201 | LIGA 1 |
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/322942.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",202 | LIGA 1 MAX | FHD 
 http://nxt.plus:8080/jesus01/jesus01/130639
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",200.1 | LIGA 1 MAX | HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",203 | LIGA 1 MAX |
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/322943.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",204 | LIGA 1 MAX | HD
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/478008
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",200.2 | Liga 1 MAX | SD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",205 | LIGA 1 MAX |
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/322944.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",206 | Liga 1 MAX | SD
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/499709
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",207 | LIGA 1 MAX |
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/322945.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",208 | LIGA 1 MAX |
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/322946.ts
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-bv4wVCJrQoo/T0K9bXfoacI/AAAAAAAAB0c/HohDzQlvB0c/s1600/cmd_logo1.png" group-title="DEPORTES PERU",202 | MOVISTAR Deportes |
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-bv4wVCJrQoo/T0K9bXfoacI/AAAAAAAAB0c/HohDzQlvB0c/s1600/cmd_logo1.png" group-title="DEPORTES PERU",212 | MOVISTAR Deportes |
 http://00322.xyz:8000/coachprato/40437757/4836
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/movistar-plus-logo-png-1.png" group-title="DEPORTES PERU",204 | MOVISTAR PLUS |
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/movistar-plus-logo-png-1.png" group-title="DEPORTES PERU",214 | MOVISTAR PLUS |
 http://00322.xyz:8000/coachprato/40437757/3327
-
-#EXTINF:-1 tvg-id="" tvg-name="PER: MOVISTAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Movistar_TV_%28Latin_America%29_-_2018_logo.png" group-title="DEPORTES PERU",206 | MOVISTAR PLUS |
+#EXTINF:-1 tvg-id="" tvg-name="PER: MOVISTAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Movistar_TV_%28Latin_America%29_-_2018_logo.png" group-title="DEPORTES PERU",216 | MOVISTAR PLUS |
 http://00322.xyz:8000/coachprato/40437757/3328
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/movistar-pe-hd.png" group-title="TV NACIONAL",210 | MOVISTAR DEPORTES |
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/movistar-pe-hd.png" group-title="TV NACIONAL",218 | MOVISTAR DEPORTES |
 http://nxt.plus:8080/jesus01/jesus01/12261
 
-#EXTINF:0 tvg-logo="https://golperu.s3.amazonaws.com/assets/golperu_sharefb.png" group-title="DEPORTES PERU",212 | GOLPERU |
+#EXTINF:0 tvg-logo="https://golperu.s3.amazonaws.com/assets/golperu_sharefb.png" group-title="DEPORTES PERU",220 | GOLPERU |
 http://nxt.plus:8080/jesus01/jesus01/25347
-
-#EXTINF:-1 tvg-logo="https://golperu.s3.amazonaws.com/assets/golperu_sharefb.png" group-title="DEPORTES PERU",212.1 | GOL PERU |
+#EXTINF:-1 tvg-logo="https://golperu.s3.amazonaws.com/assets/golperu_sharefb.png" group-title="DEPORTES PERU",222 | GOL PERU |
 http://00322.xyz:8000/coachprato/40437757/4828
 
 
