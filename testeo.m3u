@@ -304,34 +304,31 @@ https://jireh-2-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/liga1-max-hd.png" group-title="DEPORTES PERU",300 | LIGA 1 MAX ᴴᴰ |  
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",200 | LIGA 1 MAX | FHD 
 http://nxt.plus:8080/jesus01/jesus01/130639
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",300.1 | LIGA 1 MAX OP2 |
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",200.1 | LIGA 1 MAX | HD
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/478008
 
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png" group-title="DEPORTES PERU",300.2 | Liga 1 MAX OP3 |
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",200.2 | Liga 1 MAX | SD
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/499709
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-bv4wVCJrQoo/T0K9bXfoacI/AAAAAAAAB0c/HohDzQlvB0c/s1600/cmd_logo1.png" group-title="DEPORTES PERU",302 | CMD Deportes |
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-bv4wVCJrQoo/T0K9bXfoacI/AAAAAAAAB0c/HohDzQlvB0c/s1600/cmd_logo1.png" group-title="DEPORTES PERU",202 | MOVISTAR Deportes |
 http://00322.xyz:8000/coachprato/40437757/4836
 
-#EXTINF:-1 tvg-id="" tvg-name="PER: MOVISTAR PLUS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/movistar-plus-logo-png-1.png" group-title="DEPORTES PERU",304 | MOVISTAR PLUS |
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/movistar-plus-logo-png-1.png" group-title="DEPORTES PERU",204 | MOVISTAR PLUS |
 http://00322.xyz:8000/coachprato/40437757/3327
 
-#EXTINF:-1 tvg-id="" tvg-name="PER: MOVISTAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Movistar_TV_%28Latin_America%29_-_2018_logo.png" group-title="DEPORTES PERU",306 | MOVISTAR TV |
+#EXTINF:-1 tvg-id="" tvg-name="PER: MOVISTAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Movistar_TV_%28Latin_America%29_-_2018_logo.png" group-title="DEPORTES PERU",206 | MOVISTAR PLUS |
 http://00322.xyz:8000/coachprato/40437757/3328
 
-#EXTINF:-1 tvg-id="" tvg-name="PER: MOVISTAR PLUS TV HD" tvg-logo="https://seeklogo.com/images/P/plustv-logo-2F49BC7B33-seeklogo.com.png" group-title="DEPORTES PERU",308 | MOVISTAR PLUS TV HD |
-http://00322.xyz:8000/coachprato/40437757/3329
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/movistar-pe-hd.png" group-title="TV NACIONAL",310 | MOVISTAR DEPORTES |
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/movistar-pe-hd.png" group-title="TV NACIONAL",210 | MOVISTAR DEPORTES |
 http://nxt.plus:8080/jesus01/jesus01/12261
 
-#EXTINF:0 tvg-logo="" group-title="DEPORTES PERU",87 | GOLPERU |
+#EXTINF:0 tvg-logo="https://golperu.s3.amazonaws.com/assets/golperu_sharefb.png" group-title="DEPORTES PERU",212 | GOLPERU |
 http://nxt.plus:8080/jesus01/jesus01/25347
 
-#EXTINF:-1 tvg-logo="https://golperu.s3.amazonaws.com/assets/golperu_sharefb.png" group-title="DEPORTES PERU",87 | GOL PERU |
+#EXTINF:-1 tvg-logo="https://golperu.s3.amazonaws.com/assets/golperu_sharefb.png" group-title="DEPORTES PERU",212.1 | GOL PERU |
 http://00322.xyz:8000/coachprato/40437757/4828
 
 
