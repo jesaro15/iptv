@@ -250,13 +250,16 @@ https://jireh-2-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76
 
 
 
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",200 | LIGA 1 |
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",200 | LIGA 1 |FHD
+http://nxt.plus:8080/MarceCo/CorreaMar/167070
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",200.1 | LIGA 1 |HD
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/322941.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",201 | LIGA 1 |
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",201 | LIGA 1 |SD
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/322942.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="DEPORTES PERU",202 | LIGA 1 MAX | VIP
 http://sdmx.vip:8080/Joseluis/Joseluis123/2159178
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="DEPORTES PERU",202.1 | LIGA 1 MAX | VIP OP2
+http://nxt.plus:8080/MarceCo/CorreaMar/130639
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",203 | LIGA 1 MAX | FHD 
 http://nxt.plus:8080/jesus01/jesus01/130639
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",204 | LIGA 1 MAX |
