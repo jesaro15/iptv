@@ -186,7 +186,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 #EXTINF:-1 tvg-logo="https://www.azam.info/images/hispan-tv-logo-television-station-interview.png" group-title="NOTICIAS",112 | HISPANTV |
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.azam.info/images/hispan-tv-logo-television-station-interview.png" group-title="NOTICIAS",112.1 | HISPANTV |
-https://live3.presstv.ir/hispantv/07.m3u8
+https://cdnlive.presstv.ir/live/smil:live.smil/chunklist_w121634031_b644100_slen.m3u8
 #EXTINF:-1 tvg-logo="https://www.azam.info/images/hispan-tv-logo-television-station-interview.png" group-title="NOTICIAS",112.2 | HISPANTV |
 https://live3.presstv.ir/hispantv/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="NOTICIAS",114 | CGTN EN ESPAÑOL |
