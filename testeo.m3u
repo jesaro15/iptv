@@ -184,7 +184,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/23/40/png-transparent-logo-deutsche-welle-dw-tv-dw-espanol-lacrosse-talk-radio-television-blue-text.png" group-title="NOTICIAS",110.1 | DW ESPAÑOL |
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://www.azam.info/images/hispan-tv-logo-television-station-interview.png" group-title="NOTICIAS",112 | HISPANTV |
-https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
+https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.azam.info/images/hispan-tv-logo-television-station-interview.png" group-title="NOTICIAS",112.1 | HISPANTV |
 https://live3.presstv.ir/hispantv/07.m3u8
 #EXTINF:-1 tvg-logo="https://www.azam.info/images/hispan-tv-logo-television-station-interview.png" group-title="NOTICIAS",112.2 | HISPANTV |
