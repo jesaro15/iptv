@@ -59,3 +59,27 @@ http://sdmx.vip:8080/Joseluis/Joseluis123/2123473
 http://sdmx.vip:8080/Joseluis/Joseluis123/2123474
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg"" group-title="DEPORTES" group-title="DEPORTES PERU",239 | DIRECTV SPORTS FHD |
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/158506
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PERU",240 | DSPORTS 2 LA |
+http://nxt.plus:8080/MarceCo/CorreaMar/207339
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PERU",241 | DSPORTS LA |
+http://nxt.plus:8080/MarceCo/CorreaMar/207338
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PERU",242 | DSPORTS+ LA | 
+http://nxt.plus:8080/MarceCo/CorreaMar/207340
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PERU",243 | DSPORTS | CO ᴴᴰ
+http://nxt.plus:8080/MarceCo/CorreaMar/160611
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PERU",244 | DSPORTS | EC ᴴᴰ
+http://nxt.plus:8080/MarceCo/CorreaMar/116425
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PERU",245 | DSPORTS+ | CL ᴴᴰ
+http://nxt.plus:8080/MarceCo/CorreaMar/68830
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PERU",246 | DSPORTS | CL ᴴᴰ
+http://nxt.plus:8080/MarceCo/CorreaMar/68829
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/an/thumb/c/c7/Logo_Real_Madrid.svg/1200px-Logo_Real_Madrid.svg.png" group-title="DEPORTES PERU",250 | REAL MADRID TV ᴴᴰ |
+http://nxt.plus:8080/MarceCo/CorreaMar/166703
