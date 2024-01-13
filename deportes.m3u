@@ -47,9 +47,15 @@ http://nxt.plus:8080/jesus01/jesus01/12261
 http://00322.xyz:8000/coachprato/40437757/3327
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="DEPORTES PERU",233 | MOVISTAR PLUS |
 http://00322.xyz:8000/coachprato/40437757/3328
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg",234 | DIRECTV SPORTS + FHD |
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES PERU",234 | DIRECTV SPORTS + FHD |
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/181256.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg",235 | DIRECTV SPORTS FHD |
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES PERU",235 | DIRECTV SPORTS FHD |
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/181234.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg",236 | DIRECTV SPORTS 2 FHD |
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES PERU",236 | DIRECTV SPORTS 2 FHD |
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/181233.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES PERU",237 | Directv Sports | 2MB
+http://sdmx.vip:8080/Joseluis/Joseluis123/2123473
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES PERU",238 | DIRECTV SPORTS 2 | 2MB
+http://sdmx.vip:8080/Joseluis/Joseluis123/2123474
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg"" group-title="DEPORTES" group-title="DEPORTES PERU",239 | DIRECTV SPORTS FHD |
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/158506
