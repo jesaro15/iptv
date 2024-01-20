@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" group-title="EVENTOS DEL DIA",| ZAPPING SPORTS |
+http://nxt.plus:8080/olmos/1234guz/198262
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1.jpg" group-title="DEPORTES PERU",200 | LIGA 1 |FHD
 http://nxt.plus:8080/MarceCo/CorreaMar/167070
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1.jpg" group-title="DEPORTES PERU",201 | LIGA 1 |HD
