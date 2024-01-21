@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" group-title="EVENTOS DEL DIA",| ZAPPING SPORTS |
-http://nxt.plus:8080/olmos/1234guz/198262
+https://edge1.tiofutbol.com/golperu/tracks-v1a1/mono.m3u8?remote=201.218.159.218&token=be0fba18418de1b379941eac64c54f0296f088ea-612c5eedbb88071ec54b33ab9f117dd7-1705870485-1705859685
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1.jpg" group-title="DEPORTES PERU",200 | LIGA 1 |FHD
 http://nxt.plus:8080/MarceCo/CorreaMar/167070
