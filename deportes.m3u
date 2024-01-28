@@ -1,6 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="DEPORTES PERU",190 | LIGA 1 MAX 	| OP1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1280px-FOX_Deportes_logo.svg.png",198 | FOX DEPORTES/L1 MAX |
+http://home-playtv.com:8080/garayale/KSGSU/36396
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="DEPORTES PERU",199 | LIGA 1 MAX 	| OP1
 http://home-playtv.com:8080/garayale/KSGSU/469158
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="DEPORTES PERU",200 | LIGA 1 MAX | OP2
 http://home-playtv.com:8080/garayale/KSGSU/478008
@@ -16,6 +19,7 @@ http://nxt.plus:8080/MarceCo/CorreaMar/130639
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="DEPORTES PERU",205 | LIGA 1 MAX | VIP 3 
 http://nxt.plus:8080/jesus01/jesus01/130639
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1max2.jpg" group-title="DEPORTES PERU",206 | LIGA 1 MAX | VIP 4
+https://live.obslivestream.com/cdeportivo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1.jpg" group-title="DEPORTES PERU",207 | LIGA 1 MAX |FHD
 http://nxt.plus:8080/MarceCo/CorreaMar/167070
@@ -41,18 +45,25 @@ https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/322946.ts
 
 #EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",220 | GOLPERU |
 http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/4828
+
 #EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",221 | GOLPERU |
 http://nxt.plus:8080/jesus01/jesus01/25347
+
 #EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",222 | GOLPERU |
 http://00322.xyz:8000/coachprato/40437757/4828
+
 #EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",223 | GOLPERU |
 http://sdmx.vip:8080/Joseluis/Joseluis123/10921
+
 #EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",224 | GOLPERU |
 http://nxt.plus:8080/MarceCo/CorreaMar/9758
+
 #EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",225 | GOLPERU |
 http://sdmx.vip:8080/Joseluis/Joseluis123/179041
+
 #EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",226 | GOLPERU |
 http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/4841
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/movistar-pe-hd.png" group-title="DEPORTES PERU",230 | MOVISTAR DEPORTES |
 http://00322.xyz:8000/coachprato/40437757/4836
@@ -108,6 +119,20 @@ http://nxt.plus:8080/MarceCo/CorreaMar/68829
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/an/thumb/c/c7/Logo_Real_Madrid.svg/1200px-Logo_Real_Madrid.svg.png" group-title="DEPORTES PERU",250 | REAL MADRID TV ᴴᴰ |
 http://nxt.plus:8080/MarceCo/CorreaMar/166703
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES PERU",260 | FOX Sports 2 ARG HD |
+http://home-playtv.com:8080/garayale/KSGSU/19652
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES PERU",261 | FOX Sports 2 HD BRA |
+http://home-playtv.com:8080/garayale/KSGSU/48540
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES PERU",262 | FOX Sports 2 MEX HD |
+http://home-playtv.com:8080/garayale/KSGSU/19495
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES PERU",263 | FOX Sports 3 ARG HD |
+http://home-playtv.com:8080/garayale/KSGSU/19496
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES PERU",264 | FOX Sports 3 HD MEX |
+http://home-playtv.com:8080/garayale/KSGSU/9538
 
 
 
