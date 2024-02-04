@@ -43,6 +43,9 @@ https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/322945.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1max2.jpg" group-title="DEPORTES PERU",214 | LIGA 1 MAX |
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/322946.ts
 
+#EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",219 | GOLPERU 4K|
+http://rasaiptv.com:8080/ZpetyFRan36/XefraM37/156153
+
 #EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",220 | GOLPERU |
 http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/4828
 
