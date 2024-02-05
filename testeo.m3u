@@ -250,53 +250,139 @@ https://jireh-2-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",200 | LIGA 1 |FHD
-http://nxt.plus:8080/MarceCo/CorreaMar/167070
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",200.1 | LIGA 1 |HD
-https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/322941.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",201 | LIGA 1 |SD
-https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/322942.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="DEPORTES PERU",202 | LIGA 1 MAX | VIP
-http://sdmx.vip:8080/Joseluis/Joseluis123/2159178
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="DEPORTES PERU",202.1 | LIGA 1 MAX | VIP OP2
-http://nxt.plus:8080/MarceCo/CorreaMar/130639
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",203 | LIGA 1 MAX | FHD 
-http://nxt.plus:8080/jesus01/jesus01/130639
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",204 | LIGA 1 MAX |
-https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/322943.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",205 | LIGA 1 MAX | HD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/478008
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",206 | LIGA 1 MAX |
-https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/322944.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",207 | Liga 1 MAX | SD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/499709
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",208 | LIGA 1 MAX |
-https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/322945.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1280px-FOX_Deportes_logo.svg.png" group-title="DEPORTES PERU",198 | FOX DEPORTES/L1 MAX |
+http://home-playtv.com:8080/garayale/KSGSU/36396
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DwV0WdpXQAEiHsC.jpg" group-title="DEPORTES PERU",209 | LIGA 1 MAX |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="DEPORTES PERU",199 | LIGA 1 MAX 	| OP1
+http://home-playtv.com:8080/garayale/KSGSU/469158
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="DEPORTES PERU",200 | LIGA 1 MAX | OP2
+http://home-playtv.com:8080/garayale/KSGSU/478008
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="DEPORTES PERU",201 | Liga 1 MAX | OP3
+http://home-playtv.com:8080/garayale/KSGSU/499709
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="DEPORTES PERU",202 | LIGA 1 MAX | OP4
+http://home-playtv.com:8080/garayale/KSGSU/478009
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="DEPORTES PERU",203 | LIGA 1 MAX | VIP 1
+http://sdmx.vip:8080/Joseluis/Joseluis123/2159178
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="DEPORTES PERU",204 | LIGA 1 MAX | VIP 2
+http://nxt.plus:8080/MarceCo/CorreaMar/130639
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="DEPORTES PERU",205 | LIGA 1 MAX | VIP 3 
+http://nxt.plus:8080/jesus01/jesus01/130639
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1max2.jpg" group-title="DEPORTES PERU",206 | LIGA 1 MAX | VIP 4
+https://live.obslivestream.com/cdeportivo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1.jpg" group-title="DEPORTES PERU",207 | LIGA 1 MAX |FHD
+http://nxt.plus:8080/MarceCo/CorreaMar/167070
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1.jpg" group-title="DEPORTES PERU",208 | LIGA 1 MAX |HD
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/322941.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1.jpg" group-title="DEPORTES PERU",209 | LIGA 1 MAX |SD
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/322943.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1max2.jpg" group-title="DEPORTES PERU",210 | LIGA 1 MAX | HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/478008
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1max2.jpg" group-title="DEPORTES PERU",211 | LIGA 1 MAX |
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/322944.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1max2.jpg" group-title="DEPORTES PERU",212 | Liga 1 MAX | SD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/499709
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1max2.jpg" group-title="DEPORTES PERU",213 | LIGA 1 MAX |
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/322945.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1max2.jpg" group-title="DEPORTES PERU",214 | LIGA 1 MAX |
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/322946.ts
 
+#EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",220 | GOLPERU |
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/4828
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-bv4wVCJrQoo/T0K9bXfoacI/AAAAAAAAB0c/HohDzQlvB0c/s1600/cmd_logo1.png" group-title="DEPORTES PERU",212 | MOVISTAR Deportes |
-http://00322.xyz:8000/coachprato/40437757/4836
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/movistar-plus-logo-png-1.png" group-title="DEPORTES PERU",214 | MOVISTAR PLUS |
-http://00322.xyz:8000/coachprato/40437757/3327
-#EXTINF:-1 tvg-id="" tvg-name="PER: MOVISTAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Movistar_TV_%28Latin_America%29_-_2018_logo.png" group-title="DEPORTES PERU",216 | MOVISTAR PLUS |
-http://00322.xyz:8000/coachprato/40437757/3328
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/movistar-pe-hd.png" group-title="DEPORTES PERU",218 | MOVISTAR DEPORTES |
-http://nxt.plus:8080/jesus01/jesus01/12261
-
-#EXTINF:0 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",220 | GOLPERU |
+#EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",221 | GOLPERU |
 http://nxt.plus:8080/jesus01/jesus01/25347
-#EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",222 | GOL PERU |
+
+#EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",222 | GOLPERU |
 http://00322.xyz:8000/coachprato/40437757/4828
 
-#EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",223 | GOL PERU |
+#EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",223 | GOLPERU |
 http://sdmx.vip:8080/Joseluis/Joseluis123/10921
-#EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",224 | GOL PERU |
-http://sdmx.vip:8080/Joseluis/Joseluis123/16369
-#EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",225 | GOL PERU |
+
+#EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",224 | GOLPERU |
+http://nxt.plus:8080/MarceCo/CorreaMar/9758
+
+#EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",225 | GOLPERU |
 http://sdmx.vip:8080/Joseluis/Joseluis123/179041
+
+#EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",226 | GOLPERU |
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/4841
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/movistar-pe-hd.png" group-title="DEPORTES PERU",230 | MOVISTAR DEPORTES |
+http://00322.xyz:8000/coachprato/40437757/4836
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/movistar-pe-hd.png" group-title="DEPORTES PERU",231 | MOVISTAR DEPORTES |
+http://nxt.plus:8080/jesus01/jesus01/12261
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="DEPORTES PERU",232 | MOVISTAR PLUS |
+http://00322.xyz:8000/coachprato/40437757/3327
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="DEPORTES PERU",233 | MOVISTAR PLUS |
+http://00322.xyz:8000/coachprato/40437757/3328
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES PERU",234 | DIRECTV SPORTS + FHD |
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/181256.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES PERU",235 | DIRECTV SPORTS FHD |
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/181234.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES PERU",236 | DIRECTV SPORTS 2 FHD |
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/181233.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES PERU",237 | Directv Sports | 2MB
+http://sdmx.vip:8080/Joseluis/Joseluis123/2123473
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES PERU",238 | DIRECTV SPORTS 2 | 2MB
+http://sdmx.vip:8080/Joseluis/Joseluis123/2123474
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES PERU" group-title="DEPORTES PERU",239 | DIRECTV SPORTS FHD |
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/158506
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES PERU",240 | DSPORTS 2 LA |
+http://nxt.plus:8080/MarceCo/CorreaMar/207339
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES PERU",241 | DSPORTS LA |
+http://nxt.plus:8080/MarceCo/CorreaMar/207338
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES PERU",242 | DSPORTS+ LA | 
+http://nxt.plus:8080/MarceCo/CorreaMar/207340
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES PERU",243 | DSPORTS | CO ᴴᴰ
+http://nxt.plus:8080/MarceCo/CorreaMar/160611
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES PERU",244 | DSPORTS | EC ᴴᴰ
+http://nxt.plus:8080/MarceCo/CorreaMar/116425
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES PERU",245 | DSPORTS+ | CL ᴴᴰ
+http://nxt.plus:8080/MarceCo/CorreaMar/68830
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES PERU",246 | DSPORTS | CL ᴴᴰ
+http://nxt.plus:8080/MarceCo/CorreaMar/68829
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/an/thumb/c/c7/Logo_Real_Madrid.svg/1200px-Logo_Real_Madrid.svg.png" group-title="DEPORTES PERU",250 | REAL MADRID TV ᴴᴰ |
+http://nxt.plus:8080/MarceCo/CorreaMar/166703
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES PERU",260 | FOX Sports 2 ARG HD |
+http://home-playtv.com:8080/garayale/KSGSU/19652
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES PERU",261 | FOX Sports 2 HD BRA |
+http://home-playtv.com:8080/garayale/KSGSU/48540
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES PERU",262 | FOX Sports 2 MEX HD |
+http://home-playtv.com:8080/garayale/KSGSU/19495
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES PERU",263 | FOX Sports 3 ARG HD |
+http://home-playtv.com:8080/garayale/KSGSU/19496
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES PERU",264 | FOX Sports 3 HD MEX |
+http://home-playtv.com:8080/garayale/KSGSU/9538
 
 
 
