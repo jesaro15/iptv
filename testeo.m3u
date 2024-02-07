@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/willlax.jpg" group-title="TV NACIONAL",1 | WILLAX |
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/178232.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/willlax.jpg" group-title="TV NACIONAL",1.1 | WILLAX |
@@ -152,12 +153,16 @@ https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/151637
 #EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",85 | CABLE VISION PERU |
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Visionndv.jpg" group-title="TV NACIONAL",85.1 | VISION NDV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Visionndv.jpg" group-title="TV NACIONAL",86 | VISION NDV |
 https://soportedvb.click:3891/live/visionndvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="TV NACIONAL",86 | AGRO TV |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="TV NACIONAL",87 | AGRO TV |
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",87 | RCR |  
-https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/chunklist_w686295337.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",88 | RCR |  
+https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/chunklist_w68889844.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",89 | CANAL 33 AYACUCHO |
+https://video2.getstreamhosting.com:19360/8206/8206.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",90 | PALMERAS TV |
+https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
 
 
 
