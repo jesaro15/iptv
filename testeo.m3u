@@ -164,6 +164,8 @@ https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
 #EXTINF:-1 tvg-logo="https://liketv.pe/wp-content/uploads/2023/09/likeeeeee-logoooo-2023.png" group-title="TV NACIONAL",91 | LIKE TV HD |
 #EXTVLCOPT:http-referrer=https://vdo.grupolimalive.com/broadcaster/ajax-get-current-viewer/liketv
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eYXqkyN.png" group-title="TV NACIONAL",92 | IMPERIAL TV |
+https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
 
 
 
