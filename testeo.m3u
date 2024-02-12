@@ -52,8 +52,6 @@ https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 https://v4.tustreaming.cl/ondadigitaltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TrivuTv.jpg" group-title="TV NACIONAL",17 | TRIVU TV |
 https://www.chasquirouter.com/salida/trivu.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TrivuTv.jpg" group-title="TV NACIONAL",17.1 |TRIVU TV |
-https://www.chasquirouter.com/salida/sd/trivu.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nacionaltvperu.jpg" group-title="TV NACIONAL",19 | NACIONAL TV PERU |
 https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/SE%C3%91AL%20PERU.jpg" group-title="TV NACIONAL",20 | SEÑAL PERU TV |
@@ -75,8 +73,8 @@ http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/151547
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="TV NACIONAL",31 | BH TV |
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8     
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="TV NACIONAL",31.1 | BH TV |
-https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w357457701.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2KcpOEU.png" group-title="TV NACIONAL",32 | VZ TV |
+https://live.obslivestream.com/vztv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="TV NACIONAL",33 | VINILOS TV |
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="TV NACIONAL",35 | CONTROVERSIA TV |
