@@ -195,7 +195,7 @@ https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.azam.info/images/hispan-tv-logo-television-station-interview.png" group-title="NOTICIAS",112.1 | HISPANTV |
 https://cdnlive.presstv.ir/live/smil:live.smil/chunklist_w121634031_b644100_slen.m3u8
 #EXTINF:-1 tvg-logo="https://www.azam.info/images/hispan-tv-logo-television-station-interview.png" group-title="NOTICIAS",112.2 | HISPANTV |
-https://live3.presstv.ir/hispantv/03.m3u8
+https://cdnlive.presstv.ir/live/smil:live.smil/chunklist_w1088451076_b644100_slen.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="NOTICIAS",114 | CGTN EN ESPAÑOL |
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/640px-France24.png" group-title="NOTICIAS",116 | FRANCE 24 EN ESPAÑOL |
