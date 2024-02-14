@@ -228,15 +228,14 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/854/340/png-clipart-logo-canal-institucional-graphic-designer-y-40-the-deep-joy-design-text-orange-thumbnail.png" group-title="NOTICIAS",123 | CANAL INSTITUCIONAL COLOMBIA |
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="NOTICIAS",124 | CNN CHILE |
-http://tv.boxdigital.org:8080/HugoOyarzua2/9HCX3HVA/189450
+https://nxt.plus:8443/jesus01/jesus01/187860
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS",124.1 | CNN EN ESPAÑOL |
-http://181.78.24.67:8010/play/a03p/index.m3u8
+https://nxt.plus:8443/jesus01/jesus01/59075
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="NOTICIAS",125 | LA 1 TV |
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="NOTICIAS",127 | CABLE-NOTICIAS |
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",128 | MEGA-NOTICIAS |
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313026
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="NOTICIAS",128 | EURO NEWS |
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntn24.com/__assets/images/logo.png" group-title="NOTICIAS",130 | NTN 24 |
