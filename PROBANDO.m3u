@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="A&E (low)" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_ae.png" group-title="LATINOS SD (baja conexion)",A&E (low)
+http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/260426
+#EXTINF:-1 tvg-id="" tvg-name="AMC (low)" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_amc.png" group-title="LATINOS SD (baja conexion)",AMC (low)
+http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/260427
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet (low)" tvg-logo="http://209.126.82.213/logos/mx_animal_planet.png" group-title="LATINOS SD (baja conexion)",Animal Planet (low)
+http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/260428
+#EXTINF:-1 tvg-id="" tvg-name="¡Vaya par de gemelos! (1978)" tvg-logo="http://boxdigital.xyz:8080/images/98418b110ee6ae09b6fd318ccd47ee57.jpg" group-title="PELICULAS VARIADAS (AUDIO CASTELLANO)",¡Vaya par de gemelos! (1978)
+http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/231820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Vente a Alemania, Pepe! (1971)" tvg-logo="http://boxdigital.xyz:8080/images/34930f64c49d859082c98d103e2b8794.jpg" group-title="PELICULAS VARIADAS (AUDIO CASTELLANO)",¡Vente a Alemania, Pepe! (1971)
+http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/231821.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Vivan los novios! (1970)" tvg-logo="http://boxdigital.xyz:8080/images/35091a3d1ba0845ed0b2fff56f5e91ce.jpg" group-title="PELICULAS VARIADAS (AUDIO CASTELLANO)",¡Vivan los novios! (1970)
+http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/231822.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cazador de tormentas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6uaKRc0Di2pfhRLFQaH5BntSJOH.jpg" group-title="PELICULAS 2023",Cazador de tormentas (2023)
+http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/191395.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin Rastro (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yBmkMKvDUcnyEGxsZkPnsQAS9UT.jpg" group-title="PELICULAS 2023",Sin Rastro (2023)
+http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/191396.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿No Es Romántico? (2019)" tvg-logo="http://boxdigital.xyz:8080/images/ab683864679ccf5ff51854f4e8118044.jpg" group-title="COMEDIA",¿No Es Romántico? (2019)
+http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/147277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿No Es Romántico? (2019)" tvg-logo="http://boxdigital.xyz:8080/images/ab683864679ccf5ff51854f4e8118044.jpg" group-title="PELICULAS VARIADAS (provisoria)",¿No Es Romántico? (2019)
+http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/151524.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿Nos casamos? Sí, mi amor (2022)" tvg-logo="http://boxdigital.xyz:8080/images/f41389ad1e67af76473b2c9be43741cc.jpg" group-title="PELICULAS LATINAS",¿Nos casamos? Sí, mi amor (2022)
+http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/178015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿Puedes guardar un secreto? (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nMJ2DrEg2EbGFwa0Fqx93Si1SiN.jpg" group-title="ROMANCE",¿Puedes guardar un secreto? (2019)
+http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/151017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿Quieres ser mi rehén? (2019)" tvg-logo="http://boxdigital.xyz:8080/images/4c3fcd6216d1e93f4ceb688e72ce076f.jpg" group-title="PELICULAS LATINAS",¿Quieres ser mi rehén? (2019)
+http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/177870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿Quién mató a los Puppets? (2018)" tvg-logo="http://boxdigital.xyz:8080/images/497a167f54512697ca8b230a1aba1572.jpg" group-title="COMEDIA",¿Quién mató a los Puppets? (2018)
+http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/147291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿Qué te ha dado esa mujer? (1951)" tvg-logo="http://boxdigital.xyz:8080/images/81aaefe015bf7eb013bc6323e57dd180.jpg" group-title="PELICULAS MEXICANAS",¿Qué te ha dado esa mujer? (1951)
+http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/81850.avi
+#EXTINF:-1 tvg-id="" tvg-name="¿Y cómo es él? (2022)" tvg-logo="http://boxdigital.xyz:8080/images/8528bac1e341f07db0c24c28aaece963.jpg" group-title="PELICULAS LATINAS",¿Y cómo es él? (2022)
+http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/178010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿Y dónde está el fantasma? (2013)" tvg-logo="http://boxdigital.xyz:8080/images/281416c2be0ee5f88bad3e3cb8f6ea4c.jpg" group-title="COMEDIA",¿Y dónde está el fantasma? (2013)
+http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/147160.mkv
+#EXTINF:-1 tvg-id="" tvg-name="البيت المسكون 2 (2001)" tvg-logo="http://boxdigital.xyz:8080/images/ba2995184c51adb8c6de2ab1e867ad28.jpg" group-title="COMEDIA",البيت المسكون 2 (2001)
+http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/147159.mkv
