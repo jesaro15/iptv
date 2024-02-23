@@ -5,16 +5,17 @@ http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/260426
 http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/260427
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet (low)" tvg-logo="http://209.126.82.213/logos/mx_animal_planet.png" group-title="LATINOS SD (baja conexion)",Animal Planet (low)
 http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/260428
+#EXTINF:-1 tvg-id="" tvg-name="Cazador de tormentas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6uaKRc0Di2pfhRLFQaH5BntSJOH.jpg" group-title="PELICULAS 2023",Cazador de tormentas (2023)
+http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/191395.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin Rastro (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yBmkMKvDUcnyEGxsZkPnsQAS9UT.jpg" group-title="PELICULAS 2023",Sin Rastro (2023)
+http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/191396.mkv
 #EXTINF:-1 tvg-id="" tvg-name="¡Vaya par de gemelos! (1978)" tvg-logo="http://boxdigital.xyz:8080/images/98418b110ee6ae09b6fd318ccd47ee57.jpg" group-title="PELICULAS VARIADAS (AUDIO CASTELLANO)",¡Vaya par de gemelos! (1978)
 http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/231820.mkv
 #EXTINF:-1 tvg-id="" tvg-name="¡Vente a Alemania, Pepe! (1971)" tvg-logo="http://boxdigital.xyz:8080/images/34930f64c49d859082c98d103e2b8794.jpg" group-title="PELICULAS VARIADAS (AUDIO CASTELLANO)",¡Vente a Alemania, Pepe! (1971)
 http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/231821.mkv
 #EXTINF:-1 tvg-id="" tvg-name="¡Vivan los novios! (1970)" tvg-logo="http://boxdigital.xyz:8080/images/35091a3d1ba0845ed0b2fff56f5e91ce.jpg" group-title="PELICULAS VARIADAS (AUDIO CASTELLANO)",¡Vivan los novios! (1970)
 http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/231822.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cazador de tormentas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6uaKRc0Di2pfhRLFQaH5BntSJOH.jpg" group-title="PELICULAS 2023",Cazador de tormentas (2023)
-http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/191395.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sin Rastro (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yBmkMKvDUcnyEGxsZkPnsQAS9UT.jpg" group-title="PELICULAS 2023",Sin Rastro (2023)
-http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/191396.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="¿No Es Romántico? (2019)" tvg-logo="http://boxdigital.xyz:8080/images/ab683864679ccf5ff51854f4e8118044.jpg" group-title="COMEDIA",¿No Es Romántico? (2019)
 http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/147277.mkv
 #EXTINF:-1 tvg-id="" tvg-name="¿No Es Romántico? (2019)" tvg-logo="http://boxdigital.xyz:8080/images/ab683864679ccf5ff51854f4e8118044.jpg" group-title="PELICULAS VARIADAS (provisoria)",¿No Es Romántico? (2019)
