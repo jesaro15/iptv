@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/willlax.jpg" group-title="TV NACIONAL",1 | WILLAX |
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/178232.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/willlax.jpg" group-title="TV NACIONAL",1.1 | WILLAX |
@@ -164,12 +163,7 @@ https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="A&E (low)" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_ae.png" group-title="LATINOS SD (baja conexion)",A&E (low)
-http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/260426
-#EXTINF:-1 tvg-id="" tvg-name="AMC (low)" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_amc.png" group-title="LATINOS SD (baja conexion)",AMC (low)
-http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/260427
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet (low)" tvg-logo="http://209.126.82.213/logos/mx_animal_planet.png" group-title="LATINOS SD (baja conexion)",Animal Planet (low)
-http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/260428
+
 #EXTINF:-1 tvg-id="" tvg-name="Cazador de tormentas (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6uaKRc0Di2pfhRLFQaH5BntSJOH.jpg" group-title="PELICULAS 2023",Cazador de tormentas (2023)
 http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/191395.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sin Rastro (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yBmkMKvDUcnyEGxsZkPnsQAS9UT.jpg" group-title="PELICULAS 2023",Sin Rastro (2023)
@@ -226,4 +220,9 @@ http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/109690.mkv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eYXqkyN.png" group-title="TV NACIONAL",28 | IMPERIAL TV |
 https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Garra de Hierro (2023) Sub-Español (R)" tvg-logo="http://daleplay.club:8080/images/4efd724f4bb7da7ee1e1e2b8ddbcaafa.jpg" group-title="PELICULAS 2023",Garra de Hierro (2023)
+http://novared.pro:8080/movie/RodrigoGmc/eWbwzFEtRnUR/339538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Teen Wolf- La película (2023) Sub" tvg-logo="http://daleplay.club:8080/images/e6bd356ccba1fa5ee6acec6946d42e62.jpg" group-title="PELICULAS 2023",Teen Wolf (2023)
+http://novared.pro:8080/movie/RodrigoGmc/eWbwzFEtRnUR/183276.mp4
 
