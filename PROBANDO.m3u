@@ -172,6 +172,9 @@ http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/191396.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Midsommar: el terror no espera la noche (2019) 4K" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/km0ta4N96yjoZPVy5A3gbcE3Ne8.jpg" group-title="PELICULAS 4K",Midsommar: el terror no espera la noche (2019) 4K
 http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/109607.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="Los juegos del hambre (2012)" tvg-logo="http://boxdigital.xyz:8080/images/b03a63191ec67aea649de8f1726cbf30.jpg" group-title="CIENCIA FICCION",Los juegos del hambre (2012)
+http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/146424.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="¿Puedes guardar un secreto? (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nMJ2DrEg2EbGFwa0Fqx93Si1SiN.jpg" group-title="ROMANCE",¿Puedes guardar un secreto? (2019)
 http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/151017.mkv
 
@@ -225,4 +228,16 @@ https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
 http://novared.pro:8080/movie/RodrigoGmc/eWbwzFEtRnUR/339538.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Teen Wolf- La película (2023) Sub" tvg-logo="http://daleplay.club:8080/images/e6bd356ccba1fa5ee6acec6946d42e62.jpg" group-title="PELICULAS 2023",Teen Wolf (2023)
 http://novared.pro:8080/movie/RodrigoGmc/eWbwzFEtRnUR/183276.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Los juegos del hambre: En llamas (2013)" tvg-logo="http://boxdigital.xyz:8080/images/816c24500025c2005b73b54035657c67.jpg" group-title="CIENCIA FICCION",Los juegos del hambre: En llamas (2013)
+http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/146426.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los juegos del hambre: Sinsajo - Parte 1 (2014)" tvg-logo="http://boxdigital.xyz:8080/images/a9728c76a88052a3d785229fb36dd6fa.jpg" group-title="CIENCIA FICCION",Los juegos del hambre: Sinsajo - Parte 1 (2014)
+http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/146427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los juegos del hambre: Sinsajo - Parte 2 (2015)" tvg-logo="http://boxdigital.xyz:8080/images/99a3c749b08c91e860aeed85a272f14e.jpg" group-title="CIENCIA FICCION",Los juegos del hambre: Sinsajo - Parte 2 (2015)
+http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/146425.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Kandasamy: El viaje (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s25PagHDnvQL7JzFyZvieHu9881.jpg" group-title="ROMANCE",Los Kandasamy: El viaje (2021)
+http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/152613.mkv
+
+
+
 
