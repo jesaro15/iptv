@@ -154,7 +154,7 @@ https://soportedvb.click:3891/live/visionndvlive.m3u8
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",88 | RCR |  
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/chunklist_w68889844.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",89 | CANAL 33 AYACUCHO |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/33.jpg" group-title="TV NACIONAL",89 | CANAL 33 AYACUCHO |
 https://video2.getstreamhosting.com:19360/8206/8206.m3u8
 #EXTINF:-1 tvg-logo="https://grupopalmerastv.com/portal/wp-content/uploads/2021/06/logo-dark-palmeras.png" group-title="TV NACIONAL",90 | PALMERAS TV |
 https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
@@ -221,7 +221,7 @@ http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/147479.mkv
 http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/109690.mkv
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eYXqkyN.png" group-title="TV NACIONAL",28 | IMPERIAL TV |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eYXqkyN.png" group-title="TV NACIONAL",92 | IMPERIAL TV |
 https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Garra de Hierro (2023) Sub-Español (R)" tvg-logo="http://daleplay.club:8080/images/4efd724f4bb7da7ee1e1e2b8ddbcaafa.jpg" group-title="PELICULAS 2023",Garra de Hierro (2023)
@@ -238,6 +238,6 @@ http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/146425.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Kandasamy: El viaje (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s25PagHDnvQL7JzFyZvieHu9881.jpg" group-title="ROMANCE",Los Kandasamy: El viaje (2021)
 http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/152613.mkv
 
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/IU.jpg" group-title="TV NACIONAL",93 | IMAGEN UNIVERSAL TV |
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
