@@ -240,4 +240,11 @@ http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/152613.mkv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/IU.jpg" group-title="TV NACIONAL",93 | IMAGEN UNIVERSAL TV |
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/txV8lw0.png" group-title="TV NACIONAL",94 | TVenLinea CUSCO |
+https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",95 |
+
+
+
+
 
