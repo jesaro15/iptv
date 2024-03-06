@@ -136,6 +136,27 @@ http://home-playtv.com:8080/garayale/KSGSU/19496
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES PERU",255 | FOX Sports 3 HD MEX |
 http://home-playtv.com:8080/garayale/KSGSU/9538
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/star plus.jpg" group-title="DEPORTES PERU",PLUS| STAR+ OP1
+http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/468292
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/star plus.jpg" group-title="DEPORTES PERU",PLUS| STAR+ 1 HD
+http://novared.pro:8080/salomon05vecp/chonillo195605/116008
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/star plus.jpg" group-title="DEPORTES PERU",PLUS| STAR+ 2 HD
+http://novared.pro:8080/salomon05vecp/chonillo195605/161663
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/star plus.jpg" group-title="DEPORTES PERU",PLUS| STAR+ 3 HD
+http://novared.pro:8080/salomon05vecp/chonillo195605/161664
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/star plus.jpg" group-title="DEPORTES PERU",PLUS| STAR+ 4 HD
+http://novared.pro:8080/salomon05vecp/chonillo195605/161665
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/star plus.jpg" group-title="DEPORTES PERU",PLUS| STAR+ 5 HD
+http://novared.pro:8080/salomon05vecp/chonillo195605/161666
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/star plus.jpg" group-title="DEPORTES PERU",PLUS| STAR+ 6 HD
+http://novared.pro:8080/salomon05vecp/chonillo195605/161667
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/star plus.jpg" group-title="DEPORTES PERU",PLUS| STAR+ 7 HD
+http://novared.pro:8080/salomon05vecp/chonillo195605/161668
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/star plus.jpg" group-title="DEPORTES PERU",PLUS| STAR+ 8 HD
+http://novared.pro:8080/salomon05vecp/chonillo195605/161669
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/star plus.jpg" group-title="DEPORTES PERU",PLUS| STAR+ 9 HD
+http://novared.pro:8080/salomon05vecp/chonillo195605/161670
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/an/thumb/c/c7/Logo_Real_Madrid.svg/1200px-Logo_Real_Madrid.svg.png" group-title="DEPORTES PERU",400 | REAL MADRID TV ᴴᴰ |
 http://nxt.plus:8080/MarceCo/CorreaMar/166703
