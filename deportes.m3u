@@ -121,7 +121,7 @@ http://nxt.plus:8080/MarceCo/CorreaMar/68829
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES PERU",350 | FOX Sports 2 ARG HD |
 http://home-playtv.com:8080/garayale/KSGSU/19652
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1280px-FOX_Deportes_logo.svg.png",351 | FOX Deportes |
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1280px-FOX_Deportes_logo.svg.png" group-title="DEPORTES PERU",351 | FOX Deportes |
 http://home-playtv.com:8080/garayale/KSGSU/36396
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES PERU",352 | FOX Sports 2 HD BRA |
@@ -156,6 +156,9 @@ http://novared.pro:8080/salomon05vecp/chonillo195605/161668
 http://novared.pro:8080/salomon05vecp/chonillo195605/161669
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/star plus.jpg" group-title="DEPORTES PERU",PLUS| STAR+ 9 HD
 http://novared.pro:8080/salomon05vecp/chonillo195605/161670
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/an/thumb/c/c7/Logo_Real_Madrid.svg/1200px-Logo_Real_Madrid.svg.png" group-title="DEPORTES PERU",400 | REAL MADRID TV ᴴᴰ |
