@@ -1,117 +1,54 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="News",France 24 Español (1080p)
-https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-
-#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",PE |Exitosa/RT ESPAÑOL (720p)
-https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ElPaisTV.es" tvg-logo="https://i.imgur.com/JzAzsft.png" group-title="News",EL PAÍS TV (1080p)
-https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-
-#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-logo="https://i.imgur.com/vDDEKx6.jpg" group-title="News",EC | Ecuador TV
-https://samson.streamerr.co:8081/akira/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-logo="https://i.imgur.com/vDDEKx6.jpg" group-title="News",Ecuador TV (720p)
-https://samson.streamerr.co:8081/akira/index.m3u8
-
-
-#EXTINF:-1 tvg-id="DobleAA.pe" tvg-logo="https://i.imgur.com/d431PkD.png" group-title="News",Doble AA (1080p)
-https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lzpPd8C.png" group-title="News",PE | CUTERVO TV
-https://mc.servidor.stream:19360/8256/8256.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6pExdIs.png" group-title="News",Canal Red (1080p)
-https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
-
-#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="News",Cablenoticias (1080p)
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-
-#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="News",C5N (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="News",AR | C5N DIRECTO
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 
-#EXTINF:-1tvg-logo="https://i.imgur.com/QMadWXp.png" group-title="News",PE: ANTENA 3 INTERNACIONAL directo
-http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="News",FR | FRANCE 24 DIRECTO 
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
-#EXTINF:-1 group-title="News",PE: ANTENA 3 INTERNACIONAL
-http://tvbox.ovh:37500/687281607/1971/116706
-#EXTINF:-1 group-title="News",**ANTENA 3**
-http://novared.pro:8080/salomon05vecp/chonillo195605/110046
-#EXTINF:-1 group-title="News",**TVE INTERNACIONAL**
-http://novared.pro:8080/salomon05vecp/chonillo195605/110045
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",RU | RT ESPAÑOL DIRECTO
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 
-#EXTINF:-1 group-title="News",CNN en Español HD
-http://cineplay.vip:8080/Marcoaguirre/gqcq57JhMM/38891
-#EXTINF:-1 group-title="News",PE| CULTURA 24 TV DIRECTO
-https://cultura24.live.opencaster.com/play_360/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JzAzsft.png" group-title="News",MX | EL PAÍS TV DIRECTO
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
-#EXTINF:-1 group-title="News",PE| CANAL 8 CATACAOS DIRECTO
-https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vDDEKx6.jpg" group-title="News",EC | ECUADOR TV DIRECTO                        https://samson.streamerr.co:8081/akira/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="News",AR| A24 TV DIRECTO
-http://novared.pro:8080/RodrigoGmc/eWbwzFEtRnUR/81289
-#EXTINF:-1 group-title="News",AR | A24 HD
-https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/52d0f355-0d53-451b-8f7a-2fef3040d194:SCL/variant/ce563c014bc1e04c56eadc113791b41a/bandwidth/850000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E7Qxyi0.png" group-title="News",BO | BOLIVIA TV DIRECTO
 
-#EXTINF:-1 group-title="News",EC| ECUADOR TV DIRECTO
-https://samson.streamerr.co:8081/akira/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="News",PE| Exitosa DIRECTO
-https://iptv-c9-x-m-mck9-video.cusac.online:50050/exitosa/index.fmp4.m3u8
-
-#EXTINF:-1 group-title="News",PE| EXITOSA/RT TV DIRECTO
-https://streamtv.onliv3.online:1936/exito-tv/exito-tv_576p/chunklist_w1466705405.m3u8
-
-
-#EXTINF:-1 group-title="News",CHI | CHileVision directo |
+#EXTINF:-1 tvg-logo="" group-title="News",CL | CHILEVISION DIRECTO
 https://jireh-2-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_1000.m3u8?dpssid=b1341336556255657083fbcaf38&sid=ba5t1l1xb458577071865c634caf3393&ndvc=0
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CubavisionInternacional/picture?width=200&height=200" group-title="News",CU| Cubavisión TV DIRECTO
-#EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="News",CO| TELEPACIFICO DIRECTO
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="News",AR| TV PUBLICA ARG. DIRECTO
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_480p.m3u8
-
-#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="News",CO| CABLENOTICIAS DIRECTO
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="BoliviaTV72.bo" tvg-logo="https://i.imgur.com/E7Qxyi0.png" group-title="News",BO| Bolivia TV (DIRECTO)
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",PE| La Karibeña Perú DIRECTO
+#EXTINF:-1 tvg-logo="" group-title="News",PE | LA KARIBEÑA DIRECTO
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
-#EXTINF:-1 group-title="News",CHI| CNN funka
-http://novared.pro:8080/RodrigoGmc/eWbwzFEtRnUR/63076
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d431PkD.png" group-title="News",PE | DOBLE AA DIRECTO
+https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 
-#EXTINF:-1 group-title="News",PE| GLOBAL
-http://sdmx.vip:8080/Joseluis/Joseluis123/2169944
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lzpPd8C.png" group-title="News",PE | CUTERVO TV DIRECTO
+https://mc.servidor.stream:19360/8256/8256.m3u8
 
-#EXTINF:-1 group-title="News",CL | Chilevision
-http://sdmx.vip:8080/Joseluis/Joseluis123/25376
-#EXTINF:-1 group-title="News",CL | Chilevision HD
-http://sdmx.vip:8080/Joseluis/Joseluis123/25375
-#EXTINF:-1 group-title="News",CL | Chilevision FHD
-http://sdmx.vip:8080/Joseluis/Joseluis123/25374
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pExdIs.png" group-title="News",ES | CANAL RED DIRECTO
+https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 
-#EXTINF:-1 group-title="News",EC |  Ecuavisa LQ
-http://sdmx.vip:8080/Joseluis/Joseluis123/2095407
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="News",CO | CABLE NOTICIAS DIRECTO
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
-#EXTINF:-1 group-title="News",PE | KARIBEÑA
-http://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+#EXTINF:-1tvg-logo="https://i.imgur.com/QMadWXp.png" group-title="News",ES | ANTENA 3 INTERNACIONAL 
+http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
 
-#EXTINF:-1 group-title="News",Sᵘʳ Aᵐᵉʳⁱᶜᵃ | CHV
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/4852
+#EXTINF:-1 tvg-logo="" group-title="News",ES | ANTENA 3 DIRECTO
+http://novared.pro:8080/salomon05vecp/chonillo195605/110046
 
+#EXTINF:-1 tvg-logo="" group-title="News",CNN en Español HD
+http://cineplay.vip:8080/Marcoaguirre/gqcq57JhMM/38891
 
+#EXTINF:-1 tvg-logo="" group-title="News",PE | CULTURA 24 TV DIRECTO
+https://cultura24.live.opencaster.com/play_360/index.m3u8
 
-#EXTINF:-1 group-title="News",CO67: PANAMERICANA TELEVISION
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/4838
+#EXTINF:-1 tvg-logo="" group-title="News",PE | CANAL 8 CATACAOS DIRECTO
+https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 
 
 
