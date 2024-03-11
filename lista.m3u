@@ -6,19 +6,19 @@ https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="News",FR | FRANCE 24 DIRECTO 
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",RU | RT ESPAÑOL DIRECTO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="News",RU | ACTUALIDAD RT DIRECTO
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JzAzsft.png" group-title="News",MX | EL PAÍS TV DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JzAzsft.png" group-title="News"ES | EL PAÍS TV DIRECTO
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vDDEKx6.jpg" group-title="News",EC | ECUADOR TV DIRECTO                        https://samson.streamerr.co:8081/akira/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E7Qxyi0.png" group-title="News",BO | BOLIVIA TV DIRECTO
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="News",CL | CHILEVISION DIRECTO
 https://jireh-2-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_1000.m3u8?dpssid=b1341336556255657083fbcaf38&sid=ba5t1l1xb458577071865c634caf3393&ndvc=0
-https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="News",PE | LA KARIBEÑA DIRECTO
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
@@ -41,7 +41,7 @@ http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",ES | ANTENA 3 DIRECTO
 http://novared.pro:8080/salomon05vecp/chonillo195605/110046
 
-#EXTINF:-1 tvg-logo="" group-title="News",CNN en Español HD
+#EXTINF:-1 tvg-logo="" group-title="News",CL | CNN EN ESPAÑOL
 http://cineplay.vip:8080/Marcoaguirre/gqcq57JhMM/38891
 
 #EXTINF:-1 tvg-logo="" group-title="News",PE | CULTURA 24 TV DIRECTO
@@ -50,10 +50,8 @@ https://cultura24.live.opencaster.com/play_360/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",PE | CANAL 8 CATACAOS DIRECTO
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-logo="" group-title="News",AR | A24 DIRECTO
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/52d0f355-0d53-451b-8f7a-2fef3040d194:SCL/variant/ce563c014bc1e04c56eadc113791b41a/bandwidth/850000.m3u8
 
 
 
