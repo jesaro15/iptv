@@ -1,5 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="News",AR | A24 DIRECTO
+https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TelevenTV/picture?width=200&height=200" group-title="News",VE | TELEVEN DIRECTO
+https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Unicanal/picture?width=200&height=200" group-title="News",PY | UNICANAL DIRECTO
+https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1715430427618385920/7M2WtIEE_200x200.jpg" group-title="News",SV | CANAL 12 DIRECTO https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/MultimediosCR/picture?width=200&height=200" group-title="News",CR | CANAL 8 DIRECTO
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="News",AR | TV PUBLICA ARG. DIRECTO
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_480p.m3u8
 
@@ -15,8 +29,8 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="News",RU | ACTUALIDAD RT DIRECTO
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JzAzsft.png" group-title="News"ES | EL PAÍS TV DIRECTO
-https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",ES | 24HORAS DIRECTO
+http://stream.flynetwifi.com:1935/live/mobile-100/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vDDEKx6.jpg" group-title="News",EC | ECUADOR TV DIRECTO                        https://samson.streamerr.co:8081/akira/tracks-v1a1/mono.m3u8
 
@@ -58,7 +72,6 @@ https://cultura24.live.opencaster.com/play_360/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="News",PE | CANAL 8 CATACAOS DIRECTO
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
-
 
 
 
