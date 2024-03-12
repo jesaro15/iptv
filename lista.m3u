@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png" group-title="News",AR | TV PUBLICA ARG. DIRECTO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="News",AR | TV PUBLICA ARG. DIRECTO
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_480p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="News",CO | TELEPACIFICO DIRECTO
@@ -44,7 +44,7 @@ https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1tvg-logo="https://i.imgur.com/QMadWXp.png" group-title="News",ES | ANTENA 3 INTERNACIONAL 
 http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QMadWXp.png" group-title="News",ES | ANTENA 3 DIRECTO
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="News",ES | ANTENA 3 DIRECTO
 http://novared.pro:8080/salomon05vecp/chonillo195605/110046
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="News",CL | CNN EN ESPAÑOL
@@ -60,10 +60,4 @@ https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 
 
 
-
-
-
-****************************************************************************
-*******************  CANALES DE NOTICIAS INTERNACIONALES  ******************
-****************************************************************************
 
