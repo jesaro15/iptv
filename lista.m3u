@@ -38,6 +38,9 @@ https://mc.servidor.stream:19360/8256/8256.m3u8
 #EXTINF:-1 tvg-logo="https://barcelonanoticias45.files.wordpress.com/2023/07/logo-canalred-barcelona-noticias.jpg" group-title="News",ES | CANAL RED DIRECTO
 https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 
+#EXTINF:-1 tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/3.jpg" group-title="News",ES | LA 1 ESPAÑA DIRECTO
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="News",CO | CABLE NOTICIAS DIRECTO
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
