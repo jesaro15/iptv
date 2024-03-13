@@ -1,36 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="News",AR | A24 DIRECTO
-https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TelevenTV/picture?width=200&height=200" group-title="News",VE | TELEVEN DIRECTO
-https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Unicanal/picture?width=200&height=200" group-title="News",PY | UNICANAL DIRECTO
-https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1715430427618385920/7M2WtIEE_200x200.jpg" group-title="News",SV | CANAL 12 DIRECTO https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/MultimediosCR/picture?width=200&height=200" group-title="News",CR | CANAL 8 DIRECTO
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="News",AR | TV PUBLICA ARG. DIRECTO
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_480p.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TelevenTV/picture?width=200&height=200" group-title="News",VE | TELEVEN DIRECTO
+https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="News",CO | TELEPACIFICO DIRECTO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="News",AR | C5N DIRECTO
-https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1653856228198567949/Kg6qiIEv_200x200.jpg" group-title="Int. América",CO | TELECARIBE DIRECTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="News",FR | FRANCE 24 DIRECTO 
-https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="News",RU | ACTUALIDAD RT DIRECTO
-https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",ES | 24HORAS DIRECTO
-http://stream.flynetwifi.com:1935/live/mobile-100/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="News",CO | CABLE NOTICIAS DIRECTO
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vDDEKx6.jpg" group-title="News",EC | ECUADOR TV DIRECTO                        https://samson.streamerr.co:8081/akira/tracks-v1a1/mono.m3u8
 
@@ -39,6 +25,36 @@ https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="News",CL | CHILEVISION DIRECTO
 https://jireh-2-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_1000.m3u8?dpssid=b1341336556255657083fbcaf38&sid=ba5t1l1xb458577071865c634caf3393&ndvc=0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="News",CL | CNN EN ESPAÑOL
+http://cineplay.vip:8080/Marcoaguirre/gqcq57JhMM/38891
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="News",AR | C5N DIRECTO
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="News",AR | A24 DIRECTO
+https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="News",AR | TV PUBLICA ARG. DIRECTO
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Unicanal/picture?width=200&height=200" group-title="News",PY | UNICANAL DIRECTO
+https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",ES | 24HORAS DIRECTO
+http://stream.flynetwifi.com:1935/live/mobile-100/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://barcelonanoticias45.files.wordpress.com/2023/07/logo-canalred-barcelona-noticias.jpg" group-title="News",ES | CANAL RED DIRECTO
+https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
+
+#EXTINF:-1 tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/3.jpg" group-title="News",ES | LA 1 ESPAÑA DIRECTO
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+
+#EXTINF:-1tvg-logo="https://i.imgur.com/QMadWXp.png" group-title="News",ES | ANTENA 3 INTERNACIONAL 
+http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="News",ES | ANTENA 3 DIRECTO
+http://novared.pro:8080/salomon05vecp/chonillo195605/110046
 
 #EXTINF:-1 tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/59/03/3b03d240cdfcef8caabd547386d3-l8z.jpg" group-title="News",PE | LA KARIBEÑA DIRECTO
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
@@ -49,31 +65,16 @@ https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lzpPd8C.png" group-title="News",PE | CUTERVO TV DIRECTO
 https://mc.servidor.stream:19360/8256/8256.m3u8
 
-#EXTINF:-1 tvg-logo="https://barcelonanoticias45.files.wordpress.com/2023/07/logo-canalred-barcelona-noticias.jpg" group-title="News",ES | CANAL RED DIRECTO
-https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
-
-#EXTINF:-1 tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/3.jpg" group-title="News",ES | LA 1 ESPAÑA DIRECTO
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="News",CO | CABLE NOTICIAS DIRECTO
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-
-#EXTINF:-1tvg-logo="https://i.imgur.com/QMadWXp.png" group-title="News",ES | ANTENA 3 INTERNACIONAL 
-http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="News",ES | ANTENA 3 DIRECTO
-http://novared.pro:8080/salomon05vecp/chonillo195605/110046
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="News",CL | CNN EN ESPAÑOL
-http://cineplay.vip:8080/Marcoaguirre/gqcq57JhMM/38891
-
 #EXTINF:-1 tvg-logo="" group-title="News",PE | CULTURA 24 TV DIRECTO
 https://cultura24.live.opencaster.com/play_360/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",PE | CANAL 8 CATACAOS DIRECTO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canal8.jpg" group-title="News",PE | CANAL 8 CATACAOS DIRECTO
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="News",FR | FRANCE 24 DIRECTO 
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="News",RU | ACTUALIDAD RT DIRECTO
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 
 
