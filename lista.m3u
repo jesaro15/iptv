@@ -11,7 +11,7 @@ https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/inde
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="News",CO | TELEPACIFICO DIRECTO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1653856228198567949/Kg6qiIEv_200x200.jpg" group-title="Int. América",CO | TELECARIBE DIRECTO
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1653856228198567949/Kg6qiIEv_200x200.jpg" group-title="News",CO | TELECARIBE DIRECTO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
 
@@ -23,8 +23,17 @@ https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E7Qxyi0.png" group-title="News",BO | BOLIVIA TV DIRECTO
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ABYAYALA.jpg" group-title="News",BO | ABYA YALA DIRECTO
+https://master.tucableip.com/abyayalatv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="News",CL | CHILEVISION DIRECTO
 https://jireh-2-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_1000.m3u8?dpssid=b1341336556255657083fbcaf38&sid=ba5t1l1xb458577071865c634caf3393&ndvc=0
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-opZ6mP8G3Fo/Wn9lBEeoQ4I/AAAAAAAAgwY/cKvIaCeqHZEwdTQ-pJPh7oCDIU2q-fECwCK8BGAs/s220/2018-02-10.png" group-title="News",CL | BIO BIO TV DIRECTO
+https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png" group-title="News",CL | TVN 24H DIRECTO
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="News",CL | CNN EN ESPAÑOL
 http://cineplay.vip:8080/Marcoaguirre/gqcq57JhMM/38891
@@ -76,5 +85,7 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="News",RU | ACTUALIDAD RT DIRECTO
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
+
+
 
 
