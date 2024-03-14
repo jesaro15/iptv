@@ -32,7 +32,7 @@ https://jireh-2-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-opZ6mP8G3Fo/Wn9lBEeoQ4I/AAAAAAAAgwY/cKvIaCeqHZEwdTQ-pJPh7oCDIU2q-fECwCK8BGAs/s220/2018-02-10.png" group-title="News",CL | BIO BIO TV DIRECTO
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png" group-title="News",CL | TVN 24H DIRECTO
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tvn-chile_m.png" group-title="News",CL | TVN 24H DIRECTO
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="News",CL | CNN EN ESPAÑOL
@@ -91,6 +91,7 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="News",DE | DW DIRECTO
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
 
 
 
