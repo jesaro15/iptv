@@ -109,3 +109,33 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="News",DE | DW DIRECTO
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",GUA | CANAL ANTIGUA DIRECTO
+https://streannlivefeedlatino.cachefly.net/Protected/sp=1;dirmatch=true;ip=201.218.159.218/160b10b430af12ea27c53f15d649b90b8c03489c065c84127d6ceee7b602a924/feedlatino1/feedlatino1_abr/feedlatino1/feedlatino1_3/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",DO | CDN TV DIRECTO
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8?p=79&s=1710514312&e=1710514432&h=b632e4e13f2676e49ebfc94e4e4fb655
+
+#EXTINF:-1 tvg-logo="" group-title="",PY | GENTV DIRECTO
+http://lobo-tv.live:8080/Goyosdmex/SrEaaz7VS8ry/2107645
+
+#EXTINF:-1 tvg-logo="" group-title="",GT | CANAL 27 DIRECTO
+https://live.canal27.tv:3633/live/canal27live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CR | CANAL 1 DIRECTO
+https://video20.klm99.com:3993/live/canal1crlive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",DO | CARIVISION DIRECTO
+https://ss5.domint.net:3174/car_str/carivision/chunklist_w283143972.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",HN | GUAYAPE DIRECTO
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/2ac4dfbd79ca4fb5905d09167229484f/chunklist_b4192000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="",CR | CANAL 38 TV DIRECTO
+https://opa.usastreams.com:3101/live/canalopalive.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/WTVNicaraguacanal20/picture?width=200&height=200" group-title="",NI | WTV DIRECTO
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+
+
+
