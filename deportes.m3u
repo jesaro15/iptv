@@ -163,3 +163,13 @@ http://novared.pro:8080/salomon05vecp/chonillo195605/161670
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/an/thumb/c/c7/Logo_Real_Madrid.svg/1200px-Logo_Real_Madrid.svg.png" group-title="DEPORTES PERU",400 | REAL MADRID TV ᴴᴰ |
 http://nxt.plus:8080/MarceCo/CorreaMar/166703
+
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",DEP HD: ESPN 1 (ARG)
+http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/181839
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",DEP HD: ESPN 1 (COL)
+http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/181840
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",DEP HD: ESPN 1 (MEX)
+http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/181841
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",DEP HD: ESPN 1 (CHI)
+http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/181842
