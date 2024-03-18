@@ -45,9 +45,9 @@ http://sdmx.vip:8080/Joseluis/Joseluis123/2169944
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Onda_Digital.png" group-title="TV NACIONAL",16 | ONDA DIGITAL |
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Onda_Digital.png" group-title="TV NACIONAL",16.1 | ONDA DIGITAL 2 | 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Onda_Digital.png" group-title="TV NACIONAL",17 | ONDA DIGITAL 2 | 
 https://v4.tustreaming.cl/ondadigitaltv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TrivuTv.jpg" group-title="TV NACIONAL",17 | TRIVU TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TrivuTv.jpg" group-title="TV NACIONAL",18 | TRIVU TV |
 https://www.chasquirouter.com/salida/trivu.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nacionaltvperu.jpg" group-title="TV NACIONAL",19 | NACIONAL TV PERU |
 https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
@@ -130,16 +130,12 @@ https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w759963595.m3u8
 https://tv.ondadigital.pe:1936/master/master/chunklist_w1743909154.m3u8
 #EXTINF:-1 tvg-logo="https://soltvperu.com/web/wp-content/uploads/2019/05/soltv-logonew.png" group-title="TV NACIONAL",77 | SOL TV |  
 https://video03.logicahost.com.br/soltv/soltv/chunklist_w1946435464.m3u8
-#EXTINF:-1 tvg-logo="https://soltvperu.com/web/wp-content/uploads/2019/05/soltv-logonew.png" group-title="TV NACIONAL",77.1 | SOL TV |
-https://video03.logicahost.com.br/soltv/soltv/chunklist_w206717324.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/842e52_7241fa807a3b4107894e5144f8a7f041~mv2_d_2416_2468_s_4_2.png/v1/fit/w_2500,h_1330,al_c/842e52_7241fa807a3b4107894e5144f8a7f041~mv2_d_2416_2468_s_4_2.png" group-title="TV NACIONAL",78 | PERU CHANNEL TV |
 https://a.cdni.live/peruchanel/peruchanel/chunklist_w385659098.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1180_CR_TV.png" group-title="TV NACIONAL",79 | CR TV |
 https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",80 | VCLASSIC TV |
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1888254998.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",80.1| VCLASSIC TV |
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/151478
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/978_DMJ.png" group-title="TV NACIONAL",82 | DMJ | 
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",84 | NATIVA VRAEM |
@@ -163,6 +159,15 @@ https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/IU.jpg" group-title="TV NACIONAL",93 | IMAGEN UNIVERSAL TV |
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/txV8lw0.png" group-title="TV NACIONAL",94 | TV EN LINEA CUSCO |
+https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lzpPd8C.png" group-title="TV NACIONAL",95 | CUTERVO TV |
+https://mc.servidor.stream:19360/8256/8256.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canal8.jpg" group-title="TV NACIONAL",96 | CANAL 8 CATACAOS |
+https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
+
+
+
 
 
 
