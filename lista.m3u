@@ -8,14 +8,17 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",CR | TRIVISION DIRECTO
 https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-1500/chunklist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="https://cdn.com.do/wp-content/uploads/2022/05/artes-logo-cdn.jpg" group-title="news",DO | CDN TV DIRECTO
+#EXTINF:-1 tvg-logo="https://cdn.com.do/wp-content/uploads/2022/05/artes-logo-cdn.jpg" group-title="News",DO | CDN TV DIRECTO
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8?p=79&s=1710514312&e=1710514432&h=b632e4e13f2676e49ebfc94e4e4fb655
 
-#EXTINF:-1 tvg-logo="" group-title=" news",PR | TELEONCE
+#EXTINF:-1 tvg-logo="" group-title=" News",PR | TELEONCE
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/live-audio_track_0_0_und=64000-video_track=2000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/VTV_logo.PNG" group-title="News",VE | VENEZOLANA TV DIRECTO
-https://live-b.cf.dmcdn.net/sec2(dmQ7QCOFwE9aMBt8qXAreLBI_Jq1RPAX49zqRDHDqRE5zrgMJeNFlknRizJ7WhVlOxB5CoXhrbIy-TBTRAXr8KuxAEhdBZur3LyP6BGCYEc)/dm/3/x8rtkvs/s/live-1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",VE | PROMAR DIRECTO
+https://vcp.myplaytv.com/promar/promar/chunklist_w1561591709.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="News",VE | TVO DIRECTO
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TelevenTV/picture?width=200&height=200" group-title="News",VE | TELEVEN DIRECTO
 https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8
@@ -39,21 +42,20 @@ https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 https://master.tucableip.com/abyayalatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/70/c5/dd/70c5ddfc-d0d0-c7c7-3e95-1b48f3c22475/source/512x512bb.jpg" group-title="News",BO | ATB DIRECTO
-https://live-c.cf.dmcdn.net/sec2(S07PW_tard2W5ryyLGkWpJzLPzA1a8WxjwSzJna2AmB02Xmu5ewZ0108CLahJVczERoKj8Ag__et0NfiVLEF7urVTNXZ0fOtM7IdLH13u6s)/dm/3/x84eirw/s/live-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="News",CL | CHILEVISION DIRECTO
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="News",CHI | CHILEVISION DIRECTO
 https://jireh-2-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_1000.m3u8?dpssid=b1341336556255657083fbcaf38&sid=ba5t1l1xb458577071865c634caf3393&ndvc=0
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-opZ6mP8G3Fo/Wn9lBEeoQ4I/AAAAAAAAgwY/cKvIaCeqHZEwdTQ-pJPh7oCDIU2q-fECwCK8BGAs/s220/2018-02-10.png" group-title="News",CL | BIO BIO TV DIRECTO
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-opZ6mP8G3Fo/Wn9lBEeoQ4I/AAAAAAAAgwY/cKvIaCeqHZEwdTQ-pJPh7oCDIU2q-fECwCK8BGAs/s220/2018-02-10.png" group-title="News",CHI | BIO BIO TV DIRECTO
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tvn-chile_m.png" group-title="News",CL | TVN 24H DIRECTO
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tvn-chile_m.png" group-title="News",CHI | TVN 24H DIRECTO
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="News",CL | CNN EN ESPAÑOL
-http://cineplay.vip:8080/Marcoaguirre/gqcq57JhMM/38891
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="News",CHI | CNN CHILE DIRECTO
+http://novared.pro:8080/RodrigoGmc/eWbwzFEtRnUR/63076
 
-#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="News",AR | C5N DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="News",AR | C5N DIRECTO
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="News",AR | A24 DIRECTO
@@ -71,7 +73,7 @@ https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/
 #EXTINF:-1 tvg-logo="" group-title="News",UY | UCL TV DIRECTO
 https://streamingamericaservice.info:19360/ucltv/ucltv.m3u8
 
-#EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",ES | 24HORAS DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",ES | 24HORAS DIRECTO
 http://stream.flynetwifi.com:1935/live/mobile-100/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://barcelonanoticias45.files.wordpress.com/2023/07/logo-canalred-barcelona-noticias.jpg" group-title="News",ES | CANAL RED DIRECTO
@@ -80,7 +82,7 @@ https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 #EXTINF:-1 tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/3.jpg" group-title="News",ES | LA 1 ESPAÑA DIRECTO
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 
-#EXTINF:-1tvg-logo="https://i.imgur.com/QMadWXp.png" group-title="News",ES | ANTENA 3 INTERNACIONAL 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QMadWXp.png" group-title="News",ES | ANTENA 3 INTERNACIONAL 
 http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="News",ES | ANTENA 3 DIRECTO
@@ -88,9 +90,6 @@ http://novared.pro:8080/salomon05vecp/chonillo195605/110046
 
 #EXTINF:-1 tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/59/03/3b03d240cdfcef8caabd547386d3-l8z.jpg" group-title="News",PE | LA KARIBEÑA DIRECTO
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d431PkD.png" group-title="News",PE | DOBLE AA DIRECTO
-https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lzpPd8C.png" group-title="News",PE | CUTERVO TV DIRECTO
 https://mc.servidor.stream:19360/8256/8256.m3u8
@@ -110,32 +109,31 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="News",DE | DW DIRECTO
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",GUA | CANAL ANTIGUA DIRECTO
+#EXTINF:-1 tvg-logo="" group-title="News",GUA | CANAL ANTIGUA DIRECTO
 https://streannlivefeedlatino.cachefly.net/Protected/sp=1;dirmatch=true;ip=201.218.159.218/160b10b430af12ea27c53f15d649b90b8c03489c065c84127d6ceee7b602a924/feedlatino1/feedlatino1_abr/feedlatino1/feedlatino1_3/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",DO | CDN TV DIRECTO
+#EXTINF:-1 tvg-logo="" group-title="News",DO | CDN TV DIRECTO
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8?p=79&s=1710514312&e=1710514432&h=b632e4e13f2676e49ebfc94e4e4fb655
 
-#EXTINF:-1 tvg-logo="" group-title="",PY | GENTV DIRECTO
+#EXTINF:-1 tvg-logo="" group-title="News",PY | GENTV DIRECTO
 http://lobo-tv.live:8080/Goyosdmex/SrEaaz7VS8ry/2107645
 
-#EXTINF:-1 tvg-logo="" group-title="",GT | CANAL 27 DIRECTO
+#EXTINF:-1 tvg-logo="" group-title="News",GT | CANAL 27 DIRECTO
 https://live.canal27.tv:3633/live/canal27live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",CR | CANAL 1 DIRECTO
+#EXTINF:-1 tvg-logo="" group-title="News",CR | CANAL 1 DIRECTO
 https://video20.klm99.com:3993/live/canal1crlive.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",DO | CARIVISION DIRECTO
+#EXTINF:-1 tvg-logo="" group-title="News",DO | CARIVISION DIRECTO
 https://ss5.domint.net:3174/car_str/carivision/chunklist_w283143972.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",HN | GUAYAPE DIRECTO
+#EXTINF:-1 tvg-logo="" group-title="News",HN | GUAYAPE DIRECTO
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/2ac4dfbd79ca4fb5905d09167229484f/chunklist_b4192000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="",CR | CANAL 38 TV DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="News",CR | CANAL 38 TV DIRECTO
 https://opa.usastreams.com:3101/live/canalopalive.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/WTVNicaraguacanal20/picture?width=200&height=200" group-title="",NI | WTV DIRECTO
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/WTVNicaraguacanal20/picture?width=200&height=200" group-title="News",NI | WTV DIRECTO
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
-
 
 
