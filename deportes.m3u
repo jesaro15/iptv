@@ -173,3 +173,40 @@ http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/181840
 http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/181841
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",DEP HD: ESPN 1 (CHI)
 http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/181842
+
+
+#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN FULL",CO: ESPN 1 FHD 
+http://haksba3.ovh:37500/972483615538/185177820594/71928
+#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN FULL",CO: ESPN 2 FHD 
+http://haksba3.ovh:37500/972483615538/185177820594/71929
+#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN FULL",CO: ESPN 3 FHD 
+http://haksba3.ovh:37500/972483615538/185177820594/71930
+#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN FULL",CO: ESPN XTRA HD 
+http://haksba3.ovh:37500/972483615538/185177820594/71931
+
+
+#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN FULL",PE: ESPN
+http://jmrk.xyz:3050/RoseM2023/3n8ZAuXh8X/574456
+#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN FULL",PE: ESPN EXT
+http://jmrk.xyz:3050/RoseM2023/3n8ZAuXh8X/574457
+#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN FULL",PE: ESPN2
+http://jmrk.xyz:3050/RoseM2023/3n8ZAuXh8X/574458
+#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN FULL",PE: ESPN3
+http://jmrk.xyz:3050/RoseM2023/3n8ZAuXh8X/574459
+#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN FULL",PE: ESPN4
+http://jmrk.xyz:3050/RoseM2023/3n8ZAuXh8X/574460
+
+
+#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN FULL",LA: ESPN DEPORTES 
+http://jmrk.xyz:3050/Lucien/KS46Wxyqd5/598167
+#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN FULL",LA: ESPN 2
+http://jmrk.xyz:3050/Lucien/KS46Wxyqd5/598168
+#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN FULL",LA: ESPN 3 
+http://jmrk.xyz:3050/Lucien/KS46Wxyqd5/598169
+#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN FULL",LA: ESPN 4
+http://jmrk.xyz:3050/Lucien/KS46Wxyqd5/598170
+#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN FULL",MX: ESPN
+http://jmrk.xyz:3050/Lucien/KS46Wxyqd5/598171
+#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN FULL",MX: ESPN 2
+http://jmrk.xyz:3050/Lucien/KS46Wxyqd5/598172
+
