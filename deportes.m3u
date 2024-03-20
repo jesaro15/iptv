@@ -41,7 +41,7 @@ https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/322945.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1max2.jpg" group-title="LIGA 1",PE | LIGA 1 MAX |
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/322946.ts
 
-#EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="DEPORTES PERU",PE | GOLPERU 4K|
+#EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="GOLPERU",PE | GOLPERU 4K|
 http://rasaiptv.com:8080/ZpetyFRan36/XefraM37/156153
 
 #EXTINF:-1 tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_portada.png" group-title="GOLPERU",PE | GOLPERU |
@@ -126,11 +126,11 @@ http://home-playtv.com:8080/garayale/KSGSU/19496
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="FOX SPORTS",LA | FOX Sports 3 HD MEX |
 http://home-playtv.com:8080/garayale/KSGSU/9538
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/star plus.jpg" group-title="DEPORTES PERU",PLUS| STAR+ OP1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/star plus.jpg" group-title="STAR PLUS",PLUS| STAR+ OP1
 http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/468292
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/star plus.jpg" group-title="DEPORTES PERU",PLUS| STAR+ 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/star plus.jpg" group-title="STAR PLUS",PLUS| STAR+ 1 HD
 http://novared.pro:8080/salomon05vecp/chonillo195605/116008
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/star plus.jpg" group-title="DEPORTES PERU",PLUS| STAR+ 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/star plus.jpg" group-title="STAR PLUS",PLUS| STAR+ 2 HD
 http://novared.pro:8080/salomon05vecp/chonillo195605/161663
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/star plus.jpg" group-title="STAR PLUS",PLUS| STAR+ 3 HD
 http://novared.pro:8080/salomon05vecp/chonillo195605/161664
