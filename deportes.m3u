@@ -217,8 +217,13 @@ http://jmrk.xyz:3050/Lucien/KS46Wxyqd5/598171
 http://jmrk.xyz:3050/Lucien/KS46Wxyqd5/598172
 
 
-#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" group-title="TEMPORAL",JESARO  | ZAPPING SPORTS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/telon.jpg" group-title="TEMPORAL",JESARO  | EVENTOS EXCLUSIVOS
 http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330753
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/telon.jpg" group-title="TEMPORAL",JESARO  | EVENTOS EXCLUSIVOS
+http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330754
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/telon.jpg" group-title="TEMPORAL",JESARO  | EVENTOS EXCLUSIVOS
+http://nxt.plus:8080/olmos/1234guz/43500
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/an/thumb/c/c7/Logo_Real_Madrid.svg/1200px-Logo_Real_Madrid.svg.png" group-title="EUROPA",ES | REAL MADRID TV ᴴᴰ |
 http://nxt.plus:8080/MarceCo/CorreaMar/166703
 
