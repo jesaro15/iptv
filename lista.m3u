@@ -14,6 +14,9 @@ https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-1500/chunklist.m3u8?D
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wapa-tv-puerto-rico-logo-C617B18D9F-seeklogo.com.gif" group-title="News",,PR | WAPA ᴴᴰ DIRECTO
 https://live.field59.com/wapa/ngrp:wapa1_all/chunklist_b2690048.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/canal25-santiago.jpg" group-title="News",DO | Canal 25 ᴴᴰ DIRECTO
+https://ss3.domint.net:3150/c25_str/canal25/chunklist_w426984884.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.com.do/wp-content/uploads/2022/05/artes-logo-cdn.jpg" group-title="News",DO | CDN TV DIRECTO
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8?p=79&s=1710514312&e=1710514432&h=b632e4e13f2676e49ebfc94e4e4fb655
 
