@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/MultimediosCR/picture?width=200&height=200" group-title="News",CR | CANAL 8 DIRECTO
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
+#EXTINF:-1 tvg-logo="https://sicultura-live.s3.amazonaws.com/public/2022-11/301969217_503586181771987_4515833689371219273_n.jpg" group-title="News",CR |TVSUR ᴴᴰ DIRECTO
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w12675392.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7QRn6N0_GRCoOwRyu9FZWxnPaud-ODHLeBf3xPuR4Og&s" group-title="News",CR | TRIVISION DIRECTO
 https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-1500/chunklist.m3u8?DVR
 
