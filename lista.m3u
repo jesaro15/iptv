@@ -134,10 +134,16 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/2ac4dfbd79ca4fb5905d09167229484f/c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="News",CR | CANAL 38 TV DIRECTO
 https://opa.usastreams.com:3101/live/canalopalive.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Telearuba_Logo.png/200px-Telearuba_Logo.png" group-title="News",AW | TELE ARUBA ᴴᴰ DIRECTO
+https://cdn01.setar.aw/Telearuba/telearuba/chunklist_w398237623.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Televisiete_Logo.png/640px-Televisiete_Logo.png" group-title="News",GT | TELEVISIETE DIRECTO
+https://alba-gt-chapintv-c7.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/WTVNicaraguacanal20/picture?width=200&height=200" group-title="News",NI | WTV DIRECTO
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/arirang.jpg" group-title="News",KO | ARIRANG TV ᴴᴰ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/arirang.jpg" group-title="News",KO | ARIRANG TV ᴴᴰ DIRECTO
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
 
 
