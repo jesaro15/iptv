@@ -9,9 +9,6 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1715430427618385920/7M2WtIEE_200x200.jpg" group-title="News",SV | CANAL 12 DIRECTO 
 https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/MultimediosCR/picture?width=200&height=200" group-title="News",CR | CANAL 8 DIRECTO
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="News",GT | CANAL ANTIGUA DIRECTO
 https://streannlivefeedlatino.cachefly.net/Protected/sp=1;dirmatch=true;ip=201.218.159.218/160b10b430af12ea27c53f15d649b90b8c03489c065c84127d6ceee7b602a924/feedlatino1/feedlatino1_abr/feedlatino1/feedlatino1_3/chunks.m3u8
 
@@ -20,6 +17,9 @@ https://alba-gt-chapintv-c7.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="News",CR | CANAL 38 TV DIRECTO
 https://opa.usastreams.com:3101/live/canalopalive.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/MultimediosCR/picture?width=200&height=200" group-title="News",CR | CANAL 8 DIRECTO
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1 tvg-logo="https://sicultura-live.s3.amazonaws.com/public/2022-11/301969217_503586181771987_4515833689371219273_n.jpg" group-title="News",CR |TVSUR ᴴᴰ DIRECTO
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w12675392.m3u8
