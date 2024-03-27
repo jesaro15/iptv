@@ -58,8 +58,14 @@ https://video20.klm99.com:3993/live/canal1crlive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7QRn6N0_GRCoOwRyu9FZWxnPaud-ODHLeBf3xPuR4Og&s" group-title="News",CR | TRIVISION DIRECTO
 https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-1500/chunklist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="" group-title="News",Mas23 TV DIRECTO
+#EXTINF:-1 tvg-logo="" group-title="News",PA | MAS 23 TV DIRECTO
 https://vcp4.myplaytv.com:1936/mas23/mas23/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="News",PA | MINFAV TV ᴴᴰ DIRECTO
+https://video.misistemareseller.com/minfavtv/minfavtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="News",PA | NEX TV Canal 21 ᴴᴰ DIRECTO
+https://vcp4.myplaytv.com:1936/nextv/nextv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title=" News",PR | TELEONCE DIRECTO
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/live-audio_track_0_0_und=64000-video_track=2000000.m3u8
@@ -91,6 +97,18 @@ https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",AW | Heart Radio Aruba DIRECTO
 https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="News",VE | TV FANB DIRECTO
+https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="News",VE | TVes DIRECTO
+https://ls.tves.gob.ve/hls/tves.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="News",VE | GLOBOVISION DIRECTO
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="News",VE | CANAL NUBEH TV DIRECTO
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="News",VE | PROMAR DIRECTO
 https://vcp.myplaytv.com/promar/promar/chunklist_w1561591709.m3u8
 
@@ -100,30 +118,35 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TelevenTV/picture?width=200&height=200" group-title="News",VE | TELEVEN DIRECTO
 https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="News",CO | CANAL INSTITUCIONAL ᴴᴰ DIRECTO
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="News",CO | TELEPACIFICO DIRECTO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1653856228198567949/Kg6qiIEv_200x200.jpg" group-title="News",CO | TELECARIBE DIRECTO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
+#EXTINF:0 tvg-logo="" group-title="News",CO | BLU RADIO ᴴᴰ DIRECTO
+https://ythls.armelin.one/channel/UCUYokk2dJxFZf7NgxTL-ROg.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="News",CO | CABLE NOTICIAS DIRECTO
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="News",EC | CANAL UNO ᴴᴰ DIRECTO
+https://cp.panelchs.com:1936/8034/8034/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="News",EC | INTI TV ᴴᴰ DIRECTO
+https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="News",EC | MANAVISION ᴴᴰ DIRECTO
+https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="News",EC | ECUAMUNDO TV DIRECTO
+https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="News",EC | ECUAVISA DIRECTO
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vDDEKx6.jpg" group-title="News",EC | ECUADOR TV DIRECTO                       
 https://samson.streamerr.co:8081/akira/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/59/03/3b03d240cdfcef8caabd547386d3-l8z.jpg" group-title="News",PE | LA KARIBEÑA DIRECTO
-https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lzpPd8C.png" group-title="News",PE | CUTERVO TV DIRECTO
-https://mc.servidor.stream:19360/8256/8256.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="News",PE | CULTURA 24 TV DIRECTO
-https://cultura24.live.opencaster.com/play_360/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canal8.jpg" group-title="News",PE | CANAL 8 CATACAOS DIRECTO
-https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E7Qxyi0.png" group-title="News",BO | BOLIVIA TV DIRECTO
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
@@ -216,3 +239,11 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
 
 
+
+
+
+
+
+
+
+FIN
