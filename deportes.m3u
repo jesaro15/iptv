@@ -93,7 +93,6 @@ http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/181838
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DIRECTV",DEP | DIRECTV SPORTS FIGHT
 http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/184246
 
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DIRECTV",PE | DSPORTS 1 HD
 http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330777
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DIRECTV",PE | DSPORTS 1 SD
@@ -106,6 +105,7 @@ http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330780
 http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330781
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DIRECTV",PE | DSPORTS + SD
 http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330782
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="FOX SPORTS",LA | FOX Sports 2 ARG HD |
@@ -125,6 +125,8 @@ http://home-playtv.com:8080/garayale/KSGSU/19496
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="FOX SPORTS",LA | FOX Sports 3 HD MEX |
 http://home-playtv.com:8080/garayale/KSGSU/9538
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/star plus.jpg" group-title="STAR PLUS",PLUS| STAR+ OP1
 http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/468292
@@ -148,21 +150,36 @@ http://novared.pro:8080/salomon05vecp/chonillo195605/161669
 http://novared.pro:8080/salomon05vecp/chonillo195605/161670
 
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | E$PN 1 HD
+
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | ESPN 1 HD
 http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330763
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | E$PN 1 SD
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | ESPN 1 SD
 http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330764
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | E$PN 2 HD
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | ESPN 1   
+http://home-playtv.com:8080/JulioO/WCHST/220727
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | ESPN 1 
+http://home-playtv.com:8080/garayale/KSGSU/220727
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | ESPN 1 
+http://home-playtv.com:8080/garayale/KSGSU/219173
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | ESPN 1 
+http://home-playtv.com:8080/garayale/KSGSU/219172
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | ESPN 1 HD 
+http://home-playtv.com:8080/garayale/KSGSU/219171
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | ESPN 2 HD
 http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330765
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | E$PN 2 SD
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | ESPN 2 SD
 http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330766
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | E$PN 3 HD
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | ESPN 2
+http://home-playtv.com:8080/JulioO/WCHST/219173
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | ESPN 3 HD
 http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330767
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | E$PN 3 SD
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | ESPN 3 SD
 http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330768
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | E$PN 4 HD
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | ESPN 4 HD
 http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330769
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | E$PN 4 SD
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | ESPN 4 SD
 http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330770
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | ESPN 5 HD
 http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330771
@@ -177,7 +194,6 @@ http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330775
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | ESPN 7 SD
 http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330776
 
-
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",ARG  | ESPN 1 
 http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/181839
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",COL  | ESPN 1 
@@ -188,20 +204,23 @@ http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/181841
 http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/181842
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",CO | ESPN 1 FHD 
+http://tvbox.ovh:37500/687281607/1971/71928
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",CO | ESPN 1 HD
+http://tvbox.ovh:37500/687281607/1971/71928
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",CO | ESPN 1 FHD 
 http://haksba3.ovh:37500/972483615538/185177820594/71928
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",CO | ESPN 2 FHD 
 http://haksba3.ovh:37500/972483615538/185177820594/71929
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",CO | ESPN 2 FHD 
+http://tvbox.ovh:37500/687281607/1971/71929
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",CO | ESPN 3 FHD 
 http://haksba3.ovh:37500/972483615538/185177820594/71930
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",CO | ESPN 3 FHD 
+http://tvbox.ovh:37500/687281607/1971/71930
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",CO | ESPN XTRA HD 
 http://haksba3.ovh:37500/972483615538/185177820594/71931
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | ESPN 1   
-http://home-playtv.com:8080/JulioO/WCHST/220727
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | ESPN 2
-http://home-playtv.com:8080/JulioO/WCHST/219173
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",PE | ESPN 4
-http://jmrk.xyz:3050/RoseM2023/3n8ZAuXh8X/574460
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",CO | ESPN XTRA 
+http://tvbox.ovh:37500/687281607/1971/71931
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="ESPN FULL",LA | ESPN DEPORTES 
 http://jmrk.xyz:3050/Lucien/KS46Wxyqd5/598167
