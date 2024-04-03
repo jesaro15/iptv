@@ -409,6 +409,9 @@ http://nxt.plus:8080/MarceCo/CorreaMar/166703
 **************SELECCIONADAS**************
 
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpzFxv78UvYG5yQba2soO5mMl4T.jpg" group-title="PELICULAS SELECCIONADAS",Nowhere (2023)
+http://home-playtv.com:8080/movie/JulioO/WCHST/510779.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YEX7qUfg6kN2tHm84CMt2CEq9n.jpg" group-title="PELICULAS SELECCIONADAS",Ciudad de Dios (2002) 
 http://home-playtv.com:8080/movie/garayale/KSGSU/13947.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2riQcEzjVrkP8wKHDXwC5EQpHQ.jpg" group-title="PELICULAS SELECCIONADAS",The Outsider (2018)
