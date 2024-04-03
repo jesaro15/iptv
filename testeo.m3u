@@ -412,6 +412,11 @@ http://nxt.plus:8080/MarceCo/CorreaMar/166703
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpzFxv78UvYG5yQba2soO5mMl4T.jpg" group-title="PELICULAS SELECCIONADAS",Nowhere (2023)
 http://home-playtv.com:8080/movie/JulioO/WCHST/510779.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nS4eutSuSidh8RKaorGfuBsSnZM.jpg" group-title="PELICULAS SELECCIONADAS",El Hombre De Los Sueños (2023)
+http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/272385.mp4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Una_mente_maravillosa-636974393-large.jpg" group-title="PELICULAS SELECCIONADAS",Una Mente Brillante (2001)
+http://nxt.plus:8080/movie/olmos/1234guz/183087.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YEX7qUfg6kN2tHm84CMt2CEq9n.jpg" group-title="PELICULAS SELECCIONADAS",Ciudad de Dios (2002) 
 http://home-playtv.com:8080/movie/garayale/KSGSU/13947.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2riQcEzjVrkP8wKHDXwC5EQpHQ.jpg" group-title="PELICULAS SELECCIONADAS",The Outsider (2018)
@@ -422,18 +427,7 @@ http://00322.xyz:8000/movie/adrianmalossi13/CQP9TJ8MZD/108130.mp4
 http://rasaiptv.com:8080/movie/ZpetyFRan36/XefraM37/185407.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Gravity_Poster.jpg" group-title="PELICULAS SELECCIONADAS",Gravity (2013)
 http://nxt.plus:8080/movie/olmos/1234guz/181159.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQwOGRmZDEtNjRmNC00ZWY2LTg0MmItZGQ2YjU0MmYyODQzXkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_.jpg" group-title="PELICULAS SELECCIONADAS",El hombre del mañana (2019)
-http://rasaiptv.com:8080/movie/ZpetyFRan36/XefraM37/185408.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGWhFEZ7I2ssMzVfnK6N61dHiTP.jpg" group-title="PELICULAS SELECCIONADAS",El Atrapasueños (2020)
-http://00322.xyz:8000/movie/adrianmalossi13/CQP9TJ8MZD/108143.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBwYsQaSTgnPphIy02DJjCF2cqs.jpg" group-title="PELICULAS SELECCIONADAS",Memorias de una Geisha (2005)
-http://home-playtv.com:8080/movie/JulioO/WCHST/14015.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zRaSaEajMddOa7DLXKM8uJ1YQKR.jpg" group-title="PELICULAS SELECCIONADAS",After We Fell (2021) 
-http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/152026.mkv
-#EXTINF:-1 tvg-logo="http://boxdigital.xyz:8080/images/5d299e3b8b68096c579117d1aadfd5c0.jpg" group-title="PELICULAS SELECCIONADAS",Aislados (2021)
-http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/152031.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d2ZFknSBw4YE3IXKnGDTXgg1xLj.jpg" group-title="PELICULAS SELECCIONADAS",Ajuste de cuentas (2013)
-http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/79577.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQwOGRmZDEtNjRmNC00ZWY2LTg0MmItZGQ2YjU0MmYyODQzXkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_.jpg" group-title="PELICULAS SELECC
 
 
 
