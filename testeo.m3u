@@ -81,7 +81,7 @@ https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2zCD4TB.png" group-title="TV NACIONAL",39 | DOBLE C TELEVISIÓN |
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/UsilTv.jpg" group-title="TV NACIONAL",42 | USIL TELEVISIÓN |
-https://per01-lim01.servidor.stream/usiltv/index.m3u8
+https://per01-lim01.servidor.stream/usiltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/telecanal-color2x.png" group-title="TV NACIONAL",45 | TELECANAL TV | 
 https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/VisionSur.jpg" group-title="TV NACIONAL",47 | VISIÓN SUR |
@@ -138,6 +138,8 @@ https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1888254998.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/978_DMJ.png" group-title="TV NACIONAL",82 | DMJ | 
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",83 | CONTACTO DEPORTIVO |
+https://live.obslivestream.com/cdeportivo/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",84 | NATIVA VRAEM |
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cablevision.png" group-title="TV NACIONAL",85 | CABLE VISION PERU |
@@ -166,9 +168,11 @@ https://mc.servidor.stream:19360/8256/8256.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canal8.jpg" group-title="TV NACIONAL",96 | CANAL 8 CATACAOS |
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/59/03/3b03d240cdfcef8caabd547386d3-l8z.jpg" group-title="TV NACIONAL",97 | LA KARIBEÑA DIRECTO
-https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",98 | CULTURA 24 TV DIRECTO
 https://cultura24.live.opencaster.com/play_360/index.m3u8
+#EXTINF:-1 tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png" group-title="TV NACIONAL",99 | SUPERCANALᴴᴰ DIRECTO 
+https://live.obslivestream.com/supercanal/index.m3u8
 
 
 
