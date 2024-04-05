@@ -95,7 +95,7 @@ https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/702_Unitel.png" group-title="TV NACIONAL",53 | UNITEL |
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s13908g.png" group-title="TV NACIONAL",54 | RADIO SAN BORJA |
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w1741627833.m3u8
+https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
 #EXTINF:-1 tvg-logo="https://teleamazonas.pe/wp-content/uploads/2023/09/logo1-teleamazonas.png" group-title="TV NACIONAL",55 | TELEAMAZONAS  |
 https://live.tvcontrolcp.com:1936/8054/8054/chunklist_w1423969700.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/OVACION.jpg" group-title="TV NACIONAL",57 | OVACION TV |
