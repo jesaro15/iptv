@@ -413,15 +413,21 @@ http://nxt.plus:8080/MarceCo/CorreaMar/166703
 
 
 
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/74/37/43/20156807.jpg" group-title="PELICULAS SELECCIONADAS",La milla verde (1999)
+http://magmas5.com:8000/movie/martinmbilbao/MFKVSE16K2/145580.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpzFxv78UvYG5yQba2soO5mMl4T.jpg" group-title="PELICULAS SELECCIONADAS",Nowhere (2023)
 http://home-playtv.com:8080/movie/JulioO/WCHST/510779.mkv
+#EXTINF:-1 tvg-logo="http://boxdigital.xyz:8080/images/0a0fabe9d03ff6f03648a70b7ef6ee6f.jpg" group-title="PELICULAS SELECCIONADAS",Hachiko (2009)
+http://home-playtv.com:8080/movie/garayale/KSGSU/94895.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Siempre_a_tu_lado_Hachiko-816823017-large.jpg" group-title="PELICULAS SELECCIONADAS",Siempre a tu lado (Hachiko) (2009)
+http://magmas5.com:8000/movie/martinmbilbao/MFKVSE16K2/145587.mkv
 #EXTINF:-1 tvg-logo="http://boxdigital.xyz:8080/images/d4eb06d553a3d5cdf27960743475508f.jpg" group-title="PELICULAS SELECCIONADAS",Shaft (2019)
 http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/151601.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pesSqCVneMabei0js9hL9Gby9mz.jpg" group-title="PELICULAS SELECCIONADAS",Shaft (2019)
 http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/79142.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nS4eutSuSidh8RKaorGfuBsSnZM.jpg" group-title="PELICULAS SELECCIONADAS",El Hombre De Los Sueños (2023)
 http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/272385.mp4
-
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Una_mente_maravillosa-636974393-large.jpg" group-title="PELICULAS SELECCIONADAS",Una Mente Brillante (2001)
 http://nxt.plus:8080/movie/olmos/1234guz/183087.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YEX7qUfg6kN2tHm84CMt2CEq9n.jpg" group-title="PELICULAS SELECCIONADAS",Ciudad de Dios (2002) 
