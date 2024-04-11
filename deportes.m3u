@@ -1,11 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/willax.png" group-title="TV NACIONAL",PE| WILLAX HD
+http://lobo-tv.live:8080/Goyosdmex/SrEaaz7VS8ry/10641
 #EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/biglogos/LATINA.png" group-title="TV NACIONAL",PE | LATINA TV 
 https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/biglogos/AMERICATV.png" group-title="TV NACIONAL",PE| AMERICA TV HD
 http://lobo-tv.live:8080/Goyosdmex/SrEaaz7VS8ry/11437
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/panamericanape.png" group-title="TV NACIONAL",PE | PANAMERICANA TV 
-https://cdnhd.iblups.com/hls/ptv5.m3u8
+http://lobo-tv.live:8080/Goyosdmex/SrEaaz7VS8ry/10640
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/exitosa.jpg" group-title="TV NACIONAL",PE | EXITOSA TV 
 https://iptv-c9-x-m-mck9-video.cusac.online:50050/exitosa/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="TV NACIONAL",PE | TV PERU 
@@ -20,8 +22,12 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-sur-pe.png" group-title="TV NACIONAL",PE | ATV SUR 
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/LogoGlobalTV.png" group-title="TV NACIONAL",PE| GLOBAL TV
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",PE| GLOBAL TV
 http://lobo-tv.live:8080/Goyosdmex/SrEaaz7VS8ry/2169944
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="TV NACIONAL",PE | NATIVA TV 
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="LIGA 1",PE | LIGA 1 MAX | OP1
 http://home-playtv.com:8080/garayale/KSGSU/469158
