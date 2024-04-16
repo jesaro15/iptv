@@ -75,13 +75,13 @@ https://vcp4.myplaytv.com:1936/nextv/nextv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" News",PR | TELEONCE DIRECTO
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/live-audio_track_0_0_und=64000-video_track=2000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wapa-tv-puerto-rico-logo-C617B18D9F-seeklogo.com.gif" group-title="News",,PR | WAPA ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wapa-tv-puerto-rico-logo-C617B18D9F-seeklogo.com.gif" group-title="News",PR | WAPA ᴴᴰ DIRECTO
 https://live.field59.com/wapa/ngrp:wapa1_all/chunklist_b2690048.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbm2S9O.jpg" group-title="News",CU | PRENSA LATINA TV ᴴᴰ 
 https://eu1.servers10.com:8081/8192/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="news",RD | RTVD DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="News",RD | RTVD DIRECTO
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/canal25-santiago.jpg" group-title="News",RD | Canal 25 ᴴᴰ DIRECTO
@@ -265,6 +265,12 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 
 
 
+
+
+
+
+
+FIN
 
 
 
