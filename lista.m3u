@@ -1,51 +1,51 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="News",MX | CANAL 5 ᴴᴰ DIRECTO 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="News",MX | CANAL 5 ᴴᴰ DIRECTO 
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",MX | AMX NOTICIAS ᴴᴰ DIRECTO 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="News",MX | AMX NOTICIAS ᴴᴰ DIRECTO 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",MX | AZTECA ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="News",MX | AZTECA ᴴᴰ DIRECTO
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",GT | TV AZTECA GUATE ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="News",GT | TV AZTECA GUATE ᴴᴰ DIRECTO
 https://ch1-tva.duin.dev/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",GT | ESQUIPULAS TV ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6j3FH1q.png" group-title="News",GT | ESQUIPULAS TV ᴴᴰ DIRECTO
 https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8 
 
-#EXTINF:-1 tvg-logo="" group-title="News",GT | EXPRESION TV ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lFek4Pj.png" group-title="News",GT | EXPRESION TV ᴴᴰ DIRECTO
 https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Televisiete_Logo.png/640px-Televisiete_Logo.png" group-title="News",GT | TELEVISIETE DIRECTO
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",HN | GUAYAPE DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cteBdAJ.jpg" group-title="News",HN | GUAYAPE DIRECTO
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/2ac4dfbd79ca4fb5905d09167229484f/chunklist_b4192000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",HN | 504 TV ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c2HLI3k.png" group-title="News",HN | 504 TV ᴴᴰ DIRECTO
 https://mediacp.us:8081/504tvhn/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",HN | ALSACIAS TV ᴴᴰ DIRECTO  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SbuD1UW.png" group-title="News",HN | ALSACIAS TV ᴴᴰ DIRECTO  
 https://s.emisoras.tv:8081/atv/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",HN | CHOLUTECA TV DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mpc4Isd.png" group-title="News",HN | CHOLUTECA TV DIRECTO
 https://s.emisoras.tv:8081/cholutecatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/WTVNicaraguacanal20/picture?width=200&height=200" group-title="News",NI | WTV DIRECTO
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",NI | Canal 2 ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hy0bXxo.png" group-title="News",NI | Canal 2 ᴴᴰ DIRECTO
 https://cootv.cootel.com.ni:8095/Canal02_CooTel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",NI | Canal 10 ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ztp781b.png" group-title="News",NI | Canal 10 ᴴᴰ DIRECTO
 http://138.117.4.70:8075/Canal10_CooTel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",NI | Canal 11 ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/heZeqPQ.png" group-title="News",NI | Canal 11 ᴴᴰ DIRECTO
 https://cootv.cootel.com.ni:8095/Canal11_CooTel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1715430427618385920/7M2WtIEE_200x200.jpg" group-title="News",SV | CANAL 12 ᴴᴰ DIRECTO 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="News",SV | CANAL 12 ᴴᴰ DIRECTO 
 http://stream.flynetwifi.com:1935/live/mobile-082/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/MultimediosCR/picture?width=200&height=200" group-title="News",CR | CANAL 8 DIRECTO
@@ -57,7 +57,7 @@ https://opa.usastreams.com:3101/live/canalopalive.m3u8
 #EXTINF:-1 tvg-logo="https://sicultura-live.s3.amazonaws.com/public/2022-11/301969217_503586181771987_4515833689371219273_n.jpg" group-title="News",CR |TVSUR ᴴᴰ DIRECTO
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w12675392.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",CR | CANAL 1 DIRECTO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="News",CR | CANAL 1 DIRECTO
 https://video20.klm99.com:3993/live/canal1crlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7QRn6N0_GRCoOwRyu9FZWxnPaud-ODHLeBf3xPuR4Og&s" group-title="News",CR | TRIVISION DIRECTO
@@ -78,7 +78,7 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wapa-tv-puerto-rico-logo-C617B18D9F-seeklogo.com.gif" group-title="News",,PR | WAPA ᴴᴰ DIRECTO
 https://live.field59.com/wapa/ngrp:wapa1_all/chunklist_b2690048.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",CU | PRENSA LATINA TV ᴴᴰ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbm2S9O.jpg" group-title="News",CU | PRENSA LATINA TV ᴴᴰ 
 https://eu1.servers10.com:8081/8192/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/canal25-santiago.jpg" group-title="News",RD | Canal 25 ᴴᴰ DIRECTO
