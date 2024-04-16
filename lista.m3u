@@ -51,7 +51,7 @@ http://stream.flynetwifi.com:1935/live/mobile-082/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/MultimediosCR/picture?width=200&height=200" group-title="News",CR | CANAL 8 DIRECTO
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="News",CR | CANAL 38 TV DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8q7BNBq.png" group-title="News",CR | CANAL 38 TV DIRECTO
 https://opa.usastreams.com:3101/live/canalopalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://sicultura-live.s3.amazonaws.com/public/2022-11/301969217_503586181771987_4515833689371219273_n.jpg" group-title="News",CR |TVSUR ᴴᴰ DIRECTO
@@ -61,7 +61,7 @@ https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w126753
 https://video20.klm99.com:3993/live/canal1crlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7QRn6N0_GRCoOwRyu9FZWxnPaud-ODHLeBf3xPuR4Og&s" group-title="News",CR | TRIVISION DIRECTO
-https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-1500/chunklist.m3u8?DVR
+https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
 
 #EXTINF:-1 tvg-logo="" group-title="News",PA | MAS 23 TV DIRECTO
 https://vcp4.myplaytv.com:1936/mas23/mas23/playlist.m3u8
@@ -81,13 +81,16 @@ https://live.field59.com/wapa/ngrp:wapa1_all/chunklist_b2690048.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbm2S9O.jpg" group-title="News",CU | PRENSA LATINA TV ᴴᴰ 
 https://eu1.servers10.com:8081/8192/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="news",RD | RTVD DIRECTO
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/canal25-santiago.jpg" group-title="News",RD | Canal 25 ᴴᴰ DIRECTO
 https://ss3.domint.net:3150/c25_str/canal25/chunklist_w426984884.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.com.do/wp-content/uploads/2022/05/artes-logo-cdn.jpg" group-title="News",RD | CDN TV DIRECTO
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8?p=79&s=1710514312&e=1710514432&h=b632e4e13f2676e49ebfc94e4e4fb655
 
-#EXTINF:-1 tvg-logo="" group-title="News",RD | CARIVISION DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XjGb2UM.png" group-title="News",RD | CARIVISION DIRECTO
 https://ss5.domint.net:3174/car_str/carivision/chunklist_w283143972.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Telearuba_Logo.png/200px-Telearuba_Logo.png" group-title="News",AW | TELE ARUBA ᴴᴰ DIRECTO
@@ -102,55 +105,52 @@ https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",AW | Heart Radio Aruba DIRECTO
 https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",VE | TV FANB DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaEyv29.png" group-title="News",VE | TV FANB DIRECTO
 https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",VE | TVes DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QX5DVUB.png" group-title="News",VE | TVes DIRECTO
 https://ls.tves.gob.ve/hls/tves.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",VE | GLOBOVISION DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v6nRdxQ.png" group-title="News",VE | GLOBOVISION DIRECTO
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",VE | CANAL NUBEH TV DIRECTO
-https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5r3hBNz/logo-footer.png" group-title="news",VE | LA IGUANA TV
+https://ythls.armelin.one/channel/UCCc2H9_eNnU7ucq2n7Sh3Rg.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",VE | PROMAR DIRECTO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="News",VE | PROMAR DIRECTO
 https://vcp.myplaytv.com/promar/promar/chunklist_w1561591709.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="News",VE | TVO DIRECTO
-https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TelevenTV/picture?width=200&height=200" group-title="News",VE | TELEVEN DIRECTO
 https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="News",CO | CANAL INSTITUCIONAL ᴴᴰ DIRECTO
+#EXTINF:0 tvg-logo="https://i.imgur.com/CKnf3Ua.png" group-title="News",CO | CANAL INSTITUCIONAL ᴴᴰ DIRECTO
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="News",CO | RCN PLUS DIRECTO
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1gHVqvv0mgv7uTpTJ7OebOH7Ldsi_AHisgqlOzJZ7UekQ2GoKHal2O2Mu3Jc9LXTJIzjU161-A_52arYN-uS6hpfcO1U4JxfjpNN8bBMeTbP4SinrENCEOJ2mqRsF2p94KuN_3zSzPph3/s1366/rcnmas.jpg" group-title="News",CO | RCN PLUS DIRECTO
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="News",CO | TELEPACIFICO DIRECTO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="News",CO | BLU RADIO ᴴᴰ DIRECTO
-https://ythls.armelin.one/channel/UCUYokk2dJxFZf7NgxTL-ROg.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="",RCN
+http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="News",CO | CABLE NOTICIAS DIRECTO
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="News",EC | CANAL UNO ᴴᴰ DIRECTO
+#EXTINF:0 tvg-logo="https://i.imgur.com/sEW6C5G.png" group-title="News",EC | CANAL UNO ᴴᴰ DIRECTO
 https://cp.panelchs.com:1936/8034/8034/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="News",EC | INTI TV ᴴᴰ DIRECTO
+#EXTINF:0 tvg-logo="https://i.imgur.com/2WirGqb.png" group-title="News",EC | INTI TV ᴴᴰ DIRECTO
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="News",EC | MANAVISION ᴴᴰ DIRECTO
+#EXTINF:0 tvg-logo="https://i.imgur.com/mZkW342.png" group-title="News",EC | MANAVISION ᴴᴰ DIRECTO
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="News",EC | ECUAMUNDO TV DIRECTO
+#EXTINF:0 tvg-logo="https://i.imgur.com/EMe5oWn.jpg" group-title="News",EC | ECUAMUNDO TV DIRECTO
 https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="News",EC | ECUAVISA DIRECTO
+#EXTINF:0 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="News",EC | ECUAVISA DIRECTO
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vDDEKx6.jpg" group-title="News",EC | ECUADOR TV DIRECTO                       
@@ -160,12 +160,18 @@ https://samson.streamerr.co:8081/akira/tracks-v1a1/mono.m3u8
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ABYAYALA.jpg" group-title="News",BO | ABYA YALA DIRECTO
-https://master.tucableip.com/abyayalatv/tracks-v1a1/mono.m3u8
+https://master.tucableip.com/abyayalatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E243X2x.png" group-title="News",BO | ATB LA PAZ DIRECTO
+http://186.121.206.197/live/daniel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="News",BO | BOLIVISION DIRECTO
+https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Cadena_a_2021.jpg" group-title="News",BO | CADENA A ᴴᴰ DIRECTO
-https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1355405317.m3u8
+https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="News",BO | GIGAVISION ᴴᴰ DIRECTO
+#EXTINF:0 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="News",BO | GIGAVISION ᴴᴰ DIRECTO
 https://master.tucableip.com/gigavision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="News",CL | CHILEVISION DIRECTO
