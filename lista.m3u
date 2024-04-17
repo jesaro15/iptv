@@ -81,6 +81,10 @@ https://live.field59.com/wapa/ngrp:wapa1_all/chunklist_b2690048.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbm2S9O.jpg" group-title="News",CU | PRENSA LATINA TV ᴴᴰ 
 https://eu1.servers10.com:8081/8192/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CubavisionInternacional/picture" group-title="News",CU |CUBAVISION TV ᴴᴰ
+#EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="News",RD | RTVD DIRECTO
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
