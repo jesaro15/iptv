@@ -72,7 +72,7 @@ https://video.misistemareseller.com/minfavtv/minfavtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQBd052.png" group-title="News",PA | NEX TV Canal 21 ᴴᴰ DIRECTO
 https://vcp4.myplaytv.com:1936/nextv/nextv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" News",PR | TELEONCE DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Crt3P4N.png" group-title="News",PR | TELEONCE DIRECTO
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/live-audio_track_0_0_und=64000-video_track=2000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wapa-tv-puerto-rico-logo-C617B18D9F-seeklogo.com.gif" group-title="News",PR | WAPA ᴴᴰ DIRECTO
@@ -124,7 +124,7 @@ https://ls.tves.gob.ve/hls/tves.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v6nRdxQ.png" group-title="News",VE | GLOBOVISION DIRECTO
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r3hBNz/logo-footer.png" group-title="news",VE | LA IGUANA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5r3hBNz/logo-footer.png" group-title="News",VE | LA IGUANA TV
 https://ythls.armelin.one/channel/UCCc2H9_eNnU7ucq2n7Sh3Rg.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="News",VE | PROMAR DIRECTO
@@ -245,10 +245,10 @@ https://tvlive.servicioselbachi.com:3686/hybrid/play.m3u8
 https://stream.vivotv.uy/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",ES | 24HORAS ᴴᴰ DIRECTO
-http://stream.flynetwifi.com:1935/live/mobile-100/playlist.m3u8
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://barcelonanoticias45.files.wordpress.com/2023/07/logo-canalred-barcelona-noticias.jpg" group-title="News",ES | CANAL RED DIRECTO
-https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
+https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 
 #EXTINF:-1 tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/3.jpg" group-title="News",ES | LA 1 ᴴᴰ DIRECTO
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
@@ -257,7 +257,7 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="News",ES | ANTENA 3 ᴴᴰ DIRECTO
-http://novared.pro:8080/salomon05vecp/chonillo195605/110046
+http://tvbox.ovh:37500/687281607/1971/115923
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="News",FR | FRANCE 24 ᴴᴰ DIRECTO 
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
