@@ -84,6 +84,12 @@ https://eu1.servers10.com:8081/8192/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="News",RD | RTVD DIRECTO
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51bJg+c7vRL.png" group-title="News",HT | CANAL DE NOTICIAS HAITI
+https://haititivi.com/website/haitinews/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OdOCGiW.png" group-title="News",HT | TELE CARIBE
+https://ythls.armelin.one/channel/UCWwP6VfG61i7BWSV0H3Jn9A.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/canal25-santiago.jpg" group-title="News",RD | Canal 25 ᴴᴰ DIRECTO
 https://ss3.domint.net:3150/c25_str/canal25/chunklist_w426984884.m3u8
 
@@ -198,37 +204,37 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Unicanal/picture?width=200&height=200" group-title="News",PY | UNICANAL DIRECTO
 https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",PY | GENTV DIRECTO
-http://lobo-tv.live:8080/Goyosdmex/SrEaaz7VS8ry/2107645
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cp4zJ7O.png" group-title="News",PY | C9N ᴴᴰ DIRECTO
+https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",PY | LIM TV DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CALoCyo.png" group-title="News",PY | LIM TV DIRECTO
 https://tv.invasivamedia.com/hls/limtv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",PY | MAS TV DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L2Dx1NY.png" group-title="News",PY | MAS TV DIRECTO
 https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",PY | MEGA TV DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CaA7l86.png" group-title="News",PY | MEGA TV DIRECTO
 https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ABCTVpy/picture?width=200&height=200" group-title="News",PY | ABC TV DIRECTO
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",UY | UCL TV ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="News",UY | UCL TV ᴴᴰ DIRECTO
 https://streamingamericaservice.info:19360/ucltv/ucltv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",UY | TELE 8 MERCEDES DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mg7ZB9K.png" group-title="News",UY | TELE 8 MERCEDES DIRECTO
 http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",UY | TV FLORIDA ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ORjoLdw.png" group-title="News",UY | TV FLORIDA ᴴᴰ DIRECTO
 https://stmv1.srvif.com/tv6842/tv6842/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",UY | CHARRUA TV DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KWAuNXn.png" group-title="News",UY | CHARRUA TV DIRECTO
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",UY | CANAL MAS ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T2vgUvN.png" group-title="News",UY | CANAL MAS ᴴᴰ DIRECTO
 https://tvlive.servicioselbachi.com:3686/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",UY | VIVO TV DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eqIznb4.png" group-title="News",UY | VIVO TV DIRECTO
 https://stream.vivotv.uy/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",ES | 24HORAS ᴴᴰ DIRECTO
