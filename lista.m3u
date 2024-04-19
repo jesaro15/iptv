@@ -272,7 +272,7 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hNuWZWe.png" group-title="News",AL | ZJARR TVᴴᴰ DIRECTO
-https://manifest-gcp-us-east1-vop1.fastly.mux.com/NZ2HjEZIEFIM00wRHw1ACuBFrNDdCfuSB3yTz29unySvtspUTHNswUpwUkuYBouHVK4rMLlwdsJjcwHoN00XiuA00w522GFZdIpiShnNIt62R8/rendition.m3u8?cdn=fastly&expires=1713579480&live=1&skid=default&signature=NjYyMzI1ZDhfNTU0Y2E3ZDg4MTljYWYzYjAwMjMxMjMyYjA5N2M5N2IxMjliYTNiOTI5OWI2MGRhNWQ1MjQ4MzY0YjM0NmVlZg%3D%3D&_HLS_msn=10449&_HLS_part=1
+https://cdn.jwplayer.com/live/events/IWrw2Od3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="News",RU | ACTUALIDAD RT DIRECTO
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
