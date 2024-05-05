@@ -81,7 +81,8 @@ https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2zCD4TB.png" group-title="TV NACIONAL",39 | DOBLE C TELEVISIÓN |
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oFGiW7u.png" group-title="TV NACIONAL",40 | RN TELEVISION |
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 
 
 
