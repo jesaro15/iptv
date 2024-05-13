@@ -29,11 +29,11 @@ http://nxt.plus:8080/jesus01/jesus01/116427
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/4e22375e9e0c7192c6e44bb70522bf4b.jpg" group-title="TV NACIONAL",8.1 | CANAL N |
 http://tvlatino.club:2082/kami857/HccRvFPeVFfu/167
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-E0FD3BBF05-seeklogo.com.png" group-title="TV NACIONAL",9 | ATV |
-https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
+https://alba-pe-atv-atv.stream.mediatiquestream.com/720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="TV NACIONAL",10 | ATV PLUS |
-https://alba-pe-atv-atvmas.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/720p.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-sur-pe.png" group-title="TV NACIONAL",11 | ATV SUR |
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/LogoGlobalTV.png" group-title="TV NACIONAL",13 | GLOBAL TV |
 http://sdmx.vip:8080/Joseluis/Joseluis123/2169944
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="TV NACIONAL",15 | NATIVA TV |
