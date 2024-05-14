@@ -215,7 +215,7 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="NOTICIAS",120.2 | RT EN ESPAÑOL |
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",122 | ALJAZEERA ENGLISH |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Al_Jazeera.jpg" group-title="NOTICIAS",122 | ALJAZEERA ENGLISH |
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/854/340/png-clipart-logo-canal-institucional-graphic-designer-y-40-the-deep-joy-design-text-orange-thumbnail.png" group-title="NOTICIAS",123 | CANAL INSTITUCIONAL COLOMBIA |
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
