@@ -393,6 +393,60 @@ https://stream.vivotv.uy/hls/stream.m3u8
 
 
 
+***********CANALES NOTICIAS*********
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="CANALES NOTICIAS", | TELESURᴴᴰ 
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_2017.png/revision/latest?cb=20210217012618&path-prefix=es" group-title="CANALES NOTICIAS", | NOTICIAS CARACOL 
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANALES NOTICIAS", | EL CONFIDENCIALᴴᴰ DIRECTO
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="CANALES NOTICIAS", | 24HORASᴴᴰ
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://barcelonanoticias45.files.wordpress.com/2023/07/logo-canalred-barcelona-noticias.jpg" group-title="CANALES NOTICIAS", | CANAL RED 
+https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
+
+#EXTINF:-1 tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/3.jpg" group-title="CANALES NOTICIAS", | LA 1ᴴᴰ
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="CANALES NOTICIAS", | NEGOCIOSᴴᴰ TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="CANALES NOTICIAS", | FRANCE 24ᴴᴰ  
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="CANALES NOTICIAS", | DEUSTCHE WELLE DWᴴᴰ
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="CANALES NOTICIAS", | ACTUALIDAD RTᴴᴰ 
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="CANALES NOTICIAS", | CGTN EN ESPAÑOLᴴᴰ 
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/hispantv.jpg" group-title="CANALES NOTICIAS", | HISPANTVᴴᴰ
+https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="CANALES NOTICIAS", | NHK WORLDᴴᴰ
+https://bmcc.nhkworld.jp/live2/index_1M.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/AlJazeera.jpg" group-title="CANALES NOTICIAS", | ALJAZEERAᴴᴰ ENGLISH 
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+
+
+
+***************CANALES DEPORTES**************
+
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="LIGA 1",PE | LIGA 1 MAX | OP1
 http://home-playtv.com:8080/garayale/KSGSU/469158
