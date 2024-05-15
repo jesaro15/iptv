@@ -399,12 +399,12 @@ https://stream.vivotv.uy/hls/stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="CANALES NOTICIAS", | TELESURᴴᴰ 
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_2017.png/revision/latest?cb=20210217012618&path-prefix=es" group-title="CANALES NOTICIAS", | NOTICIAS CARACOL 
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANALES NOTICIAS", | EL CONFIDENCIALᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRtZltn0c9AFAf91y5Qh_KD3uNfJlaAePntWf6P10wxA&s" group-title="CANALES NOTICIAS", | EL CONFIDENCIALᴴᴰ DIRECTO
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="CANALES NOTICIAS", | 24HORASᴴᴰ
@@ -437,7 +437,7 @@ https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="CANALES NOTICIAS", | NHK WORLDᴴᴰ
 https://bmcc.nhkworld.jp/live2/index_1M.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/AlJazeera.jpg" group-title="CANALES NOTICIAS", | ALJAZEERAᴴᴰ ENGLISH 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Al_Jazeera.jpg" group-title="CANALES NOTICIAS", | ALJAZEERAᴴᴰ ENGLISH 
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 
