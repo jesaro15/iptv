@@ -296,7 +296,7 @@ https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/sEW6C5G.png" group-title="CANALES LATINOS",EC | CANAL UNO ᴴᴰ DIRECTO
-https://cp.panelchs.com:1936/8034/8034/playlist.m3u8
+https://video.ejeserver.com/live/canaluno.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/2WirGqb.png" group-title="CANALES LATINOS",EC | INTI TV ᴴᴰ DIRECTO
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
@@ -308,7 +308,7 @@ https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vDDEKx6.jpg" group-title="CANALES LATINOS",EC | ECUADOR TV DIRECTO                       
-https://samson.streamerr.co:8081/akira/tracks-v1a1/mono.m3u8
+https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E7Qxyi0.png" group-title="CANALES LATINOS",BO | BOLIVIA TV DIRECTO
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
