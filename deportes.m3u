@@ -145,8 +145,7 @@ https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/697_Hechicera_TV.png" group-title="TV NACIONAL",97 | HECHICERA TV | 
 https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png" group-title="TV NACIONAL",99 | SUPERCANALᴴᴰ DIRECTO 
-https://live.obslivestream.com/supercanal/tracks-v1a1/mono.m3u8
-
+https://live.obslivestream.com/supercanal/index.m3u8
 
 ***********CANALES LATINOS**************
 
@@ -645,7 +644,6 @@ http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330754
 https://live.obslivestream.com/supercanal/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/an/thumb/c/c7/Logo_Real_Madrid.svg/1200px-Logo_Real_Madrid.svg.png" group-title="EUROPA",ES | REAL MADRID TV ᴴᴰ |
-http://nxt.plus:8080/MarceCo/CorreaMar/166703
+
 
 FIN
