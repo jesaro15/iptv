@@ -700,9 +700,13 @@ http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330754
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/telon.jpg" title-group="TEMPORAL",JESARO | SUPERCANALᴴᴰ DIRECTO 
 https://live.obslivestream.com/supercanal/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tyc-sports9267.logowik.com.webp" group-title="TEMPORAL",JESARO | TYC SPORT
-http://iptvtree.net:8080/F19236/516c41c7/8749
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tyc-sports9267.logowik.com.webp" group-title="TEMPORAL", | TYC SP⚽RTS HD
+http://novared.pro:8080/salomon05vecp/chonillo195605/339647
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tyc-sports9267.logowik.com.webp" group-title="TEMPORAL", | TYC SP⚽RTS SD
+http://novared.pro:8080/salomon05vecp/chonillo195605/339648
 
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tyc-sports9267.logowik.com.webp" group-title="TEMPORAL", | TYC SP⚽RTS
+http://iptvtree.net:8080/F19236/516c41c7/8749
 
 
 
