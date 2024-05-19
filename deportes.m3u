@@ -63,13 +63,13 @@ https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oFGiW7u.png" group-title="TV NACIONAL",40 | RN TELEVISION |
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
-#EXTINF:-1 tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/telecanal-color2x.png" group-title="TV NACIONAL",45 | TELECANAL TV | 
-https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/VisionSur.jpg" group-title="TV NACIONAL",47 | VISIÓN SUR |
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/IdentidadTv.jpg" group-title="TV NACIONAL",48 | IDENTIDAD TV |
 https://cast.stre.live7.la:3322/live/identidadtvlive.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s305740/images/logod.png" group-title="TV NACIONAL",49 | TELESUR MOQUEGUA |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ya.jpg" group-title="TV NACIONAL",49 | YA TV | 
+https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s305740/images/logod.png" group-title="TV NACIONAL",50 | TELESUR MOQUEGUA |
 https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s305740/images/logod.png" group-title="TV NACIONAL",51 | TELESUR TACNA |
 https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
