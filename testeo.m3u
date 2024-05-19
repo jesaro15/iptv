@@ -393,6 +393,10 @@ http://nxt.plus:8080/MarceCo/CorreaMar/166703
 **************SELECCIONADAS**************
 
 
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uQaSgtHyTN3r2fecL0mSs6geQO.jpg" group-title="PELICULAS SELECCIONADAS",Jumanji: En la selva (2017)
+http://home-playtv.com:8080/movie/JulioO/WCHST/228254.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b93ba4138cddeda9ad692160715c35764e6b2628d6b3e19019d9e3b8725509d2.jpg" group-title="PELICULAS SELECCIONADAS",Godzilla y Kong: El nuevo imperio (2024)
 http://daleplay.club:80/movie/VictorNaranjo/Victor09122021/351149.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_reino_del_planeta_de_los_simios-209448357-large.jpg" group-title="PELICULAS SELECCIONADAS",El planeta de los simios: Nuevo reino (2024)
