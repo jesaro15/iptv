@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,**TELEVISIÓN NACIONAL**
+https://i.ytimg.com/vi/H9kAldyg52Y/maxresdefault.jpg
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/willlax.jpg" group-title="TV NACIONAL",1 | WILLAX |
 http://lobo-tv.live:8080/Goyosdmex/SrEaaz7VS8ry/10641
@@ -63,6 +65,8 @@ https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oFGiW7u.png" group-title="TV NACIONAL",40 | RN TELEVISION |
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
+#EXTINF:-1 tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png" group-title="TV NACIONAL",45 | SUPERCANALᴴᴰ DIRECTO 
+https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/VisionSur.jpg" group-title="TV NACIONAL",47 | VISIÓN SUR |
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/IdentidadTv.jpg" group-title="TV NACIONAL",48 | IDENTIDAD TV |
@@ -144,10 +148,14 @@ https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/697_Hechicera_TV.png" group-title="TV NACIONAL",97 | HECHICERA TV | 
 https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png" group-title="TV NACIONAL",99 | SUPERCANALᴴᴰ DIRECTO 
-https://live.obslivestream.com/supercanal/index.m3u8
 
-***********CANALES LATINOS**************
+
+
+
+#EXTINF:-1,**CANALES LATINOS**
+https://i.ytimg.com/vi/H9kAldyg52Y/maxresdefault.jpg
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="CANALES LATINOS",MX | CANAL 5 ᴴᴰ DIRECTO 
@@ -393,7 +401,8 @@ https://stream.vivotv.uy/hls/stream.m3u8
 
 
 
-***********CANALES NOTICIAS*********
+#EXTINF:-1,**CANALES DE NOTICIAS**
+https://i.ytimg.com/vi/H9kAldyg52Y/maxresdefault.jpg
 
 
 
@@ -443,7 +452,8 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 
 
-***************CANALES DEPORTES**************
+#EXTINF:-1,**CANALES DE DEPORTES**
+https://i.ytimg.com/vi/H9kAldyg52Y/maxresdefault.jpg
 
 
 
