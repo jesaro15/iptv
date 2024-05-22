@@ -148,6 +148,8 @@ https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/697_Hechicera_TV.png" group-title="TV NACIONAL",97 | HECHICERA TV | 
 https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Wwox8rWMwt_NZXD3vVGNHc1hDmAkmOpBx2s9a0IcTTyHm7DkFw11AD8ZqDNGrF5B6uo" group-title="TV NACIONAL",98 | TROPICAL TV @ | 
+https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 
 
 
