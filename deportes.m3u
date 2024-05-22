@@ -131,7 +131,7 @@ https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 https://soportedvb.click:3891/live/visionndvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="TV NACIONAL",87 | AGRO TV |
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.rcrperu.com/wp-content/uploads/2019/10/logo-rcr.png" group-title="TV NACIONAL",88 | RCR |  
+#EXTINF:-1 tvg-logo="https://www.rcrperu.com/wp-content/uploads/2019/10/logo-rcr.png" group-title="TV NACIONAL",88 | RCR @ |  
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/chunklist_w68889844.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/33.jpg" group-title="TV NACIONAL",89 | CANAL 33 AYACUCHO |
 https://video2.getstreamhosting.com:19360/8206/8206.m3u8
