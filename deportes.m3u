@@ -40,25 +40,32 @@ https://v4.tustreaming.cl/ondadigitaltv/tracks-v1a1/mono.m3u8
 https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/SE%C3%91AL%20PERU.jpg" group-title="TV NACIONAL",20 | SEÑAL PERU TV |
 https://livestream.perucast.com/low/stream_low/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/UranioTv.jpg" group-title="TV NACIONAL",21 | URANIO TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/UranioTv.jpg" group-title="TV NACIONAL",21 | URANIO TV |
 https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",22 | TELEVISION TARAPOTO @ |
+https://live.obslivestream.com/rwtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CNC.jpg" group-title="TV NACIONAL",23 | CNC CAJAMARCA |
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/antares.jpg" group-title="TV NACIONAL",25 | ANTARES TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/antares.jpg" group-title="TV NACIONAL",25 | ANTARES TV @ |
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/PeruGoTv.jpg" group-title="TV NACIONAL",26 | PERU GO TV |  
-#EXTVLCOPT:http-referrer=https://ssh101.com/
-https://tna5.bozztv.com/Cusco/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",26 | CUMO TV |  
+https://live.obslivestream.com/cumo/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peru-magico-pe.png" group-title="TV NACIONAL",27 | PERU MAGICO |
 http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/151547
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="TV NACIONAL",29 | CONECTA2 TV |
 https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",30 | PLANETA TV @ |
+https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="TV NACIONAL",31 | BH TV |
 https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8     
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2KcpOEU.png" group-title="TV NACIONAL",32 | VZ TV |
 https://live.obslivestream.com/vztv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="TV NACIONAL",33 | VINILOS TV |
 https://live.obslivestream.com/controversiatv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",34 | TV ONE @ |
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",35 | W TV @ |
+https://live.obslivestream.com/wtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lppmyxD.png" group-title="TV NACIONAL",37 | DIASPORA TV |
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2zCD4TB.png" group-title="TV NACIONAL",39 | DOBLE C TELEVISIÓN |
@@ -67,6 +74,7 @@ https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 #EXTINF:-1 tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png" group-title="TV NACIONAL",45 | SUPERCANALᴴᴰ DIRECTO 
 https://live.obslivestream.com/supercanal/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/VisionSur.jpg" group-title="TV NACIONAL",47 | VISIÓN SUR |
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/IdentidadTv.jpg" group-title="TV NACIONAL",48 | IDENTIDAD TV |
@@ -150,6 +158,7 @@ https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Wwox8rWMwt_NZXD3vVGNHc1hDmAkmOpBx2s9a0IcTTyHm7DkFw11AD8ZqDNGrF5B6uo" group-title="TV NACIONAL",98 | TROPICAL TV @ | 
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
+
 
 
 
