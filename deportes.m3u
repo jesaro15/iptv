@@ -162,6 +162,9 @@ https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",99 | IMPACTO TELEVISION | |@|
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",100 | SUPER DIGITAL TV | RD
+https://inliveserver.com:1936/11516/11516/chunklist_w1528637772.m3u8
+
 
 
 
