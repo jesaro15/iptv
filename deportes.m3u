@@ -61,7 +61,7 @@ https://live.obslivestream.com/vztv/index.m3u8
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",34 | TV ONE | |@|
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",35 | W TV | |@|
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/w.jpg" group-title="TV NACIONAL",35 | W TV | |@|
 https://live.obslivestream.com/wtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lppmyxD.png" group-title="TV NACIONAL",37 | DIASPORA TV | |@|
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
