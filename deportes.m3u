@@ -122,7 +122,7 @@ https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w759963595.m3u8
 https://tv.ondadigital.pe:1936/master/master/chunklist_w1743909154.m3u8
 #EXTINF:-1 tvg-logo="https://soltvperu.com/web/wp-content/uploads/2019/05/soltv-logonew.png" group-title="TV NACIONAL",77 | SOL TV |  
 https://video03.logicahost.com.br/soltv/soltv/chunklist_w1946435464.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/842e52_7241fa807a3b4107894e5144f8a7f041~mv2_d_2416_2468_s_4_2.png/v1/fit/w_2500,h_1330,al_c/842e52_7241fa807a3b4107894e5144f8a7f041~mv2_d_2416_2468_s_4_2.png" group-title="TV NACIONAL",78 | PERU CHANNEL TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Peru_channel.jpg" group-title="TV NACIONAL",78 | PERU CHANNEL TV |
 https://a.cdni.live/peruchanel/peruchanel/chunklist_w385659098.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1180_CR_TV.png" group-title="TV NACIONAL",79 | CR TV |
 https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
