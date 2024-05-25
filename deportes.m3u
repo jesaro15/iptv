@@ -45,21 +45,21 @@ https://live.obslivestream.com/rwtv/index.m3u8
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/antares.jpg" group-title="TV NACIONAL",25 | ANTARES TV |@|
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",26 | CUMO TV |  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cumo.jpg" group-title="TV NACIONAL",26 | CUMO TV |  
 https://live.obslivestream.com/cumo/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peru-magico-pe.png" group-title="TV NACIONAL",27 | PERU MAGICO |
 http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/151547
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="TV NACIONAL",29 | CONECTA2 TV |
 https://servilive.com:3114/live/liveulive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",30 | PLANETA TV | |@|
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Planeta.jpg" group-title="TV NACIONAL",30 | PLANETA TV | |@|
 https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="TV NACIONAL",31 | BH TV |
 https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8     
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2KcpOEU.png" group-title="TV NACIONAL",32 | VZ TV | |@|
 https://live.obslivestream.com/vztv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="TV NACIONAL",33 | VINILOS TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/VinilosTv.jpg" group-title="TV NACIONAL",33 | VINILOS TV |
 https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",34 | TV ONE | |@|
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/tvone.jpg" group-title="TV NACIONAL",34 | TV ONE | |@|
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/w.jpg" group-title="TV NACIONAL",35 | W TV | |@|
 https://live.obslivestream.com/wtv/index.m3u8
@@ -69,7 +69,7 @@ https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oFGiW7u.png" group-title="TV NACIONAL",40 | RN TELEVISION |
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",41 | RIBEREÑA TV | |@|
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Ribereña.jpg" group-title="TV NACIONAL",41 | RIBEREÑA TV | |@|
 https://v4.tustreaming.cl/atmtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png" group-title="TV NACIONAL",45 | SUPERCANALᴴᴰ DIRECTO 
 https://live.obslivestream.com/supercanal/index.m3u8
@@ -90,7 +90,7 @@ https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
 #EXTINF:-1 tvg-logo="https://teleamazonas.pe/wp-content/uploads/2023/09/logo1-teleamazonas.png" group-title="TV NACIONAL",55 | TELEAMAZONAS  |
 https://live.tvcontrolcp.com:1936/8054/8054/chunklist_w1423969700.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",54 | BNB Digital | |@|
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Bmb.jpg" group-title="TV NACIONAL",54 | BNB Digital | |@|
 https://vdo.grupolimalive.com:3375/live/bnbdigitallive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/usmp%20tv.jpg" group-title="TV NACIONAL",58 | USMP TV |
 https://streamusmptv.ddns.net/live/stream.m3u8
@@ -136,7 +136,7 @@ https://live.obslivestream.com/cdeportivo/index.m3u8
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cablevision.png" group-title="TV NACIONAL",85 | CABLE VISION PERU |
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Visionndv.jpg" group-title="TV NACIONAL",86 | VISION NDV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/visionndv.jpg" group-title="TV NACIONAL",86 | VISION NDV |
 https://soportedvb.click:3891/live/visionndvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="TV NACIONAL",87 | AGRO TV |
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
@@ -144,7 +144,7 @@ https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/chunklist_w68889844.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/33.jpg" group-title="TV NACIONAL",89 | CANAL 33 AYACUCHO |
 https://video2.getstreamhosting.com:19360/8206/8206.m3u8
-#EXTINF:-1 tvg-logo="https://grupopalmerastv.com/portal/wp-content/uploads/2021/06/logo-dark-palmeras.png" group-title="TV NACIONAL",90 | PALMERAS TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/palmeras.jpg" group-title="TV NACIONAL",90 | PALMERAS TV |
 https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
 #EXTINF:-1 tvg-logo="https://liketv.pe/wp-content/uploads/2023/09/likeeeeee-logoooo-2023.png" group-title="TV NACIONAL",91 | LIKE TV HD |
 #EXTVLCOPT:http-referrer=https://vdo.grupolimalive.com/broadcaster/ajax-get-current-viewer/liketv
