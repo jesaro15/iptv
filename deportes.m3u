@@ -126,13 +126,13 @@ https://video03.logicahost.com.br/soltv/soltv/chunklist_w1946435464.m3u8
 https://a.cdni.live/peruchanel/peruchanel/chunklist_w385659098.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1180_CR_TV.png" group-title="TV NACIONAL",79 | CR TV |
 https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",80 | VCLASSIC TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/classictv.jpg" group-title="TV NACIONAL",80 | VCLASSIC TV |
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1888254998.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/978_DMJ.png" group-title="TV NACIONAL",82 | DMJ | 
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",83 | CONTACTO TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/contactotv.jpg" group-title="TV NACIONAL",83 | CONTACTO TV |
 https://live.obslivestream.com/cdeportivo/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",84 | NATIVA VRAEM |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nativavraem.jpg" group-title="TV NACIONAL",84 | NATIVA VRAEM |
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cablevision.png" group-title="TV NACIONAL",85 | CABLE VISION PERU |
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
@@ -162,7 +162,7 @@ https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",99 | IMPACTO TELEVISION | |@|
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",100 | SUPER DIGITAL TV | RD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Superdigital.jpg" group-title="TV NACIONAL",100 | SUPER DIGITAL TV | RD
 https://inliveserver.com:1936/11516/11516/chunklist_w1528637772.m3u8
 
 
