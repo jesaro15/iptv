@@ -39,8 +39,8 @@ https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 https://livestream.perucast.com/low/stream_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/UranioTv.jpg" group-title="TV NACIONAL",21 | URANIO TV |
 https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",22 | TELEVISION TARAPOTO | |@|
-https://live.obslivestream.com/rwtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Television_tarapoto.png" group-title="TV NACIONAL",22 | TELEVISION TARAPOTO | |@|
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CNC.jpg" group-title="TV NACIONAL",23 | CNC CAJAMARCA |
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/antares.jpg" group-title="TV NACIONAL",25 | ANTARES TV |@|
