@@ -116,7 +116,7 @@ https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/NovaStar.jpg" group-title="TV NACIONAL",73 | NOVA STAR TV | 
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
-#EXTINF:-1 tvg-logo="https://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png" group-title="TV NACIONAL",75 | TV COSMOS |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cosmos.jpg" group-title="TV NACIONAL",75 | TV COSMOS |
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w759963595.m3u8
 #EXTINF:-1 tvg-logo="https://mastertvradio.com/img/logo.png" group-title="TV NACIONAL",76 | MASTER TV |  
 https://tv.ondadigital.pe:1936/master/master/chunklist_w1743909154.m3u8
@@ -162,8 +162,7 @@ https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",99 | IMPACTO TELEVISION | |@|
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Superdigital.jpg" group-title="TV NACIONAL",100 | SUPER DIGITAL TV | RD
-https://inliveserver.com:1936/11516/11516/chunklist_w1528637772.m3u8
+
 
 
 
@@ -262,6 +261,9 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="CANALES LATINOS",RD | RTVD DIRECTO
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Superdigital.jpg" group-title="CANALES LATINOS",RD | SUPER DIGITAL TV DIRECTO
+https://inliveserver.com:1936/11516/11516/chunklist_w1528637772.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51bJg+c7vRL.png" group-title="CANALES LATINOS",HT | CANAL DE NOTICIAS HAITI
 https://haititivi.com/website/haitinews/index.m3u8
