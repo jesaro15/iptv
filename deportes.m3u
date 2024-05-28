@@ -71,7 +71,7 @@ https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Ribereña.jpg" group-title="TV NACIONAL",41 | RIBEREÑA TV | |@|
 https://v4.tustreaming.cl/atmtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png" group-title="TV NACIONAL",45 | SUPERCANALᴴᴰ DIRECTO 
+#EXTINF:-1 tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png" group-title="TV NACIONAL",45 | SUPERCANALᴴᴰ |
 https://live.obslivestream.com/supercanal/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/VisionSur.jpg" group-title="TV NACIONAL",47 | VISIÓN SUR |
@@ -95,7 +95,7 @@ https://vdo.grupolimalive.com:3375/live/bnbdigitallive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/usmp%20tv.jpg" group-title="TV NACIONAL",58 | USMP TV |
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="TV NACIONAL",59 | MEGA TV |
-https://hls.servidor.stream/storage/megatv.m3u8
+https://mc.servidor.stream:19360/megatv/megatv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CadenaTv.jpg" group-title="TV NACIONAL",60 | CADENA TV | 
 https://servilive.com:3079/live/cdnatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="TV NACIONAL",61 | AUTENTICA TELEVISION |
