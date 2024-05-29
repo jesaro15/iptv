@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Cj4eCLK2_G_iysPOnNiftpso4XPhZ_krW2RHaULdr7V0D9ipLOuLS8jslTmtv0Bff-7woFBv5A=s900-c-k-c0x00ffffff-no-rj" group-title="TV PERU",PE | AMERICA TV HD |
 http://tv.soccerplus.link:8000/Luigen/031794/22511
 
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="TV PERU",ES | 24HORAS ᴴᴰ LISTA
+http://tvbox.ovh:37500/687281607/1971/115975
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="TV PERU",ES | 24HORAS ᴴᴰ DIRECTO
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+
 
 
 
