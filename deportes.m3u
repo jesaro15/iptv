@@ -162,6 +162,9 @@ https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV NACIONAL",99 | IMPACTO TELEVISION | |@|
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://dobleaamedios.com/recursos/logo.png" group-title="TV NACIONAL",100 | DOBLE AA TV |
+https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
+
 
 
 
