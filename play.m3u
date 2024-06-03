@@ -5,8 +5,8 @@ http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/181714
 https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="TV PERU",3 | RPP TV |
 http://galaxypro.online:8080/joselyn58/joselyn58/99684
-#EXTINF:-1 tvg-logo="https://media.giphy.com/avatars/america-tv/xQbOxJZdsl4g.png" group-title="TV PERU",4 | AMERICA TV |@
-https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.giphy.com/avatars/america-tv/xQbOxJZdsl4g.png" group-title="TV PERU",4 | AMERICA TV |
+http://tv.soccerplus.link:8000/Luigen/031794/22510
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/panamericanape.png" group-title="TV PERU",5 | PANAMERICANA TV |
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/exitosa.jpg" group-title="TV PERU",6 | EXITOSA TV |
@@ -16,7 +16,7 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/TV_Per%C3%BA_Noticias_2015_-_2017.png" group-title="TV PERU",7.1 | TV PERU NOTICIAS |
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/4e22375e9e0c7192c6e44bb70522bf4b.jpg" group-title="TV PERU",8 | CANAL N |
-http://tvlatino.club:2082/kami857/HccRvFPeVFfu/167
+http://galaxypro.online:8080/ByronSanchez/2007byr/99651
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-E0FD3BBF05-seeklogo.com.png" group-title="TV PERU",9 | ATV HD |
 https://alba-pe-atv-atv.stream.mediatiquestream.com/480p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="TV PERU",10 | ATV PLUS |
@@ -297,7 +297,7 @@ https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tvn-chile_m.png" group-title="TV LATINA",CL | TVN 24H DIRECTO
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="CANALES LATINOS",AR | C5N DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="TV LATINA",AR | C5N DIRECTO
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="TV LATINA",AR | A24 DIRECTO
 https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
@@ -334,10 +334,14 @@ https://stream.vivotv.uy/hls/stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="TV NOTICIAS", | TELESUR ᴴᴰ 
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_2017.png/revision/latest?cb=20210217012618&path-prefix=es" group-title="TV NOTICIAS", | NOTICIAS CARACOL ᴴᴰ
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS", | EL CONFIDENCIAL ᴴᴰ  
+#EXTINF:-1 tvg-logo="http://yt3.ggpht.com/liqi8BaSebW4AITqSvaN06IHjAYPeAztg7CrnlINfjvMTL6blPHgc1B1NPHM3nLfOWsYiPYA7OG3=ns-nd" group-title="TV NOTICIAS",| CNN EN ESPAÑOL |
+https://nxt.plus:8443/jesus01/jesus01/59075
+#EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/bfa9adab0fcb55581765d036a4f4a000.png" group-title="TV NOTICIAS",| CNN CHILE |
+http://daleplay.club:80/VictorNaranjo/Victor09122021/63076.ts
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="TV NOTICIAS", | EL CONFIDENCIAL ᴴᴰ  
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="TV NOTICIAS", | 24HORAS ᴴᴰ
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
@@ -365,89 +369,5 @@ http://go.hehehe.ovh:80/687281607/1971/140039
 https://bmcc.nhkworld.jp/live2/index_1M.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Al_Jazeera.jpg" group-title="TV NOTICIAS", | ALJAZEERA ᴴᴰ ENGLISH 
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES LATINOS",| ESPN 1 op1 |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392524
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES LATINOS",| ESPN 1 op2 |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392525
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES LATINOS",| ESPN 1 op3 |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392526
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES LATINOS",| ESPN 1 op4 |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392527
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES LATINOS",| ESPN 1 op5 |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392528
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/640px-ESPN2_logo.svg.png" group-title="DEPORTES LATINOS",| ESPN 2 op1 |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392529
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/640px-ESPN2_logo.svg.png" group-title="DEPORTES LATINOS",| ESPN 2 op2 |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392530
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/640px-ESPN2_logo.svg.png" group-title="DEPORTES LATINOS",| ESPN 2 op3 |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392531
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/640px-ESPN2_logo.svg.png" group-title="DEPORTES LATINOS",| ESPN 2 op4 |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392532
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="DEPORTES LATINOS",| ESPN 3 op1 |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392533
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="DEPORTES LATINOS",| ESPN 3 op2 |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392534
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="DEPORTES LATINOS",| ESPN 4 op1 |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392535
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="DEPORTES LATINOS",| ESPN 4 op2 |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392536
-#EXTINF:-1 tvg-logo="https://static.epg.best/br/ESPNExtra.br.png" group-title="DEPORTES LATINOS",| ESPN EXTRA |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392537
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="DEPORTES LATINOS",| ESPN PREMIUM |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392538
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="DEPORTES LATINOS",| ESPN 4 FHD |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392539
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="DEPORTES LATINOS",| ESPN 4 FHD* |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392540
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="DEPORTES LATINOS",| ESPN 4 HD* |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392541
-#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="DEPORTES LATINOS",| ESPN SUR |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392542
-#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="DEPORTES LATINOS",| ESPN 2 |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392543
-#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/dbc89618838575bb5f470d437d248829.png" group-title="DEPORTES LATINOS",| ESPN 3 |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392544
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES LATINOS",| ESPN 1 FHD NORTE |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392545
-#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/fa74b8ac9b6e1d65670ce20acde555a9.png" group-title="DEPORTES LATINOS",| ESPN 1 MX |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392546
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="DEPORTES LATINOS",| ESPN 2 FHD NORTE |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392547
-#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="DEPORTES LATINOS",| ESPN 2 FHD |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392548
-#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="DEPORTES LATINOS",| ESPN 2 HD |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392549
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="DEPORTES LATINOS",| ESPN 3 NORTE |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392550
-#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="DEPORTES LATINOS",| ESPN 1 HD |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392551
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES LATINOS",| ESPN 1 HD |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392552
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES LATINOS",| ESPN 1 SD |
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392553
-#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="DEPORTES LATINOS",ESPN 2 AR HD
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392554
-#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/dbc89618838575bb5f470d437d248829.png" group-title="DEPORTES LATINOS",PE*| ESPN 2 HD
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392555
-#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="DEPORTES LATINOS",ESPN 2 COL
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392556
-#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/dbc89618838575bb5f470d437d248829.png" group-title="DEPORTES LATINOS",ESPN 2 SD
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392557
-#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="DEPORTES LATINOS",ESPN 3 AR HD
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392558
-#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/fa74b8ac9b6e1d65670ce20acde555a9.png" group-title="DEPORTES LATINOS",ESPN 2 BRASIL
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392559
-#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/613116b797d81bf47cc463f05530e5b9.jpg" group-title="DEPORTES LATINOS",Espn USA
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392560
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="DEPORTES LATINOS",ESPN PLUS
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392561
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="DEPORTES LATINOS",ESPN PLUS 2
-http://andhablfus.online:2082/RafaCalalbercheJulian/jxCScKFZcChD/392562
-
-
-
 
 
