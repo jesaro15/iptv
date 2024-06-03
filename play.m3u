@@ -371,3 +371,21 @@ https://bmcc.nhkworld.jp/live2/index_1M.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="TV DEPORTES", | LIGA 1 MAX | OP1
+http://home-playtv.com:8080/garayale/KSGSU/469158
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="TV DEPORTES", | LIGA 1 MAX | OP2
+http://home-playtv.com:8080/garayale/KSGSU/478008
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="TV DEPORTES", | LIGA 1 MAX | OP3
+http://home-playtv.com:8080/garayale/KSGSU/499709
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="TV DEPORTES", | LIGA 1 MAX | VIP 1
+http://tv.soccerplus.link:8000/Luigen/031794/93329
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="TV DEPORTES", | LIGA 1 MAX | VIP 2
+http://tv.soccerplus.link:8000/Luigen/031794/92406
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1max2.jpg" group-title="TV DEPORTES", | L1 MAX/CONTACTO DEP. |
+https://live.obslivestream.com/cdeportivo/index.m3u8
+
+
