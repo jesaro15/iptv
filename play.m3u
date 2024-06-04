@@ -292,7 +292,7 @@ https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tvn-chile_m.png" group-title="TV LATINA",CL | TVN 24H DIRECTO
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="CANALES LATINOS",AR | C5N DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="TV LATINA",AR | C5N DIRECTO
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="TV LATINA",AR | A24 DIRECTO
 https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
@@ -329,6 +329,7 @@ https://stream.vivotv.uy/hls/stream.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="TV NOTICIAS", | TELESUR ᴴᴰ 
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_2017.png/revision/latest?cb=20210217012618&path-prefix=es" group-title="TV NOTICIAS", | NOTICIAS CARACOL ᴴᴰ
@@ -339,9 +340,10 @@ https://eu1.servers10.com:8081/8192/index.m3u8
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="TV NOTICIAS", | 24HORAS ᴴᴰ
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://barcelonanoticias45.files.wordpress.com/2023/07/logo-canalred-barcelona-noticias.jpg" group-title="TV NOTICIAS", | CANAL RED 
-
-
+#EXTINF:-1 tvg-logo="http://yt3.ggpht.com/liqi8BaSebW4AITqSvaN06IHjAYPeAztg7CrnlINfjvMTL6blPHgc1B1NPHM3nLfOWsYiPYA7OG3=ns-nd" group-title="TV NOTICIAS",| CNN EN ESPAÑOL |
+https://nxt.plus:8443/jesus01/jesus01/59075
+#EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/bfa9adab0fcb55581765d036a4f4a000.png" group-title="TV NOTICIAS",| CNN CHILE |
+http://daleplay.club:80/VictorNaranjo/Victor09122021/63076.ts
 
 #EXTINF:-1 tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/3.jpg" group-title="TV NOTICIAS", | LA 1 ᴴᴰ
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
@@ -368,6 +370,7 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="TV DEPORTES", | LIGA 1 MAX | OP1
 http://home-playtv.com:8080/garayale/KSGSU/469158
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1Max.jpg" group-title="TV DEPORTES", | LIGA 1 MAX | OP2
@@ -380,8 +383,6 @@ http://tv.soccerplus.link:8000/Luigen/031794/93329
 http://tv.soccerplus.link:8000/Luigen/031794/92406
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1max2.jpg" group-title="TV DEPORTES", | L1 MAX/CONTACTO DEP. |
 https://live.obslivestream.com/cdeportivo/index.m3u8
-
-
 
 
 
