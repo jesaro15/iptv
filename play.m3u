@@ -248,8 +248,8 @@ https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 https://ythls.armelin.one/channel/UCCc2H9_eNnU7ucq2n7Sh3Rg.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="TV LATINA",VE | PROMAR DIRECTO
 https://vcp.myplaytv.com/promar/promar/chunklist_w1561591709.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cxvkUvK.png" group-title="TV LATINA",VE | TELEVEN
-https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/VTV_logo.PNG" group-title="TV LATINA",VE | VENEZOLANA TV 
+https://live-c.cf.dmcdn.net/sec2(XX-VbiwIDckkMlUO7Mw0LOHWz8xg3NDR9-KTGx67q6vgbKQX0MnM7LPaYhby2HzIPNdf6gTZ-k6e8Z0eLUlqUM6zN6h8EKMaCeNx6UoV_EM)/dm/3/x8rtkvs/s/live-2.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CKnf3Ua.png" group-title="TV LATINA",CO | CANAL INSTITUCIONAL ᴴᴰ DIRECTO
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="TV LATINA",CO | RCN PLUS DIRECTO
