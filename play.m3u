@@ -341,7 +341,7 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="http://yt3.ggpht.com/liqi8BaSebW4AITqSvaN06IHjAYPeAztg7CrnlINfjvMTL6blPHgc1B1NPHM3nLfOWsYiPYA7OG3=ns-nd" group-title="TV NOTICIAS",| CNN EN ESPAÑOL |
 https://nxt.plus:8443/jesus01/jesus01/59075
-#EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/bfa9adab0fcb55581765d036a4f4a000.png" group-title="TV NOTICIAS",| CNN CHILE |
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/800px-Logo_cnnchile.png" group-title="TV NOTICIAS",| CNN CHILE |
 http://daleplay.club:80/VictorNaranjo/Victor09122021/63076.ts
 
 #EXTINF:-1 tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/3.jpg" group-title="TV NOTICIAS", | LA 1 ᴴᴰ
