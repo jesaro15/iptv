@@ -1,5 +1,26 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="TV PERU", | FRANCE 24 ᴴᴰ  
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",France 24
+https://cdn.mycloudstream.io/hls/live/broadcast/mff4n5ey/mono.m3u8
+
+#EXTINF:-1 tvg-logo="TVChile.cl"  group-title="TV PERU",TV Chile (1080p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="TV PERU",NTV 
+https://marine2.miplay.cl/ntv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="TV PERU",La Red 
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="TV PERU",La Chilena TV
+https://vdochile.com:3134/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="TV PERU",Huasco Televisión 
+https://paneltv.online:1936/8024/8024/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Cj4eCLK2_G_iysPOnNiftpso4XPhZ_krW2RHaULdr7V0D9ipLOuLS8jslTmtv0Bff-7woFBv5A=s900-c-k-c0x00ffffff-no-rj" group-title="TV PERU",PE | AMERICA TV ᴴᴰ |
 https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/chunklist_w1244641036.m3u8
 
