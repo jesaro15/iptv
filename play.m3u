@@ -344,7 +344,7 @@ http://daleplay.club:80/VictorNaranjo/Victor09122021/63076.ts
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="TV NOTICIAS", | A24 ᴴᴰ
 https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS", | EL CONFIDENCIAL ᴴᴰ  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elconfidencial.jpg/320px-Elconfidencial.jpg" group-title="TV NOTICIAS", | EL CONFIDENCIAL ᴴᴰ  
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="TV NOTICIAS", | 24HORAS ᴴᴰ
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
