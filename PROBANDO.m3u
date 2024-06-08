@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="TV PERU", | FRANCE 24 ᴴᴰ  
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="TV PERU",EC | TELEAMAZONAS EC
+https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",France 24
 https://cdn.mycloudstream.io/hls/live/broadcast/mff4n5ey/mono.m3u8
 
