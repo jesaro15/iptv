@@ -1,5 +1,16 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="TV PERU", | AMX NOTICIAS ᴴᴰ  
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="TV PERU",MX | AMX NOTICIAS ᴴᴰ DIRECTO 
+https://5ca39be538307.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1653856228198567949/Kg6qiIEv_200x200.jpg" group-title="TV PERU",CO | TELECARIBE DIRECTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="TV PERU", | FRANCE 24 ᴴᴰ  
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
