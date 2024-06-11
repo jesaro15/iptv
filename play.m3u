@@ -266,6 +266,8 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 https://video.ejeserver.com/live/canaluno.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/2WirGqb.png" group-title="TV LATINA",EC | INTI TV ᴴᴰ DIRECTO
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/0a/Teleamazonas.jpg/revision/latest?cb=20160131021333&path-prefix=es" group-title="TV LATINA",EC | TELEAMAZONAS ᴴᴰ DIRECTO 
+https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/mZkW342.png" group-title="TV LATINA",EC | MANAVISION ᴴᴰ DIRECTO
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/EMe5oWn.jpg" group-title="TV LATINA",EC | ECUAMUNDO TV DIRECTO
@@ -290,14 +292,16 @@ https://jireh-2-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76
 https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lhglEUP.png" group-title="TV LATINA",CL | BIO-BIO TV DIRECTO
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tvn-chile_m.png" group-title="TV LATINA",CL | TVN 24H DIRECTO
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tvn-chile_m.png" group-title="TV LATINA",CL |TVN 24H DIRECTO
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/n-tv-logo-september-2017.svg" group-title="TV LATINA",CL | NTV DIRECTO
+https://marine2.miplay.cl/ntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="TV LATINA",AR | C5N DIRECTO
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="TV LATINA",AR | A24 DIRECTO
 https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qB6I274.png" group-title="TV LATINA",AR | CANAL 4 JUJUI 
-https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qB6I274.png" group-title="TV LATINA",AR | CANAL 4 JUJUY 
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist_w913969980_b1016000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="TV LATINA",AR | CANAL 26 DIRECTO
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="TV LATINA",AR | TV PUBLICA ARG. DIRECTO
