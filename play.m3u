@@ -61,6 +61,8 @@ https://live.obslivestream.com/controversiatv/index.m3u8
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/w.jpg" group-title="TV PERU",35 | W TV | |@|
 https://live.obslivestream.com/wtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://playmax.tv/wp-content/uploads/2023/02/mas1.png" group-title="TV PERU",36 | MAS 1 TV DIRECTO
+https://live.obslivestream.com/mas1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lppmyxD.png" group-title="TV PERU",37 | DIASPORA TV | |@|
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2zCD4TB.png" group-title="TV PERU",39 | DOBLE C TELEVISIÓN |
