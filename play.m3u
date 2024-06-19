@@ -169,8 +169,8 @@ https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="TV LATINA",MX | CANAL 5 ᴴᴰ DIRECTO 
 https://channel05.akamaized.net/hls/live/2033783/event01/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="TV LATINA",MX | AMX NOTICIAS ᴴᴰ DIRECTO 
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="TV LATINA",MX | AMX TELEVISION ᴴᴰ DIRECTO 
+https://5ca39be538307.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="TV LATINA",MX | AZTECA ᴴᴰ DIRECTO
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="TV LATINA",GT | TV AZTECA GUATE ᴴᴰ DIRECTO
@@ -191,14 +191,14 @@ https://s.emisoras.tv:8081/atv/index.m3u8
 https://s.emisoras.tv:8081/cholutecatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/WTVNicaraguacanal20/picture?width=200&height=200" group-title="TV LATINA",NI | WTV DIRECTO
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hy0bXxo.png" group-title="TV LATINA",NI | Canal 2 ᴴᴰ DIRECTO
-https://cootv.cootel.com.ni:8095/Canal02_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ztp781b.png" group-title="TV LATINA",NI | Canal 10 ᴴᴰ DIRECTO
-http://138.117.4.70:8075/Canal10_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/heZeqPQ.png" group-title="TV LATINA",NI | Canal 11 ᴴᴰ DIRECTO
-https://cootv.cootel.com.ni:8095/Canal11_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nhgtZdt.png" group-title="TV LATINA",NI | CANAL 4 @
+https://live-c.cf.dmcdn.net/sec2(SbkL9bvYDPKdFFvaCk0_9PE12p7BOZrgUNh-NP1duXP8n_ZQmtsI1sonmMEUBHtD5nBfapwwt7b0-K-W85v7kYCoe32rcrQmEPFh-5O9PJU)/dm/3/x7rwv8c/s/live-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6BWAZdq.png" group-title="TV LATINA",NI | CANAL 6 @
+https://live-c.cf.dmcdn.net/sec2(ZhlMjnGDDgtntrjmw5Sp4DY7p5TgrD-_joHmcUD7kyJmPJVnlqaTOSLRYhzwdrVzwSmbzo6MVzEg6A4JNh4fjHo19gG2Itvp5SCWl1EhtAc)/dm/3/x8o87cu/s/live-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ztp781b.png" group-title="TV LATINA",NI | CANAL 10 @ 
+https://alba-ni-c10-c10.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="TV LATINA",SV | CANAL 12 ᴴᴰ DIRECTO 
-http://stream.flynetwifi.com:1935/live/mobile-082/playlist.m3u8
+https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/MultimediosCR/picture?width=200&height=200" group-title="TV LATINA",CR | CANAL 8 DIRECTO
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8q7BNBq.png" group-title="TV LATINA",CR | CANAL 38 TV DIRECTO
@@ -208,7 +208,8 @@ https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w126753
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="TV LATINA",CR | CANAL 1 DIRECTO
 https://video20.klm99.com:3993/live/canal1crlive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7QRn6N0_GRCoOwRyu9FZWxnPaud-ODHLeBf3xPuR4Og&s" group-title="TV LATINA",CR | TRIVISION DIRECTO
-https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-1500/chunklist.m3u8?DVR
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0h8dlX.png" group-title="TV LATINA",PA | MAS 23 TV DIRECTO
 https://vcp4.myplaytv.com:1936/mas23/mas23/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vj5nNbF/FAV-TV-LOGO-BLANCO.png" group-title="TV LATINA",PA | MINFAV TV ᴴᴰ DIRECTO
@@ -394,6 +395,7 @@ http://tv.soccerplus.link:8000/Luigen/031794/93329
 http://tv.soccerplus.link:8000/Luigen/031794/92406
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1max2.jpg" group-title="TV DEPORTES", | L1 MAX/CONTACTO DEP. |
 https://live.obslivestream.com/cdeportivo/index.m3u8
+
 
 
 
