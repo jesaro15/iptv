@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",35 | RT ODYSEE
 #EXTVLCOPT:http-referrer=https://odysee.com/
-https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/480.m3u8
+https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hL2R9K1.png" group-title="TV PERU",VE | AVILA TV ODYSEE
 #EXTVLCOPT:http-referrer=https://odysee.com/
