@@ -405,7 +405,8 @@ http://nxt.plus:8080/MarceCo/CorreaMar/166703
 
 
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kP4h36EWnMmG0diPlQw08VXVcvx.jpg" group-title="PELICULAS SELECCIONADAS",El Bastardo (2023)
+http://home-playtv.com:8080/movie/JulioO/WCHST/543943.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvYI6i9lQ3bsup9PgnMF3YYr8ZR.jpg" group-title="PELICULAS SELECCIONADAS",Ant-Man y La Mujer Avispa (2018)
 http://home-playtv.com:8080/movie/garayale/KSGSU/224736.mp4
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/busqueda-implacable.jpg" group-title="PELICULAS SELECCIONADAS",Búsqueda Implacable I (2008)
