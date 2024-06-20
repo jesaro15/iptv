@@ -5,9 +5,15 @@
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/df0a443c1e8e53babc41fede14548c9b5fd1a6d2/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/hispantv.jpg" group-title="TV PERU", | HISPANTV |
+https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",35 | RT ODYSEE
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/720.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="TV PERU", | RT EN ESPAÑOL 
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hL2R9K1.png" group-title="TV PERU",VE | AVILA TV ODYSEE
 #EXTVLCOPT:http-referrer=https://odysee.com/
