@@ -193,6 +193,8 @@ https://5ca39be538307.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://emisorasgt.com/wp-content/uploads/2023/04/canal-de-gobierno-guatemala.webp" group-title="TV LATINA",GT | GUATV ᴴᴰ DIRECTO
+https://cdn.streamhispanatv.net:3352/live/guatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="TV LATINA",GT | TV AZTECA GUATE ᴴᴰ DIRECTO
 https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6j3FH1q.png" group-title="TV LATINA",GT | ESQUIPULAS TV ᴴᴰ DIRECTO
@@ -201,8 +203,12 @@ https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8
 https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yCykjIp.png" group-title="TV LATINA",GT | CANAL 3 ᴴᴰ @
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
+#EXTINF:-1 tvg-logo="https://emisorasgt.com/wp-content/uploads/2023/04/tn23-guatemala.webp" group-title="TV LATINA",GT | TN23 TV DIRECTO
+https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Televisiete_Logo.png/640px-Televisiete_Logo.png" group-title="TV LATINA",GT | TELEVISIETE DIRECTO
-https://alba-gt-chapintv-c7.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
+https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
+#EXTINF:-1 tvg-logo="https://emisorasgt.com/wp-content/uploads/2024/03/multivision-sports.webp" group-title="TV LATINA",GT | MULTIVISION SPORTS
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cteBdAJ.jpg" group-title="TV LATINA",HN | GUAYAPE DIRECTO
@@ -352,8 +358,9 @@ https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 https://ythls.armelin.one/channel/UCCc2H9_eNnU7ucq2n7Sh3Rg.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="TV LATINA",VE | PROMAR DIRECTO
 https://vcp.myplaytv.com/promar/promar/chunklist_w1561591709.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cxvkUvK.png" group-title="TV LATINA",VE | TELEVEN
-https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",VE | VIVE 
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/fed20cff907550b0c7d83991fb3630e2a9f90454/master.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/CKnf3Ua.png" group-title="TV LATINA",CO | CANAL INSTITUCIONAL ᴴᴰ DIRECTO
@@ -586,4 +593,4 @@ http://home-playtv.com:8080/garayale/KSGSU/219171
 
 
 
-
+FIN
