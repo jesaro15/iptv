@@ -569,6 +569,20 @@ http://tv.soccerplus.link:8000/Luigen/031794/93329
 http://tv.soccerplus.link:8000/Luigen/031794/92406
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/liga1max2.jpg" group-title="TV DEPORTES", | L1 MAX/CONTACTO DEP. |
 https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="TV DEPORTES",PE | ESPN 1 OP1
+http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330763
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="TV DEPORTES",PE | ESPN 1 OP2
+http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330764
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="TV DEPORTES",PE | ESPN 1 OP3  
+http://home-playtv.com:8080/JulioO/WCHST/220727
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="TV DEPORTES",PE | ESPN 1 OP4
+http://home-playtv.com:8080/garayale/KSGSU/220727
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="TV DEPORTES",PE | ESPN 1 OP5
+http://home-playtv.com:8080/garayale/KSGSU/219173
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="TV DEPORTES",PE | ESPN 1 OP6
+http://home-playtv.com:8080/garayale/KSGSU/219172
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="TV DEPORTES",PE | ESPN 1 OP7 
+http://home-playtv.com:8080/garayale/KSGSU/219171
 
 
 
