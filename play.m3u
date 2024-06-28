@@ -591,6 +591,23 @@ http://home-playtv.com:8080/garayale/KSGSU/219172
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Logo-1985-present.jpg" group-title="TV DEPORTES",PE | ESPN 1 OP7 
 http://home-playtv.com:8080/garayale/KSGSU/219171
 
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092020/tudn_positivo.png?GdYHzKvnPZu_3e8.iOmcNz3w6lSp_DVU&itok=B_F8-GMs" group-title="TV DEPORTES",TUDN (op1)
+http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/245225
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092020/tudn_positivo.png?GdYHzKvnPZu_3e8.iOmcNz3w6lSp_DVU&itok=B_F8-GMs" group-title="TV DEPORTES",TUDN (op2)
+http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/245226
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092020/tudn_positivo.png?GdYHzKvnPZu_3e8.iOmcNz3w6lSp_DVU&itok=B_F8-GMs" group-title="TV DEPORTES",TUDN (op3)
+http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/245227
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092020/tudn_positivo.png?GdYHzKvnPZu_3e8.iOmcNz3w6lSp_DVU&itok=B_F8-GMs" group-title="TV DEPORTES",LAT | TUDNXTRA 1
+http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/245234
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092020/tudn_positivo.png?GdYHzKvnPZu_3e8.iOmcNz3w6lSp_DVU&itok=B_F8-GMs" group-title="TV DEPORTES",LAT | TUDNXTRA 2
+http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/245235
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092020/tudn_positivo.png?GdYHzKvnPZu_3e8.iOmcNz3w6lSp_DVU&itok=B_F8-GMs" group-title="TV DEPORTES",LAT | TUDNXTRA 3
+http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/245236
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092020/tudn_positivo.png?GdYHzKvnPZu_3e8.iOmcNz3w6lSp_DVU&itok=B_F8-GMs" group-title="TV DEPORTES",LAT | TUDNXTRA 4
+http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/245237
+
+
 
 
 FIN
