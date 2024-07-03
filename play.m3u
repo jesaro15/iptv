@@ -169,25 +169,21 @@ https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="TV LATINA",MX | ADN 40 ᴴᴰ
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-logo="https://www.paredro.com/wp-content/uploads/2019/01/Asi%CC%81-evoluciono%CC%81-el-logo-de-Las-Estrellas-el-canal-2-de-Televisa.jpg" group-title="TV LATINA",MX | LAS ESTRELLAS 
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/L0s2szNV9u2Q4mgADPwMeRDXLO2PziEiBP5zj_HxkMR9aDHfMglIw96kt0kLcAR2wEWCprWI=s900-c-k-c0x00ffffff-no-rj" group-title="TV LATINA",MX | MEGANOTICIAS 
 https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",MX | RCG TV 
+#EXTINF:-1 tvg-logo="https://api.rcgmedia.mx/uploads/thumbnail_logo_rcg_media_250_1_69610a5309.png" group-title="TV LATINA",MX | RCG TV 
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/SICOM-Television-en-VIVO-Online.png?fit=1920%2C1080&ssl=1" group-title="TV LATINA",MX | SICOM TV 
 http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoSbuJSmrd4hXh9o1kKa2dZDOOz7il6HsplQ&s" group-title="TV LATINA",MX | SUPER CHANNEL 12 @
 https://servilive.com:3263/live/channel12live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",MX | TELEFORMULA 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/619X4kMohBL.png" group-title="TV LATINA",MX | TELEFORMULA 
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",MX | TV CUATRO 4.2 
+#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/cultura-01.png" group-title="TV LATINA",MX | TV CUATRO 4.2 
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",MX | TVP @
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="TV LATINA",MX | TVP @
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.blogs.es/87ba40/vix-/1366_2000.jpeg" group-title="TV LATINA",MX | ViX 
-https://d1f3q72l8uy8ur.cloudfront.net/dist/samsungtv/318/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="TV LATINA",MX | AMX NOTICIAS ᴴᴰ DIRECTO 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="TV LATINA",MX | AMX TELEVISION ᴴᴰ DIRECTO 
 https://5ca39be538307.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="TV LATINA",MX | AZTECA ᴴᴰ DIRECTO
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
