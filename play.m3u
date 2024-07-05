@@ -383,7 +383,7 @@ https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/in
 https://video.ejeserver.com/live/verteve.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | CABLE SUR TV 
 https://tvlatina.live:1936/8012/8012/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | CANAL NET @
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | CANAL NETS @
 https://video.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",CO | CANAL TRO PLUS [GB]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
@@ -465,6 +465,8 @@ https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="TV LATINA",AR | A24 DIRECTO
 https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTINF:-1 tvg-logo="https://www.canal3lasheras.com/wp-content/uploads/2022/10/canal3logo-x1.png" group-title="TV LATINA",AR | CANAL 3 TV
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qB6I274.png" group-title="TV LATINA",AR | CANAL 4 JUJUY 
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist_w913969980_b1016000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Canal_Siete_Jujuy.png/800px-Canal_Siete_Jujuy.png" group-title="TV LATINA",AR | CANAL 7 JUJUY
@@ -628,7 +630,7 @@ http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/245236
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092020/tudn_positivo.png?GdYHzKvnPZu_3e8.iOmcNz3w6lSp_DVU&itok=B_F8-GMs" group-title="TV DEPORTES",LAT | TUDNXTRA 4
 http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/245237
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="TV DEPORTESS",CL | CLARO SPORTS DIRECTO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="TV DEPORTES",CL | CLARO SPORTS DIRECTO
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a66666000086712d7livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 
