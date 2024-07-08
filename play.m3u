@@ -521,7 +521,7 @@ https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="TV LATINA",UY | UCL TV ᴴᴰ DIRECTO
-https://streamingamericaservice.info:19360/ucltv/ucltv.m3u8
+https://streamingamericaservice.info:8081/ucltv/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mg7ZB9K.png" group-title="TV LATINA",UY | TELE 8 MERCEDES DIRECTO
 http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ORjoLdw.png" group-title="TV LATINA",UY | TV FLORIDA ᴴᴰ DIRECTO
