@@ -639,11 +639,16 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a6666600008671
 
 
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg" group-title="PELICULAS SELECCIONADAS",El planeta de los simios: Nuevo reino (2024) 
+http://ultrapremium.cloud:8080/movie/carlos22/24q76tew84m9q/243177.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSnBSv7oHgm1kZmiM8IqithlTmJ.jpg" group-title="PELICULAS SELECCIONADAS",Atlas (2024)
+http://ultrapremium.cloud:8080/movie/carlos22/24q76tew84m9q/241695.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmIaT03NZ58gmc0pQZkFUCqMcf1.jpg" group-title="PELICULAS SELECCIONADAS",Un detective suelto en Hollywood 4 (2024)
 http://tecnozone.site:8090/movie/comandoalmache/almache2022../181455.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg" group-title="PELICULAS SELECCIONADAS",Bad Boys: Hasta la muerte (2024)
 http://tecnozone.site:8090/movie/comandoalmache/almache2022../180676.mkv
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/UHt3q-U_ttxzBHTpAompVLojHCWR9-sCMgRkumyLr8SWYH3TYUSOl6INt2GeLuHF3RRp3-l7O0l-8okja-knzBbclShphtu8wRLYkYJdPmRYm2Gl04Jo8uDlXrnLNLxQLLLeMa_pYb-anMrkD2U" group-title="PELICULAS SELECCIONADAS",Intensamente 2 (2024)
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/1_intensamente_2_payoff_banner_pre_1_aa3d9114.png" group-title="PELICULAS SELECCIONADAS",Intensamente 2 (2024)
 http://home-playtv.com:8080/movie/JulioO/WCHST/546897.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Bajo_la_misma_estrella-457483777-large.jpg" group-title="PELICULAS SELECCIONADAS",Bajo La Misma Estrella (2014)
 http://pro.boxdigital.org:8080/movie/cristiandcoquimbo/SUVv3VLTLmgP/236330.mp4
@@ -673,8 +678,6 @@ http://home-playtv.com:8080/movie/JulioO/WCHST/499310.mkv
 http://home-playtv.com:8080/movie/JulioO/WCHST/228254.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b93ba4138cddeda9ad692160715c35764e6b2628d6b3e19019d9e3b8725509d2.jpg" group-title="PELICULAS SELECCIONADAS",Godzilla y Kong: El nuevo imperio (2024)
 http://daleplay.club:80/movie/VictorNaranjo/Victor09122021/351149.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_reino_del_planeta_de_los_simios-209448357-large.jpg" group-title="PELICULAS SELECCIONADAS",El planeta de los simios: Nuevo reino (2024)
-http://tvlatino.club:2082/movie/kami857/HccRvFPeVFfu/401821.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/11/15/56/053175.jpg" group-title="PELICULAS SELECCIONADAS",Los hombres de fuego (2017)
 http://382424299994147701.ofdapr412.xyz:80/movie/27HUGAINAS2/TMMM@RcgWq/147701.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/74/37/43/20156807.jpg" group-title="PELICULAS SELECCIONADAS",La milla verde (1999)
