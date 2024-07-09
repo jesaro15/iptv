@@ -640,7 +640,10 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a6666600008671
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg" group-title="PELICULAS SELECCIONADAS",El planeta de los simios: Nuevo reino (2024) 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg" group-title="PELICULAS SELECCIONADAS",El planeta de los simios: Nuevo reino (2024)  
+http://tvlatino.club:2082/movie/vipcarlosvip1y/AUSXLDvwaqCq/406985.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg" group-title="PELICULAS SELECCIONADAS",El planeta de los simios: Nuevo reino (2024)  
 http://ultrapremium.cloud:8080/movie/carlos22/24q76tew84m9q/243177.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSnBSv7oHgm1kZmiM8IqithlTmJ.jpg" group-title="PELICULAS SELECCIONADAS",Atlas (2024)
 http://ultrapremium.cloud:8080/movie/carlos22/24q76tew84m9q/241695.mp4
