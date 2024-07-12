@@ -509,7 +509,7 @@ https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Unicanal/picture?width=200&height=200" group-title="TV LATINA",PY | UNICANAL DIRECTO
 https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cp4zJ7O.png" group-title="TV LATINA",PY | C9N ᴴᴰ DIRECTO 
-https://alba-py-c9n-c9n.stream.mediatiquestream.com/original.m3u8
+https://alba-py-c9n-c9n.stream.mediatiquestream.com/live2/alba-py-c9n-c9n_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CALoCyo.png" group-title="TV LATINA",PY | LIM TV DIRECTO
 https://tv.invasivamedia.com/hls/limtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L2Dx1NY.png" group-title="TV LATINA",PY | MAS TV DIRECTO
