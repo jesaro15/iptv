@@ -646,7 +646,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a6666600008671
 
 
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcTICyta60bfwGs01y0meHQuKpP.jpg" group-title="PELICULAS SELECCIONADAS",Ad Astra (2019)
+http://tecnozone.site:8090/movie/comandoalmache/almache2022../14525.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Superlaopez-456694460-large.jpg" group-title="PELICULAS SELECCIONADAS",Superlópez (2018)
 http://novared.pro:8080/movie/salomon05vecp/chonillo195605/332487.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg" group-title="PELICULAS SELECCIONADAS",El planeta de los simios: Nuevo reino (2024)  
