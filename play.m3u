@@ -587,6 +587,8 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1-1.png" group-title="TV NOTICIAS", | GLOBO ᴴᴰ
 http://cdn.lvbxtv.com:80/ven05jlx5n/gold815/281044
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/8b84842008845.Y3JvcCw1OTgsNDY4LDExOCw2NQ.png" group-title="TV NOTICIAS",| PALESTINIAN TV ᴴᴰ
+https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
 
 
 
