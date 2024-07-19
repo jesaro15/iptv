@@ -589,6 +589,12 @@ https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 http://cdn.lvbxtv.com:80/ven05jlx5n/gold815/281044
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/8b84842008845.Y3JvcCw1OTgsNDY4LDExOCw2NQ.png" group-title="TV NOTICIAS",| PALESTINIAN TV ᴴᴰ
 https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://africa24tv.com/wp-content/uploads/2021/09/logo.png" group-title="TV NOTICIAS", | AFRICA 24 ᴴᴰ
+https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3u8
+
+
+
+
 
 
 
