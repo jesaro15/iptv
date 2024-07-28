@@ -461,7 +461,7 @@ https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",CL | CHILE CHANNEL DIRECTO
 https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/327_America_TV_Chile.png",CL | AMERICA TV DIRECTO
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/327_America_TV_Chile.png" group-title="TV LATINA",CL | AMERICA TV DIRECTO
 https://v2.tustreaming.cl:/radioamericatv/index.m3u8
 
 
@@ -577,7 +577,7 @@ https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="TV NOTICIAS", | ACTUALIDAD RT ᴴᴰ 
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="TV NOTICIAS", | CGTN EN ESPAÑOL ᴴᴰ 
-https://livees.cgtn.com/1000e/prog_index.m3u8
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/hispantv.jpg" group-title="TV NOTICIAS", | HISPANTV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/df0a443c1e8e53babc41fede14548c9b5fd1a6d2/live.m3u8
