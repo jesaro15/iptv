@@ -461,6 +461,8 @@ https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",CL | CHILE CHANNEL DIRECTO
 https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/327_America_TV_Chile.png",CL | AMERICA TV DIRECTO
+https://v2.tustreaming.cl:/radioamericatv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="TV LATINA",AR | TV PUBLICA ARG. DIRECTO
