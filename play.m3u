@@ -552,9 +552,9 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbm2S9O.jpg" group-title="TV NOTICIAS", | PRENSA LATINA TV ᴴᴰ 
 https://eu1.servers10.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cnn-en-espanol-logo-png-transparent.png" group-title="TV NOTICIAS",| CNN EN ESPAÑOL |
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cnn-en-espanol-logo-png-transparent.png" group-title="TV NOTICIAS",| CNN EN ESPAÑOL 
 https://nxt.plus:8443/jesus01/jesus01/59075
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="TV NOTICIAS",| CNN CHILE |
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="TV NOTICIAS",| CNN CHILE 
 http://daleplay.club:80/VictorNaranjo/Victor09122021/63076.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="TV NOTICIAS", | C5N 
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
@@ -595,6 +595,8 @@ http://cdn.lvbxtv.com:80/ven05jlx5n/gold815/281044
 https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://africa24tv.com/wp-content/uploads/2021/09/logo.png" group-title="TV NOTICIAS", | AFRICA 24 ᴴᴰ
 https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="TV NOTICIAS", | TeleSUR (1080p)
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 
 
