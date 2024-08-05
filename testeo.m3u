@@ -376,7 +376,7 @@ http://nxt.plus:8080/MarceCo/CorreaMar/68829
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES PERU",350 | FOX Sports 2 ARG HD |
 http://home-playtv.com:8080/garayale/KSGSU/19652
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1280px-FOX_Deportes_logo.svg.png",351 | FOX Deportes |
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1280px-FOX_Deportes_logo.svg.png" group-title="DEPORTES PERU",351 | FOX Deportes |
 http://home-playtv.com:8080/garayale/KSGSU/36396
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES PERU",352 | FOX Sports 2 HD BRA |
