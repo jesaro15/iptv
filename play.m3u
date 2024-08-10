@@ -599,7 +599,7 @@ https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/hispantv.jpg" group-title="TV NOTICIAS", | HISPANTV ᴴᴰ (ALT)
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/parsalogo.png" group-title="TV NOTICIAS", | PARSA TV
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Fcln8Aw.png" group-title="TV NOTICIAS", | IRAN INTERNATIONAL TV
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b806000.m3u8
 
 
