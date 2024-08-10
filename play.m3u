@@ -591,7 +591,7 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1-1.png" group-title="TV NOTICIAS", | GLOBO ᴴᴰ
 http://cdn.lvbxtv.com:80/ven05jlx5n/gold815/281044
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/8b84842008845.Y3JvcCw1OTgsNDY4LDExOCw2NQ.png" group-title="TV NOTICIAS",| PALESTINIAN TV ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yFr4BtX.jpeg" group-title="TV NOTICIAS",| PALESTINIAN TV ᴴᴰ
 https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://africa24tv.com/wp-content/uploads/2021/09/logo.png" group-title="TV NOTICIAS", | AFRICA 24 ᴴᴰ
 https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3u8
@@ -601,6 +601,8 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Fcln8Aw.png" group-title="TV NOTICIAS", | IRAN INTERNATIONAL TV
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b806000.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/2p4St63.jpeg" group-title="TV NOTICIAS", | TVI 
+https://video-auth6.iol.pt/edge_servers/tvi-480p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjQgNDoxODozMSBQTSZoYXNoX3ZhbHVlPWVSdDNMbHpoaUpXT3J0TXdnL3BiK0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05ZDQwZGM2Ni0xMWFiLTRjNTctYTY3OS1hYTY0NTlhM2E4NGY=
 
 
 
