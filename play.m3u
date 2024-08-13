@@ -91,6 +91,8 @@ https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
 https://gnstreammedia.com:19360/4000/4000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Bnb.jpg" group-title="TV PERU",56 | BNB Digital | |@|
 https://vdo.grupolimalive.com:3375/live/bnbdigitallive.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/TJyufHZ.png" group-title="TV PERU",57 | GF TV
+https://live.obslivestream.com/regionaltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/usmp%20tv.jpg" group-title="TV PERU",58 | USMP TV |
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="TV PERU",59 | MEGA TV |
