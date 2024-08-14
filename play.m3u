@@ -87,7 +87,7 @@ https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/San%20borja.jpg" group-title="TV PERU",54 | RADIO SAN BORJA |
 https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrYpOoobWKdGok14HqeSWfwkkjScRK9h7Zog&s" group-title="TV PERU",55 | QUASSAR TV  |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/bDa0VnZ.png" group-title="TV PERU",55 | QUASSAR TV  |
 https://gnstreammedia.com:19360/4000/4000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Bnb.jpg" group-title="TV PERU",56 | BNB Digital | |@|
 https://vdo.grupolimalive.com:3375/live/bnbdigitallive.m3u8
@@ -427,7 +427,7 @@ https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/o3g1yvp.jpeg" group-title="TV LATINA",EC | TELEAMAZONAS ᴴᴰ
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/live-video=2000000.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/SVtgqdj.png" group-title="TV LATINA",EC | OROMAR TV
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/AFgusOe.png" group-title="TV LATINA",EC | OROMAR TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
 
