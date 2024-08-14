@@ -406,7 +406,7 @@ https://ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | NSTV 
 https://cp.panelchs.com:1936/8162/8162/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w2t8CGT.png" group-title="TV LATINA",CO | BLU RADIO ᴴᴰ @
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w2t8CGT.png" group-title="TV LATINA",CO | BLU RADIO ᴴᴰ 
 https://ythls.armelin.one/channel/UCUYokk2dJxFZf7NgxTL-ROg.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="TV LATINA",CO | CABLE NOTICIAS DIRECTO
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
@@ -427,6 +427,9 @@ https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/o3g1yvp.jpeg" group-title="TV LATINA",EC | TELEAMAZONAS ᴴᴰ
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/live-video=2000000.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/SVtgqdj.png" group-title="TV LATINA",EC | OROMAR TV
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E7Qxyi0.png" group-title="TV LATINA",BO | BOLIVIA TV DIRECTO
