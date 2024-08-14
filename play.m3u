@@ -560,6 +560,8 @@ https://eu1.servers10.com:8081/8192/index.m3u8
 https://nxt.plus:8443/jesus01/jesus01/59075
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="TV NOTICIAS",| CNN CHILE 
 http://daleplay.club:80/VictorNaranjo/Victor09122021/63076.ts
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/qfnakBb.png" group-title="TV NOTICIAS", | 24 HORAS-CHILE
+https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="TV NOTICIAS", | C5N 
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="TV NOTICIAS", | A24 ᴴᴰ
@@ -574,7 +576,7 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="TV NOTICIAS", | FRANCE 24 ᴴᴰ  
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="TV NOTICIAS", | DEUSTCHE WELLE  ᴴᴰ DW 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="TV NOTICIAS", | DEUSTCHE WELLE ᴴᴰ 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="TV NOTICIAS", | EURONEWS ᴴᴰ
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
@@ -607,8 +609,7 @@ https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b806000.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/etjcmBi.jpeg" group-title="TV NOTICIAS", | NOVOSTI 360
 https://e10-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/Q5E4JZ8.png" group-title="TV NOTICIAS", | BST 24 (Bratsk)
-http://bst.bratsk.ru/hls/bst2/index.m3u8
+
 
 
 
