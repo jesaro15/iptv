@@ -509,8 +509,8 @@ http://159.203.148.226/live/farra.m3u8
 https://59ce1298bfb98.streamlock.net/reddigital/reddigital/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",PY | Salto TV @
 https://ssh101.bozztv.com/ssh101/redcanindeyu/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",PY | Somos Del Este 
-https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/20lbGK4.jpeg" group-title="TV LATINA",PY | Somos Del Este 
+https://live.enhdtv.com:8081/8062/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",PY | Trece Paraguay @
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",PY | TV Aire 
