@@ -185,9 +185,9 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://www.telediario.mx/bundles/appcamusassets/images/logo-canal6.svg" group-title="TV LATINA",MX | CANAL 6 CDMX
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="TV LATINA",MX | TVP @
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="TV LATINA",MX | TVP 
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="TV LATINA",MX | AMX TELEVISION ᴴᴰ DIRECTO 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="TV LATINA",MX | AMX TELEVISION ᴴᴰ 
 https://5ca39be538307.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="TV LATINA",MX | AZTECA ᴴᴰ DIRECTO
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
@@ -223,7 +223,7 @@ https://mediacp.us:8081/504tvhn/index.m3u8
 https://s.emisoras.tv:8081/atv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mpc4Isd.png" group-title="TV LATINA",HN | CHOLUTECA TV DIRECTO
 https://s.emisoras.tv:8081/cholutecatv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | CTV INTERNACIONAL 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rU5HbzN.jpeg" group-title="TV LATINA",HN | CTV INTERNACIONAL 
 https://mediacp.us:8081/ctvhn/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | DTV 
 https://s.emisoras.tv:8081/dtv/index.m3u8
@@ -267,13 +267,13 @@ https://hdbox.chunklistv.com/live?stream=tvone
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hy0bXxo.png" group-title="TV LATINA",NI | WTV Canal 20 DOS
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ztp781b.png" group-title="TV LATINA",NI | Canal 10 ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ztp781b.png" group-title="TV LATINA",NI | Canal 10 ᴴᴰ 
 http://138.117.4.70:8075/Canal10_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/heZeqPQ.png" group-title="TV LATINA",NI | Canal 11 ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/heZeqPQ.png" group-title="TV LATINA",NI | Canal 11 ᴴᴰ 
 https://cootv.cootel.com.ni:8095/Canal11_CooTel/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",SV | Canal 2 @
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",SV | Canal 2 
 https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",SV | Megavisión Canal 19 
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
@@ -283,12 +283,12 @@ https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",SV | Taber TV 
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",SV | TCS+ @
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",SV | TCS+ 
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",SV | TVC Network @
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",SV | TVC Network 
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
 https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",SV | WOW TV @
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",SV | WOW TV 
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="TV LATINA",SV | CANAL 12 ᴴᴰ DIRECTO 
 http://stream.flynetwifi.com:1935/live/mobile-082/playlist.m3u8
@@ -296,27 +296,27 @@ http://stream.flynetwifi.com:1935/live/mobile-082/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/MultimediosCR/picture?width=200&height=200" group-title="TV LATINA",CR | CANAL 8 DIRECTO
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8q7BNBq.png" group-title="TV LATINA",CR | CANAL 38 TV DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8q7BNBq.png" group-title="TV LATINA",CR | CANAL 38 TV 
 https://opa.usastreams.com:3101/live/canalopalive.m3u8
 #EXTINF:-1 tvg-logo="https://sicultura-live.s3.amazonaws.com/public/2022-11/301969217_503586181771987_4515833689371219273_n.jpg" group-title="TV LATINA",CR |TVSUR ᴴᴰ DIRECTO
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w12675392.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="TV LATINA",CR | CANAL 1 DIRECTO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="TV LATINA",CR | CANAL 1
 https://video20.klm99.com:3993/live/canal1crlive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7QRn6N0_GRCoOwRyu9FZWxnPaud-ODHLeBf3xPuR4Og&s" group-title="TV LATINA",CR | TRIVISION DIRECTO
 https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y0h8dlX.png" group-title="TV LATINA",PA | MAS 23 TV DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y0h8dlX.png" group-title="TV LATINA",PA | MAS 23 TV 
 https://vcp4.myplaytv.com:1936/mas23/mas23/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vj5nNbF/FAV-TV-LOGO-BLANCO.png" group-title="TV LATINA",PA | MINFAV TV ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vj5nNbF/FAV-TV-LOGO-BLANCO.png" group-title="TV LATINA",PA | MINFAV TV ᴴᴰ 
 https://video.misistemareseller.com/minfavtv/minfavtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QQBd052.png" group-title="TV LATINA",PA | NEX TV Canal 21 ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQBd052.png" group-title="TV LATINA",PA | NEX TV Canal 21 ᴴᴰ 
 https://vcp4.myplaytv.com:1936/nextv/nextv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Y4yuchf.jpeg" group-title="TV LATINA" ,PR | TELEMUNDO ᴴᴰ
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Crt3P4N.png" group-title="TV LATINA",PR | TELEONCE DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Crt3P4N.png" group-title="TV LATINA",PR | TELEONCE 
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/live-audio_track_0_0_und=64000-video_track=2000000.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wapa-tv-puerto-rico-logo-C617B18D9F-seeklogo.com.gif" group-title="TV LATINA",PR | WAPA ᴴᴰ DIRECTO
 https://live.field59.com/wapa/ngrp:wapa1_all/chunklist_b2690048.m3u8
@@ -337,45 +337,45 @@ https://ythls.armelin.one/channel/UCWwP6VfG61i7BWSV0H3Jn9A.m3u8
 https://inliveserver.com:1936/11516/11516/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="TV LATINA",RD | RTVD DIRECTO
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/canal25-santiago.jpg" group-title="TV LATINA",RD | Canal 25 ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/canal25-santiago.jpg" group-title="TV LATINA",RD | Canal 25 ᴴᴰ 
 https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.com.do/wp-content/uploads/2022/05/artes-logo-cdn.jpg" group-title="TV LATINA",RD | CDN TV DIRECTO
+#EXTINF:-1 tvg-logo="https://cdn.com.do/wp-content/uploads/2022/05/artes-logo-cdn.jpg" group-title="TV LATINA",RD | CDN TV 
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8?p=79&s=1710514312&e=1710514432&h=b632e4e13f2676e49ebfc94e4e4fb655
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XjGb2UM.png" group-title="TV LATINA",RD | CARIVISION DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XjGb2UM.png" group-title="TV LATINA",RD | CARIVISION 
 https://ss5.domint.net:3174/car_str/carivision/chunklist_w283143972.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Telearuba_Logo.png/200px-Telearuba_Logo.png" group-title="TV LATINA",AW | TELE ARUBA ᴴᴰ DIRECTO
 https://cdn01.setar.aw/Telearuba/telearuba/chunklist_w398237623.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9s6LZJZ.png" group-title="TV LATINA",AW | ARUBA TV + DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9s6LZJZ.png" group-title="TV LATINA",AW | ARUBA TV + 
 https://5caf24a595d94.streamlock.net:1937/kmdbgtygtx/kmdbgtygtx/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yaEyv29.png" group-title="TV LATINA",VE | TV FANB DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaEyv29.png" group-title="TV LATINA",VE | TV FANB 
 https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hL2R9K1.png" group-title="TV LATINA",VE | AVILA TV @
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hL2R9K1.png" group-title="TV LATINA",VE | AVILA TV 
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/9fc00ad00fd8b0f08ab11f2324c82ffd713c3cb6/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QX5DVUB.png" group-title="TV LATINA",VE | TVES DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QX5DVUB.png" group-title="TV LATINA",VE | TVES 
 https://ls.tves.gob.ve/hls/tves.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v6nRdxQ.png" group-title="TV LATINA",VE | GLOBOVISION DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v6nRdxQ.png" group-title="TV LATINA",VE | GLOBOVISION 
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r3hBNz/logo-footer.png" group-title="TV LATINA",VE | LA IGUANA TV
 https://ythls.armelin.one/channel/UCCc2H9_eNnU7ucq2n7Sh3Rg.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="TV LATINA",VE | PROMAR DIRECTO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="TV LATINA",VE | PROMAR 
 https://vcp.myplaytv.com/promar/promar/chunklist_w1561591709.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",VE | VIVE 
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/fed20cff907550b0c7d83991fb3630e2a9f90454/master.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/CKnf3Ua.png" group-title="TV LATINA",CO | CANAL INSTITUCIONAL ᴴᴰ DIRECTO
+#EXTINF:0 tvg-logo="https://i.imgur.com/CKnf3Ua.png" group-title="TV LATINA",CO | CANAL INSTITUCIONAL ᴴᴰ 
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="TV LATINA",CO | RCN PLUS DIRECTO
+#EXTINF:0 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="TV LATINA",CO | RCN PLUS 
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="TV LATINA",CO | TELEPACIFICO DIRECTO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="TV LATINA",CO | TELEPACIFICO 
 https://live-edge-eu-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-1080/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="TV LATINA",CO | RCN ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="TV LATINA",CO | RCN ᴴᴰ
 http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | RCN Xtra 
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
@@ -387,11 +387,11 @@ https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | TELEMEDELLIN
 https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | ATV @
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | ATV 
 https://video.ejeserver.com/live/verteve.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | CABLE SUR TV 
 https://tvlatina.live:1936/8012/8012/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | CANAL NETS @
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | CANAL NETS 
 https://video.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",CO | CANAL TRO PLUS [GB]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
@@ -400,32 +400,32 @@ https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
 https://videohls2.cosmovision.tv/hls/sd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | INPO TV 
 https://cp.panelchs.com:1936/8108/8108/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | MOVIEFE @
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | MOVIEFE 
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | MULTICANAL TV 
 https://ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | NOTICIERO 90 MINUTOS @
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/1nRViha.jpeg" group-title="TV LATINA",CO | NOTICIERO 90 MINUTOS 
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | NSTV 
 https://cp.panelchs.com:1936/8162/8162/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w2t8CGT.png" group-title="TV LATINA",CO | BLU RADIO ᴴᴰ 
 https://ythls.armelin.one/channel/UCUYokk2dJxFZf7NgxTL-ROg.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="TV LATINA",CO | CABLE NOTICIAS DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="TV LATINA",CO | CABLE NOTICIAS
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="TV LATINA",CO | SEÑAL COLOMBIA ᴴᴰ
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/sEW6C5G.png" group-title="TV LATINA",EC | CANAL UNO ᴴᴰ DIRECTO
+#EXTINF:0 tvg-logo="https://i.imgur.com/sEW6C5G.png" group-title="TV LATINA",EC | CANAL UNO ᴴᴰ 
 https://video.ejeserver.com/live/canaluno.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/2WirGqb.png" group-title="TV LATINA",EC | INTI TV ᴴᴰ DIRECTO
+#EXTINF:0 tvg-logo="https://i.imgur.com/2WirGqb.png" group-title="TV LATINA",EC | INTI TV ᴴᴰ 
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/mZkW342.png" group-title="TV LATINA",EC | MANAVISION ᴴᴰ DIRECTO
+#EXTINF:0 tvg-logo="https://i.imgur.com/mZkW342.png" group-title="TV LATINA",EC | MANAVISION ᴴᴰ 
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/EMe5oWn.jpg" group-title="TV LATINA",EC | ECUAMUNDO TV DIRECTO
+#EXTINF:0 tvg-logo="https://i.imgur.com/EMe5oWn.jpg" group-title="TV LATINA",EC | ECUAMUNDO TV 
 https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vDDEKx6.jpg" group-title="TV LATINA",EC | ECUADOR TV DIRECTO                       
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vDDEKx6.jpg" group-title="TV LATINA",EC | ECUADOR TV                     
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/o3g1yvp.jpeg" group-title="TV LATINA",EC | TELEAMAZONAS ᴴᴰ
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/index.m3u8
@@ -434,51 +434,51 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E7Qxyi0.png" group-title="TV LATINA",BO | BOLIVIA TV DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E7Qxyi0.png" group-title="TV LATINA",BO | BOLIVIA TV 
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ABYAYALA.jpg" group-title="TV LATINA",BO | ABYA YALA DIRECTO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ABYAYALA.jpg" group-title="TV LATINA",BO | ABYA YALA 
 https://master.tucableip.com/abyayalatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E243X2x.png" group-title="TV LATINA",BO | ATB LA PAZ DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E243X2x.png" group-title="TV LATINA",BO | ATB LA PAZ 
 http://186.121.206.197/live/daniel/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png" group-title="TV LATINA",BO | IMPERIAL TV DIRECTO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png" group-title="TV LATINA",BO | IMPERIAL TV 
 https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Cadena_a_2021.jpg" group-title="TV LATINA",BO | CADENA A ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Cadena_a_2021.jpg" group-title="TV LATINA",BO | CADENA A ᴴᴰ 
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="TV LATINA",BO | GIGAVISION ᴴᴰ DIRECTO
+#EXTINF:0 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="TV LATINA",BO | GIGAVISION ᴴᴰ 
 https://master.tucableip.com/gigavision/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="TV LATINA",CL | CHILEVISION DIRECTO
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="TV LATINA",CL | CHILEVISION 
 https://jireh-2-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_1000.m3u8?dpssid=b1341336556255657083fbcaf38&sid=ba5t1l1xb458577071865c634caf3393&ndvc=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CEE9zPe.png" group-title="TV LATINA",CL | 24H DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CEE9zPe.png" group-title="TV LATINA",CL | 24H 
 https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lhglEUP.png" group-title="TV LATINA",CL | BIO-BIO TV DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lhglEUP.png" group-title="TV LATINA",CL | BIO-BIO TV 
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png" group-title="TV LATINA",CL | T13 ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png" group-title="TV LATINA",CL | T13 ᴴᴰ 
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CL | TVR CANAL 11 DIRECTO
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CL | TVR CANAL 11
 https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Tvu_hd.png" group-title="TV LATINA",CL | TVU DIRECTO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Tvu_hd.png" group-title="TV LATINA",CL | TVU 
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sextavision.jpg/800px-Sextavision.jpg" group-title="TV LATINA",CL | SEXTAVISION DIRECTO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sextavision.jpg/800px-Sextavision.jpg" group-title="TV LATINA",CL | SEXTAVISION 
 https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStv1d1pKQLIxbOO9A8-tQBU_8umsDgZD8hDw&s" group-title="TV LATINA",CL | PURANOTICIA DIRECTO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStv1d1pKQLIxbOO9A8-tQBU_8umsDgZD8hDw&s" group-title="TV LATINA",CL | PURANOTICIA 
 https://pnt.janusmedia.tv/hls/pnt.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2328616814/d2a3o0cj7ey5ynxmgxre_400x400.jpeg" group-title="TV LATINA",CL | IQUIQUE TV DIRECTO
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2328616814/d2a3o0cj7ey5ynxmgxre_400x400.jpeg" group-title="TV LATINA",CL | IQUIQUE TV
 https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.lared.cl/wp-content/themes/lared2021/img/logo-bajada-verde.png?e=202210241111" group-title="TV LATINA",CL | LA RED DIRECTO
+#EXTINF:-1 tvg-logo="https://www.lared.cl/wp-content/themes/lared2021/img/logo-bajada-verde.png?e=202210241111" group-title="TV LATINA",CL | LA RED
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CL | CHILE CHANNEL DIRECTO
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/oKjxmMS.jpeg" group-title="TV LATINA",CL | CHILE CHANNEL
 https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/327_America_TV_Chile.png" group-title="TV LATINA",CL | AMERICA TV DIRECTO
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/327_America_TV_Chile.png" group-title="TV LATINA",CL | AMERICA TV 
 https://v2.tustreaming.cl:/radioamericatv/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="TV LATINA",AR | TV PUBLICA ARG. DIRECTO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="TV LATINA",AR | TV PUBLICA ARG. 
 https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="TV LATINA",AR | C5N DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="TV LATINA",AR | C5N 
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="TV LATINA",AR | A24 DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="TV LATINA",AR | A24 
 https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 #EXTINF:-1 tvg-logo="https://www.canal3lasheras.com/wp-content/uploads/2022/10/canal3logo-x1.png" group-title="TV LATINA",AR | CANAL 3 TV
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
@@ -488,12 +488,12 @@ https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist_w91396998
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canal22web.com/wp-content/uploads/2024/05/LOGO-CANAL-REBORDE-BLANCO-1.2.png" group-title="TV LATINA",AR | CANAL 22 WEB
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w1527944810.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="TV LATINA",AR | CANAL 26 DIRECTO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="TV LATINA",AR | CANAL 26 
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG" group-title="TV LATINA",AR | AMERICA TV 
 #EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-#EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/atvargentina-x1.png" group-title="TV LATINA",AR | ATV ARGENTINA @
+#EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/atvargentina-x1.png" group-title="TV LATINA",AR | ATV ARGENTINA 
 https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/AUNAR.png/revision/latest/scale-to-width-down/180?cb=20230722215537&path-prefix=es" group-title="TV LATINA",AR | AUNAR TV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
@@ -501,15 +501,15 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",PY | 4DmásNoticias TV @
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MK4YloR.jpeg" group-title="TV LATINA",PY | 4D MAS NOTICIAS TV 
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",PY | Canal 11 Damoa TV Regional @
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",PY | Canal 11 DAMOA REGIONAL 
 https://59ce1298bfb98.streamlock.net/damoatv/damoatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",PY | Farra Play @
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",PY | FARRA PLAY 
 http://159.203.148.226/live/farra.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",PY | Red Digital
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",PY | RED DIGITAL
 https://59ce1298bfb98.streamlock.net/reddigital/reddigital/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",PY | Salto TV @
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",PY | SALTO TV 
 https://ssh101.bozztv.com/ssh101/redcanindeyu/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/20lbGK4.jpeg" group-title="TV LATINA",PY | SOMOS DEL ESTE
 https://live.enhdtv.com:8081/8062/tracks-v1a1/mono.m3u8
