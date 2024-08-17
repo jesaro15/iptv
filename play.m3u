@@ -335,7 +335,7 @@ https://ythls.armelin.one/channel/UCWwP6VfG61i7BWSV0H3Jn9A.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Superdigital.jpg" group-title="TV LATINA",RD | SUPER DIGITAL TV DIRECTO
 https://inliveserver.com:1936/11516/11516/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="TV LATINA",RD | RTVD DIRECTO
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/78YTagK.jpeg" group-title="TV LATINA",RD | RTVD 
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/canal25-santiago.jpg" group-title="TV LATINA",RD | Canal 25 ᴴᴰ 
 https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
@@ -509,7 +509,7 @@ https://59ce1298bfb98.streamlock.net/damoatv/damoatv/playlist.m3u8
 http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",PY | RED DIGITAL
 https://59ce1298bfb98.streamlock.net/reddigital/reddigital/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",PY | SALTO TV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/6yoM31C.jpeg" group-title="TV LATINA",PY | SALTO TV 
 https://ssh101.bozztv.com/ssh101/redcanindeyu/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/20lbGK4.jpeg" group-title="TV LATINA",PY | SOMOS DEL ESTE
 https://live.enhdtv.com:8081/8062/tracks-v1a1/mono.m3u8
@@ -531,10 +531,10 @@ https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
 https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ABCTVpy/picture?width=200&height=200" group-title="TV LATINA",PY | ABC TV DIRECTO
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="TV LATINA",UY | UCL TV ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="TV LATINA",PY | UCL TV ᴴᴰ DIRECTO
 https://streamingmcbo.ddns.net:8081/ucltelevision/tracks-a1v1/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mg7ZB9K.png" group-title="TV LATINA",UY | TELE 8 MERCEDES DIRECTO
 http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ORjoLdw.png" group-title="TV LATINA",UY | TV FLORIDA ᴴᴰ DIRECTO
@@ -606,10 +606,10 @@ http://cdn.lvbxtv.com:80/ven05jlx5n/gold815/281044
 https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://africa24tv.com/wp-content/uploads/2021/09/logo.png" group-title="TV NOTICIAS", | AFRICA 24 ᴴᴰ
 https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3u8
-#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="TV NOTICIAS", | TeleSUR ᴴᴰ (ALT)
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/hispantv.jpg" group-title="TV NOTICIAS", | HISPANTV ᴴᴰ (ALT)
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="TV NOTICIAS", | TeleSUR ᴴᴰ (ALT)
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Fcln8Aw.png" group-title="TV NOTICIAS", | IRAN INTERNATIONAL TV
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b806000.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/etjcmBi.jpeg" group-title="TV NOTICIAS", | NOVOSTI 360
