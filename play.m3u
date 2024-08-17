@@ -275,9 +275,9 @@ https://cootv.cootel.com.ni:8095/Canal11_CooTel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",SV | Canal 2 
 https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",SV | Megavisión Canal 19 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/unG2oXx.jpeg" group-title="TV LATINA",SV | Megavisión Canal 19 
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",SV | Megavisión Canal 21
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/JQE13Zx.jpeg" group-title="TV LATINA",SV | Megavisión Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",SV | RTV Canal 57 
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
@@ -288,7 +288,7 @@ https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f58
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/o7cbjkB.jpeg" group-title="TV LATINA",SV | TVC Network 
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
 https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",SV | WOW TV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/pOJEvax.png" group-title="TV LATINA",SV | WOW TV 
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="TV LATINA",SV | CANAL 12 ᴴᴰ 
 http://stream.flynetwifi.com:1935/live/mobile-082/playlist.m3u8
@@ -398,7 +398,7 @@ https://video.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",CO | CANAL TRO PLUS [GB]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | COSMOVISION 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/pwNb8id.png" group-title="TV LATINA",CO | COSMOVISION 
 https://videohls2.cosmovision.tv/hls/sd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | INPO TV 
 https://cp.panelchs.com:1936/8108/8108/playlist.m3u8
