@@ -205,9 +205,9 @@ https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8
 https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yCykjIp.png" group-title="TV LATINA",GT | CANAL 3 ᴴᴰ 
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
-#EXTINF:-1 tvg-logo="https://emisorasgt.com/wp-content/uploads/2023/04/tn23-guatemala.webp" group-title="TV LATINA",GT | TN23 TV DIRECTO
+#EXTINF:-1 tvg-logo="https://emisorasgt.com/wp-content/uploads/2023/04/tn23-guatemala.webp" group-title="TV LATINA",GT | TN23 TV 
 https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Televisiete_Logo.png/640px-Televisiete_Logo.png" group-title="TV LATINA",GT | TELEVISIETE DIRECTO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Televisiete_Logo.png/640px-Televisiete_Logo.png" group-title="TV LATINA",GT | TELEVISIETE 
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-logo="https://emisorasgt.com/wp-content/uploads/2024/03/multivision-sports.webp" group-title="TV LATINA",GT | MULTIVISION SPORTS
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
@@ -215,17 +215,17 @@ https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cteBdAJ.jpg" group-title="TV LATINA",HN | GUAYAPE DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cteBdAJ.jpg" group-title="TV LATINA",HN | GUAYAPE 
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/2ac4dfbd79ca4fb5905d09167229484f/chunklist_b4192000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c2HLI3k.png" group-title="TV LATINA",HN | 504 TV ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c2HLI3k.png" group-title="TV LATINA",HN | 504 TV ᴴᴰ 
 https://mediacp.us:8081/504tvhn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SbuD1UW.png" group-title="TV LATINA",HN | ALSACIAS TV ᴴᴰ DIRECTO  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SbuD1UW.png" group-title="TV LATINA",HN | ALSACIAS TV ᴴᴰ 
 https://s.emisoras.tv:8081/atv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mpc4Isd.png" group-title="TV LATINA",HN | CHOLUTECA TV DIRECTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mpc4Isd.png" group-title="TV LATINA",HN | CHOLUTECA TV 
 https://s.emisoras.tv:8081/cholutecatv/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/rU5HbzN.jpeg" group-title="TV LATINA",HN | CTV INTERNACIONAL 
 https://mediacp.us:8081/ctvhn/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | DTV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/tIKb6lN.jpeg" group-title="TV LATINA",HN | DTV 
 https://s.emisoras.tv:8081/dtv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | MAS NOTICIAS TV
 https://amixtv.com:8081/plus39/tracks-a1v1/index.m3u8
@@ -247,25 +247,25 @@ https://amixtv.live:3395/live/unetvlive.m3u8
 https://videoserver.tmcreativos.com:19360/mbcrtzxnxd/mbcrtzxnxd.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/WTVNicaraguacanal20/picture?width=200&height=200" group-title="TV LATINA",NI | WTV DIRECTO
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/2ceGviZ.jpeg" group-title="TV LATINA",NI | WTV 
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hy0bXxo.png" group-title="TV LATINA",NI | Canal 2 ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",NI | Canal 2 ᴴᴰ 
 https://cootv.cootel.com.ni:8095/Canal02_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hy0bXxo.png" group-title="TV LATINA",NI | Canal 4 
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",NI | Canal 4 
 http://138.117.4.70:8075/Canal04_CooTelmnbv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hy0bXxo.png" group-title="TV LATINA",NI | NEX TV
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",NI | NEX TV
 https://stmvideo2.livecastv.com/canal21nic3/canal21nic3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hy0bXxo.png" group-title="TV LATINA",NI | COOTEL
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/T5kPqRG.jpeg" group-title="TV LATINA",NI | COOTEL
 http://138.117.4.70:8075/channel9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hy0bXxo.png" group-title="TV LATINA",NI | JBN Canal 39 
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",NI | JBN Canal 39 
 https://hdbox.chunklistv.com/live?stream=jbn39
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hy0bXxo.png" group-title="TV LATINA",NI | MEGABOX 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Ny2WEQC.jpeg" group-title="TV LATINA",NI | MEGABOX 
 https://hdbox.chunklistv.com/live?stream=megabox
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hy0bXxo.png" group-title="TV LATINA",NI | TVONE 
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",NI | TVONE 
 https://hdbox.chunklistv.com/live?stream=tvone
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hy0bXxo.png" group-title="TV LATINA",NI | WTV Canal 20 UNO
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",NI | WTV Canal 20 UNO
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hy0bXxo.png" group-title="TV LATINA",NI | WTV Canal 20 DOS
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",NI | WTV Canal 20 DOS
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ztp781b.png" group-title="TV LATINA",NI | Canal 10 ᴴᴰ 
 http://138.117.4.70:8075/Canal10_CooTel/playlist.m3u8
