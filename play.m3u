@@ -285,7 +285,7 @@ https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",SV | TCS+ 
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",SV | TVC Network 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/o7cbjkB.jpeg" group-title="TV LATINA",SV | TVC Network 
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
 https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",SV | WOW TV 
@@ -408,7 +408,7 @@ https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/1nRViha.jpeg" group-title="TV LATINA",CO | NOTICIERO 90 MINUTOS 
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | NSTV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/7pAsozu.jpeg" group-title="TV LATINA",CO | NSTV 
 https://cp.panelchs.com:1936/8162/8162/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w2t8CGT.png" group-title="TV LATINA",CO | BLU RADIO ᴴᴰ 
 https://ythls.armelin.one/channel/UCUYokk2dJxFZf7NgxTL-ROg.m3u8
