@@ -236,7 +236,7 @@ https://s.emisoras.tv:8081/dtv/index.m3u8
 https://amixtv.com:8081/plus39/tracks-a1v1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | METRO TV 
 https://s.emisoras.tv:8081/metrotv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | PARADISE TV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/d10YfFi.jpeg" group-title="TV LATINA",HN | PARADISE TV 
 https://s2.tvdatta.com:3840/live/paradisetvlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | SAN IGNACIO TV 
 https://amixtv.live:3753/live/sitvlive.m3u8
@@ -248,7 +248,7 @@ https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | UNE TV 
 https://amixtv.live:3395/live/unetvlive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | ACTIVA TV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/HaPR5Il.jpeg" group-title="TV LATINA",HN | ACTIVA TV 
 https://videoserver.tmcreativos.com:19360/mbcrtzxnxd/mbcrtzxnxd.m3u8
 
 
@@ -256,7 +256,7 @@ https://videoserver.tmcreativos.com:19360/mbcrtzxnxd/mbcrtzxnxd.m3u8
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",NI | Canal 2 ᴴᴰ 
 https://cootv.cootel.com.ni:8095/Canal02_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",NI | Canal 4 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/CjzIq2V.jpeg" group-title="TV LATINA",NI | Canal 4 
 http://138.117.4.70:8075/Canal04_CooTelmnbv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",NI | NEX TV
 https://stmvideo2.livecastv.com/canal21nic3/canal21nic3/playlist.m3u8
@@ -512,7 +512,7 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",PY | Canal 11 DAMOA REGIONAL 
 https://59ce1298bfb98.streamlock.net/damoatv/damoatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",PY | FARRA PLAY 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rDKJpwn.jpeg" group-title="TV LATINA",PY | FARRA PLAY 
 http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",PY | RED DIGITAL
 https://59ce1298bfb98.streamlock.net/reddigital/reddigital/playlist.m3u8
