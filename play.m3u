@@ -246,7 +246,7 @@ https://s.emisoras.tv:8081/telerayo/index.m3u8
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | TELEVISION METROPOLIS 19.2 @
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | UNE TV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Evg8reF.jpeg" group-title="TV LATINA",HN | UNE TV 
 https://amixtv.live:3395/live/unetvlive.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/HaPR5Il.jpeg" group-title="TV LATINA",HN | ACTIVA TV 
 https://videoserver.tmcreativos.com:19360/mbcrtzxnxd/mbcrtzxnxd.m3u8
@@ -371,7 +371,7 @@ https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 https://ythls.armelin.one/channel/UCCc2H9_eNnU7ucq2n7Sh3Rg.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="TV LATINA",VE | PROMAR 
 https://vcp.myplaytv.com/promar/promar/chunklist_w1561591709.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",VE | VIVE 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/jNmz31M.jpeg" group-title="TV LATINA",VE | VIVE 
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/fed20cff907550b0c7d83991fb3630e2a9f90454/master.m3u8
 
@@ -384,7 +384,7 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 https://live-edge-eu-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="TV LATINA",CO | RCN ᴴᴰ
 http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | RCN Xtra 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/pIETtN1.jpeg" group-title="TV LATINA",CO | RCN Xtra 
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",CO | TELECARIBE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
@@ -398,7 +398,7 @@ https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/in
 https://video.ejeserver.com/live/verteve.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/4nqwpCd.jpeg" group-title="TV LATINA",CO | CABLE SUR TV 
 https://tvlatina.live:1936/8012/8012/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | CANAL NETS 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/NjqpasZ.jpeg" group-title="TV LATINA",CO | CANAL NETS 
 https://video.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",CO | CANAL TRO PLUS [GB]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
@@ -424,7 +424,7 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/sEW6C5G.png" group-title="TV LATINA",EC | CANAL UNO ᴴᴰ 
+#EXTINF:0 tvg-logo="http://imgfz.com/i/QVkrJIP.png" group-title="TV LATINA",EC | CANAL UNO ᴴᴰ 
 https://video.ejeserver.com/live/canaluno.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/2WirGqb.png" group-title="TV LATINA",EC | INTI TV ᴴᴰ 
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
