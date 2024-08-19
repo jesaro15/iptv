@@ -188,7 +188,7 @@ https://servilive.com:3263/live/channel12live.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/cultura-01.png" group-title="TV LATINA",MX | TV CUATRO 4.2 
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
-#EXTINF:-1 tvg-logo="https://www.telediario.mx/bundles/appcamusassets/images/logo-canal6.svg" group-title="TV LATINA",MX | CANAL 6 CDMX
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Qyb1Jj0.jpeg" group-title="TV LATINA",MX | CANAL 6 CDMX
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="TV LATINA",MX | TVP 
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
@@ -268,9 +268,9 @@ https://hdbox.chunklistv.com/live?stream=jbn39
 https://hdbox.chunklistv.com/live?stream=megabox
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",NI | TVONE 
 https://hdbox.chunklistv.com/live?stream=tvone
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",NI | WTV Canal 20 UNO
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/2ceGviZ.jpeg" group-title="TV LATINA",NI | WTV 
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",NI | WTV Canal 20 DOS
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/2ceGviZ.jpeg" group-title="TV LATINA",NI | WTV alt
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ztp781b.png" group-title="TV LATINA",NI | Canal 10 ᴴᴰ 
 http://138.117.4.70:8075/Canal10_CooTel/playlist.m3u8
@@ -394,7 +394,7 @@ https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | TELEMEDELLIN
 https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | ATV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/oplLHxu.jpeg" group-title="TV LATINA",CO | ATV 
 https://video.ejeserver.com/live/verteve.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/4nqwpCd.jpeg" group-title="TV LATINA",CO | CABLE SUR TV 
 https://tvlatina.live:1936/8012/8012/playlist.m3u8
@@ -407,7 +407,7 @@ https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
 https://videohls2.cosmovision.tv/hls/sd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | INPO TV 
 https://cp.panelchs.com:1936/8108/8108/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | MOVIEFE 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/vzFjNn7.jpeg" group-title="TV LATINA",CO | MOVIEFE 
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/XVBdiFf.jpeg" group-title="TV LATINA",CO | MULTICANAL TV 
 https://ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8
@@ -426,7 +426,7 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 
 #EXTINF:0 tvg-logo="http://imgfz.com/i/QVkrJIP.png" group-title="TV LATINA",EC | CANAL UNO ᴴᴰ 
 https://video.ejeserver.com/live/canaluno.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/2WirGqb.png" group-title="TV LATINA",EC | INTI TV ᴴᴰ 
+#EXTINF:0 tvg-logo="http://imgfz.com/i/L65QwuZ.jpeg" group-title="TV LATINA",EC | INTI TV ᴴᴰ 
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/mZkW342.png" group-title="TV LATINA",EC | MANAVISION ᴴᴰ 
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
