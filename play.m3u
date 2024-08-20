@@ -459,7 +459,7 @@ https://master.tucableip.com/gigavision/playlist.m3u8
 https://jireh-2-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_1000.m3u8?dpssid=b1341336556255657083fbcaf38&sid=ba5t1l1xb458577071865c634caf3393&ndvc=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CEE9zPe.png" group-title="TV LATINA",CL | 24H 
 https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lhglEUP.png" group-title="TV LATINA",CL | BIO-BIO TV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/B5XPugz.jpeg" group-title="TV LATINA",CL | BIO-BIO TV 
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png" group-title="TV LATINA",CL | T13 ᴴᴰ 
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
