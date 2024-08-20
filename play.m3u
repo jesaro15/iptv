@@ -524,7 +524,7 @@ https://live.enhdtv.com:8081/8062/tracks-v1a1/mono.m3u8
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",PY | TV Aire 
 https://59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",PY | UnionTV
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/phokwf4.jpeg" group-title="TV LATINA",PY | UNION TV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Unicanal/picture?width=200&height=200" group-title="TV LATINA",PY | UNICANAL 
 https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
