@@ -234,17 +234,17 @@ https://mediacp.us:8081/ctvhn/index.m3u8
 https://s.emisoras.tv:8081/dtv/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/lOZaKId.jpeg" group-title="TV LATINA",HN | MAS NOTICIAS TV
 https://amixtv.com:8081/plus39/tracks-a1v1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | METRO TV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/nylDM8c.jpeg" group-title="TV LATINA",HN | METRO TV 
 https://s.emisoras.tv:8081/metrotv/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/d10YfFi.jpeg" group-title="TV LATINA",HN | PARADISE TV 
 https://s2.tvdatta.com:3840/live/paradisetvlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | SAN IGNACIO TV 
 https://amixtv.live:3753/live/sitvlive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | TELERAYO 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/zcSMXLW.jpeg" group-title="TV LATINA",HN | TELERAYO 
 https://s.emisoras.tv:8081/telerayo/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | TELEVISION METROPOLIS 19.1 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/aUXrdMl.jpeg" group-title="TV LATINA",HN | TELEVISION METROPOLIS 19.1 
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | TELEVISION METROPOLIS 19.2 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/7yUhrNK.jpeg" group-title="TV LATINA",HN | TELEVISION METROPOLIS 19.2 
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Evg8reF.jpeg" group-title="TV LATINA",HN | UNE TV 
 https://amixtv.live:3395/live/unetvlive.m3u8
@@ -266,7 +266,7 @@ http://138.117.4.70:8075/channel9/playlist.m3u8
 https://hdbox.chunklistv.com/live?stream=jbn39
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Ny2WEQC.jpeg" group-title="TV LATINA",NI | MEGABOX 
 https://hdbox.chunklistv.com/live?stream=megabox
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",NI | TVONE 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/qu08RiL.jpeg" group-title="TV LATINA",NI | TVONE 
 https://hdbox.chunklistv.com/live?stream=tvone
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/2ceGviZ.jpeg" group-title="TV LATINA",NI | WTV 
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
@@ -329,7 +329,7 @@ https://live.field59.com/wapa/ngrp:wapa1_all/chunklist_b2690048.m3u8
 https://cprdp.pr/hls/stream/1_2/index.m3u8?
 
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CubavisionInternacional/picture" group-title="TV LATINA",CU |CUBAVISION TV ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/ywF0Rli.jpeg" group-title="TV LATINA",CU |CUBAVISION TV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 
