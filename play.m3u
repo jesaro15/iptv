@@ -518,7 +518,7 @@ http://159.203.148.226/live/farra.m3u8
 https://59ce1298bfb98.streamlock.net/reddigital/reddigital/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/6yoM31C.jpeg" group-title="TV LATINA",PY | SALTO TV 
 https://ssh101.bozztv.com/ssh101/redcanindeyu/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/20lbGK4.jpeg" group-title="TV LATINA",PY | SOMOS DEL ESTE
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fRXrA9h.jpeg" group-title="TV LATINA",PY | SOMOS DEL ESTE
 https://live.enhdtv.com:8081/8062/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/1CWgFIk.jpeg" group-title="TV LATINA",PY | CANAL 13
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
@@ -568,9 +568,9 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbm2S9O.jpg" group-title="TV NOTICIAS", | PRENSA LATINA TV ᴴᴰ 
 https://eu1.servers10.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cnn-en-espanol-logo-png-transparent.png" group-title="TV NOTICIAS",| CNN EN ESPAÑOL 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/abpP5jw.jpeg" group-title="TV NOTICIAS",| CNN EN ESPAÑOL 
 https://nxt.plus:8443/jesus01/jesus01/59075
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="TV NOTICIAS",| CNN CHILE 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/QmOn46A.jpeg" group-title="TV NOTICIAS",| CNN CHILE 
 http://daleplay.club:80/VictorNaranjo/Victor09122021/63076.ts
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/qfnakBb.png" group-title="TV NOTICIAS", | 24 HORAS-CHILE
 https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
