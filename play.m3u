@@ -560,7 +560,7 @@ https://stream.vivotv.uy/hls/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="TV NOTICIAS", | AMX NOTICIAS ᴴᴰ  
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Nv9P7sU.jpeg" group-title="TV NOTICIAS", | AMX NOTICIAS ᴴᴰ  
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_2017.png/revision/latest?cb=20210217012618&path-prefix=es" group-title="TV NOTICIAS", | NOTICIAS CARACOL ᴴᴰ
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
@@ -592,30 +592,30 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="TV NOTICIAS", | DEUSTCHE WELLE ᴴᴰ 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="TV NOTICIAS", | EURONEWS ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/M3eCHbo.jpeg" group-title="TV NOTICIAS", | EURONEWS ᴴᴰ
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="TV NOTICIAS", | ACTUALIDAD RT ᴴᴰ 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/r4lNzgh.jpeg" group-title="TV NOTICIAS", | ACTUALIDAD RT ᴴᴰ 
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="TV NOTICIAS", | CGTN EN ESPAÑOL ᴴᴰ 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/YnV0jd2.jpeg" group-title="TV NOTICIAS", | CGTN EN ESPAÑOL ᴴᴰ 
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/hispantv.jpg" group-title="TV NOTICIAS", | HISPANTV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/df0a443c1e8e53babc41fede14548c9b5fd1a6d2/live.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1278404640418287617/wwoZKuuA_400x400.png" group-title="TV NOTICIAS", | NTN24 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/lHgTEO8.jpeg" group-title="TV NOTICIAS", | NTN24 ᴴᴰ
 http://premierchile.shop:8080/carlosmuller/lo6bckGmZn/339
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="TV NOTICIAS", | NHK WORLD ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/DA1RpKQ.jpeg" group-title="TV NOTICIAS", | NHK WORLD ᴴᴰ
 https://bmcc.nhkworld.jp/live2/index_1M.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Al_Jazeera.jpg" group-title="TV NOTICIAS", | ALJAZEERA ᴴᴰ ENGLISH 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/anyZt3J.jpeg" group-title="TV NOTICIAS", | ALJAZEERA ᴴᴰ ENGLISH 
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/PressTV_2007.png" group-title="TV NOTICIAS", | PRESS TV
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/o5lMfdx.jpeg" group-title="TV NOTICIAS", | PRESS TV
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1-1.png" group-title="TV NOTICIAS", | GLOBO ᴴᴰ
 http://cdn.lvbxtv.com:80/ven05jlx5n/gold815/281044
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/b0fOJoP.jpeg" group-title="TV NOTICIAS",| PALESTINIAN TV ᴴᴰ
 https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://africa24tv.com/wp-content/uploads/2021/09/logo.png" group-title="TV NOTICIAS", | AFRICA 24 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/iR3EbZF.jpeg" group-title="TV NOTICIAS", | AFRICA 24 ᴴᴰ
 https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/hispantv.jpg" group-title="TV NOTICIAS", | HISPANTV ᴴᴰ (ALT)
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/CKgB8Tc.jpeg" group-title="TV NOTICIAS", | HISPANTV ᴴᴰ (ALT)
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="http://imgfz.com/i/n6BuN7P.jpeg" group-title="TV NOTICIAS", | TeleSUR ᴴᴰ (ALT)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
