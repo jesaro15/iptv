@@ -13,7 +13,7 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TVPERU.jpg" group-title="TV PERU",7 | TV PERU |
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TV_Perú_Noticias.jpg" group-title="TV PERU",7.1 | TV PERU NOTICIAS |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TVPerúNoticias.jpg" group-title="TV PERU",7.1 | TV PERU NOTICIAS |
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canalN.jpg" group-title="TV PERU",8 | CANAL N |
 http://pro.boxdigital.org:8080/live/manuelcoronado/U8SWX9TFp8W2/181708.m3u8
