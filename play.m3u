@@ -25,11 +25,11 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/480p.m3u8
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/480p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/globalTV.jpg" group-title="TV PERU",13 | GLOBAL TV |
 http://daleplay.club:80/VictorNaranjo/Victor09122021/330739.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="TV PERU",15 | NATIVA TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nativaTV.jpg" group-title="TV PERU",15 | NATIVA TV |
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Onda_Digital.png" group-title="TV PERU",16 | ONDA DIGITAL |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ondadigitalTV1.jpg" group-title="TV PERU",16 | ONDA DIGITAL |
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/onda_digital.jpg" group-title="TV PERU",17 | ONDA DIGITAL 2 | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ondadigitalTV2.jpg" group-title="TV PERU",17 | ONDA DIGITAL 2 | 
 https://v4.tustreaming.cl/ondadigitaltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nacionaltvperu.jpg" group-title="TV PERU",19 | NACIONAL TV PERU |
 https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
