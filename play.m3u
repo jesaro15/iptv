@@ -588,9 +588,9 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/aJjmTBd.jpeg" group-title="TV NOTICIAS", | NEGOCIOS TV ᴴᴰ 
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS", | FRANCE 24 ᴴᴰ  
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/HhkOvnj.jpeg" group-title="TV NOTICIAS", | FRANCE 24 ᴴᴰ  
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS", | DEUSTCHE WELLE ᴴᴰ 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/PVSDvia.jpeg" group-title="TV NOTICIAS", | DEUSTCHE WELLE ᴴᴰ 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/M3eCHbo.jpeg" group-title="TV NOTICIAS", | EURONEWS ᴴᴰ
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
