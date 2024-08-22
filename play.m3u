@@ -21,7 +21,7 @@ http://pro.boxdigital.org:8080/live/manuelcoronado/U8SWX9TFp8W2/181708.m3u8
 https://alba-pe-atv-atv.stream.mediatiquestream.com/480p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVPLUS.jpg" group-title="TV PERU",10 | ATV PLUS |
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/480p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVPLUS.jpg" group-title="TV PERU",11 | ATV SUR |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVSUR.jpg" group-title="TV PERU",11 | ATV SUR |
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/480p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/globalTV.jpg" group-title="TV PERU",13 | GLOBAL TV |
 http://daleplay.club:80/VictorNaranjo/Victor09122021/330739.ts
