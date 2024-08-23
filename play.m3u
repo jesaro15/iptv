@@ -22,7 +22,7 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/480p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVPLUS.jpg" group-title="TV PERU",10 | ATV PLUS |
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/480p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVSUR.jpg" group-title="TV PERU",11 | ATV SUR |
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/480p.m3u8
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/live2/alba-pe-atv-atvsur_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/globalTV.jpg" group-title="TV PERU",13 | GLOBAL TV |
 http://daleplay.club:80/VictorNaranjo/Victor09122021/330739.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nativaTV.jpg" group-title="TV PERU",15 | NATIVA TV |
@@ -47,6 +47,8 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 https://live.obslivestream.com/cumo/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peru-magico-pe.png" group-title="TV PERU",27 | PERU MAGICO |
 http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/151547
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",28 | LA KARIBEÑA |
+https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="TV PERU",29 | CONECTA2 TV |
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Planeta.jpg" group-title="TV PERU",30 | PLANETA TV | 
