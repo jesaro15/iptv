@@ -67,11 +67,11 @@ https://live.obslivestream.com/mas1/tracks-v1a1/mono.m3u8
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/karibenaTV.jpg" group-title="TV PERU",38 | KARIBEÑA TV |
 https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/" group-title="TV PERU",39 | DOBLE C TELEVISIÓN |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/dobleCTV.jpg" group-title="TV PERU",39 | DOBLE C TELEVISIÓN |
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/" group-title="TV PERU",40 | RN TELEVISION |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/rnTV.jpg" group-title="TV PERU",40 | RN TELEVISION |
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/" group-title="TV PERU",41 | RIBEREÑA TV | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/RiberenaTV" group-title="TV PERU",41 | RIBEREÑA TV | 
 https://v4.tustreaming.cl/atmtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/" group-title="TV PERU",45 | SUPERCANALᴴᴰ |
 https://live.obslivestream.com/supercanal/index.m3u8
