@@ -89,7 +89,7 @@ https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",54 | RADIO SAN BORJA |
 https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/bDa0VnZ.png" group-title="TV PERU",55 | QUASSAR TV  |
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",55 | QUASSAR TV  |
 https://gnstreammedia.com:19360/4000/4000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",56 | BNB DIGITAL | 
 https://vdo.grupolimalive.com:3375/live/bnbdigitallive.m3u8
@@ -135,7 +135,7 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1888254998.m3u8
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",82 | CONTACTO TV |
 https://live.obslivestream.com/cdeportivo/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/EVmsL8P.jpeg" group-title="TV PERU",83 | LA MIEL VRAEM |
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",83 | LA MIEL VRAEM |
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",84 | NATIVA VRAEM |
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
@@ -175,68 +175,68 @@ https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/Nv9P7sU.jpeg" group-title="TV NOTICIAS", | AMX NOTICIAS ᴴᴰ  
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Nv9P7sU.jpeg" group-title="TV NOTICIAS",1 | AMX NOTICIAS ᴴᴰ  
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/UMIbeS4.jpeg" group-title="TV NOTICIAS", | NOTICIAS CARACOL ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/UMIbeS4.jpeg" group-title="TV NOTICIAS",2 | NOTICIAS CARACOL ᴴᴰ
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="TV NOTICIAS", | TELESUR ᴴᴰ 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="TV NOTICIAS",3 | TELESUR ᴴᴰ 
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbm2S9O.jpg" group-title="TV NOTICIAS", | PRENSA LATINA TV ᴴᴰ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbm2S9O.jpg" group-title="TV NOTICIAS",4 | PRENSA LATINA TV ᴴᴰ 
 https://eu1.servers10.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/abpP5jw.jpeg" group-title="TV NOTICIAS",| CNN EN ESPAÑOL 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/abpP5jw.jpeg" group-title="TV NOTICIAS",5 | CNN EN ESPAÑOL 
 https://nxt.plus:8443/jesus01/jesus01/59075
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/QmOn46A.jpeg" group-title="TV NOTICIAS",| CNN CHILE 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/QmOn46A.jpeg" group-title="TV NOTICIAS",6 | CNN CHILE 
 http://daleplay.club:80/VictorNaranjo/Victor09122021/63076.ts
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/qfnakBb.png" group-title="TV NOTICIAS", | 24 HORAS-CHILE
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/qfnakBb.png" group-title="TV NOTICIAS",7 | 24 HORAS-CHILE
 https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/21B9fTQ.jpeg" group-title="TV NOTICIAS", | C5N 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/21B9fTQ.jpeg" group-title="TV NOTICIAS",8 | C5N 
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/hYbrc6g.jpeg" group-title="TV NOTICIAS", | A24 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/hYbrc6g.jpeg" group-title="TV NOTICIAS",9 | A24 ᴴᴰ
 https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elconfidencial.jpg/320px-Elconfidencial.jpg" group-title="TV NOTICIAS", | EL CONFIDENCIAL ᴴᴰ  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elconfidencial.jpg/320px-Elconfidencial.jpg" group-title="TV NOTICIAS",10 | EL CONFIDENCIAL ᴴᴰ  
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="TV NOTICIAS", | 24HORAS ᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="TV NOTICIAS",11 | 24HORAS ᴴᴰ
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/3.jpg" group-title="TV NOTICIAS", | LA 1 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/3.jpg" group-title="TV NOTICIAS",12 | LA 1 ᴴᴰ
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/3.jpg" group-title="TV NOTICIAS", | La 1 st
+#EXTINF:-1 tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/3.jpg" group-title="TV NOTICIAS",13 | La 1 (ALT)
 https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/aJjmTBd.jpeg" group-title="TV NOTICIAS", | NEGOCIOS TV ᴴᴰ 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/aJjmTBd.jpeg" group-title="TV NOTICIAS",14 | NEGOCIOS TV ᴴᴰ 
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/HhkOvnj.jpeg" group-title="TV NOTICIAS", | FRANCE 24 ᴴᴰ  
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/HhkOvnj.jpeg" group-title="TV NOTICIAS",15 | FRANCE 24 ᴴᴰ  
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/PVSDvia.jpeg" group-title="TV NOTICIAS", | DEUSTCHE WELLE ᴴᴰ 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/PVSDvia.jpeg" group-title="TV NOTICIAS",16 | DEUSTCHE WELLE ᴴᴰ 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/M3eCHbo.jpeg" group-title="TV NOTICIAS", | EURONEWS ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/M3eCHbo.jpeg" group-title="TV NOTICIAS",17 | EURONEWS ᴴᴰ
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/r4lNzgh.jpeg" group-title="TV NOTICIAS", | ACTUALIDAD RT ᴴᴰ 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/r4lNzgh.jpeg" group-title="TV NOTICIAS",19 | ACTUALIDAD RT ᴴᴰ 
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/YnV0jd2.jpeg" group-title="TV NOTICIAS", | CGTN EN ESPAÑOL ᴴᴰ 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/YnV0jd2.jpeg" group-title="TV NOTICIAS",20 | CGTN EN ESPAÑOL ᴴᴰ 
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/hispantv.jpg" group-title="TV NOTICIAS", | HISPANTV ᴴᴰ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/hispantv.jpg" group-title="TV NOTICIAS",21 | HISPANTV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/df0a443c1e8e53babc41fede14548c9b5fd1a6d2/live.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/lHgTEO8.jpeg" group-title="TV NOTICIAS", | NTN24 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/lHgTEO8.jpeg" group-title="TV NOTICIAS",22 | NTN24 ᴴᴰ
 http://premierchile.shop:8080/carlosmuller/lo6bckGmZn/339
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/DA1RpKQ.jpeg" group-title="TV NOTICIAS", | NHK WORLD ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/DA1RpKQ.jpeg" group-title="TV NOTICIAS",23 | NHK WORLD ᴴᴰ
 https://bmcc.nhkworld.jp/live2/index_1M.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/anyZt3J.jpeg" group-title="TV NOTICIAS", | ALJAZEERA ᴴᴰ ENGLISH 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/anyZt3J.jpeg" group-title="TV NOTICIAS",24 | ALJAZEERA ᴴᴰ ENGLISH 
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/o5lMfdx.jpeg" group-title="TV NOTICIAS", | PRESS TV
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/o5lMfdx.jpeg" group-title="TV NOTICIAS",25 | PRESS TV
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1-1.png" group-title="TV NOTICIAS", | GLOBO ᴴᴰ
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1-1.png" group-title="TV NOTICIAS",26 | GLOBO ᴴᴰ
 http://cdn.lvbxtv.com:80/ven05jlx5n/gold815/281044
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/b0fOJoP.jpeg" group-title="TV NOTICIAS",| PALESTINIAN TV ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/b0fOJoP.jpeg" group-title="TV NOTICIAS",27 | PALESTINE TV ᴴᴰ
 https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/iR3EbZF.jpeg" group-title="TV NOTICIAS", | AFRICA 24 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/iR3EbZF.jpeg" group-title="TV NOTICIAS",28 | AFRICA 24 ᴴᴰ
 https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/CKgB8Tc.jpeg" group-title="TV NOTICIAS", | HISPANTV ᴴᴰ (ALT)
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/CKgB8Tc.jpeg" group-title="TV NOTICIAS",29 | HISPANTV ᴴᴰ (ALT)
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
-#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="http://imgfz.com/i/n6BuN7P.jpeg" group-title="TV NOTICIAS", | TeleSUR ᴴᴰ (ALT)
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="http://imgfz.com/i/n6BuN7P.jpeg" group-title="TV NOTICIAS",30 | TeleSUR ᴴᴰ (ALT)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/pG0nIjC.jpeg" group-title="TV NOTICIAS", | IRAN INTERNATIONAL TV
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/pG0nIjC.jpeg" group-title="TV NOTICIAS",31 | IRAN INTERNATIONAL TV
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b806000.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/98yi3aN.jpeg" group-title="TV NOTICIAS", | NOVOSTI 360
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/98yi3aN.jpeg" group-title="TV NOTICIAS",32 | NOVOSTI 360
 https://e10-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
 
 
