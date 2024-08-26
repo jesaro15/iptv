@@ -93,15 +93,15 @@ https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",55 | QUASSAR TV  |
 https://gnstreammedia.com:19360/4000/4000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ya.jpg" group-title="TV PERU",56 | BNB DIGITAL | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Bnb.jpg" group-title="TV PERU",56 | BNB DIGITAL | 
 https://vdo.grupolimalive.com:3375/live/bnbdigitallive.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ya.jpg" group-title="TV PERU",57 | GF TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/gfTV.jpg" group-title="TV PERU",57 | GF TV |
 https://live.obslivestream.com/regionaltv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ya.jpg" group-title="TV PERU",58 | USMP TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/usmp.jpg" group-title="TV PERU",58 | USMP TV |
 https://streamusmptv.ddns.net/live/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ya.jpg" group-title="TV PERU",59 | MEGA TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/mega.jpg" group-title="TV PERU",59 | MEGA TV |
 https://mc.servidor.stream:19360/megatv/megatv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ya.jpg" group-title="TV PERU",60 | CADENA TV | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CadenaTv.jpg" group-title="TV PERU",60 | CADENA TV | 
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ya.jpg" group-title="TV PERU",61 | AUTENTICA TELEVISION |
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
