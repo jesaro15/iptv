@@ -125,11 +125,11 @@ https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w759963595.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/master.jpg" group-title="TV PERU",76 | MASTER TV |  
 https://tv.ondadigital.pe:1936/master/master/chunklist_w1743909154.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/.jpg" group-title="TV PERU",77 | SOL TV |  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/soltv.jpg" group-title="TV PERU",77 | SOL TV |  
 https://video03.logicahost.com.br/soltv/soltv/chunklist_w1946435464.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ya.jpg" group-title="TV PERU",78 | PERU CHANNEL TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/PeruChannel.jpg" group-title="TV PERU",78 | PERU CHANNEL TV |
 https://a.cdni.live/peruchanel/peruchanel/chunklist_w385659098.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ya.jpg" group-title="TV PERU",79 | CR TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cr.jpg" group-title="TV PERU",79 | CR TV |
 https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ya.jpg" group-title="TV PERU",80 | VCLASSIC TV |
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1888254998.m3u8
