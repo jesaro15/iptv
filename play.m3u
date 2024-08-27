@@ -164,7 +164,7 @@ https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",97 | HECHICERA TV | 
 https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",98 | TROPICAL TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/tropical.jpg" group-title="TV PERU",98 | TROPICAL TV |
 https://tv.oyotunserver.com:3794/live/jotalive.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/IklLqPf.jpeg" group-title="TV PERU",99 | IMPACTO TELEVISION | 
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
