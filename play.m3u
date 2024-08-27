@@ -111,7 +111,7 @@ https://servilive.com:3753/live/qosqotimeslive.m3u8
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canalx.jpg" group-title="TV PERU",65 | CANAL X |
 https://play.agenciastreaming.com:8081/xtv/index.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ya.jpg" group-title="TV PERU",66 | GENIOS TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/genios.jpg" group-title="TV PERU",66 | GENIOS TV |
 https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ya.jpg" group-title="TV PERU",67 | TELECOLOR YURIMAGUAS |
 https://live.obslivestream.com/telecolormux/index.m3u8
