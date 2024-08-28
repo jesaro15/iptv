@@ -153,12 +153,12 @@ https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/chunklist_w6
 https://video2.getstreamhosting.com:19360/8206/8206.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",90 | PALMERAS TV |
 https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",91 | LIKE TV HD |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/like.jpeg" group-title="TV PERU",91 | LIKE TV HD |
 #EXTVLCOPT:http-referrer=https://vdo.grupolimalive.com/broadcaster/ajax-get-current-viewer/liketv
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",92 | VIA TELEVISION |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/via.jpg" group-title="TV PERU",92 | VIA TELEVISION |
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",94 | TV EN LINEA CUSCO |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CuscoDigital.jpg" group-title="TV PERU",94 | TV EN LINEA CUSCO |
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canal8.jpg" group-title="TV PERU",96 | CANAL 8 CATACAOS |
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
