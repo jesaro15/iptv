@@ -131,13 +131,13 @@ https://video03.logicahost.com.br/soltv/soltv/chunklist_w1946435464.m3u8
 https://a.cdni.live/peruchanel/peruchanel/chunklist_w385659098.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cr.jpg" group-title="TV PERU",79 | CR TV |
 https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/.jpg" group-title="TV PERU",80 | VCLASSIC TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Vclassic.jpg" group-title="TV PERU",80 | VCLASSIC TV |
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1888254998.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",81 | DMJ | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/DMJ.jpg" group-title="TV PERU",81 | DMJ | 
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",82 | CONTACTO TV |
 https://live.obslivestream.com/cdeportivo/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",83 | LA MIEL VRAEM |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/.jpg" group-title="TV PERU",83 | MIEL TV |
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",84 | NATIVA VRAEM |
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
