@@ -75,6 +75,8 @@ https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Riberena.jpg" group-title="TV PERU",41 | RIBEREÑA TV | 
 https://v4.tustreaming.cl/atmtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ovacion.jpg" group-title="TV PERU",43 | OVACION TV |
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/supercanalTV.jpg" group-title="TV PERU",45 | SUPERCANALᴴᴰ |
 https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/VisionSur.jpg" group-title="TV PERU",47 | VISIÓN SUR |
