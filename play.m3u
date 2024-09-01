@@ -215,7 +215,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/r4lNzgh.jpeg" group-title="TV NOTICIAS",19 | ACTUALIDAD RT ᴴᴰ 
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/r4lNzgh.jpeg" group-title="TV NOOTICIAS",20 | ACTUALIDAD RT ᴴᴰ (ALT)
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/r4lNzgh.jpeg" group-title="TV NOTICIAS",20 | ACTUALIDAD RT (ALT)
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/live.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/YnV0jd2.jpeg" group-title="TV NOTICIAS",21 | CGTN EN ESPAÑOL ᴴᴰ 
@@ -237,15 +237,17 @@ http://cdn.lvbxtv.com:80/ven05jlx5n/gold815/281044
 https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/iR3EbZF.jpeg" group-title="TV NOTICIAS",29 | AFRICA 24 ᴴᴰ
 https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/CKgB8Tc.jpeg" group-title="TV NOTICIAS",30 | HISPANTV ᴴᴰ (ALT)
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/r4lNzgh.jpeg" group-title="TV NOTICIAS",30 | RT ENGLISH
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/live.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/CKgB8Tc.jpeg" group-title="TV NOTICIAS",31 | HISPANTV ᴴᴰ (ALT)
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
-#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="http://imgfz.com/i/n6BuN7P.jpeg" group-title="TV NOTICIAS",31 | TeleSUR ᴴᴰ (ALT)
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="http://imgfz.com/i/n6BuN7P.jpeg" group-title="TV NOTICIAS",32 | TeleSUR ᴴᴰ (ALT)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/pG0nIjC.jpeg" group-title="TV NOTICIAS",32 | IRAN INTERNATIONAL TV
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/pG0nIjC.jpeg" group-title="TV NOTICIAS",33 | IRAN INTERNATIONAL TV
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b806000.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/98yi3aN.jpeg" group-title="TV NOTICIAS",33 | NOVOSTI 360
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/98yi3aN.jpeg" group-title="TV NOTICIAS",34 | NOVOSTI 360
 https://e10-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
-
 
 
 
