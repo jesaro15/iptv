@@ -267,19 +267,19 @@ https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/RSDGgW7.jpeg" group-title="TV LATINA",MX | SICOM TV 
 http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",MX | SUPER CHANNEL 12 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/y0iXnYG.jpeg" group-title="TV LATINA",MX | SUPER CHANNEL 12 
 https://servilive.com:3263/live/channel12live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",MX | TELEFORMULA 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yY6QSoj.jpeg" group-title="TV LATINA",MX | TELEFORMULA 
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",MX | TV CUATRO  
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fyr8RHI.jpeg" group-title="TV LATINA",MX | TV CUATRO  
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Qyb1Jj0.jpeg" group-title="TV LATINA",MX | CANAL 6 
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",MX | TVP 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/J8fkNCT.jpeg" group-title="TV LATINA",MX | TVPACIFICO 
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",MX | AMX TELEVISION ᴴᴰ 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KsMPeZj.jpeg" group-title="TV LATINA",MX | AMX TELEVISION ᴴᴰ 
 https://5ca39be538307.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",MX | AZTECA ᴴᴰ 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/JeYa8fC.jpeg" group-title="TV LATINA",MX | AZTECA ᴴᴰ 
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/ZyAbuJg.jpeg" group-title="TV LATINA",MX | CANAL 14
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
