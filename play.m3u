@@ -308,6 +308,36 @@ https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | GUAYAPE 
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/2ac4dfbd79ca4fb5905d09167229484f/chunklist_b4192000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | 504 TV ᴴᴰ 
+https://mediacp.us:8081/504tvhn/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | ALSACIAS TV ᴴᴰ 
+https://s.emisoras.tv:8081/atv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | CHOLUTECA TV 
+https://s.emisoras.tv:8081/cholutecatv/index.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rU5HbzN.jpeg" group-title="TV LATINA",HN | CTV INTERNACIONAL 
+https://mediacp.us:8081/ctvhn/index.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/tIKb6lN.jpeg" group-title="TV LATINA",HN | DTV 
+https://s.emisoras.tv:8081/dtv/index.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/lOZaKId.jpeg" group-title="TV LATINA",HN | MAS NOTICIAS TV
+https://amixtv.com:8081/plus39/tracks-a1v1/index.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/nylDM8c.jpeg" group-title="TV LATINA",HN | METRO TV 
+https://s.emisoras.tv:8081/metrotv/index.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/d10YfFi.jpeg" group-title="TV LATINA",HN | PARADISE TV 
+https://s2.tvdatta.com:3840/live/paradisetvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | SAN IGNACIO TV 
+https://amixtv.live:3753/live/sitvlive.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/zcSMXLW.jpeg" group-title="TV LATINA",HN | TELERAYO 
+https://s.emisoras.tv:8081/telerayo/index.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/aUXrdMl.jpeg" group-title="TV LATINA",HN | TELEVISION METROPOLIS 19.1 
+https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/7yUhrNK.jpeg" group-title="TV LATINA",HN | TELEVISION METROPOLIS 19.2 
+https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Evg8reF.jpeg" group-title="TV LATINA",HN | UNE TV 
+https://amixtv.live:3395/live/unetvlive.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/HaPR5Il.jpeg" group-title="TV LATINA",HN | ACTIVA TV 
+https://videoserver.tmcreativos.com:19360/mbcrtzxnxd/mbcrtzxnxd.m3u8
 
 
 
