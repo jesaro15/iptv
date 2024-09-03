@@ -286,6 +286,31 @@ https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sSJDLkM.jpeg" group-title="TV LATINA",GT | GUATV ᴴᴰ DIRECTO
+https://cdn.streamhispanatv.net:3352/live/guatvlive.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Pwkn3x7.jpeg" group-title="TV LATINA",GT | TV AZTECA GUATE ᴴᴰ 
+https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",GT | ESQUIPULAS TV ᴴᴰ 
+https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/6rW0gkO.jpeg" group-title="TV LATINA",GT | EXPRESION TV ᴴᴰ 
+https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MspSKfq.jpeg" group-title="TV LATINA",GT | CANAL 3 ᴴᴰ 
+https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/l714zF2.jpeg" group-title="TV LATINA",GT | TN23 TV 
+https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/FD6grwX.jpeg" group-title="TV LATINA",GT | TELEVISIETE 
+https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/60WBcKd.jpeg" group-title="TV LATINA",GT | MULTIVISION SPORTS
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/gkotvQq.jpeg" group-title="TV LATINA",GT | NIM TV ᴴᴰ
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+
+
+
+
+
+
+
 
 
 
