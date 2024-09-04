@@ -290,7 +290,7 @@ https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 https://cdn.streamhispanatv.net:3352/live/guatvlive.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Pwkn3x7.jpeg" group-title="TV LATINA",GT | TV AZTECA GUATE ᴴᴰ 
 https://ch1-tva.duin.dev/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",GT | ESQUIPULAS TV ᴴᴰ 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/6XGcAYm.jpeg" group-title="TV LATINA",GT | ESQUIPULAS TV ᴴᴰ 
 https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/6rW0gkO.jpeg" group-title="TV LATINA",GT | EXPRESION TV ᴴᴰ 
 https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8
@@ -308,7 +308,7 @@ https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | CANAL 8 HONDURAS
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/bDp32Ql.jpeg" group-title="TV LATINA",HN | CANAL 8 HONDURAS
 https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/Cv0F-ak6j87OZV-5uXxJnARKdN8Hy3_jI716CLLUh7hoI7Uwi1ecRnHqTM1bwHBmB4mWDrblv38BgQglRAejRflZbmBAzjZNsWDAixQYTcaYfnQZBQpd6Lv-tlgtWv5-E0WzPUJWGX6VLNqWP1lXVIlUQr5iyQnnEf02j6LvNRS2W8wAeIuFP4ufRr5gLB6-FfPW3ZIDbiVTHBsU5L2qzOoQgPFrHXheSkmrvnX-5LaS5F2v2oFMjTuEfmVcqm8918dPBkTqjECHxy3GJ8MM8F4KJHekZXLpHjERUJecTuhQLAR6zRWfTj4RaDqSgaNLMZzfDhPMrflOX2IjyyeFQoEmq8FZ99uIOIiAGkjmUmGxK9jd0Tokx9DVzs9g_bL_Iiq0TSCMK_KkRGcyybl5UB-z8xuj8ABtpB4S7b65CecsNCRFf0U6CuVZvNt39TJa6vpbw14WgeRF4kxb4lc0I9xQYCLQLbEK4AfwEeNN6b0kG0M1ICsZjCwt3V7j52F6P_uf8NoTSYUIMAG7HqVTX1QtWs6H9B2E3CQ7s1w9Vm6Iy6rT1D_U-JnL1DffFtOj3cj1joW8wVAnFU3_VjRZ6wIApAuoZTKBUboqUuh4q-jcYAfnen9gfLIfqtT2RB3e8qY13id3bKsgOs0O36C0QrtXfX0mRADgh3uP-0HheErQDdPecK6woIyxaLSz-CBZZI1CMundmtVrfDanqvaEpl71Hrl9erXBr3uJoMx0A1couTt8eGKlej_Ibk-Zrvai1WzeNRNpHO7XePVEeMMvcNZwqVBVctYsuyJFUOU5-Cs5dy6YFbZjjVMSTnFYHy8g9_41IJm9jh13ilYrB91Hp0NW4RdHNqx4ixswZ8hkgzlA32WPofLV0UqXYdAWQmIo2YSgZbQD6lvNCx5OW8l1JwDCChy4chi1HCCF3s3lNyClyxaiAtbL-tajTu0OuBHgQnqW-51G3CybkD7nSDBSgGM36JqvkTOXjBkCF8lO7X4RMQ5ykEPIsnTk_g88NbHuGgxZmm0OiMSvufR51fQgASoJdXMtZWFzdC0xMNsI.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | GUAYAPE 
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/2ac4dfbd79ca4fb5905d09167229484f/chunklist_b4192000.m3u8
