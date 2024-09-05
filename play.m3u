@@ -258,7 +258,8 @@ https://e10-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KsMPeZj.jpeg" group-title="TV LATINA",MX | AMX TELEVISION ᴴᴰ 
+https://5ca39be538307.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/LfkYpuV.jpeg" group-title="TV LATINA",MX | ADN 40 ᴴᴰ
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/GyucJnt.jpeg" group-title="TV LATINA",MX | MEGANOTICIAS 
@@ -277,8 +278,6 @@ https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/J8fkNCT.jpeg" group-title="TV LATINA",MX | TVPACIFICO 
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KsMPeZj.jpeg" group-title="TV LATINA",MX | AMX TELEVISION ᴴᴰ 
-https://5ca39be538307.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/JeYa8fC.jpeg" group-title="TV LATINA",MX | AZTECA ᴴᴰ 
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/ZyAbuJg.jpeg" group-title="TV LATINA",MX | CANAL 14
@@ -286,7 +285,7 @@ https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/sSJDLkM.jpeg" group-title="TV LATINA",GT | GUATV ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sSJDLkM.jpeg" group-title="TV LATINA",GT | GUATV ᴴᴰ 
 https://cdn.streamhispanatv.net:3352/live/guatvlive.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Pwkn3x7.jpeg" group-title="TV LATINA",GT | TV AZTECA GUATE ᴴᴰ 
 https://ch1-tva.duin.dev/hls/stream.m3u8
