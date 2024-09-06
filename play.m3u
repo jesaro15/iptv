@@ -378,7 +378,8 @@ https://videoserver.tmcreativos.com:19360/mbcrtzxnxd/mbcrtzxnxd.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5wEKcx7g3YRocecq18MwZd4dTyd.jpg" group-title="PELICULAS SELECCIONADAS",Pasajero inesperado (2021)
+http://tvlatino.club:2082/movie/vipcarlosvip1y/AUSXLDvwaqCq/247072.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/11/14/17/25/184425.jpg" group-title="PELICULAS SELECCIONADAS",Pasajeros (2016)
 http://tv.soccerplus.link:8000/movie/Luigen/031794/5338.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/21/15/51/3458190.jpg" group-title="PELICULAS SELECCIONADAS",Alerta Roja (2021)
