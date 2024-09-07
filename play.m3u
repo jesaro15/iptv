@@ -18,7 +18,7 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canalN.jpg" group-title="TV PERU",8 | CANAL N |
 http://pro.boxdigital.org:8080/live/manuelcoronado/U8SWX9TFp8W2/181708.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVhd.jpg" group-title="TV PERU",9 | ATV HD |
-https://alba-pe-atv-atv.stream.mediatiquestream.com/480p.m3u8
+https://d19e55ehz2il4i.cloudfront.net/live2/alba-pe-atv-atv_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVPLUS.jpg" group-title="TV PERU",10 | ATV PLUS |
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/480p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVSUR.jpg" group-title="TV PERU",11 | ATV SUR |
@@ -213,6 +213,9 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/M3eCHbo.jpeg" group-title="TV NOTICIAS",17 | EURONEWS ᴴᴰ
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",18 | TELEMUNDO MIAMI
+https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/5a817dba-a6f1-4dac-9871-91e9e76e1762/2.m3u8
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/r4lNzgh.jpeg" group-title="TV NOTICIAS",19 | ACTUALIDAD RT ᴴᴰ 
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/r4lNzgh.jpeg" group-title="TV NOTICIAS",20 | ACTUALIDAD RT (ALT)
@@ -248,10 +251,9 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b806000.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/98yi3aN.jpeg" group-title="TV NOTICIAS",34 | NOVOSTI 360
 https://e10-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/Q5E4JZ8.png" group-title="TV NOTICIAS", | BST 24 (Bratsk)
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Q5E4JZ8.png" group-title="TV NOTICIAS",35 | BST 24 (Bratsk)
 http://bst.bratsk.ru/hls/bst2/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/Q5E4JZ8.png" group-title="TV NOTICIAS", | BST 24 ALT
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Q5E4JZ8.png" group-title="TV NOTICIAS",36 | BST 24 ALT
 https://cdn.bst.bratsk.ru/hls/bst2/sd/stream.m3u8
 
 
