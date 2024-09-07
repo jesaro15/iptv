@@ -213,7 +213,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/mff4n5ey/mono.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/M3eCHbo.jpeg" group-title="TV NOTICIAS",17 | EURONEWS ᴴᴰ
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",18 | TELEMUNDO MIAMI
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/7sFXaC4.jpeg" group-title="TV NOTICIAS",18 | TELEMUNDO FLORIDA
 https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/5a817dba-a6f1-4dac-9871-91e9e76e1762/2.m3u8
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/r4lNzgh.jpeg" group-title="TV NOTICIAS",19 | ACTUALIDAD RT ᴴᴰ 
@@ -251,9 +251,9 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b806000.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/98yi3aN.jpeg" group-title="TV NOTICIAS",34 | NOVOSTI 360
 https://e10-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/Q5E4JZ8.png" group-title="TV NOTICIAS",35 | BST 24 (Bratsk)
+#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",35 | BST 24 (Bratsk)
 http://bst.bratsk.ru/hls/bst2/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/Q5E4JZ8.png" group-title="TV NOTICIAS",36 | BST 24 ALT
+#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",36 | BST 24 ALT
 https://cdn.bst.bratsk.ru/hls/bst2/sd/stream.m3u8
 
 
@@ -345,7 +345,7 @@ https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | CANAL 6 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/lij8Xrs.jpeg" group-title="TV LATINA",HN | CANAL 6 
 https://envivo.canal6.com.hn/memfs/17335dd6-da2d-4556-af98-1b069bf4e829_output_0.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/iwdheA2.jpeg" group-title="TV LATINA",HN | GUAYAPE 
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/2ac4dfbd79ca4fb5905d09167229484f/chunklist_b4192000.m3u8
