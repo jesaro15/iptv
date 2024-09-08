@@ -189,16 +189,17 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbm2S9O.jpg" group-title="TV NOTICIAS",4 | PRENSA LATINA TV ᴴᴰ 
 https://eu1.servers10.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/abpP5jw.jpeg" group-title="TV NOTICIAS",5 | CNN EN ESPAÑOL 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/CXQHzil.jpeg" group-title="TV NOTICIAS",5 | CNN EN ESPAÑOL 
 https://nxt.plus:8443/jesus01/jesus01/59075
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/QmOn46A.jpeg" group-title="TV NOTICIAS",6 | CNN CHILE 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/lmwRrDq.jpeg" group-title="TV NOTICIAS",6 | CNN CHILE 
 http://daleplay.club:80/VictorNaranjo/Victor09122021/63076.ts
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/qfnakBb.png" group-title="TV NOTICIAS",7 | 24 HORAS-CHILE
 https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/21B9fTQ.jpeg" group-title="TV NOTICIAS",8 | C5N 
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/hYbrc6g.jpeg" group-title="TV NOTICIAS",9 | A24 ᴴᴰ
-https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",10 | EL CONFIDENCIAL ᴴᴰ  
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="TV NOTICIAS",11 | 24HORAS ᴴᴰ
@@ -210,7 +211,7 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/aJjmTBd.jpeg" group-title="TV NOTICIAS",14 | NEGOCIOS TV ᴴᴰ 
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/HhkOvnj.jpeg" group-title="TV NOTICIAS",15 | FRANCE 24 ᴴᴰ  
-https://cdn.mycloudstream.io/hls/live/broadcast/mff4n5ey/mono.m3u8
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/PVSDvia.jpeg" group-title="TV NOTICIAS",16 | DEUSTCHE WELLE ᴴᴰ 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/M3eCHbo.jpeg" group-title="TV NOTICIAS",17 | EURONEWS ᴴᴰ
@@ -266,13 +267,11 @@ https://cdn.bst.bratsk.ru/hls/bst2/sd/stream.m3u8
 https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | AVC HD
 https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
-#EXTINF:-1 user-agent="iPhone" tvg-logo="" group-title="TV LATINA",AR | A24 
+#EXTINF:-1 user-agent="iPhone" tvg-logo="http://imgfz.com/i/hYbrc6g.jpeg" group-title="TV LATINA",AR | A24 
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | 13MAX TELEVISION
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | TV PUBLICA ARG. 
-https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | C5N 
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | CANAL 3 TV
@@ -285,13 +284,11 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w1527944810.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | CANAL 26 
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | AMERICA TV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/8inAhLG.jpeg" group-title="TV LATINA",AR | AMERICA TV 
 #EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | ATV ARGENTINA 
 https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | AUNAR TV
-https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | BAYRES TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
