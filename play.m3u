@@ -252,11 +252,13 @@ https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/pG0nIjC.jpeg" group-title="TV NOTICIAS",33 | IRAN INTERNATIONAL TV
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b806000.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/98yi3aN.jpeg" group-title="TV NOTICIAS",34 | NOVOSTI 360
+#EXTINF:-1 tvg-id="ABN.kr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="TV NOTICIAS",34 | ABN
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="TV NOTICIAS",35 | ABC NEWS SIDNEY
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/98yi3aN.jpeg" group-title="TV NOTICIAS",36 | NOVOSTI 360
 https://e10-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",35 | BST 24 (Bratsk)
-http://bst.bratsk.ru/hls/bst2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",36 | BST 24 ALT
+#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",37 | BST 24 
 https://cdn.bst.bratsk.ru/hls/bst2/sd/stream.m3u8
 
 
