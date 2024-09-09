@@ -265,14 +265,14 @@ https://cdn.bst.bratsk.ru/hls/bst2/sd/stream.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | CANAL 2 
 https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | AVC HD
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/FkBhCT8.jpeg" group-title="TV LATINA",AR | AVC HD
 https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
 #EXTINF:-1 user-agent="iPhone" tvg-logo="http://imgfz.com/i/hYbrc6g.jpeg" group-title="TV LATINA",AR | A24 
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | 13MAX TELEVISION
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yKCVAhj.jpeg" group-title="TV LATINA",AR | 13MAX TELEVISION
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | C5N 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/21B9fTQ.jpeg" group-title="TV LATINA",AR | C5N 
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | CANAL 3 TV
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
@@ -280,14 +280,14 @@ https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist_w913969980_b1016000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | CANAL 7 JUJUY
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | CANAL 22 WEB
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/pZr8AKQ.jpeg" group-title="TV LATINA",AR | CANAL 22 WEB
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w1527944810.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | CANAL 26 
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/8inAhLG.jpeg" group-title="TV LATINA",AR | AMERICA TV 
 #EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | ATV ARGENTINA 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Fqifko3.jpeg" group-title="TV LATINA",AR | ATV ARGENTINA 
 https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | BAYRES TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
@@ -322,7 +322,7 @@ https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/sSJDLkM.jpeg" group-title="TV LATINA",GT | GUATV ᴴᴰ 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/jgNm5eH.jpeg" group-title="TV LATINA",GT | GUATV ᴴᴰ 
 https://cdn.streamhispanatv.net:3352/live/guatvlive.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Pwkn3x7.jpeg" group-title="TV LATINA",GT | TV AZTECA GUATE ᴴᴰ 
 https://ch1-tva.duin.dev/hls/stream.m3u8
