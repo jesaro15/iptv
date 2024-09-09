@@ -296,17 +296,17 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="CANALES LATINOS",BO | BOLIVIA TV DIRECTO
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",BO | BOLIVIA TV DIRECTO
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ABYAYALA.jpg" group-title="CANALES LATINOS",BO | ABYA YALA DIRECTO
 https://master.tucableip.com/abyayalatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANALES LATINOS",BO | ATB LA PAZ DIRECTO
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",BO | ATB LA PAZ DIRECTO
 http://186.121.206.197/live/daniel/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANALES LATINOS",BO | IMPERIAL TV DIRECTO
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",BO | IMPERIAL TV DIRECTO
 https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANALES LATINOS",BO | CADENA A ᴴᴰ DIRECTO
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",BO | CADENA A ᴴᴰ DIRECTO
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="CANALES LATINOS",BO | GIGAVISION ᴴᴰ DIRECTO
+#EXTINF:0 tvg-logo="" group-title="TV LATINA",BO | GIGAVISION ᴴᴰ DIRECTO
 https://master.tucableip.com/gigavision/playlist.m3u8
 
 
