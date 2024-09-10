@@ -258,7 +258,7 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/98yi3aN.jpeg" group-title="TV NOTICIAS",36 | NOVOSTI 360
 https://e10-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",37 | BST 24 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/wjJqsR8.jpeg" group-title="TV NOTICIAS",37 | BST 24 
 https://cdn.bst.bratsk.ru/hls/bst2/sd/stream.m3u8
 
 
