@@ -294,31 +294,31 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",BO | BOLIVIA 1 TV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yDwSGlT.jpeg" group-title="TV LATINA",BO | BOLIVIA 1 TV 
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",BO | BOLIVIA 2 TV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yDwSGlT.jpeg" group-title="TV LATINA",BO | BOLIVIA 2 TV 
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/seXYz16.jpeg" group-title="TV LATINA",BO | ABYA YALA
 https://master.tucableip.com/abyayalatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",BO | ATB
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/D7IntZY.jpeg" group-title="TV LATINA",BO | ATB
 http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/86ajnbC.jpeg" group-title="TV LATINA",BO | ATESUR PLUS
 https://video2.getstreamhosting.com:19360/8038/8038.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/P5cb0Jw.jpeg" group-title="TV LATINA",BO | BOLIVISION 
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",BO | IMPERIAL TV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/cjpvQmf.jpeg" group-title="TV LATINA",BO | IMPERIAL TV 
 https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",BO | CADENA A ᴴᴰ 
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",BO | MARVISION TV ᴴᴰ 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/idPBQ2R.jpeg" group-title="TV LATINA",BO | MARVISION TV ᴴᴰ 
 https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",BO | F10 ᴴᴰ 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/30y8RNs.jpeg" group-title="TV LATINA",BO | F10 ᴴᴰ 
 https://video.live.com.bo:3099/live/f10hdlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",BO | PTV ᴴᴰ 
 https://glb.bozztv.com/glb/ssh101/centralptv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",BO | RED DTV ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/opq1gCB.jpeg" group-title="TV LATINA",BO | RED DTV ᴴᴰ
 https://master.tucableip.com/dtvsc/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",BO | XTO TV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/tHxaJIh.jpeg" group-title="TV LATINA",BO | XTO TV 
 #EXTVLCOPT:http-referrer=https://www.sccbolivia.com/
 http://190.104.15.135/0.ts
 
