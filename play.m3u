@@ -203,11 +203,9 @@ https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/l1RYiFZ.jpeg" group-title="TV NOTICIAS",10 | EL CONFIDENCIAL ᴴᴰ  
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",11 | 24HORAS ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/slkfENX.jpeg" group-title="TV NOTICIAS",11 | 24HORAS ᴴᴰ
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",12 | LA 1 ᴴᴰ
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",13 | La 1 (ALT)
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/i869d0u.jpeg" group-title="TV NOTICIAS",13 | La 1 ᴴᴰ
 https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/aJjmTBd.jpeg" group-title="TV NOTICIAS",14 | NEGOCIOS TV ᴴᴰ 
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
@@ -300,13 +298,13 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",BO | BOLIVIA 2 TV 
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",BO | ABYA YALA
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/seXYz16.jpeg" group-title="TV LATINA",BO | ABYA YALA
 https://master.tucableip.com/abyayalatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",BO | ATB
 http://186.121.206.197/live/daniel/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",BO | ATESUR PLUS
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/86ajnbC.jpeg" group-title="TV LATINA",BO | ATESUR PLUS
 https://video2.getstreamhosting.com:19360/8038/8038.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",BO | BOLIVISION 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/P5cb0Jw.jpeg" group-title="TV LATINA",BO | BOLIVISION 
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",BO | IMPERIAL TV 
 https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
