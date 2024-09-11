@@ -250,7 +250,7 @@ https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/pG0nIjC.jpeg" group-title="TV NOTICIAS",33 | IRAN INTERNATIONAL TV
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b806000.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/YadWK0i.jpeg" group-title="TV NOTICIAS",34 | ABN
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/TdXNMcG.jpeg" group-title="TV NOTICIAS",34 | ABN KR
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/zBGnvS1.jpeg" group-title="TV NOTICIAS",35 | ABC NEWS SYDNEY
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
@@ -263,7 +263,7 @@ https://cdn.bst.bratsk.ru/hls/bst2/sd/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | CANAL 2 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/trewH8g.jpeg" group-title="TV LATINA",AR | CANAL 2 
 https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/FkBhCT8.jpeg" group-title="TV LATINA",AR | AVC HD
 https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
@@ -308,7 +308,7 @@ https://video2.getstreamhosting.com:19360/8038/8038.m3u8
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/cjpvQmf.jpeg" group-title="TV LATINA",BO | IMPERIAL TV 
 https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",BO | CADENA A ᴴᴰ 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/kDKu9VB.jpeg" group-title="TV LATINA",BO | CADENA A ᴴᴰ 
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/idPBQ2R.jpeg" group-title="TV LATINA",BO | MARVISION TV ᴴᴰ 
 https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
