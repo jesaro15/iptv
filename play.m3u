@@ -274,7 +274,7 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/21B9fTQ.jpeg" group-title="TV LATINA",AR | C5N 
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | CANAL 3 TV
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/CmQ76H3.jpeg" group-title="TV LATINA",AR | CANAL 3 TV
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/F8Q3fci.jpeg" group-title="TV LATINA",AR | CANAL 4 JUJUY 
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist_w913969980_b1016000.m3u8
@@ -282,14 +282,14 @@ https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist_w91396998
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/pZr8AKQ.jpeg" group-title="TV LATINA",AR | CANAL 22 WEB
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w1527944810.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | CANAL 26 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/TwKAgsh.jpeg" group-title="TV LATINA",AR | CANAL 26 
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/8inAhLG.jpeg" group-title="TV LATINA",AR | AMERICA TV 
 #EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Fqifko3.jpeg" group-title="TV LATINA",AR | ATV ARGENTINA 
 https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | BAYRES TV
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/s54MYCI.jpeg" group-title="TV LATINA",AR | BAYRES TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
