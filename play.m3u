@@ -396,6 +396,8 @@ https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/ZyAbuJg.jpeg" group-title="TV LATINA",MX | CANAL 14
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fO9rv46.jpeg" group-title="TV LATINA",MX | TELEMAX
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 
 
 
