@@ -235,8 +235,10 @@ https://bmcc.nhkworld.jp/live2/index_1M.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/o5lMfdx.jpeg" group-title="TV NOTICIAS",26 | PRESS TV
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/jUaM4GB.jpeg" group-title="TV NOTICIAS",27 | REDETV ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/jUaM4GB.jpeg" group-title="TV NOTICIAS",27 | REDE TV ᴴᴰ
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",27.1 | RECORD NEWS ᴴᴰ
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/b0fOJoP.jpeg" group-title="TV NOTICIAS",28 | PALESTINE TV ᴴᴰ
 https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/iR3EbZF.jpeg" group-title="TV NOTICIAS",29 | AFRICA 24 ᴴᴰ
