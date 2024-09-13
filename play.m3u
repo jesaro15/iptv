@@ -398,6 +398,26 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/327_America_TV_Chile.png" group-title="TV LATINA",CL | AMERICA TV 
 https://v2.tustreaming.cl:/radioamericatv/index.m3u8
+#EXTINF:-1 tvg-logo="", Señal 21 | CL
+https://premium.tvcontrolcp.com:19360/8050/8050.m3u8
+#EXTINF:-1 tvg-logo="", Enfoque Digital TV | CL
+https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Atacama TV | CL
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+#EXTINF:-1 tvg-logo="", Atacama Noticias TV | CL
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+#EXTINF:-1 tvg-logo="", Holvoet TV | CL
+https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Antofagasta TV | CL
+https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Caracola TV | CL
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="", UCV | CL
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="", +Cine | CL
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
+#EXTINF:-1 tvg-logo="",CL | CHILEVISUAL CLASSIC
+https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8
 
 
 
