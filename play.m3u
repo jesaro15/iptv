@@ -77,6 +77,8 @@ https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Riberena.jpg" group-title="TV PERU",41 | RIBEREÑA TV | 
 https://v4.tustreaming.cl/atmtv/index.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/BEj76bI.jpeg" group-title="TV PERU",42 | RADIO UNO TACNA 
+https://ythls.armelin.one/channel/UCK0lpuL9PQb3I5CDcu7Y7bA.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ovacion.jpg" group-title="TV PERU",43 | OVACION TV |
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/supercanalTV.jpg" group-title="TV PERU",45 | SUPERCANALᴴᴰ |
