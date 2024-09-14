@@ -382,8 +382,6 @@ https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png" group-title="TV LATINA",CL | T13 ᴴᴰ 
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CL | TVR CANAL 11
-https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Tvu_hd.png" group-title="TV LATINA",CL | TVU 
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sextavision.jpg/800px-Sextavision.jpg" group-title="TV LATINA",CL | SEXTAVISION 
@@ -398,21 +396,21 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/327_America_TV_Chile.png" group-title="TV LATINA",CL | AMERICA TV 
 https://v2.tustreaming.cl:/radioamericatv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CL | Señal 21 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EdncPjQ.jpeg" group-title="TV LATINA",CL | Señal 21 
 https://premium.tvcontrolcp.com:19360/8050/8050.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CL | Enfoque Digital TV
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/j0xJZcS.jpeg" group-title="TV LATINA",CL | Enfoque Digital TV
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CL | Atacama TV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/RlIGLQr.jpeg" group-title="TV LATINA",CL | Atacama TV 
 https://v2.tustreaming.cl/atacamatv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CL | Atacama Noticias TV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/slfL02N.jpeg" group-title="TV LATINA",CL | Atacama Noticias TV 
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CL | Holvoet TV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/9quf3Q4.jpeg" group-title="TV LATINA",CL | Holvoet TV 
 https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",CL | Antofagasta TV 
 https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CL | Caracola TV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/TmbAukt.jpeg" group-title="TV LATINA",CL | Caracola TV 
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CL | UCV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Qluf0RC.jpeg" group-title="TV LATINA",CL | UCV 
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",CL | +Cine 
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
