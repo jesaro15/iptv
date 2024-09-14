@@ -406,7 +406,7 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/9quf3Q4.jpeg" group-title="TV LATINA",CL | Holvoet TV 
 https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CL | Antofagasta TV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Vt9R7ao.jpeg" group-title="TV LATINA",CL | Antofagasta TV 
 https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/TmbAukt.jpeg" group-title="TV LATINA",CL | Caracola TV 
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
@@ -474,7 +474,7 @@ https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 https://envivo.canal6.com.hn/memfs/17335dd6-da2d-4556-af98-1b069bf4e829_output_0.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/iwdheA2.jpeg" group-title="TV LATINA",HN | GUAYAPE 
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/2ac4dfbd79ca4fb5905d09167229484f/chunklist_b4192000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | 504 TV ᴴᴰ 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/z8TyG5l.jpeg" group-title="TV LATINA",HN | 504 TV ᴴᴰ 
 https://mediacp.us:8081/504tvhn/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/UK0dVkS.jpeg" group-title="TV LATINA",HN | ALSACIAS TV ᴴᴰ 
 https://s.emisoras.tv:8081/atv/index.m3u8
@@ -494,9 +494,9 @@ https://s2.tvdatta.com:3840/live/paradisetvlive.m3u8
 https://amixtv.live:3753/live/sitvlive.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/BD5VwFZ.jpeg" group-title="TV LATINA",HN | TELERAYO 
 https://s.emisoras.tv:8081/telerayo/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | TELEVISION METROPOLIS 19.1 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/1QPnhtX.jpeg" group-title="TV LATINA",HN | METROPOLIS TELEVISION 1
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | TELEVISION METROPOLIS 19.2 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/jqRKYeI.jpeg" group-title="TV LATINA",HN | METROPOLIS TELEVISION 2
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | UNE TV 
 https://amixtv.live:3395/live/unetvlive.m3u8
