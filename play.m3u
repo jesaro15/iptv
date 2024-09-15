@@ -333,48 +333,45 @@ http://190.104.15.135/0.ts
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/XV3HtWo.jpeg" group-title="TV LATINA",CAMBIO
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/XiHZzxE.png" group-title="TV LATINA",CO | CANAL INSTITUCIONAL ᴴᴰ 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/R57NVz0.jpeg" group-title="TV LATINA",CO | CANAL INSTITUCIONAL ᴴᴰ 
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/rtnAcDQ.jpeg" group-title="TV LATINA",CO | RCN PLUS 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/pQicXzo.jpeg" group-title="TV LATINA",CO | RCN PLUS 
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | TELEPACIFICO 
 https://live-edge-eu-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-1080/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/pIETtN1.jpeg" group-title="TV LATINA",CO | RCN ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/J3htDTE.jpeg" group-title="TV LATINA",CO | RCN ᴴᴰ
 http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/jAmCfDJ.png" group-title="TV LATINA",CO | RCN Xtra 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/X4sbjJ5.jpeg" group-title="TV LATINA",CO | RCN Xtra 
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/DzacqS6.jpeg" group-title="TV LATINA" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",CO | TELECARIBE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/pZDsa3U.jpeg" group-title="TV LATINA" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",CO | TELECARIBE PLUS
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KFme7qA.jpeg" group-title="TV LATINA" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",CO | TELECARIBE PLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | TELEMEDELLIN
 https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/oplLHxu.jpeg" group-title="TV LATINA",CO | ATV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/mMiphR0.jpeg" group-title="TV LATINA",CO | ATV 
 https://video.ejeserver.com/live/verteve.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/4nqwpCd.jpeg" group-title="TV LATINA",CO | CABLE SUR TV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/ecVwFQs.jpeg" group-title="TV LATINA",CO | CABLE SUR TV 
 https://tvlatina.live:1936/8012/8012/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/NjqpasZ.jpeg" group-title="TV LATINA",CO | CANAL NETS 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/HLPjGeq.jpeg" group-title="TV LATINA",CO | CANAL NETS 
 https://video.ejeserver.com/live/nets.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",CO | CANAL TRO PLUS [GB]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/pwNb8id.png" group-title="TV LATINA",CO | COSMOVISION 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/bRXAeq0.jpeg" group-title="TV LATINA",CO | COSMOVISION 
 https://videohls2.cosmovision.tv/hls/sd.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/4oBl0cn.jpeg" group-title="TV LATINA",CO | INPO TV 
 https://cp.panelchs.com:1936/8108/8108/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/vzFjNn7.jpeg" group-title="TV LATINA",CO | MOVIEFE 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/RP6wsLr.jpeg" group-title="TV LATINA",CO | MOVIEFE 
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/XVBdiFf.jpeg" group-title="TV LATINA",CO | MULTICANAL TV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/jrLeWtp.jpeg" group-title="TV LATINA",CO | MULTICANAL TV 
 https://ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/1nRViha.jpeg" group-title="TV LATINA",CO | NOTICIERO 90 MINUTOS 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/1Fd5Cjz.jpeg" group-title="TV LATINA",CO | NOTICIERO 90 MINUTOS 
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/7pAsozu.jpeg" group-title="TV LATINA",CO | NSTV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/LX5RdD8.jpeg" group-title="TV LATINA",CO | NSTV 
 https://cp.panelchs.com:1936/8162/8162/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w2t8CGT.png" group-title="TV LATINA",CO | BLU RADIO ᴴᴰ 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/FXAZvzi.jpeg" group-title="TV LATINA",CO | BLU RADIO ᴴᴰ 
 https://ythls.armelin.one/channel/UCUYokk2dJxFZf7NgxTL-ROg.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/NTS9ZJh.jpeg" group-title="TV LATINA",CO | SEÑAL COLOMBIA ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rcEPtJ6.jpeg" group-title="TV LATINA",CO | SEÑAL COLOMBIA ᴴᴰ
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
 
