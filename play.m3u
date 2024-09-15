@@ -190,6 +190,8 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/yqYeDV7.jpeg" group-title="TV NOTICIAS",3 | TELESUR ᴴᴰ 
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/n6BuN7P.jpeg" group-title="TV NOTICIAS",33 | TELESUR ᴴᴰ (ALT)
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/te47Ed2.jpeg" group-title="TV NOTICIAS",4 | PRENSA LATINA TV ᴴᴰ 
 https://eu1.servers10.com:8081/8192/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/CXQHzil.jpeg" group-title="TV NOTICIAS",5 | CNN EN ESPAÑOL 
@@ -224,11 +226,16 @@ https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/r4lNzgh.jpeg" group-title="TV NOTICIAS",20 | ACTUALIDAD RT (ALT)
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/live.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/8GOTkFJ.jpeg" group-title="TV NOTICIAS",31 | RT ENGLISH
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/live.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/YnV0jd2.jpeg" group-title="TV NOTICIAS",21 | CGTN EN ESPAÑOL ᴴᴰ 
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/CKgB8Tc.jpeg" group-title="TV NOTICIAS",22 | HISPANTV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/df0a443c1e8e53babc41fede14548c9b5fd1a6d2/live.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/CKgB8Tc.jpeg" group-title="TV NOTICIAS",32 | HISPANTV ᴴᴰ (ALT)
+https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/0vqMDAF.jpeg" group-title="TV NOTICIAS",23 | NTN24 ᴴᴰ
 http://premierchile.shop:8080/carlosmuller/lo6bckGmZn/339
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/gQdq6rZ.jpeg" group-title="TV NOTICIAS",24 | NHK WORLD ᴴᴰ
@@ -245,13 +252,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/iR3EbZF.jpeg" group-title="TV NOTICIAS",30 | AFRICA 24 ᴴᴰ
 https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/8GOTkFJ.jpeg" group-title="TV NOTICIAS",31 | RT ENGLISH
-#EXTVLCOPT:http-referrer=https://odysee.com/
-https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/live.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/CKgB8Tc.jpeg" group-title="TV NOTICIAS",32 | HISPANTV ᴴᴰ (ALT)
-https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/n6BuN7P.jpeg" group-title="TV NOTICIAS",33 | TeleSUR ᴴᴰ (ALT)
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/pG0nIjC.jpeg" group-title="TV NOTICIAS",34 | IRAN INTERNATIONAL TV
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b806000.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/TdXNMcG.jpeg" group-title="TV NOTICIAS",35 | ABN KR
@@ -374,8 +374,6 @@ https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/play
 https://cp.panelchs.com:1936/8162/8162/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w2t8CGT.png" group-title="TV LATINA",CO | BLU RADIO ᴴᴰ 
 https://ythls.armelin.one/channel/UCUYokk2dJxFZf7NgxTL-ROg.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | CABLE NOTICIAS
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/NTS9ZJh.jpeg" group-title="TV LATINA",CO | SEÑAL COLOMBIA ᴴᴰ
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
@@ -477,8 +475,7 @@ https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/60WBcKd.jpeg" group-title="TV LATINA",GT | MULTIVISION SPORTS
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gkotvQq.jpeg" group-title="TV LATINA",GT | NIM TV ᴴᴰ
-https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+
 
 
 
@@ -506,8 +503,6 @@ https://amixtv.com:8081/plus39/tracks-a1v1/index.m3u8
 https://s.emisoras.tv:8081/metrotv/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/ySFVL2P.jpeg" group-title="TV LATINA",HN | PARADISE TV 
 https://s2.tvdatta.com:3840/live/paradisetvlive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",HN | SAN IGNACIO TV 
-https://amixtv.live:3753/live/sitvlive.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/BD5VwFZ.jpeg" group-title="TV LATINA",HN | TELERAYO 
 https://s.emisoras.tv:8081/telerayo/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/1QPnhtX.jpeg" group-title="TV LATINA",HN | METROPOLIS TELEVISION 1
