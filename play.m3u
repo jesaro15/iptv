@@ -368,7 +368,7 @@ https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/jrLeWtp.jpeg" group-title="TV LATINA",CO | MULTICANAL TV 
 https://ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/1Fd5Cjz.jpeg" group-title="TV LATINA",CO | NOTICIERO 90 MINUTOS 
-https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+https://cdn.livewave.co:19360/90minutoslive/90minutoslive.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/ILBWdap.jpeg" group-title="TV LATINA",CO | NSTV 
 https://cp.panelchs.com:1936/8162/8162/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/FXAZvzi.jpeg" group-title="TV LATINA",CO | BLU RADIO ᴴᴰ 
