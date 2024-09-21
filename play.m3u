@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/willlax.jpg" group-title="TV PERU",1 | WILLAX |
 http://tvlatino.club:2082/vipcarlosvip1y/AUSXLDvwaqCq/153173
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/latina.jpg" group-title="TV PERU",2 | LATINA TV |
@@ -23,8 +24,12 @@ https://d19e55ehz2il4i.cloudfront.net/live2/alba-pe-atv-atv_720p/index.m3u8
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/480p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVSUR.jpg" group-title="TV PERU",11 | ATV SUR |
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/live2/alba-pe-atv-atvsur_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/wIgmzRJ.jpeg" group-title="TV PERU",12 | REGION TV |
+https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/globalTV.jpg" group-title="TV PERU",13 | GLOBAL TV |
 http://daleplay.club:80/VictorNaranjo/Victor09122021/330739.ts
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/64W1uLv.jpeg" group-title="TV PERU",14 | OASIS RTV |
+https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nativaTV.jpg" group-title="TV PERU",15 | NATIVA TV |
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ondadigitalTV2.jpg" group-title="TV PERU",16 | ONDA DIGITAL 
@@ -43,13 +48,15 @@ https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CNC.jpg" group-title="TV PERU",23 | CNC CAJAMARCA |
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/wiV4cz9.jpeg" group-title="TV PERU",24 | CABLE VISION |            
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/antares.jpg" group-title="TV PERU",25 | ANTARES TV |
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cumo.jpg" group-title="TV PERU",26 | CUMO TV |  
 https://live.obslivestream.com/cumo/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/perumagico.jpg" group-title="TV PERU",27 | PERU MAGICO |
 http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/151547
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/maticesTV.jpg" group-title="TV PERU",28 | MaticesTV/ESPN 4 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/maticesTV.jpg" group-title="TV PERU",28 | MATICES/DEPORTES |
 https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/conecta2.jpg" group-title="TV PERU",29 | CONECTA2 TV |
 https://servilive.com:3114/live/liveulive.m3u8
@@ -77,12 +84,16 @@ https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Riberena.jpg" group-title="TV PERU",41 | RIBEREÑA TV | 
 https://v4.tustreaming.cl/atmtv/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/BEj76bI.jpeg" group-title="TV PERU",42 | RADIO UNO TACNA 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/BEj76bI.jpeg" group-title="TV PERU",42 | RADIO UNO |
 https://ythls.armelin.one/channel/UCK0lpuL9PQb3I5CDcu7Y7bA.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ovacion.jpg" group-title="TV PERU",43 | OVACION TV |
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/hE47Nzf.jpeg" group-title="TV PERU",44 | VIVA TV |
+https://live.obslivestream.com/vivatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/supercanalTV.jpg" group-title="TV PERU",45 | SUPERCANALᴴᴰ |
 https://live.obslivestream.com/supercanal/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",46 | TELESELVA |
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/VisionSur.jpg" group-title="TV PERU",47 | VISIÓN SUR |
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/IdentidadTv.jpg" group-title="TV PERU",48 | IDENTIDAD TV |
@@ -93,91 +104,115 @@ https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
 https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/telesurTacna.jpg" group-title="TV PERU",51 | TELESUR TACNA |
 https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",52 | UCAYALINA DE TELEVISION |
+https://video.agenciastreaming.com:3959/live/utvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/unitel.jpg" group-title="TV PERU",53 | UNITEL |
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Sanborja.jpg" group-title="TV PERU",54 | RADIO SAN BORJA |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Sanborja.jpg" group-title="TV PERU",54 |  SAN BORJA TV |
 https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",55 | QUASSAR TV  |
-https://gnstreammedia.com:19360/4000/4000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Bnb.jpg" group-title="TV PERU",56 | BNB DIGITAL | 
-https://vdo.grupolimalive.com:3375/live/bnbdigitallive.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/gfTV.jpg" group-title="TV PERU",57 | GF TV |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/x0AwyNQ.jpeg" group-title="TV PERU",55 | TUMPIS TV |
+https://servilive.com:3531/live/tumpistvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",56 | TUMPIS TV |2
+https://servilive.com:3531/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",57 | PLANEA TV |
+https://vdo.grupolimalive.com:3045/live/planeatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/gfTV.jpg" group-title="TV PERU",58 | GF TV |
 https://live.obslivestream.com/regionaltv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/usmp.jpg" group-title="TV PERU",58 | USMP TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/usmp.jpg" group-title="TV PERU",59 | USMP TV |
 https://streamusmptv.ddns.net/live/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/mega.jpg" group-title="TV PERU",59 | MEGA TV |
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",60 | USIL TV |
+https://per01-lim01.servidor.stream/usiltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/mega.jpg" group-title="TV PERU",61 | MEGA TV |
 https://mc.servidor.stream:19360/megatv/megatv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CadenaTv.jpg" group-title="TV PERU",60 | CADENA TV | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CadenaTv.jpg" group-title="TV PERU",62 | CADENA TV | 
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/autnetica.jpg" group-title="TV PERU",61 | AUTENTICA TELEVISION |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/autnetica.jpg" group-title="TV PERU",63 | AUTENTICA TELEVISION |
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/qosqotimes.jpg" group-title="TV PERU",62 | QOSQO TIMES TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/qosqotimes.jpg" group-title="TV PERU",64 | QOSQO TIMES TV |
 https://servilive.com:3753/live/qosqotimeslive.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/andes.jpg" group-title="TV PERU",63 | ANDES TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/andes.jpg" group-title="TV PERU",65 | ANDES TV |
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canalx.jpg" group-title="TV PERU",65 | CANAL X |
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",66 | MILLENIUM TV |
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canalx.jpg" group-title="TV PERU",67 | CANAL X |
 https://play.agenciastreaming.com:8081/xtv/index.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/genios.jpg" group-title="TV PERU",66 | GENIOS TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/genios.jpg" group-title="TV PERU",68 | GENIOS TV |
 https://live.obslivestream.com/geniostvmux/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/telecolor2.jpg" group-title="TV PERU",67 | TELECOLOR YURIMAGUAS |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/telecolor2.jpg" group-title="TV PERU",69 | TELECOLOR |
 https://live.obslivestream.com/telecolormux/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Altomayo.jpg" group-title="TV PERU",69 | VIA ALTOMAYO TV | 
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",70 | PRIMAVERA 15 |
+https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Altomayo.jpg" group-title="TV PERU",71 | VIA ALTOMAYO TV | 
 https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cableperu1.jpg" group-title="TV PERU",71 | CABLE PERU TV | 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/3vm8G4x.jpeg" group-title="TV PERU",72 | NORSELVA RTV |
+https://live.obslivestream.com/norselvatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cableperu1.jpg" group-title="TV PERU",73 | CABLE PERU TV | 
 https://video2.lhdserver.es/cableperu/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/NovaStar1.jpg" group-title="TV PERU",73 | NOVA STAR TV | 
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",74 | NUESTRO CANAL |
+https://vdo.grupolimalive.com:3245/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/NovaStar1.jpg" group-title="TV PERU",75 | NOVA STAR TV | 
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cosmos.jpg" group-title="TV PERU",75 | TV COSMOS |
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",76 | HOYNET |
+https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cosmos.jpg" group-title="TV PERU",77 | TV COSMOS |
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w759963595.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/master.jpg" group-title="TV PERU",76 | MASTER TV |  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/master.jpg" group-title="TV PERU",78 | MASTER TV |  
 https://live.obslivestream.com/mastertv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/soltv.jpg" group-title="TV PERU",77 | SOL TV |  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/soltv.jpg" group-title="TV PERU",79 | SOL TV |  
 https://video03.logicahost.com.br/soltv/soltv/chunklist_w1946435464.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/PeruChannel.jpg" group-title="TV PERU",78 | PERU CHANNEL TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/PeruChannel.jpg" group-title="TV PERU",80 | PERU CHANNEL TV |
 https://a.cdni.live/peruchanel/peruchanel/chunklist_w385659098.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cr.jpg" group-title="TV PERU",79 | CR TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cr.jpg" group-title="TV PERU",81 | CR TV |
 https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Vclassic.jpg" group-title="TV PERU",80 | VCLASSIC TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Vclassic.jpg" group-title="TV PERU",82 | VCLASSIC TV |
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1888254998.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/DMJ.jpg" group-title="TV PERU",81 | DMJ | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/DMJ.jpg" group-title="TV PERU",83 | DMJ | 
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/contactotv.jpg" group-title="TV PERU",82 | CONTACTO TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/contactotv.jpg" group-title="TV PERU",84 | CONTACTO TV |
 https://live.obslivestream.com/cdeportivo/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/miel.jpg" group-title="TV PERU",83 | MIEL TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/miel.jpg" group-title="TV PERU",85 | MIEL TV |
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nativa.jpg" group-title="TV PERU",84 | NATIVA VRAEM |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nativa.jpg" group-title="TV PERU",86 | NATIVA VRAEM |
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cablevision.jpg" group-title="TV PERU",85 | CABLE VISION PERU |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cablevision.jpg" group-title="TV PERU",87 | CABLE VISION PERU |
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",86 | VISION NDV |
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",88* | VISION NDV |
 https://soportedvb.click:3891/live/visionndvlive.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/agroTV.jpg" group-title="TV PERU",87 | AGRO TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/agroTV.jpg" group-title="TV PERU",89 | AGRO TV |
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/RCR.jpg" group-title="TV PERU",88 | RCR | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/RCR.jpg" group-title="TV PERU",90 | RCR |
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",91 | CTV |
+https://ca2.inka.net.pe/ctvperu-live/index.fmp4.m3u8 
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/chunklist_w68889844.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/33.jpg" group-title="TV PERU",89 | CANAL 33 |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/33.jpg" group-title="TV PERU",92 | CANAL 33 |
 https://video2.getstreamhosting.com:19360/8206/8206.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/palmeras.jpg" group-title="TV PERU",90 | PALMERAS TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/palmeras.jpg" group-title="TV PERU",93 | PALMERAS TV |
 https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/like.jpeg" group-title="TV PERU",91 | LIKE TV HD |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/like.jpeg" group-title="TV PERU",94 | LIKE TV HD |
 #EXTVLCOPT:http-referrer=https://vdo.grupolimalive.com/broadcaster/ajax-get-current-viewer/liketv
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/via.jpg" group-title="TV PERU",92 | VIA TELEVISION |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/via.jpg" group-title="TV PERU",95 | VIA TELEVISION |
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CuscoDigital.jpg" group-title="TV PERU",94 | TV EN LINEA CUSCO |
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",96 | OASIS RTV 
+https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CuscoDigital.jpg" group-title="TV PERU",97 | TV EN LINEA CUSCO |
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canal8.jpg" group-title="TV PERU",96 | CANAL 8 CATACAOS |
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",98 | PRIMAVERA 15 |
+https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canal8.jpg" group-title="TV PERU",99 | CANAL 8 |
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/HechiceraTV.jpg" group-title="TV PERU",97 | HECHICERA TV | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/HechiceraTV.jpg" group-title="TV PERU",100 | HECHICERA TV | 
 https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/tropical.jpg" group-title="TV PERU",98 | TROPICAL TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/tropical.jpg" group-title="TV PERU",101 | TROPICAL TV |
 https://tv.oyotunserver.com:3794/live/jotalive.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/impacto.jpg" group-title="TV PERU",99 | IMPACTO TELEVISION | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/impacto.jpg" group-title="TV PERU",102 | IMPACTO TELEVISION | 
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/dobleAA.jpg" group-title="TV PERU",100 | DOBLE AA TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/dobleAA.jpg" group-title="TV PERU",103 | DOBLE AA TV |
 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
-
-
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",104 | EL PUEBLO TV |
+https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",105 | RTV TOTAL |
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 
 
 
