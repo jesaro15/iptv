@@ -152,7 +152,7 @@ https://video2.lhdserver.es/cableperu/live.m3u8
 https://vdo.grupolimalive.com:3245/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/NovaStar1.jpg" group-title="TV PERU",75 | NOVA STAR TV | 
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",76 | HOYNET |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/eRcMKuC.jpeg" group-title="TV PERU",76 | HOYNET |
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cosmos.jpg" group-title="TV PERU",77 | TV COSMOS |
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w759963595.m3u8
@@ -181,7 +181,7 @@ https://soportedvb.click:3891/live/visionndvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/agroTV.jpg" group-title="TV PERU",89 | AGRO TV |
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/RCR.jpg" group-title="TV PERU",90 | RCR |
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",91 | CTV |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MCt2cPG.jpeg" group-title="TV PERU",91 | CTV |
 https://ca2.inka.net.pe/ctvperu-live/index.fmp4.m3u8 
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/chunklist_w68889844.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/33.jpg" group-title="TV PERU",92 | CANAL 33 |
@@ -193,7 +193,7 @@ https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/via.jpg" group-title="TV PERU",95 | VIA TELEVISION |
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",96 | OASIS RTV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Q1SZvpg.jpeg" group-title="TV PERU",96 | OASIS RTV 
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CuscoDigital.jpg" group-title="TV PERU",97 | TV EN LINEA CUSCO |
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
@@ -400,7 +400,7 @@ https://tvlatina.live:1936/8012/8012/playlist.m3u8
 https://video.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/bRXAeq0.jpeg" group-title="TV LATINA",CO | COSMOVISION 
 https://videohls2.cosmovision.tv/hls/sd.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/4oBl0cn.jpeg" group-title="TV LATINA",CO | INPO TV 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/aQP4wZO.jpeg" group-title="TV LATINA",CO | INPO TV 
 https://cp.panelchs.com:1936/8108/8108/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/RP6wsLr.jpeg" group-title="TV LATINA",CO | MOVIEFE 
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
