@@ -92,7 +92,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m
 https://live.obslivestream.com/vivatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/supercanalTV.jpg" group-title="TV PERU",45 | SUPERCANALᴴᴰ |
 https://live.obslivestream.com/supercanal/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",46 | TELESELVA |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/eoMbPcl.jpeg" group-title="TV PERU",46 | TELESELVA |
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/VisionSur.jpg" group-title="TV PERU",47 | VISIÓN SUR |
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
@@ -132,7 +132,7 @@ https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 https://servilive.com:3753/live/qosqotimeslive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/andes.jpg" group-title="TV PERU",65 | ANDES TV |
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",66 | MILLENIUM TV |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/LzoduWY.jpeg" group-title="TV PERU",66 | MILLENIUM TV |
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canalx.jpg" group-title="TV PERU",67 | CANAL X |
 https://play.agenciastreaming.com:8081/xtv/index.mpd
