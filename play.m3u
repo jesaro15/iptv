@@ -139,8 +139,6 @@ https://play.agenciastreaming.com:8081/xtv/index.mpd
 https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/telecolor2.jpg" group-title="TV PERU",69 | TELECOLOR |
 https://live.obslivestream.com/telecolormux/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",70 | PRIMAVERA 15 |
-https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Altomayo.jpg" group-title="TV PERU",71 | VIA ALTOMAYO TV | 
 https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/3vm8G4x.jpeg" group-title="TV PERU",72 | NORSELVA RTV |
