@@ -195,7 +195,7 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CuscoDigital.jpg" group-title="TV PERU",97 | TV EN LINEA CUSCO |
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",98 | PRIMAVERA 15 |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Primavera15.jpg" group-title="TV PERU",98 | PRIMAVERA 15 |
 https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canal8.jpg" group-title="TV PERU",99 | CANAL 8 |
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
