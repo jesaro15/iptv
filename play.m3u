@@ -147,7 +147,7 @@ https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/norselvatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cableperu1.jpg" group-title="TV PERU",73 | CABLE PERU TV | 
 https://video2.lhdserver.es/cableperu/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",74 | NUESTRO CANAL |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/0nb4QwW.jpeg" group-title="TV PERU",74 | NUESTRO CANAL |
 https://vdo.grupolimalive.com:3245/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/NovaStar1.jpg" group-title="TV PERU",75 | NOVA STAR TV | 
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
@@ -179,7 +179,8 @@ https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 https://soportedvb.click:3891/live/visionndvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/agroTV.jpg" group-title="TV PERU",89 | AGRO TV |
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/RCR.jpg" group-title="TV PERU",90 | RCR |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/RCR.jpg" group-title="TV PERU",90 | RCR | 
+https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/chunklist_w68889844.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/MCt2cPG.jpeg" group-title="TV PERU",91 | CTV |
 https://ca2.inka.net.pe/ctvperu-live/index.fmp4.m3u8 
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/chunklist_w68889844.m3u8
@@ -210,7 +211,7 @@ https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",104 | EL PUEBLO TV |
 https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",105 | RTV TOTAL |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EYfJ5j2.jpeg" group-title="TV PERU",105 | RTV TOTAL |
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 
 
