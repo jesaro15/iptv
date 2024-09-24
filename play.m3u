@@ -71,7 +71,7 @@ https://live.obslivestream.com/controversiatv/index.m3u8
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/peruanisima.jpg" group-title="TV PERU",35 | PERUANISIMA TV | 
 https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/mas1TV.jpg" group-title="TV PERU",36 | MAS 1 TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/mas1TV1.jpg" group-title="TV PERU",36 | MAS 1 TV |
 https://live.obslivestream.com/mas1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/diasporaTV.jpg" group-title="TV PERU",37 | DIASPORA TV | 
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
@@ -207,7 +207,7 @@ https://tv.oyotunserver.com:3794/live/jotalive.m3u8
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/dobleAA.jpg" group-title="TV PERU",103 | DOBLE AA TV |
 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",104 | EL PUEBLO TV |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/s3lxQwp.jpeg" group-title="TV PERU",104 | EL PUEBLO TV |
 https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EYfJ5j2.jpeg" group-title="TV PERU",105 | RTV TOTAL |
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
