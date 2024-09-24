@@ -143,7 +143,7 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/3vm8G4x.jpeg" group-title="TV PERU",72 | NORSELVA RTV |
 https://live.obslivestream.com/norselvatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cableperu1.jpg" group-title="TV PERU",73 | CABLE PERU TV | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CPN.jpg" group-title="TV PERU",73 | CPN TV | 
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/0nb4QwW.jpeg" group-title="TV PERU",74 | NUESTRO CANAL |
 https://vdo.grupolimalive.com:3245/stream/play.m3u8
