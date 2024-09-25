@@ -593,7 +593,22 @@ https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",VE | TV FANB 
+https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",VE | AVILA TV 
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/9fc00ad00fd8b0f08ab11f2324c82ffd713c3cb6/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",VE | TVES 
+https://ls.tves.gob.ve/hls/tves.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",VE | GLOBOVISION 
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/3ebWV8p.jpeg" group-title="TV LATINA",VE | LA IGUANA TV
+https://ythls.armelin.one/channel/UCCc2H9_eNnU7ucq2n7Sh3Rg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",VE | PROMAR 
+https://vcp.myplaytv.com/promar/promar/chunklist_w1561591709.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/jNmz31M.jpeg" group-title="TV LATINA",VE | VIVE 
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/fed20cff907550b0c7d83991fb3630e2a9f90454/master.m3u8
 
 
 
