@@ -240,7 +240,7 @@ https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/hYbrc6g.jpeg" group-title="TV NOTICIAS",10 | A24 ᴴᴰ
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",ES | CANAL RED
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/oygF7D4.jpeg" group-title="TV NOTICIAS",ES | CANAL RED
 https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/l1RYiFZ.jpeg" group-title="TV NOTICIAS",11 | EL CONFIDENCIAL ᴴᴰ  
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
