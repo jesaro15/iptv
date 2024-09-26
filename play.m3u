@@ -62,7 +62,7 @@ https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Planeta.jpg" group-title="TV PERU",30 | PLANETA TV | 
 https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/bhTV.jpg" group-title="TV PERU",31 | BH TV |
-https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8     
+https://play.agenciastreaming.com:8081/bhtv/tracks-v1a1/index.m3u8   
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/vzTV.jpg" group-title="TV PERU",32 | VZ TV | 
 https://live.obslivestream.com/vztv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/vinilosTV.jpg" group-title="TV PERU",33 | VINILOS TV |
@@ -285,21 +285,24 @@ https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/1ibZC9Q.jpeg" group-title="TV NOTICIAS",30 | RECORD NEWS ᴴᴰ
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/b0fOJoP.jpeg" group-title="TV NOTICIAS",31 | PALESTINE TV ᴴᴰ
+#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",31 | RTP 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/b0fOJoP.jpeg" group-title="TV NOTICIAS",32 | PALESTINE TV ᴴᴰ
 https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/iR3EbZF.jpeg" group-title="TV NOTICIAS",32 | AFRICA 24 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/iR3EbZF.jpeg" group-title="TV NOTICIAS",33 | AFRICA 24 ᴴᴰ
 https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/pG0nIjC.jpeg" group-title="TV NOTICIAS",33 | IRAN INTERNATIONAL TV
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/pG0nIjC.jpeg" group-title="TV NOTICIAS",34 | IRAN INTERNATIONAL TV
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b806000.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/SdGlcgx.jpeg" group-title="TV NOTICIAS",34 | ALMAYADEEN
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/SdGlcgx.jpeg" group-title="TV NOTICIAS",35 | ALMAYADEEN
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/TdXNMcG.jpeg" group-title="TV NOTICIAS",35 | ABN KR
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/TdXNMcG.jpeg" group-title="TV NOTICIAS",36 | ABN KR
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/zBGnvS1.jpeg" group-title="TV NOTICIAS",36 | ABC NEWS SYDNEY
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/zBGnvS1.jpeg" group-title="TV NOTICIAS",37 | ABC NEWS SYDNEY
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/98yi3aN.jpeg" group-title="TV NOTICIAS",37 | NOVOSTI 360
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/98yi3aN.jpeg" group-title="TV NOTICIAS",38 | NOVOSTI 360
 https://e10-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/wjJqsR8.jpeg" group-title="TV NOTICIAS",38 | BST 24 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/wjJqsR8.jpeg" group-title="TV NOTICIAS",39 | BST 24 
 https://cdn.bst.bratsk.ru/hls/bst2/sd/stream.m3u8
 
 
