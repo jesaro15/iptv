@@ -134,7 +134,7 @@ https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/LzoduWY.jpeg" group-title="TV PERU",66 | MILLENIUM TV |
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canalx.jpg" group-title="TV PERU",67 | CANAL X |
-https://play.agenciastreaming.com:8081/xtv/index.mpd
+https://cp.panelchs.com:1936/rsuzqenanb/rsuzqenanb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/genios.jpg" group-title="TV PERU",68 | GENIOS TV |
 https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/telecolor2.jpg" group-title="TV PERU",69 | TELECOLOR |
@@ -165,8 +165,8 @@ https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1888254998.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/DMJ.jpg" group-title="TV PERU",83 | DMJ | 
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/contactotv.jpg" group-title="TV PERU",84 | CONTACTO TV |
-https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ucayalitv.jpg" group-title="TV PERU",84 | UCAYALI TV |
+https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/f9699826eb94721a3fedae7c5fbe0609/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/miel.jpg" group-title="TV PERU",85 | MIEL TV |
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nativa.jpg" group-title="TV PERU",86 | NATIVA VRAEM |
@@ -277,6 +277,8 @@ https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 http://premierchile.shop:8080/carlosmuller/lo6bckGmZn/339
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/gQdq6rZ.jpeg" group-title="TV NOTICIAS",26 | NHK WORLD ᴴᴰ
 https://bmcc.nhkworld.jp/live2/index_1M.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/gQdq6rZ.jpeg" group-title="TV NOTICIAS",26 | NHK JAPAN (ALT)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/anyZt3J.jpeg" group-title="TV NOTICIAS",27 | ALJAZEERA ᴴᴰ ENGLISH 
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/o5lMfdx.jpeg" group-title="TV NOTICIAS",28 | PRESS TV
