@@ -113,7 +113,7 @@ https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
 https://servilive.com:3531/live/tumpistvlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",56 | TUMPIS TV |2
 https://servilive.com:3531/stream/play.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/HpxIKh8.jpeg" group-title="TV PERU",57 | PLANEA TV |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/JrTCsOD.jpeg" group-title="TV PERU",57 | PLANEA TV |
 https://vdo.grupolimalive.com:3045/live/planeatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/gfTV.jpg" group-title="TV PERU",58 | GF TV |
 https://live.obslivestream.com/regionaltv/tracks-v1a1/mono.m3u8
@@ -396,7 +396,7 @@ https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/KFme7qA.jpeg" group-title="TV LATINA" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",CO | TELECARIBE PLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",CO | TELEANTIOQUIA
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/NUXrJg3.jpeg" group-title="TV LATINA",CO | TELEANTIOQUIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/mMiphR0.jpeg" group-title="TV LATINA",CO | ATV 
@@ -421,6 +421,9 @@ https://cp.panelchs.com:1936/8162/8162/playlist.m3u8
 https://ythls.armelin.one/channel/UCUYokk2dJxFZf7NgxTL-ROg.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/rcEPtJ6.jpeg" group-title="TV LATINA",CO | SEÑAL COLOMBIA ᴴᴰ
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Gd9c1ra.jpeg" group-title="TV LATINA",CO | CANAL TRO ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
 
 
 
