@@ -302,10 +302,14 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/zBGnvS1.jpeg" group-title="TV NOTICIAS",37 | ABC NEWS SYDNEY
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/98yi3aN.jpeg" group-title="TV NOTICIAS",38 | NOVOSTI 360
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/98yi3aN.jpeg" group-title="TV NOTICIAS",38 | RIA NOVOSTI 360
 https://e10-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/wjJqsR8.jpeg" group-title="TV NOTICIAS",39 | BST 24 
 https://cdn.bst.bratsk.ru/hls/bst2/sd/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",40 | 324 TV 
+https://directes-tv-int.ccma.cat/live-content/canal324-hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",41 | NIPPON NEWS TV
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 
 
