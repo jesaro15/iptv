@@ -225,91 +225,93 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/n6BuN7P.jpeg" group-title="TV NOTICIAS",4 | TELESUR ᴴᴰ (ALT)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/IxBVQHy.jpeg" group-title="TV NOTICIAS",05 | VENEZOLANA DE TELEVISION 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/IxBVQHy.jpeg" group-title="TV NOTICIAS",5 | VENEZOLANA DE TELEVISION 
 http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/151658
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/te47Ed2.jpeg" group-title="TV NOTICIAS",5 | PRENSA LATINA TV ᴴᴰ 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/te47Ed2.jpeg" group-title="TV NOTICIAS",6 | PRENSA LATINA TV ᴴᴰ 
 https://eu1.servers10.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/CXQHzil.jpeg" group-title="TV NOTICIAS",6 | CNN EN ESPAÑOL 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/CXQHzil.jpeg" group-title="TV NOTICIAS",7 | CNN EN ESPAÑOL 
 https://nxt.plus:8443/jesus01/jesus01/59075
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/lmwRrDq.jpeg" group-title="TV NOTICIAS",7 | CNN CHILE 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/lmwRrDq.jpeg" group-title="TV NOTICIAS",8 | CNN CHILE 
 http://daleplay.club:80/VictorNaranjo/Victor09122021/63076.ts
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/pNLrYe3.jpeg" group-title="TV NOTICIAS",8 | 24 HORAS-CHILE
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/7sFXaC4.jpeg" group-title="TV NOTICIAS",9 | TELEMUNDO FLORIDA
+https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/5a817dba-a6f1-4dac-9871-91e9e76e1762/2.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/pNLrYe3.jpeg" group-title="TV NOTICIAS",10 | 24 HORAS-CHILE
 https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/21B9fTQ.jpeg" group-title="TV NOTICIAS",9 | C5N 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/21B9fTQ.jpeg" group-title="TV NOTICIAS",11 | C5N 
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/hYbrc6g.jpeg" group-title="TV NOTICIAS",10 | A24 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/hYbrc6g.jpeg" group-title="TV NOTICIAS",12 | A24 ᴴᴰ
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/oygF7D4.jpeg" group-title="TV NOTICIAS",ES | CANAL RED
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/oygF7D4.jpeg" group-title="TV NOTICIAS" ,13 | CANAL RED
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/l1RYiFZ.jpeg" group-title="TV NOTICIAS",11 | EL CONFIDENCIAL ᴴᴰ  
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/l1RYiFZ.jpeg" group-title="TV NOTICIAS",14 | EL CONFIDENCIAL ᴴᴰ  
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/slkfENX.jpeg" group-title="TV NOTICIAS",12 | 24HORAS ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/slkfENX.jpeg" group-title="TV NOTICIAS",15 | 24HORAS ᴴᴰ
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/i869d0u.jpeg" group-title="TV NOTICIAS",13 | La 1 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/i869d0u.jpeg" group-title="TV NOTICIAS",16 | La 1 ᴴᴰ
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/aJjmTBd.jpeg" group-title="TV NOTICIAS",14 | NEGOCIOS TV ᴴᴰ 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/aJjmTBd.jpeg" group-title="TV NOTICIAS",17 | NEGOCIOS TV ᴴᴰ 
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/HhkOvnj.jpeg" group-title="TV NOTICIAS",15 | FRANCE 24 ᴴᴰ  
+#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",18 | 324 TV 
+https://directes-tv-int.ccma.cat/live-content/canal324-hls/index.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/HhkOvnj.jpeg" group-title="TV NOTICIAS",19 | FRANCE 24 ᴴᴰ  
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/PVSDvia.jpeg" group-title="TV NOTICIAS",16 | DEUSTCHE WELLE ᴴᴰ 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/PVSDvia.jpeg" group-title="TV NOTICIAS",20 | DEUSTCHE WELLE ᴴᴰ 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/M3eCHbo.jpeg" group-title="TV NOTICIAS",17 | EURONEWS ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/M3eCHbo.jpeg" group-title="TV NOTICIAS",21 | EURONEWS ᴴᴰ
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/7sFXaC4.jpeg" group-title="TV NOTICIAS",18 | TELEMUNDO FLORIDA
-https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/5a817dba-a6f1-4dac-9871-91e9e76e1762/2.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/r4lNzgh.jpeg" group-title="TV NOTICIAS",19 | ACTUALIDAD RT ᴴᴰ 
-https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/r4lNzgh.jpeg" group-title="TV NOTICIAS",20 | ACTUALIDAD RT (ALT)
-#EXTVLCOPT:http-referrer=https://odysee.com/
-https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/live.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/8GOTkFJ.jpeg" group-title="TV NOTICIAS",21 | RT ENGLISH
-#EXTVLCOPT:http-referrer=https://odysee.com/
-https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/live.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/YnV0jd2.jpeg" group-title="TV NOTICIAS",22 | CGTN EN ESPAÑOL ᴴᴰ 
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/CKgB8Tc.jpeg" group-title="TV NOTICIAS",23 | HISPANTV ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/r4lNzgh.jpeg" group-title="TV NOTICIAS",23 | ACTUALIDAD RT ᴴᴰ 
+https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/r4lNzgh.jpeg" group-title="TV NOTICIAS",24 | ACTUALIDAD RT (ALT)
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/live.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/8GOTkFJ.jpeg" group-title="TV NOTICIAS",25 | RT ENGLISH
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/live.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/pG0nIjC.jpeg" group-title="TV NOTICIAS",26 | IRAN INTERNATIONAL TV
+https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b806000.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/SdGlcgx.jpeg" group-title="TV NOTICIAS",27 | ALMAYADEEN
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/anyZt3J.jpeg" group-title="TV NOTICIAS",28 | ALJAZEERA ᴴᴰ ENGLISH 
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/CKgB8Tc.jpeg" group-title="TV NOTICIAS",29 | HISPANTV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/df0a443c1e8e53babc41fede14548c9b5fd1a6d2/live.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/CKgB8Tc.jpeg" group-title="TV NOTICIAS",24 | HISPANTV ᴴᴰ (ALT)
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/CKgB8Tc.jpeg" group-title="TV NOTICIAS",30 | HISPANTV ᴴᴰ (ALT)
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/0vqMDAF.jpeg" group-title="TV NOTICIAS",25 | NTN24 ᴴᴰ
-http://premierchile.shop:8080/carlosmuller/lo6bckGmZn/339
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gQdq6rZ.jpeg" group-title="TV NOTICIAS",26 | NHK WORLD ᴴᴰ
-https://bmcc.nhkworld.jp/live2/index_1M.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gQdq6rZ.jpeg" group-title="TV NOTICIAS",26 | NHK JAPAN (ALT)
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/anyZt3J.jpeg" group-title="TV NOTICIAS",27 | ALJAZEERA ᴴᴰ ENGLISH 
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/o5lMfdx.jpeg" group-title="TV NOTICIAS",28 | PRESS TV
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/o5lMfdx.jpeg" group-title="TV NOTICIAS",31 | PRESS TV
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/jUaM4GB.jpeg" group-title="TV NOTICIAS",29 | REDE TV ᴴᴰ
-https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/1ibZC9Q.jpeg" group-title="TV NOTICIAS",30 | RECORD NEWS ᴴᴰ
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",31 | RTP 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/b0fOJoP.jpeg" group-title="TV NOTICIAS",32 | PALESTINE TV ᴴᴰ
 https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/iR3EbZF.jpeg" group-title="TV NOTICIAS",33 | AFRICA 24 ᴴᴰ
-https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/pG0nIjC.jpeg" group-title="TV NOTICIAS",34 | IRAN INTERNATIONAL TV
-https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b806000.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/SdGlcgx.jpeg" group-title="TV NOTICIAS",35 | ALMAYADEEN
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/0vqMDAF.jpeg" group-title="TV NOTICIAS",33 | NTN24 ᴴᴰ
+http://premierchile.shop:8080/carlosmuller/lo6bckGmZn/339
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/gQdq6rZ.jpeg" group-title="TV NOTICIAS",34 | NHK WORLD ᴴᴰ
+https://bmcc.nhkworld.jp/live2/index_1M.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/gQdq6rZ.jpeg" group-title="TV NOTICIAS",35 | NHK JAPAN (ALT)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",30 | NIPPON NEWS TV
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/TdXNMcG.jpeg" group-title="TV NOTICIAS",36 | ABN KR
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/zBGnvS1.jpeg" group-title="TV NOTICIAS",37 | ABC NEWS SYDNEY
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/jUaM4GB.jpeg" group-title="TV NOTICIAS",37 | REDE TV ᴴᴰ
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/1ibZC9Q.jpeg" group-title="TV NOTICIAS",38 | RECORD NEWS ᴴᴰ
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",39 | RTP 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/zBGnvS1.jpeg" group-title="TV NOTICIAS",40 | ABC NEWS SYDNEY
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/98yi3aN.jpeg" group-title="TV NOTICIAS",38 | RIA NOVOSTI 360
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/98yi3aN.jpeg" group-title="TV NOTICIAS",41 | RIA NOVOSTI 360
 https://e10-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/wjJqsR8.jpeg" group-title="TV NOTICIAS",39 | BST 24 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/wjJqsR8.jpeg" group-title="TV NOTICIAS",42 | BST 24 
 https://cdn.bst.bratsk.ru/hls/bst2/sd/stream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",40 | 324 TV 
-https://directes-tv-int.ccma.cat/live-content/canal324-hls/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",41 | NIPPON NEWS TV
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/iR3EbZF.jpeg" group-title="TV NOTICIAS",43 | AFRICA 24 ᴴᴰ
+https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3u8
+
 
 
 
