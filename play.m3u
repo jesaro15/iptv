@@ -21,7 +21,7 @@ http://galaxypro.online:8080/DiegoRodriguez/Diego2024/99651
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVhd.jpg" group-title="TV PERU",9 | ATV HD |
 https://d19e55ehz2il4i.cloudfront.net/live2/alba-pe-atv-atv_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVPLUS.jpg" group-title="TV PERU",10 | ATV PLUS |
-https://alba-pe-atv-atvmas.stream.mediatiquestream.com/480p.m3u8
+https://d1svme839xkbsn.cloudfront.net/live2/alba-pe-atv-atvmas_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVSUR.jpg" group-title="TV PERU",11 | ATV SUR |
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/live2/alba-pe-atv-atvsur_720p/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/wIgmzRJ.jpeg" group-title="TV PERU",12 | REGION TV |
@@ -47,8 +47,7 @@ https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CNC.jpg" group-title="TV PERU",23 | CNC CAJAMARCA |
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/wiV4cz9.jpeg" group-title="TV PERU",24 | CABLE VISION |            
-https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/antares.jpg" group-title="TV PERU",25 | ANTARES TV |
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cumo.jpg" group-title="TV PERU",26 | CUMO TV |  
@@ -171,7 +170,7 @@ https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/f9699826eb94721a3fedae7c5fbe0609
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nativa.jpg" group-title="TV PERU",86 | NATIVA VRAEM |
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cablevision.jpg" group-title="TV PERU",87 | CABLE VISION PERU |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cablevision.jpg" group-title="TV PERU",87 | CABLE VISION |
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",88* | VISION NDV |
 https://soportedvb.click:3891/live/visionndvlive.m3u8
