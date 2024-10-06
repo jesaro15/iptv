@@ -47,7 +47,7 @@ https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CNC.jpg" group-title="TV PERU",23 | CNC CAJAMARCA |
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",24 | BELLA ASUNCION TV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/bella.jpg" group-title="TV PERU",24 | BELLA ASUNCION TV 
 https://tvdatta.com:3602/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/antares.jpg" group-title="TV PERU",25 | ANTARES TV |
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
@@ -56,7 +56,7 @@ https://live.obslivestream.com/cumo/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/perumagico.jpg" group-title="TV PERU",27 | PERU MAGICO |
 http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/151547
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/maticesTV.jpg" group-title="TV PERU",28 | MATICES/DEPORTES |
-https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
+https://play.agenciastreaming.com:8081/maticestv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/conecta2.jpg" group-title="TV PERU",29 | CONECTA2 TV |
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Planeta.jpg" group-title="TV PERU",30 | PLANETA TV | 
@@ -211,7 +211,7 @@ https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EYfJ5j2.jpeg" group-title="TV PERU",105 | RTV TOTAL |
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",106 | MILENIAL TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/milenialTV.jpg" group-title="TV PERU",106 | MILENIAL TV |
 https://www.milenial.news/salida/milenial.m3u8
 
 
