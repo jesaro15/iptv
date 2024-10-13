@@ -214,8 +214,10 @@ https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/milenialTV.jpg" group-title="TV PERU",106 | MILENIAL TV |
 https://www.milenial.news/salida/milenial.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/4E68deC.jpeg" group-title="TV PERU", | SELVA TV |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/4E68deC.jpeg" group-title="TV PERU",107 | SELVA TV |
 https://videoserver.tmcreativos.com:19360/selvatv/selvatv.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/IaTF8ye.jpeg" group-title="TV PERU",108 | FOLKLORE TV |
+https://tv.folkloretv.pe/folkloretv/tracks-v1a1/index.m3u8
 
 
 
