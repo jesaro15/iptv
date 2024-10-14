@@ -158,7 +158,7 @@ https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w759963595.m3u8
 https://live.obslivestream.com/mastertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/soltv.jpg" group-title="TV PERU",79 | SOL TV |  
 https://video03.logicahost.com.br/soltv/soltv/chunklist_w1946435464.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/amazonica.jpg" group-title="TV PERU",80 | AMAZONICA TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Amazonica1.jpg" group-title="TV PERU",80 | AMAZONICA TV |
 https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cr.jpg" group-title="TV PERU",81 | CR TV |
 https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
