@@ -673,7 +673,8 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jpQ6BRScQmTULj10mUkjEKelhX.jpg" group-title="PELICULAS SELECCIONADAS",La vida de Pi 2017
+http://daleplay.club:8080/movie/VictorNaranjo/Victor09122021/e53b0fe0-28b3-4d2f-813e-1b52b0df0769.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83sGKvCv2T2CulYbd40Aeduc7n2.jpg" group-title="PELICULAS SELECCIONADAS",Misión: Imposible - Sentencia mortal parte uno (2023)
 http://daleplay.club:80/movie/VictorNaranjo/Victor09122021/312864.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiufjE3kfM9e0qIlEdGEmkUcXky.jpg" group-title="PELICULAS SELECCIONADAS",Talentos Ocultos (2016)
