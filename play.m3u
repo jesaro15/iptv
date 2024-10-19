@@ -130,7 +130,7 @@ https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/qosqotimes.jpg" group-title="TV PERU",64 | QOSQO TIMES TV |
 https://servilive.com:3753/live/qosqotimeslive.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/andes.jpg" group-title="TV PERU",65 | ANDES TV |
+#EXTINF:-1 tvg-logo="https://ibb.co/CW4hTYP" group-title="TV PERU",65 | ANDES TV |
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/LzoduWY.jpeg" group-title="TV PERU",66 | MILLENIUM TV |
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
