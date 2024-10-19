@@ -32,9 +32,9 @@ http://daleplay.club:80/VictorNaranjo/Victor09122021/330739.ts
 https://s1.tvdatta.com:3252/live/cajamarcatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nativaTV.jpg" group-title="TV PERU",15 | NATIVA TV |
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ondadigitalTV2.jpg" group-title="TV PERU",16 | ONDA DIGITAL 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ondadigitalTV2.jpg" group-title="TV PERU",16 | ONDA DIGITAL |
 https://v4.tustreaming.cl/ondadigitaltv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ondadigitalTV2.jpg" group-title="TV PERU",17 | ONDA DIGITAL 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ondadigitalTV2.jpg" group-title="TV PERU",17 | ONDA DIGITAL 2 |
 https://v4.tustreaming.cl/odtv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/piuraTV.jpg" group-title="TV PERU",18 | PIURA TV |
 https://live.obslivestream.com/piuratv/tracks-v1a1/mono.m3u8
@@ -48,7 +48,7 @@ https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CNC.jpg" group-title="TV PERU",23 | CNC CAJAMARCA |
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/bella.jpg" group-title="TV PERU",24 | BELLA ASUNCION TV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/bella.jpg" group-title="TV PERU",24 | BELLA ASUNCION TV |
 https://tvdatta.com:3602/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/antares.jpg" group-title="TV PERU",25 | ANTARES TV |
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
@@ -226,6 +226,8 @@ https://live.obslivestream.com/canaltrece/tracks-v1a1/mono.m3u8
 https://stmv1.voxhdnet.com/solartv/solartv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",112 | COSITEL TV ICA |
 https://radiomelody.com.ar/hls/58204630.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",113 | RADIO TROPICAL TV |
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
 
 
