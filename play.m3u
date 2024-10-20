@@ -224,7 +224,7 @@ https://live.obslivestream.com/tvoriente/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/canaltrece/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",111 | SOLAR TV CUSCO |
 https://stmv1.voxhdnet.com/solartv/solartv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",112 | COSITEL TV ICA |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/aBMz6Vf.jpeg" group-title="TV PERU",112 | COSITEL TV |
 https://radiomelody.com.ar/hls/58204630.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",113 | RADIO TROPICAL TV |
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
