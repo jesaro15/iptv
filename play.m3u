@@ -220,13 +220,13 @@ https://videoserver.tmcreativos.com:19360/selvatv/selvatv.m3u8
 https://tv.folkloretv.pe/folkloretv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/fbKNDu2.jpeg" group-title="TV PERU",109 | ORIENTE TV |
 https://live.obslivestream.com/tvoriente/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",110 | TRECE TV |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/J3b7pME.jpeg" group-title="TV PERU",110 | TRECE TV |
 https://live.obslivestream.com/canaltrece/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",111 | SOLAR TV CUSCO |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/m9hx40I.jpeg" group-title="TV PERU",111 | SOLAR TV CUSCO |
 https://stmv1.voxhdnet.com/solartv/solartv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/aBMz6Vf.jpeg" group-title="TV PERU",112 | COSITEL TV |
 https://radiomelody.com.ar/hls/58204630.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",113 | RADIO TROPICAL TV |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/8ngqNBp.jpeg" group-title="TV PERU",113 | RADIO TROPICAL TV |
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
 
