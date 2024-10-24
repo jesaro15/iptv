@@ -60,7 +60,7 @@ http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/151547
 https://play.agenciastreaming.com:8081/maticestv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CONECTADOS.jpg" group-title="TV PERU",29 | CONECTA2 TV |
 https://servilive.com:3114/live/liveulive.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Planeta.jpg" group-title="TV PERU",30 | PLANETA TV | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Planeta1.jpg" group-title="TV PERU",30 | PLANETA TV | 
 https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/bhTV.jpg" group-title="TV PERU",31 | BH TV |
 https://play.agenciastreaming.com:8081/bhtv/tracks-v1a1/index.m3u8   
@@ -164,7 +164,7 @@ https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8
 https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Vclassic.jpg" group-title="TV PERU",82 | VCLASSIC TV |
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1888254998.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/DMJ.jpg" group-title="TV PERU",83 | DMJ | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/dmj1.jpg" group-title="TV PERU",83 | DMJ | 
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ucayalitv.jpg" group-title="TV PERU",84 | UCAYALI TV |
 https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/f9699826eb94721a3fedae7c5fbe0609/index.m3u8
