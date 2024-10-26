@@ -322,7 +322,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/zBGnvS1.jpeg" group-title="TV NOTICIAS",41 | ABC NEWS SYDNEY
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/98yi3aN.jpeg" group-title="TV NOTICIAS",42 | RIA NOVOSTI 360
 https://e10-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/wjJqsR8.jpeg" group-title="TV NOTICIAS",43 | BST 24 
@@ -367,7 +367,10 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/s54MYCI.jpeg" group-title="TV LATINA",AR | BAYRES TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="TV LATINA",AR | CANAL 18
+https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV LATINA",AR | CANAL 12 WEB
+https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/chunklist_w1739492455.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/XV3HtWo.jpeg" group-title="TV LATINA",CAMBIO
