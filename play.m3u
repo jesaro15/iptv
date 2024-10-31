@@ -135,7 +135,7 @@ https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/LzoduWY.jpeg" group-title="TV PERU",66 | MILLENIUM TV |
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canalx.jpg" group-title="TV PERU",67 | CANAL X |
-https://cp.panelchs.com:1936/rsuzqenanb/rsuzqenanb/playlist.m3u8
+https://live.obslivestream.com/xtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/genios1.jpg" group-title="TV PERU",68 | GENIOS TV |
 https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/telecolor2.jpg" group-title="TV PERU",69 | TELECOLOR |
