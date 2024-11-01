@@ -269,7 +269,7 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/i869d0u.jpeg" group-title="TV NOTICIAS",16 | La 1 ᴴᴰ
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS", | La 2 ES
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/ugvlY1s.jpeg" group-title="TV NOTICIAS",16.1 | La 2 ᴴᴰ
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/aJjmTBd.jpeg" group-title="TV NOTICIAS",17 | NEGOCIOS TV ᴴᴰ 
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
