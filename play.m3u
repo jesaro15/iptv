@@ -269,6 +269,8 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/i869d0u.jpeg" group-title="TV NOTICIAS",16 | La 1 ᴴᴰ
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS", | La 2 ES
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/aJjmTBd.jpeg" group-title="TV NOTICIAS",17 | NEGOCIOS TV ᴴᴰ 
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/zEgrPH9.jpeg" group-title="TV NOTICIAS",18 | 324 TV 
@@ -314,7 +316,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/TdXNMcG.jpeg" group-title="TV NOTICIAS",37 | ABN KR
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",38 | CANAL GOV TV HD BRASIL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canalgov.jpg" group-title="TV NOTICIAS",38 | CANAL GOV TV HD BRASIL
 https://canalgov-stream.ebc.com.br/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/jUaM4GB.jpeg" group-title="TV NOTICIAS",39 | REDE TV ᴴᴰ
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
