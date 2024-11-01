@@ -314,24 +314,26 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/TdXNMcG.jpeg" group-title="TV NOTICIAS",37 | ABN KR
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/jUaM4GB.jpeg" group-title="TV NOTICIAS",38 | REDE TV ᴴᴰ
+#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",38 | CANAL GOV TV HD BRASIL
+https://canalgov-stream.ebc.com.br/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/jUaM4GB.jpeg" group-title="TV NOTICIAS",39 | REDE TV ᴴᴰ
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/1ibZC9Q.jpeg" group-title="TV NOTICIAS",39 | RECORD NEWS ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/1ibZC9Q.jpeg" group-title="TV NOTICIAS",40 | RECORD NEWS ᴴᴰ
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",40 | RTP 1 
+#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",41 | RTP 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/zBGnvS1.jpeg" group-title="TV NOTICIAS",41 | ABC NEWS SYDNEY
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/zBGnvS1.jpeg" group-title="TV NOTICIAS",42 | ABC NEWS SYDNEY
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/98yi3aN.jpeg" group-title="TV NOTICIAS",42 | RIA NOVOSTI 360
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/98yi3aN.jpeg" group-title="TV NOTICIAS",43 | RIA NOVOSTI 360
 https://e10-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/wjJqsR8.jpeg" group-title="TV NOTICIAS",43 | BST 24 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/wjJqsR8.jpeg" group-title="TV NOTICIAS",44 | BST 24 
 https://cdn.bst.bratsk.ru/hls/bst2/sd/stream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",44 | RUSIA DESCONOCIDA 
+#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",45 | RUSIA DESCONOCIDA 
 http://cdn.ntv.ru/unknown_russia/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/iR3EbZF.jpeg" group-title="TV NOTICIAS",45 | AFRICA 24 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/iR3EbZF.jpeg" group-title="TV NOTICIAS",46 | AFRICA 24 ᴴᴰ
 https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",46 | CANAL 11 ISRAEL
+#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",47 | CANAL 11 ISRAEL
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
 
 
