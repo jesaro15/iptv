@@ -1,9 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", | VENEZOLANA DE TELEVISION
-https://live-c.cf.dmcdn.net/sec2(tHS1NmAi5kBQwaFpYOFbRJHrQEFlnm1jpXhgatNm6JBOB7JrZezjIo8Pm8EUHx_uaEwo5UsNzUv1CWqdWhFTz10RBfcji4n8LdFHNF-4mzRcb0Y9d3VDm5PzMbTCx_FG)/dm/3/x930kre/d/live-1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", | MOON
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL", | LIGA 1 PERU
+https://castlempire.site:443/robertourrea2/27cb82bc/247049.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL", | LA LIGA MAX HD
+https://castlempire.site:443/robertourrea2/27cb82bc/247396.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL", | Liga 1 MAX (EXCLUSIVO)
+https://castlempire.site:443/robertourrea2/27cb82bc/247397.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL", | Liga 1  UHD
+https://castlempire.site:443/robertourrea2/27cb82bc/247398.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", | TRONCO
 
