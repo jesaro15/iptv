@@ -340,8 +340,10 @@ https://cdn.bst.bratsk.ru/hls/bst2/sd/stream.m3u8
 http://cdn.ntv.ru/unknown_russia/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/iR3EbZF.jpeg" group-title="TV NOTICIAS",48 | AFRICA 24 ᴴᴰ
 https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",49 | CANAL 11 ISRAEL
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/WJ2vcVN.jpeg" group-title="TV NOTICIAS",49 | CANAL 11 ISRAEL
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/cWfpuoX.jpeg" group-title="TV NOTICIAS", | CANAL 12 ISRAEL
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1/hdntl=exp=1730902906~acl=%2f*~data=hdntl~hmac=6534bdf1e08c1673127ba9e4d8b0a3d33c2fc1ed2b68dec5c45b3973ed60739b/profileManifest.m3u8?_uid=d10212bc-f9f3-4da2-a6d6-2adad1603799&rK=a5&_did=9656a53ede983aa2ba78870cdfc3753af7767f9a
 
 
 
