@@ -5,7 +5,7 @@ http://novared.pro:8080/salomon05vecp/chonillo195605/330722
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/latina.jpg" group-title="TV PERU",2 | LATINA TV |
 https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/RPP1.jpg" group-title="TV PERU",3 | RPP TV |
-http://daleplay.club:8080/live/VictorNaranjo/Victor09122021/4a310694-7873-4b97-a2be-83afbf804154.m3u8
+http://novared.pro:8080/salomon05vecp/chonillo195605/330727
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/americatv.jpg" group-title="TV PERU",4 | AMERICA TV |
 http://daleplay.club:8080/live/VictorNaranjo/Victor09122021/1511c406-1b16-4e57-8b41-d28f4caba950.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/panamericanape.jpg" group-title="TV PERU",5 | PANAMERICANA TV |
@@ -17,7 +17,7 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TVPerúNoticias.jpg" group-title="TV PERU",8 | TV PERU NOTICIAS |
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canalN.jpg" group-title="TV PERU",9 | CANAL N |
-http://daleplay.club:8080/live/VictorNaranjo/Victor09122021/e2cb72e3-69d8-49be-ae16-418944828925.m3u8
+http://novared.pro:8080/salomon05vecp/chonillo195605/330725
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVhd.jpg" group-title="TV PERU",10 | ATV HD |
 https://d19e55ehz2il4i.cloudfront.net/live2/alba-pe-atv-atv_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVPLUS.jpg" group-title="TV PERU",11 | ATV PLUS |
@@ -27,7 +27,7 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/live2/alba-pe-atv-atvsur_
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/wIgmzRJ.jpeg" group-title="TV PERU",13 | REGION TV |
 https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/globalTV.jpg" group-title="TV PERU",14 | GLOBAL TV |
-http://daleplay.club:80/VictorNaranjo/Victor09122021/330739.ts
+http://novared.pro:8080/salomon05vecp/chonillo195605/330739
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cajamarca.jpg" group-title="TV PERU",15 | CAJAMARCA TV |
 https://s1.tvdatta.com:3252/live/cajamarcatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nativaTV.jpg" group-title="TV PERU",16 | NATIVA TV |
