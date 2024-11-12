@@ -7,7 +7,7 @@ https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/RPP1.jpg" group-title="TV PERU",3 | RPP TV |
 http://novared.pro:8080/salomon05vecp/chonillo195605/330727
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/americatv.jpg" group-title="TV PERU",4 | AMERICA TV |
-https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_360p/chunks.m3u
+https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_360p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/panamericanape.jpg" group-title="TV PERU",5 | PANAMERICANA TV |
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/exitosa1.jpg" group-title="TV PERU",6 | EXITOSA TV |
