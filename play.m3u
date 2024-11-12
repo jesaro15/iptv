@@ -342,9 +342,12 @@ http://cdn.ntv.ru/unknown_russia/playlist.m3u8
 https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/WJ2vcVN.jpeg" group-title="TV NOTICIAS",49 | CANAL 11 ISRAEL
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/cWfpuoX.jpeg" group-title="TV NOTICIAS", | CANAL 12 ISRAEL
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/cWfpuoX.jpeg" group-title="TV NOTICIAS",50 | CANAL 12 ISRAEL
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1/hdntl=exp=1730902906~acl=%2f*~data=hdntl~hmac=6534bdf1e08c1673127ba9e4d8b0a3d33c2fc1ed2b68dec5c45b3973ed60739b/profileManifest.m3u8?_uid=d10212bc-f9f3-4da2-a6d6-2adad1603799&rK=a5&_did=9656a53ede983aa2ba78870cdfc3753af7767f9a
-
+#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",51 | TV5 MONDE INFO ᴴᴰ
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",52 | ULKE ᴴᴰ TURQUIA 
+https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 
 
 
@@ -683,7 +686,7 @@ https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0051dffef6555ae2d69b59e63b301b3b.webp" group-title="TV DOCUMENTALES", | LOVE THE PLANET
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3c68be115b84c3ed79f320f0bbc77968.webp" group-title="TV DOCUMENTALES", | LOVE NATURE
-https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/480p-cc/index.m3u8
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ab9a956d38f2361c92545120dee2a95.webp" group-title="TV DOCUMENTALES", | RT DOCUMENTARY
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
 
