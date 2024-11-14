@@ -24,10 +24,10 @@ https://d19e55ehz2il4i.cloudfront.net/live2/alba-pe-atv-atv_720p/index.m3u8
 https://d1svme839xkbsn.cloudfront.net/live2/alba-pe-atv-atvmas_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVSUR.jpg" group-title="TV PERU",12 | ATV SUR |
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/live2/alba-pe-atv-atvsur_720p/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/wIgmzRJ.jpeg" group-title="TV PERU",13 | REGION TV |
-https://servilive.com:3757/live/regiontvlive.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/globalTV.jpg" group-title="TV PERU",14 | GLOBAL TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/globalTV.jpg" group-title="TV PERU",13 | GLOBAL TV |
 http://novared.pro:8080/salomon05vecp/chonillo195605/330739
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/wIgmzRJ.jpeg" group-title="TV PERU",14 | REGION TV |
+https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cajamarca.jpg" group-title="TV PERU",15 | CAJAMARCA TV |
 https://s1.tvdatta.com:3252/live/cajamarcatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nativaTV.jpg" group-title="TV PERU",16 | NATIVA TV |
@@ -112,7 +112,7 @@ https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/x0AwyNQ.jpeg" group-title="TV PERU",56 | TUMPIS TV |
 https://servilive.com:3531/live/tumpistvlive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",57 | TUMPIS TV |2
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",57 | TUMPIS 2 TV |
 https://servilive.com:3531/stream/play.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/JrTCsOD.jpeg" group-title="TV PERU",58 | PLANEA TV |
 https://vdo.grupolimalive.com:3045/live/planeatvlive.m3u8
@@ -128,6 +128,8 @@ https://mc.servidor.stream:19360/megatv/megatv.m3u8
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/autnetica.jpg" group-title="TV PERU",64 | AUTENTICA TELEVISION |
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",65 | CUTERVO TV |
+https://mc.servidor.stream:19360/8256/8256.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/qosqotimes.jpg" group-title="TV PERU",66 | QOSQO TIMES TV |
 https://servilive.com:3753/live/qosqotimeslive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Andestv2.jpg" group-title="TV PERU",67 | ANDES TV |
