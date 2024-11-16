@@ -699,6 +699,9 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/13/12/26/09/57/548572.jpg" group-title="PELICULAS SELECCIONADAS",Río 2 (2014)
+http://daleplay.club:8080/movie/VictorNaranjo/Victor09122021/a2c4d0a5-f9a5-4b7c-962e-e43905d4447a.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/img/88/31/8831ac3831689dc31954d1475ba104c6.jpg" group-title="PELICULAS SELECCIONADAS",Mi amigo el pingüino (2024)
 https://castlempire.site:443/movie/robertourrea2/27cb82bc/365659.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jpQ6BRScQmTULj10mUkjEKelhX.jpg" group-title="PELICULAS SELECCIONADAS",La vida de Pi 2017
