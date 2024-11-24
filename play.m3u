@@ -128,7 +128,7 @@ https://mc.servidor.stream:19360/megatv/megatv.m3u8
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/autnetica.jpg" group-title="TV PERU",64 | AUTENTICA TELEVISION |
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",65 | CUTERVO TV |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/xaw1nU9.jpeg" group-title="TV PERU",65 | CALU TV |
 https://mc.servidor.stream:19360/8256/8256.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/qosqotimes.jpg" group-title="TV PERU",66 | QOSQO TIMES TV |
 https://servilive.com:3753/live/qosqotimeslive.m3u8
@@ -234,7 +234,7 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 https://play.agenciastreaming.com:8081/bnblimalive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/PBMX1bs.jpeg" group-title="TV PERU",116 | FRECUENCIA MUSICAL TV |
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",117 | MYTV CANAL 19 CHINCHA |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/DM9Yq0r.jpeg" group-title="TV PERU",117 | MYTV CANAL 19 CHINCHA |
 https://vdo.voxhdnet.com:3699/live/mytvcanal19live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",118 | LA ABEJA TV |
 https://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8
@@ -336,7 +336,7 @@ https://canalgov-stream.ebc.com.br/chunks.m3u8
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/1ibZC9Q.jpeg" group-title="TV NOTICIAS",42 | RECORD NEWS ᴴᴰ
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",43 | RTP 1 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/DskOrzA.jpeg" group-title="TV NOTICIAS",43 | RTP 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/zBGnvS1.jpeg" group-title="TV NOTICIAS",44 | ABC NEWS SYDNEY
@@ -353,9 +353,9 @@ https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/cWfpuoX.jpeg" group-title="TV NOTICIAS",50 | CANAL 12 ISRAEL
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1/hdntl=exp=1730902906~acl=%2f*~data=hdntl~hmac=6534bdf1e08c1673127ba9e4d8b0a3d33c2fc1ed2b68dec5c45b3973ed60739b/profileManifest.m3u8?_uid=d10212bc-f9f3-4da2-a6d6-2adad1603799&rK=a5&_did=9656a53ede983aa2ba78870cdfc3753af7767f9a
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",51 | TV5 MONDE INFO ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/3T6vkgw.jpeg" group-title="TV NOTICIAS",51 | TV5 MONDE INFO ᴴᴰ
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",52 | ULKE ᴴᴰ TURQUIA 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/dkCLgGK.jpeg" group-title="TV NOTICIAS",52 | ULKE ᴴᴰ TURQUIA 
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/ex42TLO.jpeg" group-title="TV NOTICIAS",53 | SKY NEWS |
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
