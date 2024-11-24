@@ -331,7 +331,7 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/TdXNMcG.jpeg" group-title="TV NOTICIAS",39 | ABN KR
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canalgov.jpg" group-title="TV NOTICIAS",40 | CANAL GOV TV HD BRASIL
-https://canalgov-stream.ebc.com.br/chunks.m3u8
+https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/jUaM4GB.jpeg" group-title="TV NOTICIAS",41 | REDE TV ᴴᴰ
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/1ibZC9Q.jpeg" group-title="TV NOTICIAS",42 | RECORD NEWS ᴴᴰ
