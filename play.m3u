@@ -345,7 +345,7 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 https://e10-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/wjJqsR8.jpeg" group-title="TV NOTICIAS",46 | BST 24 
 https://cdn.bst.bratsk.ru/hls/bst2/sd/stream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",47 | RUSIA DESCONOCIDA 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/wNuhcQM.jpeg" group-title="TV NOTICIAS",47 | RUSIA DESCONOCIDA 
 http://cdn.ntv.ru/unknown_russia/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/ezoh14F.jpeg" group-title="TV NOTICIAS",48 | AFRICA 24 ᴴᴰ
 https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3u8
