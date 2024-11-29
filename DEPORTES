@@ -1,24 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL", | LIGA 1 PERU
-https://castlempire.site:443/robertourrea2/27cb82bc/247049.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL", | LA LIGA MAX HD
-https://castlempire.site:443/robertourrea2/27cb82bc/247396.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL", | Liga 1 MAX (EXCLUSIVO)
-https://castlempire.site:443/robertourrea2/27cb82bc/247397.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL", | Liga 1  UHD
-https://castlempire.site:443/robertourrea2/27cb82bc/247398.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL", | WIN SPORT
-https://castlempire.site:443/robertourrea2/27cb82bc/172523.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL", | TOM Y JERRY
-https://castlempire.site:443/robertourrea2/27cb82bc/192699.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL", | Los Locos Addams
-https://castlempire.site:443/robertourrea2/27cb82bc/196917.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL",AR | EL TRECE INTERNACIONAL
-https://castlempire.site:443/robertourrea2/27cb82bc/184388.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL",AR | FOX SPORTS 2
-https://castlempire.site:443/robertourrea2/27cb82bc/184456.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL",AR | FOX SPORTS 3
-https://castlempire.site:443/robertourrea2/27cb82bc/184457.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL",AR | FOX SPORTS PREMIUM SD
-https://castlempire.site:443/robertourrea2/27cb82bc/184461.ts
+#EXTINF:-1 tvg-logo="" group-title="LIMA", PANAMERICANA HD patrick
+http://cord-cutter.net:8080/patrick.newland@me.com/patrick.newland@41/110633
+
+#EXTINF:-1 tvg-logo="" group-title="LIMA", AMERICA TV patrick
+http://cord-cutter.net:8080/patrick.newland@me.com/patrick.newland@41/110637
+
+#EXTINF:-1 tvg-logo="" group-title="LIMA", LATINA
+http://cord-cutter.net:8080/patrick.newland@me.com/patrick.newland@41/110638
