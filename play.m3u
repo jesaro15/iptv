@@ -236,14 +236,14 @@ https://play.agenciastreaming.com:8081/bnblimalive/tracks-v1a1/mono.m3u8
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/DM9Yq0r.jpeg" group-title="TV PERU",117 | MYTV CANAL 19 CHINCHA |
 https://vdo.voxhdnet.com:3699/live/mytvcanal19live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",118 | CANAL 39 TV |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/RJ1w2Xf.jpeg" group-title="TV PERU",118 | CANAL 39 TV |
 https://vivatv.juanjuiserver.com:3655/live/canal39live.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/kcYygHC.jpeg" group-title="TV PERU",119 | RSELVA TV |
 https://live.obslivestream.com/selvatv/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/4aNeIZb.jpeg" group-title="TV PERU",120 | MEDIATV |
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/b2f381087e4b3d207b4eb6a2c0817d2f77f19055/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",121 | NQ TV |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/apzgqT4.jpeg" group-title="TV PERU",121 | NQ TV |
 https://live.obslivestream.com/nq/tracks-v1a1/mono.m3u8
 
 
