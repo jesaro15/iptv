@@ -77,7 +77,7 @@ https://live.obslivestream.com/mas1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/diasporaTV.jpg" group-title="TV PERU",38 | DIASPORA TV | 
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/karibenaTV.jpg" group-title="TV PERU",39 | KARIBEÑA TV |
-https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/tracks-v1a1/index.m3u8
+https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/dobleCTV.jpg" group-title="TV PERU",40 | DOBLE C TELEVISIÓN |
 https://s2.tvdatta.com:3371/live/tvchupacalive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/rnTV.jpg" group-title="TV PERU",41 | RN TELEVISION |
