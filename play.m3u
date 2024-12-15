@@ -19,11 +19,11 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canalN.jpg" group-title="TV PERU",9 | CANAL N |
 http://novared.pro:8080/salomon05vecp/chonillo195605/330725
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVhd.jpg" group-title="TV PERU",10 | ATV HD |
-https://d19e55ehz2il4i.cloudfront.net/480p.m3u8
+https://d19e55ehz2il4i.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVPLUS.jpg" group-title="TV PERU",11 | ATV PLUS |
-https://d1svme839xkbsn.cloudfront.net/480p.m3u8
+https://d1svme839xkbsn.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVSUR.jpg" group-title="TV PERU",12 | ATV SUR |
-https://d3r5ioyjqcy69v.cloudfront.net/480p.m3u8
+https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/globalTV.jpg" group-title="TV PERU",13 | GLOBAL TV |
 http://novared.pro:8080/salomon05vecp/chonillo195605/330739
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/wIgmzRJ.jpeg" group-title="TV PERU",14 | REGION TV |
