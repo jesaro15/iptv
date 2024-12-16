@@ -122,7 +122,7 @@ https://live.obslivestream.com/regionaltv/tracks-v1a1/mono.m3u8
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/98ZDOYE.jpeg" group-title="TV PERU",61 | USIL TV |
 https://per01-lim01.servidor.stream/usiltv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",62 | CAYETANO PLUS |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/bnEvL7P.jpeg" group-title="TV PERU",62 | CAYETANO PLUS |
 https://stream.cayetano.plus:3701/multi_web/play_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CadenaTv.jpg" group-title="TV PERU",63 | CADENA TV | 
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
@@ -236,7 +236,7 @@ https://play.agenciastreaming.com:8081/bnblimalive/tracks-v1a1/mono.m3u8
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/DM9Yq0r.jpeg" group-title="TV PERU",117 | MYTV CANAL 19 CHINCHA |
 https://vdo.voxhdnet.com:3699/live/mytvcanal19live.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/RJ1w2Xf.jpeg" group-title="TV PERU",118 | CANAL 39 TV |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/gS6GRlt.jpeg" group-title="TV PERU",118 | CANAL 39 TV |
 https://vivatv.juanjuiserver.com:3655/live/canal39live.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/kcYygHC.jpeg" group-title="TV PERU",119 | RSELVA TV |
 https://live.obslivestream.com/selvatv/index.m3u8
