@@ -200,6 +200,8 @@ https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 https://s4.tvdatta.com:3450/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Primavera15.jpg" group-title="TV PERU",99 | PRIMAVERA 15 |
 https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Primavera15.jpg" group-title="TV PERU",99.1 | PRIMAVERA 15 |
+https://servilive.com:3538/live/v6qe84b6flive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canal8.jpg" group-title="TV PERU",100 | CANAL 8 |
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/HechiceraTV.jpg" group-title="TV PERU",101 | HECHICERA TV | 
