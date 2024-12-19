@@ -268,6 +268,8 @@ http://novared.pro:8080/salomon05vecp/chonillo195605/69263
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/n6BuN7P.jpeg" group-title="TV NOTICIAS",5 | TELESUR ᴴᴰ (ALT)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/pZr8AKQ.jpeg" group-title="TV NOTICIAS",5.1 | CANAL 22 WEB
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w1527944810.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/IxBVQHy.jpeg" group-title="TV NOTICIAS",6 | VENEZOLANA DE TELEVISION 
 https://nxt.plus:8443/jesus01/jesus01/3437
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/t8r9Fn3.jpeg" group-title="TV NOTICIAS",6.1 | LA HOJILLA TV
@@ -275,6 +277,8 @@ https://nxt.plus:8443/jesus01/jesus01/3437
 https://cloud.odysee.live/content/7fd9b0b5a9434fed05fa3f358934e8e9fe427d63/live.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/3ebWV8p.jpeg" group-title="TV NOTICIAS",7 | LA IGUANA TV
 https://ythls.armelin.one/channel/UCCc2H9_eNnU7ucq2n7Sh3Rg.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/FgBhEXq.jpeg" group-title="TV NOTICIAS",7.1 | EXTRA TV |
+https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CoYGmW-OL3J69NaVxEE3fvadiMtqUF6H_79U_z8VY5ft9b7baLbai7U6yflpHjhxvKAZp2fxOEB60X95WFWz19DXWEIWzVh4kbilVmFgGflnS8xXfNzDUYer91lEp6MT7MwwttS52z1NpoRxGN9Difhif_5HPuaJzaCheF_qh2Ts_hYAxYjbzD-I3VcD9u2dMNXKMMXFKUZsP0WP8artqYpaJ4OeMtB4LzdvFALXYBYFIlcSfkwQwNZHe7O31kCdGbr-29NWgzjUqMycl_0BNAYoKbJjpH9W74C-Z68FKKec0Ax8Ik-uZIrUxnIYpXgBiUCvG49K6eaBwwcpBB4Zq-BaqzgSrPmYplcyjkt2yWrnghReI9HWkwLi8G5_fWKFk3Ryh_G8knhUGnypyn6aLc6_VfUE16RFyBXuwmIkHHzmq0rbrs4oOnh2x0cBJJRivD33VGx8OsY4lrK8NNId20T1v4jPxzjiC5FB8jBnSWvQlg19V2QCHEYCGr5c7mpYRS2RFN1cKQ0-8HFRqGp63WKHSHMbfjrHimZogUr6bo1IMFxerMVjGEem5eM27vixuHK2CKuHadcgzEWwU5DNpdi-hwbfwsUxLcWtLFxAB6cTXZ9_BQJzaS0tbS_8RAd4QEqyv1_CZO_ttS6u1wxYb4WjAmmnXDaBuqLtxzv7EbgjAJpiUgCSSXC6ky1N0kHJOB7DMiClRws990SJo7VBJcoPkOw5M2u0F8wuJUNlL7iY3Zmpmb7jGD_IVgAmblU55oREzWykRqyAavqNCDnrDJw_7H9ocwXCfIqvfIhkrHii-gpuXkkj04As4mLDuknpkGJJPUnfJhguR5unc25K90P-Cor30AKuagNaVi45Dc9qyezHKlQ2sirMtBsnAX2mohWnafTftYLwJNTPEoFV-BV3arksH3bnNfPH7qNKjHPuk3w3Mj_u45slDT5Z2ftzNb4a_g_AhY5rjgZjgTjYmG7tG7HyxkYtUf_0klZ_lZGB-WYwr1DpTwE7rcapfSzPEXsERBRvxZlRGgxctXI1ElfCH7dERGUgASoJdXMtZWFzdC0xMMYJ.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/te47Ed2.jpeg" group-title="TV NOTICIAS",8 | PRENSA LATINA TV ᴴᴰ 
 https://eu1.servers10.com:8081/8192/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/wBqjKfW.jpeg" group-title="TV NOTICIAS",9 | CUBA INTERNACIONAL ᴴᴰ
@@ -376,8 +380,8 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/mRZNM0j.jpeg" group-title="TV NOTICIAS",54 | TRT WORLD | 
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/FgBhEXq.jpeg" group-title="TV NOTICIAS",55 | EXTRA TV |
-https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CoYGmW-OL3J69NaVxEE3fvadiMtqUF6H_79U_z8VY5ft9b7baLbai7U6yflpHjhxvKAZp2fxOEB60X95WFWz19DXWEIWzVh4kbilVmFgGflnS8xXfNzDUYer91lEp6MT7MwwttS52z1NpoRxGN9Difhif_5HPuaJzaCheF_qh2Ts_hYAxYjbzD-I3VcD9u2dMNXKMMXFKUZsP0WP8artqYpaJ4OeMtB4LzdvFALXYBYFIlcSfkwQwNZHe7O31kCdGbr-29NWgzjUqMycl_0BNAYoKbJjpH9W74C-Z68FKKec0Ax8Ik-uZIrUxnIYpXgBiUCvG49K6eaBwwcpBB4Zq-BaqzgSrPmYplcyjkt2yWrnghReI9HWkwLi8G5_fWKFk3Ryh_G8knhUGnypyn6aLc6_VfUE16RFyBXuwmIkHHzmq0rbrs4oOnh2x0cBJJRivD33VGx8OsY4lrK8NNId20T1v4jPxzjiC5FB8jBnSWvQlg19V2QCHEYCGr5c7mpYRS2RFN1cKQ0-8HFRqGp63WKHSHMbfjrHimZogUr6bo1IMFxerMVjGEem5eM27vixuHK2CKuHadcgzEWwU5DNpdi-hwbfwsUxLcWtLFxAB6cTXZ9_BQJzaS0tbS_8RAd4QEqyv1_CZO_ttS6u1wxYb4WjAmmnXDaBuqLtxzv7EbgjAJpiUgCSSXC6ky1N0kHJOB7DMiClRws990SJo7VBJcoPkOw5M2u0F8wuJUNlL7iY3Zmpmb7jGD_IVgAmblU55oREzWykRqyAavqNCDnrDJw_7H9ocwXCfIqvfIhkrHii-gpuXkkj04As4mLDuknpkGJJPUnfJhguR5unc25K90P-Cor30AKuagNaVi45Dc9qyezHKlQ2sirMtBsnAX2mohWnafTftYLwJNTPEoFV-BV3arksH3bnNfPH7qNKjHPuk3w3Mj_u45slDT5Z2ftzNb4a_g_AhY5rjgZjgTjYmG7tG7HyxkYtUf_0klZ_lZGB-WYwr1DpTwE7rcapfSzPEXsERBRvxZlRGgxctXI1ElfCH7dERGUgASoJdXMtZWFzdC0xMMYJ.m3u8
+
+
 
 
 
