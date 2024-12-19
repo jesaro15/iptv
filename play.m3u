@@ -270,7 +270,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/IxBVQHy.jpeg" group-title="TV NOTICIAS",6 | VENEZOLANA DE TELEVISION 
 https://nxt.plus:8443/jesus01/jesus01/3437
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",6.1 | LA HOJILLA TV
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/t8r9Fn3.jpeg" group-title="TV NOTICIAS",6.1 | LA HOJILLA TV
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/7fd9b0b5a9434fed05fa3f358934e8e9fe427d63/live.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/3ebWV8p.jpeg" group-title="TV NOTICIAS",7 | LA IGUANA TV
