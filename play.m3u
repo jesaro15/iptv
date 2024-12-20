@@ -272,9 +272,9 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/pZr8AKQ.jpeg" group-title="TV NOTICIAS",5.1 | CANAL 22 WEB
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w1527944810.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/IxBVQHy.jpeg" group-title="TV PERU",6 | VENEZOLANA DE TELEVISIÓN
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/IxBVQHy.jpeg" group-title="TV NOTICIAS",6 | VENEZOLANA DE TELEVISIÓN
 https://nxt.plus:8443/jesus01/jesus01/3437
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/IxBVQHy.jpeg" group-title="TV PERU",6.1 | VENEZOLANA DE TELEVISIÓN (ALT)
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/IxBVQHy.jpeg" group-title="TV NOTICIAS",6.1 | VENEZOLANA DE TELEVISIÓN (ALT)
 https://live-b.cf.dmcdn.net/sec2(t2XWtfbFPCU3LSGtH9ASb2txdtFVuXweMtiVhxfgDG6JGN3EBzbnhHnFK18ScqZ40DWrnuxPt1WwUleWwRyG5tJjpGRdmspjEdMbeEzUMJAdNOtP3mqIplNo1OKym3h-)/dm/3/x930kre/d/live-720.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/t8r9Fn3.jpeg" group-title="TV NOTICIAS",6.2 | LA HOJILLA TV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://odysee.com/
