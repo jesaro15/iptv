@@ -251,7 +251,7 @@ https://live.obslivestream.com/nq/tracks-v1a1/mono.m3u8
 https://mc.servidor.stream:19360/megatv/megatv.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/UmdMN7X.jpeg" group-title="TV PERU",123 | LA RIBERÑA |
 https://tv.juanjuistream.uk:3226/live/ezpzhefzlive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",124 | QUASSAR TV |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/FBXJkgb.jpeg" group-title="TV PERU",124 | QUASSAR TV |
 https://gnstreammedia.com:19360/4000/4000.m3u8
 
 
@@ -708,7 +708,7 @@ https://live-c.cf.dmcdn.net/sec2(hvbmELbWSM65qKjFut0oaHxNr5HZVQETDOrHYbTmO5vik5V
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="TV DOCUMENTALES", | EL CHAVO DEL 8 TV
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/1abDHkK.jpeg" group-title="TV DOCUMENTALES", | EL CHAVO DEL 8 TV
 https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/Co8G_YlpuNanetQ-f8AfQRyehe0BguKPbzqBW9M_iFu3ldXOsxmZbL8D6JcmbMhkXX4YvYYqPixsx7JSkBZDgjsTwzGGQAZhWsWAXhb_2-namlfLqrtDV6pi_fw9uIxhWvMe98LJwjXTb7beE2hBx8AxOXVX8bAz9g_S4DdPQe2bpe5301JKsOVqhxKWZlhiyYl-U_EZlj04TV0PSfX5pxdeRnReDNDM7jdZU96MrZ69O1tbGoqiuAndJMr_tkPRaFRUDvj8u9L1Wgnavlg6oFvVMBhzn5601aK4ZqyUBRgDBtfcBpq91mwRbq_P3uaIEd0kIjm9iqFpWRSUb2hwpkHXaD-vIz1Y2i2hBV2epgJVeUtfdVjRzFNXxPBFEPtXGKXA2akVtDG1IFUifdIHRQgZ1cQAAf6WIrl5KMY-0pOOfy9uu8Ad9Yx6S6o7UVr7ibCZXfHve5TAHkSnUiCy2FK064nbm7Lx0d5Vnbf2vIxj3bdKPe1tiMuYGpQjjWMX2vrQpalOa9aWojxPLRYrCmBb_ssRobBdTNrQUGk9fUVs82dtJdQYPZwhu-2gZdp-ePweGtJDD-DNDq8CzcA-Mm5_9HElvY38QsZJ8x3osVGNS4wh5xZO5mpJBE9lrcRebY1b7koLIAzFH8ENPj-znNLWA0WABLQpbzQ5OpYksv5-E-I-Yng9w7u_3CQ2-TXiSNQuBSmBL04HRrOyvZU0h9ooqy2UxDGCBaV9r3nb3qRMK9Vx9j9gfYlNQKgOTp4wQ3llUKW5s3oyTHYI3-UVYPTJQnXsotnUdglnQLuvq_JjlgMgNffqi5kma8rFeT4HeU53_1RMBxhY8TQPibx-_N6R6FDNGLcNOpFJWm-0rTfM00_Y7YfznYrn-9r55ORrkkpbf5SJ1Xy3hIQbjV3y3a1doWoQ-cDufNmxqY1QvN0yavvyidUl5E3RMea_vjRo1b33uAQfvZ5JTYs6D2ncCAJe3usqJmvsl44IF9hZ4AYWVXsm3Ebp4DgoeEMx7EWOGlNgp1n49oRf0utJILLZEP6tGgwzGVf7E3CkWkAdnSQgASoJdXMtZWFzdC0xMMkJ.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fa9ce50e5372b0370d861138ca7e935f.webp" group-title="TV DOCUMENTALES", | WILD EARTH
 https://wildearth-plex.amagi.tv/masterR432p.m3u8
