@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="" group-title="LIMA",VENE | LA IGUANA TV X |
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/05j1QqMkdySQvZiPwEsfhtb862s_-gjlTca28EQoSD_ESCFsFDaLmjwmm5WxNsBEs7918Mo1Yj_y2gbkq8xJOg/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1 tvg-logo="" group-title="LIMA",VENE | LA HOJILLA TV |
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/7fd9b0b5a9434fed05fa3f358934e8e9fe427d63/live.m3u8
