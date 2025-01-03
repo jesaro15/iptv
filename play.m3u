@@ -242,6 +242,8 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://vdo.voxhdnet.com:3699/live/mytvcanal19live.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/gS6GRlt.jpeg" group-title="TV PERU",118 | CANAL 39 TV |
 https://vivatv.juanjuiserver.com:3655/live/canal39live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",118.1 | CANAL A1 HD |
+https://tv1.mediacp.eu:3318/live/rkphgwyalive.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/kcYygHC.jpeg" group-title="TV PERU",119 | RSELVA TV |
 https://live.obslivestream.com/selvatv/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/4aNeIZb.jpeg" group-title="TV PERU",120 | MEDIATV |
