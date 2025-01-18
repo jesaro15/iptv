@@ -751,7 +751,10 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
 https://nxt.plus:8443/movie/jesus01/jesus01/207241.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aayn0BuqROMfgKWrOVWxEc4aZ0X.jpg" group-title="PELICULAS SELECCIONADAS",Una aventura gigante (2023)
 https://nxt.plus:8443/movie/jesus01/jesus01/207242.mkv
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6wkgEH1gTWAafH9Bc7cNNut0Kf.jpg" group-title="PELICULAS SELECCIONADAS",Moana: Un mar de aventuras (2016)
+https://nxt.plus:8443/movie/jesus01/jesus01/132687.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f4voSsbPTvaQwicwd1dyxICow6c.jpg" group-title="PELICULAS SELECCIONADAS",Moana 2 (2024)
+https://nxt.plus:8443/movie/jesus01/jesus01/247659.mkv
 #EXTINF:-1 tvg-logo="https://assets.gadgets360cdn.com/pricee/assets/product/202312/Mufasa-The-Lion-King-poster_1703830428.jpg" group-title="PELICULAS SELECCIONADAS",Mufasa: El rey león (2024)
 http://planettvweb.com:8091/movie/sebastianmartinez/6tvs33u3/117709.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/ysQqYp9G37Q114Nc6uvCHbDmaj6.jpg" group-title="PELICULAS SELECCIONADAS",La era del Hielo : En busca del huevo (2016)
