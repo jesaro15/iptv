@@ -746,7 +746,8 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Instintos_ocultos-547072881-large.jpg" group-title="PELICULAS SELECCIONADAS",Viajeros (2021)
+https://nxt.plus:8443/movie/jesus01/jesus01/131977.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaJw3h9eyvEInR0IgClxjCFzAVC.jpg" group-title="PELICULAS SELECCIONADAS",Tranquilo soy del futuro (2023)
 https://nxt.plus:8443/movie/jesus01/jesus01/207241.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aayn0BuqROMfgKWrOVWxEc4aZ0X.jpg" group-title="PELICULAS SELECCIONADAS",Una aventura gigante (2023)
@@ -887,8 +888,7 @@ http://home-playtv.com:8080/movie/JulioO/WCHST/234007.mkv
 http://home-playtv.com:8080/movie/JulioO/WCHST/13894.mkv
 #EXTINF:-1  tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/GmPXcuD8RFoivUaGay7j5cPURl.jpg" group-title="PELICULAS SELECCIONADAS",24 horas para vivir (2017)
 http://lobo-tv.live:8080/movie/Goyosdmex/SrEaaz7VS8ry/2135639.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Instintos_ocultos-547072881-large.jpg" group-title="PELICULAS SELECCIONADAS",Viajeros (2021)
-http://lobo-tv.live:8080/movie/Goyosdmex/SrEaaz7VS8ry/2137311.mkv
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/die-hard-scenario/images/c/ce/DHS-_Last_Mand_Standing_%281996%29_alternate_movie_poster_version_3.jpg" group-title="PELICULAS SELECCIONADAS",Last Man Standing (1996)
 http://cord-cutter.net:8080/movie/patrick.newland@me.com/patrick.newland@41/197145.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yNpSqsRuLyyrRltXvtrbXhZinqO.jpg" group-title="PELICULAS SELECCIONADAS",Dog: Un viaje salvaje (2022)
