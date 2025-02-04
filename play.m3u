@@ -269,6 +269,20 @@ https://live.obslivestream.com/tvretro/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/K0cLxXV.jpeg" group-title="TV ESPANA",1 | ANTENA 3 ST |
+http://novared.pro:8080/salomon05vecp/chonillo195605/110046
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/K0cLxXV.jpeg" group-title="TV ESPANA",2 | ANTENA 3 HD |
+http://novared.pro:8080/salomon05vecp/chonillo195605/110047
+#EXTINF:-1 tvg-logo="" group-title="TV ESPANA",3 | TELECINCO HD |
+http://novared.pro:8080/salomon05vecp/chonillo195605/110053
+
+#EXTINF:-1 tvg-logo="" group-title="TV ESPANA",4 | LA SEXTA HD 
+http://novared.pro:8080/salomon05vecp/chonillo195605/110056
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Nv9P7sU.jpeg" group-title="TV NOTICIAS",1 | AMX NOTICIAS ᴴᴰ  
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/UMIbeS4.jpeg" group-title="TV NOTICIAS",2 | NOTICIAS CARACOL ᴴᴰ
@@ -284,7 +298,7 @@ https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w1527944810.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/IxBVQHy.jpeg" group-title="TV NOTICIAS",6 | VENEZOLANA DE TELEVISIÓN
 https://nxt.plus:8443/jesus01/jesus01/3437
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/IxBVQHy.jpeg" group-title="TV NOTICIAS",6.1 | VENEZOLANA DE TELEVISIÓN (ALT)
-https://live-b.cf.dmcdn.net/sec2(7wpVAF_1Ve_8esyNuIlPnlCcfTPUlrhF71tg89lTInJrAI6DkXF6S3RGuQojnrUspeTuTgdbl4e3_7ZjNRo5KF9yDW2FLHFJY_H12xT1zodKTxcrnZLFAxx_13BXnIdX)/dm/3/x930kre/d/live-720.m3u8 
+https://live-c.cf.dmcdn.net/sec2(jdy8_MvTYrYGmZbHfbtb9nji1EeBPTtQpey6h2caRbXgta8pLo-vEkU-RR9KaKzvW3nt_diWLo0KzO4STRdYjIcCe_Y8Y-Rw0v7Z2D3BORkgHZmo1HGsvopnX9sAUAWl)/dm/3/x930kre/d/live-720.m3u8  
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/t8r9Fn3.jpeg" group-title="TV NOTICIAS",6.2 | LA HOJILLA TV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/7fd9b0b5a9434fed05fa3f358934e8e9fe427d63/live.m3u8
@@ -293,7 +307,7 @@ https://ythls.armelin.one/channel/UCCc2H9_eNnU7ucq2n7Sh3Rg.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/3ebWV8p.jpeg" group-title="TV NOTICIAS",7.1 | LA IGUANA TV (ALT)
 https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/5dLv5HIHWgdnPmA_IgCr-Sp3qbvh6eJYC4TAlaas1o0cek6wibhoy8RqpWfXlpgOFDqE5kiDRTuLGLcx1oR7DQ/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/playlist_16708721537181480347.m3u8?type=replay
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/FgBhEXq.jpeg" group-title="TV NOTICIAS",7.1 | EXTRA TV ᴴᴰ
-https://sae11.playlist.ttvnw.net/v1/playlist/CoEGzXNl2Z0oagKl86s_p62yLKeQ---5yF6mF8PbPxNshXKTdjbxkdsUsPKLe2Gs8CTKwCgTvlgYb0UXWFuk842-ekaHXg3r61BcseYmBviHE1jNlVkV5OVIvwJMJr6xtxkiU1jz9Y4QHnbhwUQEQUc1y-onGOR-GhQp1jLiNPA38z-fHuWztho9DuyJ_mRGrtqoHeh_AL0AvE_KUdc08sPKLzyPMjpbO698asG6tKhapArKmu9nwYylCdhyEsr0_oSzyykXmdwHQFXygAmdXpTQWSLpppB9kwJOO0jL6XaU5vcu1Fi23y0r8Ssh41ZJO7zNy08iGTjpd1RaW_kqCkBAnZxILZmH67WCvBclEEmlcH1THXwy5nHHUINAQdvEeMJT7GjcnnFNwef9uFvgMava4k4Y7inpMV6K5v0PN6oSPasl3tnZQzRkITJSSzlSvGATjnvIYpR7QRchUfTcyK6CorpMaYSq9C69KAm8zfjYKk-HOnYhIwVabzpCLJJhSPFM2YhCqrW5A3kLAg0f8vYemaKZhgQ-q-2Xh60scbfo9pugEsoGSvkVFUEVCyxyg767aRuDqduIYo_5hZNvlBTlLVY-JFak0Hgg-z90Ef9OCZU6ay2VKhDZW0k2PpWskmIEgek-JLm5E3YqIb8IeTws-9FFJFH_euJC0ZRqB9EiC-jzuG3Q5ghxAeuM0eByQ2BnoToj13TzewtY5XkKS8ffKeflZcPy-EfgLVnSTP94nud1abUtsRmXooheQIbThY8rbpOO2gpJ_iBpFgmne7qwjLjZ4OrI_GZs07IDpfoBg5nC0aVga03tLt2CQdhv1jwTKxc1b-_K0VD7XrzfEOisc6dWNQjUJtyCvhN8_vyVWweficKzMCxP34ppOVvhjEP-HxiMTuQPA8oSVOPeY4LPSfKNsHDXd-_uICQC1exm3vhtKKKGK4kFojtsbIc5RECV3Hh5arAfet2Kk4zKDC_0fKoC2wawvUmQeoEu8w_BACxIBLYZf0_c3TyfX7PTcqXKMhoMRCNZ5Mdhgku0L7-NIAEqCXVzLWVhc3QtMTDyCQ.m3u8 
+https://sae12.playlist.ttvnw.net/v1/playlist/CocGUf3w2An-keNADYy96teblrBgfhrNhPY9RmhN20Fxdl300mNVvlGyEMu0nCMpaMJCJvfoOxmAded_Mj5Fz_ajlBDrlFRKQbr3nLkR1nqysQFEWspV5culJYPk89xdL7fkQFcjs5_vxpz_Pz30Cg3ayDXq_5s-bkD1ri1o9oOeHPJorblmNNcmMmQ26ipKJyPfWCfaQTAxlrWRJOOb7qZQjMjzdebW0k9z3RB1pulFnkKOMeN_SQ55SS-g458qwV9Zqb56MXkEYT8AZqWXBHiby8l6MoQY_HPXgL2xzL8B4r6sXtV4tWxYEPF79GZILqBFHyHVIe3MHnNb44KB9mUn_DgpLXDGbJfak8f42ReYzWSnWA9cDZ8XfChS0-SLcfGpFEyoC_6OmIbFhxziJzX6kbmvQUQ9CyzoZPlu8t1n625hG986060TJqmYsKU_4ry4-5v_PXvsSfn3jCbTIhvItT-tljVE6S_AL-u93EXjco4DjbpNQu7EEKaVishZ0gww0Ik9jc1YgGJZJS7wfYYcRC-3PSygAUU-Wl5_Soqaic8M_5MsQfGxoEGG5sP22BHZ42cPq-3cCneI58Yk0pXJYTk_3mXDWsO9N0sE2uHWCH-YX1gESbMqo9ftyrwUyMf8m4-VmEpFn8RQiOWZyZaw5RVTy0DOiJcfYbVc07TInG7jEW8u6gaDgv9NEqTgK1A53F-khOnITglBVL_pMNLBGvlfUbc0JUjS74igb5Y0BW-hnrbE6v7JBP5B_Zydbq5mHbyPG-V6h5-tMXoRMIlS3ue5SZ-TdLqMT52IB1sZ8aAbwRVDHs8dxi1zR1HtIVUATMmYGHw-S2aoRHfXodPX8ARh3nlLVPelQLtx6b5R1zp_Acquuwvd3BFx4R56LPAAGieC65Ncf4xBh4nXnqJmzlK0104kzHNtYo2ZeMwPd-etl820eHzPwrZDjt1XN3GSc3Y2Pex-edavidfC0YTPps1qXnk5WgnlLTeeSPJQnJVYQn_DZYkX_V237jF6_A1yz6Dm0oFHexoMAVtiIwgODstFN1KiIAEqCWV1LXdlc3QtMjDBCw.m3u8   
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/te47Ed2.jpeg" group-title="TV NOTICIAS",8 | PRENSA LATINA TV ᴴᴰ 
 https://eu1.servers10.com:8081/8192/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/wBqjKfW.jpeg" group-title="TV NOTICIAS",9 | CUBA INTERNACIONAL ᴴᴰ
