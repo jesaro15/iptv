@@ -1,10 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",00 | MAX⚽ ᴴᴰ 1 |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/phyVDqf.jpeg" group-title="TV PERU",00 | MAX⚽ ᴴᴰ 1 |
 https://nxt.plus:8443/jesus01/jesus01/227763
-
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",01 | MAX⚽ ᴴᴰ 2 |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fHmgDwh.jpeg" group-title="TV PERU",01 | MAX⚽ ᴴᴰ 2 |
 http://daleplay.club:8080/live/salomon05vecp/chonillo195605/8de55819-3988-40df-831a-4ebf871cf722.m3u
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/willlax.jpg" group-title="TV PERU",1 | WILLAX |
