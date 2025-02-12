@@ -157,7 +157,7 @@ https://live.obslivestream.com/norselvatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CPN.jpg" group-title="TV PERU",74 | CPN TV | 
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/M3zIDwH.jpeg" group-title="TV PERU",75 | NUESTRO CANAL |
-https://vdo.grupolimalive.com:3245/stream/play.m3u8
+https://play.agenciastreaming.com:8081/nuestrocanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/NovaStar1.jpg" group-title="TV PERU",76 | NOVA STAR TV | 
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/eRcMKuC.jpeg" group-title="TV PERU",77 | HOYNET |
@@ -196,7 +196,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/chunklist_w6
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/oKuE6vp.jpeg" group-title="TV PERU",93 | MEGA TV JAEN |
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/palmeras.jpg" group-title="TV PERU",94 | PALMERAS TV |
-https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
+https://play.agenciastreaming.com:8081/palmerastv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/like1.jpg" group-title="TV PERU",95 | LIKE TV HD |
 #EXTVLCOPT:http-referrer=https://vdo.grupolimalive.com/broadcaster/ajax-get-current-viewer/liketv
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
@@ -237,7 +237,7 @@ https://live.obslivestream.com/canaltrece/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/m9hx40I.jpeg" group-title="TV PERU",112 | SOLAR TV CUSCO |
 https://stmv1.voxhdnet.com/solartv/solartv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/aBMz6Vf.jpeg" group-title="TV PERU",113 | COSITEL TV |
-https://radiomelody.com.ar/hls/58204630.m3u8
+https://eu1.servers10.com:8081/8290/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/8ngqNBp.jpeg" group-title="TV PERU",114 | RADIO TROPICAL TV |
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/P8Jlx0V.jpeg" group-title="TV PERU",115 | BNB TV |
