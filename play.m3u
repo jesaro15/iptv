@@ -120,8 +120,8 @@ https://play.agenciastreaming.com:8081/uniteltv/index.mpd
 https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/x0AwyNQ.jpeg" group-title="TV PERU",56 | TUMPIS TV |
 https://servilive.com:3531/live/tumpistvlive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",57 | TUMPIS 2 TV |
-https://servilive.com:3531/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",57 | HUACHO PERU TV ᴴᴰ |
+https://tv.huachotv.com/livelan/stream.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/JrTCsOD.jpeg" group-title="TV PERU",58 | PLANEA TV |
 https://vdo.grupolimalive.com:3045/live/planeatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/gfTV.jpg" group-title="TV PERU",59 | GF TV |
