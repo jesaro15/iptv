@@ -779,6 +779,12 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/r_1280_720/pictures/18/04/04/23/17/0459295.jpg" group-title="PELICULAS SELECCIONADAS",Rampage: Devastación (2018)
+https://nxt.plus:8443/movie/jesus01/jesus01/152583.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_boy_the_mole_the_fox_and_the_horse-216041927-large.jpg" group-title="PELICULAS SELECCIONADAS",El niño, el topo, el zorro y el caballo (2022)
 https://nxt.plus:8443/movie/jesus01/jesus01/119312.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Instintos_ocultos-547072881-large.jpg" group-title="PELICULAS SELECCIONADAS",Viajeros (2021)
