@@ -200,8 +200,7 @@ https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/palmeras.jpg" group-title="TV PERU",94 | PALMERAS TV |
 https://play.agenciastreaming.com:8081/palmerastv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/like1.jpg" group-title="TV PERU",95 | LIKE TV HD |
-#EXTVLCOPT:http-referrer=https://vdo.grupolimalive.com/broadcaster/ajax-get-current-viewer/liketv
-https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
+https://play.agenciastreaming.com:8081/Liketv/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/via.jpg" group-title="TV PERU",96 | VIA TELEVISION |
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EAlyiON.jpeg" group-title="TV PERU",97 | OASIS RTV |
