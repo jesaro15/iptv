@@ -279,11 +279,17 @@ https://live.obslivestream.com/tvretro/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/i869d0u.jpeg" group-title="TV ESPANA",1 | LA 1 HD |
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/i869d0u.jpeg" group-title="TV ESPANA",1.1 | LA 1 CANARIAS |
+https://ztnr.rtve.es/ztnr/5190066.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/ugvlY1s.jpeg" group-title="TV ESPANA",2 | LA 2 SD |
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/K0cLxXV.jpeg" group-title="TV ESPANA",3 | ANTENA 3 HD |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/ugvlY1s.jpeg" group-title="TV ESPANA",2.1 | LA 2 CATALUNYA |
+https://ztnr.rtve.es/ztnr/3987218.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV ESPANA",3 | ANTENA 3 HD ES |
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/K0cLxXV.jpeg" group-title="TV ESPANA",3.1 | ANTENA 3 HD |
 http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/11826
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/K0cLxXV.jpeg" group-title="TV ESPANA",3.1 | ANTENA 3 INT |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/K0cLxXV.jpeg" group-title="TV ESPANA",3.2 | ANTENA 3 INT |
 http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/20878
 #EXTINF:-1 tvg-logo="" group-title="TV ESPANA",4 | CUATRO HD |
 http://novared.pro:8080/salomon05vecp/chonillo195605/110050
