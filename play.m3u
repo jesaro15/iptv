@@ -844,6 +844,8 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Rescate-762655880-large.jpg" group-title="PELICULAS SELECCIONADAS",El rescate (1996)
 https://nxt.plus:8443/movie/jesus01/jesus01/243647.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/3Lj8U4iOShgHY0A9QulBMx8NuOs.jpg" group-title="PELICULAS SELECCIONADAS",El rescate de Ruby  (2022)
+http://cord-cutter.net:8080/movie/patrick.newland@me.com/patrick.newland@41/202543.mp4
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/320024055/s718/someone-like-you-2024.jpg" group-title="PELICULAS SELECCIONADAS",Alguien como tú (2024)
 http://planettvweb.com:8091/movie/sebastianmartinez/6tvs33u3/124958.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/r_1280_720/pictures/18/04/04/23/17/0459295.jpg" group-title="PELICULAS SELECCIONADAS",Rampage: Devastación (2018)
