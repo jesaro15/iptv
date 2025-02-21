@@ -846,7 +846,16 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://www.lahiguera.net/cinemania/pelicula/10490/los_juegos_del_hambre_balada_de_pajaros_cantores_y_serpientes-cartel-11021.jpg" group-title="PELICULAS SELECCIONADAS",Los Juegos del Hambre: Balada de pájaros cantores y serpientes (2023) 
+http://planettvweb.com:8091/movie/sebastianmartinez/6tvs33u3/95794.mkv
+#EXTINF:-1 tvg-logo="http://eselcine.com/wp-content/uploads/2015/11/Los-juegos-del-hambre-Sinsajo-Parte-2-cartel.jpg" group-title="PELICULAS SELECCIONADAS",Los Juegos del Hambre: Sinsajo - Parte 2 (2015)
+http://planettvweb.com:8091/movie/sebastianmartinez/6tvs33u3/103527.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5b/eb/aa/5bebaa9f61c65d6aba93c582e08a437b.jpg" group-title="PELICULAS SELECCIONADAS",Los Juegos del Hambre: Sinsajo - Parte 1 (2014)
+http://planettvweb.com:8091/movie/sebastianmartinez/6tvs33u3/103526.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d6/fd/48/d6fd48bdd9d9d3ceb6376cbf58d65e19.jpg" group-title="PELICULAS SELECCIONADAS",Los Juegos del Hambre: En llamas (2013)
+http://planettvweb.com:8091/movie/sebastianmartinez/6tvs33u3/123440.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/95/f9/57/95f957f86e4dd759e33674d9abdd6ed4.jpg" group-title="PELICULAS SELECCIONADAS",Los Juegos del Hambre (2012)
+http://planettvweb.com:8091/movie/sebastianmartinez/6tvs33u3/103541.mkv
 #EXTINF:-1 tvg-logo="https://ww5.pelisplushd.lat/poster/el-ritmo-de-la-selva-la-pelicula.jpg" group-title="PELICULAS SELECCIONADAS",El Ritmo de la Selva: La película (2020)
 http://tvmate.icu:8080/movie/85646307/54885994/202547.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Rescate-762655880-large.jpg" group-title="PELICULAS SELECCIONADAS",El rescate (1996)
