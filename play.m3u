@@ -57,8 +57,8 @@ https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CNC.jpg" group-title="TV PERU",24 | CNC CAJAMARCA |
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/bella.jpg" group-title="TV PERU",25 | BELLA ASUNCION TV |
-https://tvdatta.com:3602/stream/play.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/veNuWlf.jpeg" group-title="TV PERU",25 | BELLA ABANQUINA TV |
+https://live-evg25.tv360.bitel.com.pe/bitel/bellaabanquina/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/antares.jpg" group-title="TV PERU",26 | ANTARES TV |
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cumo.jpg" group-title="TV PERU",27 | CUMO TV |  
@@ -79,8 +79,8 @@ https://live.obslivestream.com/vztv/index.m3u8
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/tvone.jpg" group-title="TV PERU",35 | TV ONE | 
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/peruanisima.jpg" group-title="TV PERU",36 | PERUANISIMA TV | 
-https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/index.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/amBKgvI.jpeg" group-title="TV PERU",36 | ANDINA RTV | 
+https://live-evg25.tv360.bitel.com.pe/bitel/andinatv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/mas1TV1.jpg" group-title="TV PERU",37 | MAS 1 TV |
 https://live.obslivestream.com/mas1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/diasporaTV.jpg" group-title="TV PERU",38 | DIASPORA TV | 
