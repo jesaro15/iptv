@@ -121,7 +121,7 @@ https://play.agenciastreaming.com:8081/uniteltv/index.mpd
 https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/x0AwyNQ.jpeg" group-title="TV PERU",56 | TUMPIS TV |
 https://servilive.com:3531/live/tumpistvlive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",57 | HUACHO PERU TV ᴴᴰ |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/0kDMLqs.jpeg" group-title="TV PERU",57 | HUACHO PERU TV ᴴᴰ |
 https://tv.huachotv.com/livelan/stream.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/JrTCsOD.jpeg" group-title="TV PERU",58 | PLANEA TV |
 https://play.agenciastreaming.com:8081/planeatv/tracks-v1a1/playlist.m3u8
@@ -161,8 +161,8 @@ https://video2.lhdserver.es/cableperu/live.m3u8
 https://play.agenciastreaming.com:8081/nuestrocanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/NovaStar1.jpg" group-title="TV PERU",76 | NOVA STAR TV | 
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/eRcMKuC.jpeg" group-title="TV PERU",77 | TV+ CHINCHA |
-hhttps://live-evg25.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/pQqo1G0.jpeg" group-title="TV PERU",77 | TV+ CHINCHA |
+https://live-evg25.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cosmos.jpg" group-title="TV PERU",78 | TV COSMOS |
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w759963595.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/master.jpg" group-title="TV PERU",79 | MASTER TV |  
@@ -260,7 +260,7 @@ https://mc.servidor.stream:19360/megatv/megatv.m3u8
 https://tv.juanjuistream.uk:3226/live/ezpzhefzlive.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/FBXJkgb.jpeg" group-title="TV PERU",124 | QUASSAR TV |
 https://gnstreammedia.com:19360/4000/4000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",125 | YURIVISON |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/HmCujAv.jpeg" group-title="TV PERU",125 | YURIVISON |
 https://live.obslivestream.com/yurivision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",126 | CANAL IPe ᴴᴰ |
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
@@ -289,7 +289,7 @@ http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/11826
 http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/20878
 #EXTINF:-1 tvg-logo="" group-title="TV ESPANA",4 | CUATRO HD |
 http://novared.pro:8080/salomon05vecp/chonillo195605/110050
-#EXTINF:-1 tvg-logo="" group-title="TV ESPANA",5 | TELECINCO HD |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/DyMxLEn.jpeg" group-title="TV ESPANA",5 | TELECINCO HD |
 http://novared.pro:8080/salomon05vecp/chonillo195605/110053
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/B3esKH4.jpeg" group-title="TV ESPANA",6 | LA SEXTA HD |
 http://novared.pro:8080/salomon05vecp/chonillo195605/110056
