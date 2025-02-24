@@ -92,7 +92,7 @@ https://s2.tvdatta.com:3371/live/tvchupacalive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/rnTV.jpg" group-title="TV PERU",41 | RN TELEVISION |
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Riberena1.jpg" group-title="TV PERU",42 | RIBEREÑA TV | 
-https://v4.tustreaming.cl/atmtv/index.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/ribere%C3%B1a/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/BEj76bI.jpeg" group-title="TV PERU",43 | RADIO UNO |
 https://ythls.armelin.one/channel/UCK0lpuL9PQb3I5CDcu7Y7bA.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ovacion.jpg" group-title="TV PERU",44 | OVACION TV |
@@ -269,6 +269,8 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 https://live.obslivestream.com/tvretro/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",128 | LIBERTAD RTV |
 https://live.obslivestream.com/rtvlibertad/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",129 | PBO |
+https://live-evg25.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_480p/chunks.m3u8
 
 
 
