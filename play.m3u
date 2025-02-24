@@ -267,6 +267,8 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",127 | TVRETRO |
 https://live.obslivestream.com/tvretro/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",128 | LIBERTAD RTV |
+https://live.obslivestream.com/rtvlibertad/tracks-v1a1/mono.m3u8
 
 
 
@@ -847,6 +849,8 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qGXwHqIDzlrNPw9rRioGpNtOpTo.jpg" group-title="PELICULAS SELECCIONADAS",Jason Bourne (2016) esp
+https://nxt.plus:8443/movie/olmos/1234guz/162458.mkv
 #EXTINF:-1 tvg-logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2025/01/01698888_poster_w780.jpg" group-title="PELICULAS SELECCIONADAS",De vuelta a la accion (2025)
 https://nxt.plus:8443/movie/olmos/1234guz/250089.mkv
 #EXTINF:-1 tvg-logo="https://www.lahiguera.net/cinemania/pelicula/10490/los_juegos_del_hambre_balada_de_pajaros_cantores_y_serpientes-cartel-11021.jpg" group-title="PELICULAS SELECCIONADAS",Los Juegos del Hambre: Balada de pájaros cantores y serpientes (2023) 
