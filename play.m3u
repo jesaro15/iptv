@@ -246,7 +246,7 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://vdo.voxhdnet.com:3699/live/mytvcanal19live.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/gS6GRlt.jpeg" group-title="TV PERU",118 | CANAL 39 TV |
 https://vivatv.juanjuiserver.com:3655/live/canal39live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",118.1 | CANAL A1 HD |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/0ZqaXBY.jpeg" group-title="TV PERU",118.1 | CANAL A1 HD |
 https://vivatv.juanjuiserver.com:3657/live/a1televisionlive.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/kcYygHC.jpeg" group-title="TV PERU",119 | RSELVA TV |
 https://live.obslivestream.com/selvatv/index.m3u8
@@ -262,12 +262,12 @@ https://tv.juanjuistream.uk:3226/live/ezpzhefzlive.m3u8
 https://gnstreammedia.com:19360/4000/4000.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/HmCujAv.jpeg" group-title="TV PERU",125 | YURIVISON |
 https://live.obslivestream.com/yurivision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",126 | CANAL IPe ᴴᴰ |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/ASxFhow.jpeg" group-title="TV PERU",126 | CANAL IPe ᴴᴰ |
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",127 | TVRETRO |
 https://live.obslivestream.com/tvretro/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",128 | LIBERTAD RTV |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/0T5eDUM.jpeg" group-title="TV PERU",128 | LIBERTAD RTV |
 https://live.obslivestream.com/rtvlibertad/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",129 | PBO |
 https://live-evg25.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_480p/chunks.m3u8
@@ -297,7 +297,7 @@ http://novared.pro:8080/salomon05vecp/chonillo195605/110050
 http://novared.pro:8080/salomon05vecp/chonillo195605/110053
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/B3esKH4.jpeg" group-title="TV ESPANA",6 | LA SEXTA HD |
 http://novared.pro:8080/salomon05vecp/chonillo195605/110056
-#EXTINF:-1 tvg-logo="" group-title="TV ESPANA",7 | TOONS CLASICO HD |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Ui5VJjK.jpeg" group-title="TV ESPANA",7 | TOONS CLASICO HD |
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/J5phTwC.jpeg" group-title="TV ESPANA",8 | DREAMWORKS ᴴᴰ |
 https://nxt.plus:8443/olmos/1234guz/172502
