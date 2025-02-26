@@ -193,7 +193,7 @@ https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/chunklist_w68889844.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/MCt2cPG.jpeg" group-title="TV PERU",92 | CTV |
 https://ca2.inka.net.pe/ctvperu-live/index.fmp4.m3u8 
-https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/chunklist_w68889844.m3u8
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/oKuE6vp.jpeg" group-title="TV PERU",93 | MEGA TV JAEN |
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/palmeras.jpg" group-title="TV PERU",94 | PALMERAS TV |
@@ -277,13 +277,15 @@ https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/CEHW8ec.jpeg" group-title="TV PERU", | GTV PISCO |
 https://live-evg25.tv360.bitel.com.pe/bitel/gtvpisco/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/CEHW8ec.jpeg" group-title="TV PERU", | GTV PISCO ᴴᴰ |
+https://v4.tustreaming.cl/gtvpisco/tracks-v1a1/index.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/i869d0u.jpeg" group-title="TV ESPANA",1 | LA 1 HD |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/i869d0u.jpeg" group-title="TV ESPANA",1 | LA 1 ᴴᴰ |
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/i869d0u.jpeg" group-title="TV ESPANA",1.1 | LA 1 CANARIAS |
 https://ztnr.rtve.es/ztnr/5190066.m3u8
@@ -291,9 +293,9 @@ https://ztnr.rtve.es/ztnr/5190066.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/ugvlY1s.jpeg" group-title="TV ESPANA",2.1 | LA 2 CATALUNYA |
 https://ztnr.rtve.es/ztnr/3987218.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV ESPANA",3 | ANTENA 3 HD ES |
+#EXTINF:-1 tvg-logo="" group-title="TV ESPANA",3 | ANTENA 3 ᴴᴰ ES |
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/K0cLxXV.jpeg" group-title="TV ESPANA",3.1 | ANTENA 3 HD |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/K0cLxXV.jpeg" group-title="TV ESPANA",3.1 | ANTENA 3 ᴴᴰ |
 http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/11826
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/K0cLxXV.jpeg" group-title="TV ESPANA",3.2 | ANTENA 3 INT |
 http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/20878
@@ -303,7 +305,7 @@ http://novared.pro:8080/salomon05vecp/chonillo195605/110050
 http://novared.pro:8080/salomon05vecp/chonillo195605/110053
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/B3esKH4.jpeg" group-title="TV ESPANA",6 | LA SEXTA HD |
 http://novared.pro:8080/salomon05vecp/chonillo195605/110056
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/Ui5VJjK.jpeg" group-title="TV ESPANA",7 | TOONS CLASICO HD |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Ui5VJjK.jpeg" group-title="TV ESPANA",7 | TOONS CLASICO ᴴᴰ |
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/J5phTwC.jpeg" group-title="TV ESPANA",8 | DREAMWORKS ᴴᴰ |
 https://nxt.plus:8443/olmos/1234guz/172502
