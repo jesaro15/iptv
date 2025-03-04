@@ -150,8 +150,8 @@ https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
 https://play.agenciastreaming.com:8081/supertv/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/unitel.jpg" group-title="TV PERU",54 | UNITEL |
 https://play.agenciastreaming.com:8081/uniteltv/index.mpd
-
-
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",55 | 36TV HUACHO |
+https://live-evg25.tv360.bitel.com.pe/bitel/36tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/0kDMLqs.jpeg" group-title="TV PERU",56 | HUACHO PERU TV ᴴᴰ |
 https://tv.huachotv.com/livelan/stream.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/JrTCsOD.jpeg" group-title="TV PERU",57 | PLANEA TV |
