@@ -28,8 +28,6 @@ https://servilive.com:3538/live/v6qe84b6flive.m3u8
 https://tv.folkloretv.pe/tropical/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/CEHW8ec.jpeg" group-title="TEMPORAL", | GTV PISCO |
 https://live-evg25.tv360.bitel.com.pe/bitel/gtvpisco/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/J5phTwC.jpeg" group-title="TEMPORAL",8 | DREAMWORKS ᴴᴰ |
-https://nxt.plus:8443/olmos/1234guz/172502
 
 
 
@@ -132,8 +130,7 @@ https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Riberena1.jpg" group-title="TV PERU",42 | RIBEREÑA TV | 
 https://live-evg25.tv360.bitel.com.pe/bitel/ribere%C3%B1a/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/BEj76bI.jpeg" group-title="TV PERU",43 | RADIO UNO |
-https://ythls.armelin.one/channel/UCK0lpuL9PQb3I5CDcu7Y7bA.m3u8
-
+https://live-evg25.tv360.bitel.com.pe/bitel/radiounotv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/hE47Nzf.jpeg" group-title="TV PERU",45 | VIVA TV |
 https://live.obslivestream.com/vivatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/supercanalTV.jpg" group-title="TV PERU",46 | SUPERCANALᴴᴰ |
@@ -327,6 +324,8 @@ http://novared.pro:8080/salomon05vecp/chonillo195605/110053
 http://novared.pro:8080/salomon05vecp/chonillo195605/110056
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Ui5VJjK.jpeg" group-title="TV ESPANA",7 | TOONS CLASICO ᴴᴰ |
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/J5phTwC.jpeg" group-title="TV ESPANA",8 | DREAMWORKS ᴴᴰ |
+https://nxt.plus:8443/olmos/1234guz/172502
 
 
 
