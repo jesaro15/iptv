@@ -220,7 +220,7 @@ https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/b6DzWyF.jpeg" group-title="TV PERU",89 | BETHEL TV |
 https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_480p/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",90 | AGRO HORIZONTE TV |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rQPHG2b.jpeg" group-title="TV PERU",90 | AGRO HORIZONTE TV |
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/agroTV.jpg" group-title="TV PERU",90.1 | AGRO TV |
 https://play.agenciastreaming.com:8081/agrotv/tracks-v1a1/mono.m3u8
