@@ -153,7 +153,7 @@ https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
 https://play.agenciastreaming.com:8081/supertv/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/unitel.jpg" group-title="TV PERU",54 | UNITEL |
 https://play.agenciastreaming.com:8081/uniteltv/index.mpd
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",55 | 36TV HUACHO |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/7EK9Jaf.jpeg" group-title="TV PERU",55 | 36TV HUACHO |
 https://live-evg25.tv360.bitel.com.pe/bitel/36tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/0kDMLqs.jpeg" group-title="TV PERU",56 | HUACHO PERU TV ᴴᴰ |
 https://tv.huachotv.com/livelan/stream.m3u8
@@ -206,7 +206,7 @@ https://video03.logicahost.com.br/soltv/soltv/chunklist_w1946435464.m3u8
 https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cr.jpg" group-title="TV PERU",82 | CR TV |
 https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Vclassic.jpg" group-title="TV PERU",83 | VCLASSIC TV |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Xyw1ONT.jpeg" group-title="TV PERU",83 | VCLASSIC TV |
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1888254998.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/dmj1.jpg" group-title="TV PERU",84 | DMJ | 
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
