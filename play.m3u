@@ -190,7 +190,7 @@ https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/norselvatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CPN.jpg" group-title="TV PERU",74 | CPN TV | 
 https://video2.lhdserver.es/cableperu/live.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/M3zIDwH.jpeg" group-title="TV PERU",75 | NUESTRO CANAL |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/NuestroCanal.jpg" group-title="TV PERU",75 | NUESTRO CANAL |
 https://play.agenciastreaming.com:8081/nuestrocanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/NovaStar1.jpg" group-title="TV PERU",76 | NOVA STAR TV | 
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
