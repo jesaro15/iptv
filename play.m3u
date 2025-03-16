@@ -157,7 +157,7 @@ https://play.agenciastreaming.com:8081/uniteltv/index.mpd
 https://live-evg25.tv360.bitel.com.pe/bitel/36tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/0kDMLqs.jpeg" group-title="TV PERU",56 | HUACHO PERU TV ᴴᴰ |
 https://tv.huachotv.com/livelan/stream.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/JrTCsOD.jpeg" group-title="TV PERU",57 | PLANEA TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Planea3.jpg" group-title="TV PERU",57 | PLANEA TV |
 https://play.agenciastreaming.com:8081/planeatv/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/gfTV.jpg" group-title="TV PERU",59 | GF TV |
 https://live.obslivestream.com/regionaltv/tracks-v1a1/mono.m3u8
