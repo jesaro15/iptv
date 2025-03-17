@@ -272,9 +272,9 @@ https://eu1.servers10.com:8081/8290/tracks-v1a1/mono.m3u8
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/P8Jlx0V.jpeg" group-title="TV PERU",115 | BNB TV |
 https://play.agenciastreaming.com:8081/bnblimalive/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/PBMX1bs.jpeg" group-title="TV PERU",116 | FRECUENCIA MUSICAL TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/FrecuenciaMusical.jpg" group-title="TV PERU",116 | FRECUENCIA MUSICAL TV |
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/DM9Yq0r.jpeg" group-title="TV PERU",117 | MYTV CANAL 19 CHINCHA |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/MYTV.jpg" group-title="TV PERU",117 | MYTV CANAL 19 CHINCHA |
 https://vdo.voxhdnet.com:3699/live/mytvcanal19live.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/ABv20Sx.jpeg" group-title="TV PERU",118 | CANAL 39 TV |
 https://vivatv.juanjuiserver.com:3655/live/canal39live.m3u8
