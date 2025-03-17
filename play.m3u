@@ -194,7 +194,7 @@ https://video2.lhdserver.es/cableperu/live.m3u8
 https://play.agenciastreaming.com:8081/nuestrocanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/NovaStar1.jpg" group-title="TV PERU",76 | NOVA STAR TV | 
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/pQqo1G0.jpeg" group-title="TV PERU",77 | TV+ CHINCHA |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ChinchaTv.jpg" group-title="TV PERU",77 | TV+ CHINCHA |
 https://live-evg25.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cosmos.jpg" group-title="TV PERU",78 | TV COSMOS |
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w759963595.m3u8
@@ -266,7 +266,7 @@ https://live.obslivestream.com/tvoriente/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/canaltrece/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/m9hx40I.jpeg" group-title="TV PERU",112 | SOLAR TV CUSCO |
 https://stmv1.voxhdnet.com/solartv/solartv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/aBMz6Vf.jpeg" group-title="TV PERU",113 | COSITEL TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cisitel.jpg" group-title="TV PERU",113 | COSITEL TV |
 https://eu1.servers10.com:8081/8290/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/8ngqNBp.jpeg" group-title="TV PERU",114 | RADIO TROPICAL TV |
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
