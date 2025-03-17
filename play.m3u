@@ -260,7 +260,7 @@ https://www.milenial.news/salida/milenial.m3u8
 https://videoserver.tmcreativos.com:19360/selvatv/selvatv.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/YT5KDc6.jpeg" group-title="TV PERU",109 | FOLKLORE TV |
 https://tv.folkloretv.pe/folkloretv/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/fbKNDu2.jpeg" group-title="TV PERU",110 | ORIENTE TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/oriente.jpg" group-title="TV PERU",110 | ORIENTE TV |
 https://live.obslivestream.com/tvoriente/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/J3b7pME.jpeg" group-title="TV PERU",111 | TRECE TV |
 https://live.obslivestream.com/canaltrece/tracks-v1a1/mono.m3u8
