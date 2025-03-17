@@ -303,6 +303,12 @@ https://v4.tustreaming.cl/gtvpisco/tracks-v1a1/index.m3u8
 https://tv.oyotunserver.com:3954/live/demolive.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/ZpNhB0f.jpeg" group-title="TV PERU",129 | ATLANTIS TV |
 https://live-evg25.tv360.bitel.com.pe/bitel/atlantistv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",130 | TACALA TV |
+https://live.obslivestream.com/tacalatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",131 | OZONO TV |
+https://live.obslivestream.com/ozonotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",132 | TV MAS |
+https://live.obslivestream.com/tvmas/tracks-v1a1/mono.m3u8
 
 
 
