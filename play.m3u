@@ -252,7 +252,7 @@ https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/dobleAA.jpg" group-title="TV PERU",104 | DOBLE AA TV |
 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/EYfJ5j2.jpeg" group-title="TV PERU",106 | RTV TOTAL |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/RTvTotal.jpg" group-title="TV PERU",106 | RTV TOTAL |
 https://live.obslivestream.com/rtvtotal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/milenialTV.jpg" group-title="TV PERU",107 | MILENIAL TV |
 https://www.milenial.news/salida/milenial.m3u8
