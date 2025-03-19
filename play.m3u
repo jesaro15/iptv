@@ -229,7 +229,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/chunklist_w6
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/MCt2cPG.jpeg" group-title="TV PERU",92 | CTV |
 https://ca2.inka.net.pe/ctvperu-live/index.fmp4.m3u8 
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/oKuE6vp.jpeg" group-title="TV PERU",93 | MEGA TV JAEN |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/MegaJaen.jpg" group-title="TV PERU",93 | MEGA TV JAEN |
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/palmeras.jpg" group-title="TV PERU",94 | PALMERAS TV |
 https://play.agenciastreaming.com:8081/palmerastv/tracks-v1a1/mono.m3u8
@@ -237,7 +237,7 @@ https://play.agenciastreaming.com:8081/palmerastv/tracks-v1a1/mono.m3u8
 https://play.agenciastreaming.com:8081/Liketv/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/via.jpg" group-title="TV PERU",96 | VIA TELEVISION |
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",97 | OASIS RTV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/OasisTv.jpg" group-title="TV PERU",97 | OASIS RTV |
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TvEnLinea.jpg" group-title="TV PERU",98 | TV EN LINEA CUSCO |
 https://s4.tvdatta.com:3450/hybrid/play.m3u8
