@@ -186,7 +186,7 @@ https://live.obslivestream.com/geniostvmux/index.m3u8
 https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Altomayo.jpg" group-title="TV PERU",72 | VIA ALTOMAYO TV | 
 https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/3vm8G4x.jpeg" group-title="TV PERU",73 | NORSELVA RTV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Norselva.jpg" group-title="TV PERU",73 | NORSELVA RTV |
 https://live.obslivestream.com/norselvatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CPN.jpg" group-title="TV PERU",74 | CPN TV | 
 https://video2.lhdserver.es/cableperu/live.m3u8
