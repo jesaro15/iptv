@@ -237,7 +237,7 @@ https://play.agenciastreaming.com:8081/palmerastv/tracks-v1a1/mono.m3u8
 https://play.agenciastreaming.com:8081/Liketv/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/via.jpg" group-title="TV PERU",96 | VIA TELEVISION |
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/EAlyiON.jpeg" group-title="TV PERU",97 | OASIS RTV |
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",97 | OASIS RTV |
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TvEnLinea.jpg" group-title="TV PERU",98 | TV EN LINEA CUSCO |
 https://s4.tvdatta.com:3450/hybrid/play.m3u8
@@ -264,7 +264,7 @@ https://tv.folkloretv.pe/folkloretv/tracks-v1a1/index.m3u8
 https://live.obslivestream.com/tvoriente/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/J3b7pME.jpeg" group-title="TV PERU",111 | TRECE TV |
 https://live.obslivestream.com/canaltrece/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/m9hx40I.jpeg" group-title="TV PERU",112 | SOLAR TV CUSCO |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/SolarTv.jpg" group-title="TV PERU",112 | SOLAR TV CUSCO |
 https://stmv1.voxhdnet.com/solartv/solartv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cositel.jpg" group-title="TV PERU",113 | COSITEL TV |
 https://eu1.servers10.com:8081/8290/tracks-v1a1/mono.m3u8
