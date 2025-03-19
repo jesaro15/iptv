@@ -239,7 +239,7 @@ https://play.agenciastreaming.com:8081/Liketv/tracks-v1a1/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EAlyiON.jpeg" group-title="TV PERU",97 | OASIS RTV |
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CuscoDigital.jpg" group-title="TV PERU",98 | TV EN LINEA CUSCO |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TvEnLinea.jpg" group-title="TV PERU",98 | TV EN LINEA CUSCO |
 https://s4.tvdatta.com:3450/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canal8.jpg" group-title="TV PERU",100 | CANAL 8 |
