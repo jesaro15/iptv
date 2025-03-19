@@ -176,7 +176,7 @@ https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/qosqo/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Andestv2.jpg" group-title="TV PERU",67 | ANDES TV |
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/LzoduWY.jpeg" group-title="TV PERU",68 | MILLENIUM TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Millenium1.jpg" group-title="TV PERU",68 | MILLENIUM TV |
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canalx.jpg" group-title="TV PERU",69 | CANAL X |
 https://live.obslivestream.com/xtv/tracks-v1a1/mono.m3u8
