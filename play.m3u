@@ -142,7 +142,7 @@ https://live.obslivestream.com/supercanal/index.m3u8
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/VisionSur.jpg" group-title="TV PERU",48 | VISIÓN SUR |
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/IdentidadTv.jpg" group-title="TV PERU",49 | IDENTIDAD TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/VitalTv.jpg" group-title="TV PERU",49 | VITAL TV |
 https://media.mediacorp.pe/srt/1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/telesurMoquegua.jpg" group-title="TV PERU",51 | TELESUR MOQUEGUA |
@@ -260,7 +260,7 @@ https://www.milenial.news/salida/milenial.m3u8
 https://videoserver.tmcreativos.com:19360/selvatv/selvatv.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/YT5KDc6.jpeg" group-title="TV PERU",109 | FOLKLORE TV |
 https://tv.folkloretv.pe/folkloretv/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/oriente.jpg" group-title="TV PERU",110 | ORIENTE TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/oriente1.jpg" group-title="TV PERU",110 | ORIENTE TV |
 https://live.obslivestream.com/tvoriente/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/J3b7pME.jpeg" group-title="TV PERU",111 | TRECE TV |
 https://live.obslivestream.com/canaltrece/tracks-v1a1/mono.m3u8
