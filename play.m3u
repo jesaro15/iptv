@@ -25,10 +25,6 @@ https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
 https://tv.juanjuistream.uk:3226/live/ezpzhefzlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TEMPORAL", | Enfoque Digital TV |
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Primavera15.jpg" group-title="TEMPORAL", | PRIMAVERA 15 |
-https://servilive.com:3538/live/v6qe84b6flive.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/tropical.jpg" group-title="TEMPORAL", | TROPICAL TV |
-https://tv.folkloretv.pe/tropical/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/CEHW8ec.jpeg" group-title="TEMPORAL", | GTV PISCO |
 https://live-evg25.tv360.bitel.com.pe/bitel/gtvpisco/chunks.m3u8
 
@@ -301,7 +297,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/chunks.m3u8
 https://v4.tustreaming.cl/gtvpisco/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/QT4VSAp.jpeg" group-title="TV PERU", |128 ARPEGIO TV ᴴᴰ |
 https://tv.oyotunserver.com:3954/live/demolive.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/ZpNhB0f.jpeg" group-title="TV PERU",129 | ATLANTIS TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/AtlantisRTv1.jpg" group-title="TV PERU",129 | ATLANTIS TV |
 https://live-evg25.tv360.bitel.com.pe/bitel/atlantistv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TacalaTv.jpg" group-title="TV PERU",130 | TACALA TV |
 https://live.obslivestream.com/tacalatv/tracks-v1a1/mono.m3u8
@@ -309,6 +305,10 @@ https://live.obslivestream.com/tacalatv/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/ozonotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TvMas.jpg" group-title="TV PERU",132 | TV MAS |
 https://live.obslivestream.com/tvmas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Primavera15.jpg" group-title="TV PERU", | PRIMAVERA 15 |
+https://servilive.com:3538/live/v6qe84b6flive.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/tropical.jpg" group-title="TV PERU", | TROPICAL TV |
+https://tv.folkloretv.pe/tropical/tracks-v1a1/mono.m3u8
 
 
 
