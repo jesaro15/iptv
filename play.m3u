@@ -49,7 +49,7 @@ https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 https://nxt.plus:8443/olmos/1234guz/169457
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/americatv.jpg" group-title="TV PERU",04 | AMERICA TV |
 http://tvmate.icu:8080/85646307/54885994/110637
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/AmmericaAlt.jpg" group-title="TV PERU",04.1 | AMERICA TV ALT  |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/AmericaAlt.jpg" group-title="TV PERU",04.1 | AMERICA TV ALT  |
 https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/panamericanape.jpg" group-title="TV PERU",05 | PANAMERICANA TV |
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_480p/chunks.m3u8
