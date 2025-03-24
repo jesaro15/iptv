@@ -322,9 +322,9 @@ https://tv.folkloretv.pe/tropical/tracks-v1a1/mono.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQOSpSe.jpeg" group-title="TV ESPANA",1.1 | LA 1 CANARIAS |
 https://ztnr.rtve.es/ztnr/5190066.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/ugvlY1s.jpeg" group-title="TV ESPANA",2 | LA 2 SD |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHDqRku.jpeg" group-title="TV ESPANA",2 | LA 2 SD |
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/ugvlY1s.jpeg" group-title="TV ESPANA",2.1 | LA 2 CATALUNYA |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHDqRku.jpeg" group-title="TV ESPANA",2.1 | LA 2 CATALUNYA |
 https://ztnr.rtve.es/ztnr/3987218.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/44_Antena%203%20(se%C3%B1al%20directo%20Espa%C3%B1a).png" group-title="TV ESPANA",3 | ANTENA 3 ᴴᴰ ES |
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
