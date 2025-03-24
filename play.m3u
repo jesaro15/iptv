@@ -318,9 +318,9 @@ https://tv.folkloretv.pe/tropical/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/i869d0u.jpeg" group-title="TV ESPANA",1 | LA 1 ᴴᴰ |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQOSpSe.jpeg" group-title="TV ESPANA",1 | LA 1 ᴴᴰ |
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/i869d0u.jpeg" group-title="TV ESPANA",1.1 | LA 1 CANARIAS |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQOSpSe.jpeg" group-title="TV ESPANA",1.1 | LA 1 CANARIAS |
 https://ztnr.rtve.es/ztnr/5190066.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/ugvlY1s.jpeg" group-title="TV ESPANA",2 | LA 2 SD |
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
