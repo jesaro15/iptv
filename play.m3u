@@ -137,7 +137,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/radiounotv/chunks.m3u8
 https://live.obslivestream.com/vivatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/supercanalTV.jpg" group-title="TV PERU",46 | SUPERCANALᴴᴰ |
 https://live.obslivestream.com/supercanal/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/5lHU2Za.jpeg" group-title="TV PERU",47 | TELESELVA |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TeleselvaTv.jpg" group-title="TV PERU",47 | TELESELVA |
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/VisionSur.jpg" group-title="TV PERU",48 | VISIÓN SUR |
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
