@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo="" group-title="TEMPORAL", | EPICENTRO TV PRUEBA |
+https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/4C0VVPL06GUfYRorVqdenE-nS_5KtUfOmARX1NQ4B6gAgc7T3DB-ax_gK_y8GwOVgB9zzsqCk9-qq49H-W_uKA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_delta.m3u8?type=live&_HLS_skip=YES
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/americatv.jpg" group-title="TEMPORAL", | AMERICA TV |
 https://live-evg4.tv360.bitel.com.pe/VNWLjsrPyrFffuvjKj_M5w/1742844846/bitel/americatv/bitel/americatv_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TEMPORAL", | TV CARTAGO DIGITAL |
