@@ -331,7 +331,7 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/in
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/lmwRrDq.jpeg" group-title="TV NOTICIAS",11 | CNN CHILE 
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/7sFXaC4.jpeg" group-title="TV NOTICIAS",12 | TELEMUNDO FLORIDA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eWobnW1.jpeg" group-title="TV NOTICIAS",12 | TELEMUNDO FLORIDA
 https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/5a817dba-a6f1-4dac-9871-91e9e76e1762/2.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/pNLrYe3.jpeg" group-title="TV NOTICIAS",13 | 24 HORAS-CHILE
 https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
@@ -347,9 +347,9 @@ https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/slkfENX.jpeg" group-title="TV NOTICIAS",18 | 24HORAS ᴴᴰ
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/i869d0u.jpeg" group-title="TV NOTICIAS",19 | La 1 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQOSpSe.jpeg" group-title="TV NOTICIAS",19 | La 1 ᴴᴰ
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/ugvlY1s.jpeg" group-title="TV NOTICIAS",20 | La 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHDqRku.jpeg" group-title="TV NOTICIAS",20 | La 2 ᴴᴰ
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/aJjmTBd.jpeg" group-title="TV NOTICIAS",21 | NEGOCIOS TV ᴴᴰ 
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
