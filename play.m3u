@@ -286,16 +286,16 @@ https://ztnr.rtve.es/ztnr/5190066.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZHDqRku.jpeg" group-title="TV ESPANA",2.1 | LA 2 CATALUNYA |
 https://ztnr.rtve.es/ztnr/3987218.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/44_Antena%203%20(se%C3%B1al%20directo%20Espa%C3%B1a).png" group-title="TV ESPANA",3 | ANTENA 3 ᴴᴰ ES |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bTYbXA4.jpeg" group-title="TV ESPANA",3 | ANTENA 3 ᴴᴰ 1 |
 http://185.189.225.150:85/Antena3HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/44_Antena%203%20(se%C3%B1al%20directo%20Espa%C3%B1a).png" group-title="TV ESPANA",3.1 | ANTENA 3 ᴴᴰ |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AB3T3ZF.jpeg" group-title="TV ESPANA",3.1 | ANTENA 3 ᴴᴰ 2 |
 http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/11826
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/44_Antena%203%20(se%C3%B1al%20directo%20Espa%C3%B1a).png" group-title="TV ESPANA",3.2 | ANTENA 3 INT |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4mVe6Ke.jpeg" group-title="TV ESPANA",3.2 | ANTENA 3 ᴴᴰ 3 |
 http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/20878
 #EXTINF:-1 tvg-logo="" group-title="TV ESPANA",4 | CUATRO HD |
-http://novared.pro:8080/salomon05vecp/chonillo195605/110050
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3y0iqOx.jpeg" group-title="TV ESPANA",5 | TELECINCO HD |
-http://novared.pro:8080/salomon05vecp/chonillo195605/110053
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/B3esKH4.jpeg" group-title="TV ESPANA",6 | LA SEXTA HD |
 http://185.189.225.150:85/LaSexta/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RVb6sTv.jpeg" group-title="TV ESPANA",7 | NICKELODEON ᴴᴰ |
