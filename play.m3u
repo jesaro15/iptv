@@ -327,7 +327,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0Evou6.jpeg" group-title="TV NOTICIAS",5.1 | CANAL 22 WEB
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w1527944810.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s9SFE1j.jpeg" group-title="TV NOTICIAS",6 | VENEZOLANA DE TELEVISIÓN
-https://live-b.cf.dmcdn.net/sec2(XJ0E24y4b7nym_hTmqyZx4TAU4zx8-09dos7PsuD9BQWzJyzLHP2WNRfse-wwZNxWLOPP2IkwTKfL3VRuYc9OpiKMV9rvUDAL3abrvUvr6hBj79zZ2YxKg7J7LPBec1d)/dm/3/x930kre/d/live-720.m3u8
+https://nxt.plus:8443/olmos/1234guz/3437
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOUFdo8.jpeg" group-title="TV NOTICIAS",8 | PRENSA LATINA TV ᴴᴰ 
 https://eu1.servers10.com:8081/8192/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yo1WzLx.jpeg" group-title="TV NOTICIAS",9 | CUBA INTERNACIONAL ᴴᴰ
@@ -834,6 +834,14 @@ https://nxt.plus:8443/series/olmos/1234guz/135268.mkv
 https://nxt.plus:8443/series/olmos/1234guz/135269.mkv
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S03 E08
 https://nxt.plus:8443/series/olmos/1234guz/135270.mkv
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://bingeddata.s3.amazonaws.com/uploads/2020/11/gifted-scaled.jpg" group-title="PELICULAS SELECCIONADAS",Un don excepcional (2017)
+https://nxt.plus:8443/movie/olmos/1234guz/181839.mkv
+
 
 
 
