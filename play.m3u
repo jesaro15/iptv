@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/phyVDqf.jpeg" group-title="TV PERU",000 | MAX⚽ ᴴᴰ 1 |
+https://nxt.plus:8443/jesus01/jesus01/227763
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/phyVDqf.jpeg" group-title="TV PERU",001 | MAX⚽ ᴴᴰ 2 |
+https://nxt.plus:8443/olmos/1234guz/227763
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/willlax.jpg" group-title="TV PERU",01 | WILLAX |
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/latina.jpg" group-title="TV PERU",02 | LATINA TV |
@@ -771,6 +777,63 @@ https://video.ejeserver.com/live/verteve.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S01 E01
+https://nxt.plus:8443/series/olmos/1234guz/135243.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S01 E02
+https://nxt.plus:8443/series/olmos/1234guz/135244.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S01 E03
+https://nxt.plus:8443/series/olmos/1234guz/135245.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S01 E04
+https://nxt.plus:8443/series/olmos/1234guz/135246.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S01 E05
+https://nxt.plus:8443/series/olmos/1234guz/135247.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S01 E06
+https://nxt.plus:8443/series/olmos/1234guz/135248.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S01 E07
+https://nxt.plus:8443/series/olmos/1234guz/135249.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S01 E08
+https://nxt.plus:8443/series/olmos/1234guz/135250.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S01 E09
+https://nxt.plus:8443/series/olmos/1234guz/135251.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S01 E10
+https://nxt.plus:8443/series/olmos/1234guz/135252.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S02 E01
+https://nxt.plus:8443/series/olmos/1234guz/135253.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S02 E02
+https://nxt.plus:8443/series/olmos/1234guz/135254.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S02 E03
+https://nxt.plus:8443/series/olmos/1234guz/135255.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S02 E04
+https://nxt.plus:8443/series/olmos/1234guz/135256.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S02 E05
+https://nxt.plus:8443/series/olmos/1234guz/135257.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S02 E06
+https://nxt.plus:8443/series/olmos/1234guz/135258.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S02 E07
+https://nxt.plus:8443/series/olmos/1234guz/135259.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S02 E08
+https://nxt.plus:8443/series/olmos/1234guz/135260.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S02 E09
+https://nxt.plus:8443/series/olmos/1234guz/135261.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S02 E10
+https://nxt.plus:8443/series/olmos/1234guz/135262.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S03 E01
+https://nxt.plus:8443/series/olmos/1234guz/135263.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S03 E02
+https://nxt.plus:8443/series/olmos/1234guz/135264.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S03 E03
+https://nxt.plus:8443/series/olmos/1234guz/135265.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S03 E04
+https://nxt.plus:8443/series/olmos/1234guz/135266.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S03 E05
+https://nxt.plus:8443/series/olmos/1234guz/135267.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S03 E06
+https://nxt.plus:8443/series/olmos/1234guz/135268.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S03 E07
+https://nxt.plus:8443/series/olmos/1234guz/135269.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/237957459/s718/perdidos-en-el-espacio.jpg" group-title="SERIES", Perdidos en el espacio S03 E08
+https://nxt.plus:8443/series/olmos/1234guz/135270.mkv
 
 
 
