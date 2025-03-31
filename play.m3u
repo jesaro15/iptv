@@ -383,10 +383,10 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b806000.m3u8
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/anyZt3J.jpeg" group-title="TV NOTICIAS",32 | AL JAZEERA ᴴᴰ ENGLISH 
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/CKgB8Tc.jpeg" group-title="TV NOTICIAS",33 | HISPANTV ᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMIJbga.jpeg" group-title="TV NOTICIAS",33 | HISPANTV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/df0a443c1e8e53babc41fede14548c9b5fd1a6d2/live.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/CKgB8Tc.jpeg" group-title="TV NOTICIAS",34 | HISPANTV ᴴᴰ (ALT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMIJbga.jpeg" group-title="TV NOTICIAS",34 | HISPANTV ᴴᴰ (ALT)
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/o5lMfdx.jpeg" group-title="TV NOTICIAS",35 | PRESS TV
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
@@ -432,7 +432,6 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/mRZNM0j.jpeg" group-title="TV NOTICIAS",54 | TRT WORLD | 
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",55 | D NEWS |
-https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CrEGg9QYOSAgOjLdoYAxAm2JJhJwDgosMGU_LWWW1QiBfAzHYH4NheGoDdabLu3gHO8tbSlEC8SFrXAlorq-Xzt-tlJmil0eGq5dlTp8ks4OF-kKTWIT6m6E9UmXKEfkXAjKjn7_hkfvup6HUSXMBSUZWjr_QM1vgrpcEHTPdYRc0qVyDs42Ep19PKsMlL-Sv3q301lkkewPDSlxWKHBOdviAVlGFsyyGTpeUTjTqUDtBKMajlUuN3cYM8bOpDrFHoi4_rLURxpCpEHTErb6xFvy-7h-1KqPTPaWyciDmoiOacCKov5S4mhOKJZEScwhUezioCZ-KFxT-qFrxm60PnqoMYFbhG7OzFNpYz7Of6FDHg70z-2vWp_xpypt84HX19r8Iw603de6FIPQuIqdMOx38lI7B5KbxD9ONnOXtVfYguDmjwX73oM5IwMH38NyUMTd9U3Yd2Zw85mJ8p1eCPchM23uWsAkIVdgbAOPFWUL9UOXxO03fYLmQKfD9s5kX-GP2d0y0SWwIU7ywZGNnUzTDGQEU8Hg8CVsBaZLu_eqRrlJYRYVH60A48WbYeA_bSa_ZDuCKIMC0tz10Nxg2yCFM-Ygn7W3F_5EvPkspyrZpg426HkQRGI9LA_805dUePJwR0WugsZkITO3FcOGXMZjkLZsVtdDWLkxcqYdCwXSMWWt0KfSMF9otPVjebi_JWxsL7HpIRZyfMi8Yoy8w9YHX4mQafz5gv7Okx3--_EbcJ1gin7gUuAB_Ohc554t0BlBw6-cr11Ksnaib06DEaRSfAPCvFL01P9d5lNlwYk9_P_ywS02Axh1f_EtU9SVSwN0LmdeZHsPGWSflk2tkJ9UkHQA1ntDCZV40kkGie2Lht30pndLNe_CSN9Mfci6OARllbP18ZyI2N0mXq8gSxytQSmyp93ksSCtRX939t2-11f-KpdqxoNlZxG3zdZHbTQND6e8pxJLGQLFJQnFngpFMsPmI3Lk7LSsB5QLRoa8pAlizcrRjqeQsWe-Njekl4ZH4e0LBDAttb-w1e5ftjjGmr4zX1dPDsoJ0AS3Fs8bh7jp8QWyy587lJhofxq58D8thxoMFkmaTzuje4Kn5-ymIAEqCXVzLWVhc3QtMTDKCQ.m3u8
 
 
 
@@ -838,7 +837,8 @@ https://nxt.plus:8443/series/olmos/1234guz/135270.mkv
 
 
 
-
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/04/18/16/09/311920.jpg" group-title="PELICULAS SELECCIONADAS",Un don excepcional (2017)
+https://nxt.plus:8443/movie/olmos/1234guz/181839.mkv
 #EXTINF:-1 tvg-logo="https://bingeddata.s3.amazonaws.com/uploads/2020/11/gifted-scaled.jpg" group-title="PELICULAS SELECCIONADAS",Un don excepcional (2017)
 https://nxt.plus:8443/movie/jesus01/jesus01/181839.mkv
 
