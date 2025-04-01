@@ -392,9 +392,9 @@ https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/b0fOJoP.jpeg" group-title="TV NOTICIAS",36 | PALESTINE TV ᴴᴰ
 https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gQdq6rZ.jpeg" group-title="TV NOTICIAS",37 | NHK JAPAN ᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vYv9Qnk.jpeg" group-title="TV NOTICIAS",37 | NHK WORLD ᴴᴰ
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gQdq6rZ.jpeg" group-title="TV NOTICIAS",37.1 | NHK WORLD PREMIUM ᴴᴰ
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/gQdq6rZ.jpeg" group-title="TV NOTICIAS",37.1 | NHK JAPAN PREMIUM ᴴᴰ
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/aolEXzr.jpeg" group-title="TV NOTICIAS",38 | NIPPON NEWS TV
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
