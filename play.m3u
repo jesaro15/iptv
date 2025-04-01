@@ -302,11 +302,11 @@ http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/20878
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3y0iqOx.jpeg" group-title="TV ESPANA",5 | TELECINCO HD |
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/B3esKH4.jpeg" group-title="TV ESPANA",6 | LA SEXTA HD |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ll9Ulnb.jpeg" group-title="TV ESPANA",6 | LA SEXTA HD |
 http://185.189.225.150:85/LaSexta/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RVb6sTv.jpeg" group-title="TV ESPANA",7 | NICKELODEON ᴴᴰ |
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/J5phTwC.jpeg" group-title="TV ESPANA",8 | DREAMWORKS ᴴᴰ |
+#EXTINF:-1 tvg-logo=".jpeg" group-title="TV ESPANA",8 | DREAMWORKS ᴴᴰ |
 
 
 
