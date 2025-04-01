@@ -343,7 +343,7 @@ https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/21B9fTQ.jpeg" group-title="TV NOTICIAS",14 | C5N 
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/hYbrc6g.jpeg" group-title="TV NOTICIAS",15 | A24 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Khz4ZH.jpeg" group-title="TV NOTICIAS",15 | A24 ᴴᴰ
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/oygF7D4.jpeg" group-title="TV NOTICIAS" ,16 | CANAL RED
@@ -381,7 +381,7 @@ https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/live.
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b806000.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/SdGlcgx.jpeg" group-title="TV NOTICIAS",31 | AL MAYADEEN
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/anyZt3J.jpeg" group-title="TV NOTICIAS",32 | AL JAZEERA ᴴᴰ ENGLISH 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYEqbx8.jpeg" group-title="TV NOTICIAS",32 | AL JAZEERA ᴴᴰ ENGLISH 
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMIJbga.jpeg" group-title="TV NOTICIAS",33 | HISPANTV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://odysee.com/
