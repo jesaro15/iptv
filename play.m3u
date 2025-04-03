@@ -377,7 +377,7 @@ https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/live.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jPo9oTX.jpeg" group-title="TV NOTICIAS",29 | RT EN INGLES ᴴᴰ 
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/live.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/pG0nIjC.jpeg" group-title="TV NOTICIAS",30 | IRAN INTERNATIONAL TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/knuXkMw.jpeg" group-title="TV NOTICIAS",30 | IRAN INTERNATIONAL TV
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b806000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7XzN3pj.jpeg" group-title="TV NOTICIAS",31 | AL MAYADEEN
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
@@ -394,7 +394,7 @@ https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vYv9Qnk.jpeg" group-title="TV NOTICIAS",37 | NHK WORLD ᴴᴰ
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/exK5sC6.jpeg" group-title="TV NOTICIAS",37.1 | NHK JAPAN PREMIUM ᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/exK5sC6.jpeg" group-title="TV NOTICIAS",37.1 | NHK JAPAN ᴴᴰ
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/aolEXzr.jpeg" group-title="TV NOTICIAS",38 | NIPPON NEWS TV
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
