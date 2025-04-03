@@ -400,9 +400,9 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BjI60rX.jpeg" group-title="TV NOTICIAS",39 | ABN KR
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canalgov.jpg" group-title="TV NOTICIAS",40 | CANAL GOV TV HD BRASIL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eWIBQuz.jpeg" group-title="TV NOTICIAS",40 | CANAL GOV TV HD BRASIL
 https://canalgov-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/jUaM4GB.jpeg" group-title="TV NOTICIAS",41 | REDE TV ᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMDzg5v.jpeg" group-title="TV NOTICIAS",41 | REDE TV ᴴᴰ
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K8jRhTt.jpeg" group-title="TV NOTICIAS",42 | RECORD NEWS ᴴᴰ
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
