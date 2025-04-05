@@ -2,9 +2,8 @@
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/phyVDqf.jpeg" group-title="TV PERU",00 | MAX⚽ ᴴᴰ 1 |
 https://nxt.plus:8443/jesus01/jesus01/227763
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/phyVDqf.jpeg" group-title="TV PERU",02 | MAX⚽ ᴴᴰ 3 |
-https://nxt.plus:8443/olmos/1234guz/227763
-
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/phyVDqf.jpeg" group-title="TV PERU",02 | LATINA NOTICIAS |
+https://jireh-1-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Matices2.jpg" group-title="TV PERU",29 | MATICES/DEPORTES |
 https://play.agenciastreaming.com:8081/maticestv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/HmCujAv.jpeg" group-title="TV PERU",125 | YURIVISON |
