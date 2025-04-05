@@ -97,6 +97,10 @@ https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.m3u8
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Riberena1.jpg" group-title="TV PERU",42 | RIBEREÑA TV | 
 https://live-evg25.tv360.bitel.com.pe/bitel/ribere%C3%B1a/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",42.1 | LA RIBEREÑA TV |
+https://vivatv.juanjuiserver.com:3149/live/luandi2025live.m3u8
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/PjShtw5.jpeg" group-title="TV PERU",43 | RADIO UNO |
 https://live-evg25.tv360.bitel.com.pe/bitel/radiounotv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/dSoq8QK.jpeg" group-title="TV PERU",45 | VIVA TV |
