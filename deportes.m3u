@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="" group-title="TV PERU", | SAN GABRIEL LARGO
+https://live-b2.cf.dmcdn.net/sec2(bUwBdZ47fWZMdIKGqAF8BkSkOSf3Wn1MFV2OJh7tyyhrIvnnuTDCFOPReTBeXRK0vH1mQO2IM-Utfei5q2ZM4ZkVIOOvFxe-ANyzAOFlqo-5YcUUCkv_LtxcvRcd-uW8)/cloud/3/x7x4dgx/s/live-720.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="TV PERU", | SAN GABRIEL CORTO
+https://live.obslivestream.com/sangabrieltv/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/phyVDqf.jpeg" group-title="TV PERU",00 | MAX⚽ ᴴᴰ 1 |
 https://nxt.plus:8443/jesus01/jesus01/227763
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/phyVDqf.jpeg" group-title="TV PERU",02 | LATINA NOTICIAS |
