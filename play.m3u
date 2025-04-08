@@ -4,6 +4,9 @@
 https://nxt.plus:8443/jesus01/jesus01/227763
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ye2euTQ.jpeg" group-title="TV PERU",001 | MAX⚽ ᴴᴰ 2 |
 https://nxt.plus:8443/olmos/1234guz/227763
+#EXTINF:-1 tvg-logo="https://i.imgur.com/neQgJJu.jpeg" group-title="TV PERU", | FUJI TV NEXT |
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=4
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/willlax.jpg" group-title="TV PERU",01 | WILLAX |
