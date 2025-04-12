@@ -846,7 +846,8 @@ https://nxt.plus:8443/series/olmos/1234guz/135270.mkv
 
 
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNmc7H8L2ABfcY2V7BQMpFU0F4r.jpg" group-title="PELICULAS SELECCIONADAS",La isla (2005)
+https://nxt.plus:8443/movie/jesus01/jesus01/181271.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2025/2/w1280/3s0jkMh0YUhIeIeioH3kt2X4st4.jpg" group-title="PELICULAS SELECCIONADAS",El abismo secreto (2025)
 https://nxt.plus:8443/movie/jesus01/jesus01/251792.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2025/2/w1280/3s0jkMh0YUhIeIeioH3kt2X4st4.jpg" group-title="PELICULAS SELECCIONADAS",El abismo secreto (2025)
