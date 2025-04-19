@@ -849,13 +849,13 @@ https://nxt.plus:8443/series/olmos/1234guz/135270.mkv
 
 
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vn2jQG67swcpaVEqe7ECnoqJs7e.jpg" group-title="PELICULAS SELECCIONADAS",Big Hero 6 (2014)
+https://nxt.plus:8443/movie/olmos/1234guz/132601.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zaqam2RNscH5ooYFWInV6hjx6y5.jpg" group-title="PELICULAS SELECCIONADAS",2012 (2009)
 https://nxt.plus:8443/movie/olmos/1234guz/177370.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6F0u2QkFMbLwcIROQW0ayunnOSi.jpg" group-title="PELICULAS SELECCIONADAS",La isla (1)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6F0u2QkFMbLwcIROQW0ayunnOSi.jpg" group-title="PELICULAS SELECCIONADAS",La isla (2005)
 https://nxt.plus:8443/movie/olmos/1234guz/181271.mkv
-#EXTINF:-1 tvg-logo="https://www.mubis.es/media/covers/2520/5622/la-isla-portada-l_cover.jpg" group-title="PELICULAS SELECCIONADAS",La isla (2)
-https://nxt.plus:8443/movie/jesus01/jesus01/181271.mkv
+
 
 
 
