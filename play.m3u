@@ -151,9 +151,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/qosqo/chunks.m3u8
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Millenium1.jpg" group-title="TV PERU",68 | MILLENIUM TV |
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canalx.jpg" group-title="TV PERU",69 | XTV |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UXUXNqD.jpeg" group-title="TV PERU",69 | XTV |
 https://play.agenciastreaming.com:8081/xtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/trwsSVv.jpeg" group-title="TV PERU",69.1 | XTV PLUS |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vYWNy8z.jpeg" group-title="TV PERU",69.1 | XTV PLUS |
 https://play.agenciastreaming.com:8081/xtvplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/genios1.jpg" group-title="TV PERU",70 | GENIOS TV |
 https://live.obslivestream.com/geniostvmux/index.m3u8
