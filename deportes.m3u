@@ -1,8 +1,7 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="" group-title="TV PERU", | WILLAX LARGO
-https://live-b2.cf.dmcdn.net/sec2(bUwBdZ47fWZMdIKGqAF8BkSkOSf3Wn1MFV2OJh7tyyhrIvnnuTDCFOPReTBeXRK0vH1mQO2IM-Utfei5q2ZM4ZkVIOOvFxe-ANyzAOFlqo-5YcUUCkv_LtxcvRcd-uW8)/cloud/3/x7x4dgx/s/live-720.m3u8
-
+#EXTINF:-1 tvg-logo="https://media.telebajocero.com/adjuntos/225/imagenes/000/405/0000405645.jpg" group-title="TV PERU",000 | TELEFE |
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
 #EXTINF:0 tvg-logo="" group-title="TV PERU", | SAN GABRIEL CORTO
 https://live.obslivestream.com/sangabrieltv/tracks-v1a1/mono.m3u8
 
