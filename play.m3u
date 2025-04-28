@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ye2euTQ.jpeg" group-title="DEPORTES", | MAX⚽ ᴴᴰ 1 |
-https://nxt.plus:8443/jesus01/jesus01/227763
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ye2euTQ.jpeg" group-title="DEPORTES", | MAX⚽ ᴴᴰ 2 |
-https://nxt.plus:8443/olmos/1234guz/227763
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p4ZZY0P.jpeg" group-title="DEPORTES", | CA ONE SOCCER |
-http://tvmate.icu:8080/85646307/54885994/135810
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", | SKY SPORTS MAIN EVENT HD |
-http://tvmate.icu:8080/85646307/54885994/137720
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", | LATIN TUDN |
-http://tvmate.icu:8080/85646307/54885994/11885
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/willlax.jpg" group-title="TV PERU",01 | WILLAX |
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/latina.jpg" group-title="TV PERU",02 | LATINA TV |
@@ -318,6 +306,8 @@ http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/20878
 http://kronostv.pro:8080/Jesus2024/Jesus2024/39891.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ll9Ulnb.jpeg" group-title="TV ESPANA",6 | LA SEXTA ᴴᴰ |
 http://185.189.225.150:85/LaSexta/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fhu5OQS.jpeg" group-title="TV ESPANA",6.1 | LA SEXTA |
+http://kronostv.pro:8080/Hugo2024/Hugo2024/39893.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RVb6sTv.jpeg" group-title="TV ESPANA",7 | NICKELODEON ᴴᴰ |
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo=".jpeg" group-title="TV ESPANA",8 | DREAMWORKS ᴴᴰ |
@@ -764,6 +754,24 @@ https://vcp.myplaytv.com/promar/promar/chunklist_w1561591709.m3u8
 https://cloud.odysee.live/content/fed20cff907550b0c7d83991fb3630e2a9f90454/master.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/IxBVQHy.jpeg" group-title="TV LATINA",VE | VENEZOLANA DE TELEVISION
 https://live-c.cf.dmcdn.net/sec2(hvbmELbWSM65qKjFut0oaHxNr5HZVQETDOrHYbTmO5vik5VV8rGWgWPrAxvNM6MDLVICVTIxP4jK4TritKds5nriuLn0b4opZ3bkXktx4HyB31VCDhaxZ6RQHSPg-o7m)/dm/3/x930kre/d/live-1080.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ye2euTQ.jpeg" group-title="DEPORTES", | MAX⚽ ᴴᴰ 1 |
+https://nxt.plus:8443/jesus01/jesus01/227763
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ye2euTQ.jpeg" group-title="DEPORTES", | MAX⚽ ᴴᴰ 2 |
+https://nxt.plus:8443/olmos/1234guz/227763
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p4ZZY0P.jpeg" group-title="DEPORTES", | CA ONE SOCCER |
+http://tvmate.icu:8080/85646307/54885994/135810
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", | SKY SPORTS MAIN EVENT HD |
+http://tvmate.icu:8080/85646307/54885994/137720
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", | LATIN TUDN |
+http://tvmate.icu:8080/85646307/54885994/11885
+
+
 
 
 
