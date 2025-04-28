@@ -1,12 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ye2euTQ.jpeg" group-title="TV PERU",000 | MAX⚽ ᴴᴰ 1 |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ye2euTQ.jpeg" group-title="DEPORTES", | MAX⚽ ᴴᴰ 1 |
 https://nxt.plus:8443/jesus01/jesus01/227763
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ye2euTQ.jpeg" group-title="TV PERU",001 | MAX⚽ ᴴᴰ 2 |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ye2euTQ.jpeg" group-title="DEPORTES", | MAX⚽ ᴴᴰ 2 |
 https://nxt.plus:8443/olmos/1234guz/227763
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p4ZZY0P.jpeg" group-title="TV PERU", | CA ONE SOCCER |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p4ZZY0P.jpeg" group-title="DEPORTES", | CA ONE SOCCER |
 http://tvmate.icu:8080/85646307/54885994/135810
-
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", | SKY SPORTS MAIN EVENT HD |
+http://tvmate.icu:8080/85646307/54885994/137720
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", | LATIN TUDN |
+http://tvmate.icu:8080/85646307/54885994/11885
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/willlax.jpg" group-title="TV PERU",01 | WILLAX |
