@@ -284,31 +284,36 @@ https://tv.folkloretv.pe/tropical/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bnPjl4K.jpeg" group-title="TV ESPANA",1 | TVE TV ᴴᴰ |
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQOSpSe.jpeg" group-title="TV ESPANA",2 | LA 1 ᴴᴰ |
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQOSpSe.jpeg" group-title="TV ESPANA",2.1 | LA 1 CANARIAS |
-https://ztnr.rtve.es/ztnr/5190066.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHDqRku.jpeg" group-title="TV ESPANA",3 | LA 2 SD |
-https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHDqRku.jpeg" group-title="TV ESPANA",3.1 | LA 2 CATALUNYA |
-https://ztnr.rtve.es/ztnr/3987218.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bTYbXA4.jpeg" group-title="TV ESPANA",4 | ANTENA 3 ᴴᴰ 1 |
-http://185.189.225.150:85/Antena3HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AB3T3ZF.jpeg" group-title="TV ESPANA",4.1 | ANTENA 3 ᴴᴰ 2 |
-http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/11826
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4mVe6Ke.jpeg" group-title="TV ESPANA",4.2 | ANTENA 3 ᴴᴰ 3 |
-http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/20878
-#EXTINF:-1 tvg-logo="" group-title="TV ESPANA",4 | CUATRO HD |
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3y0iqOx.jpeg" group-title="TV ESPANA",5 | TELECINCO ᴴᴰ |
-http://kronostv.pro:8080/Jesus2024/Jesus2024/39891.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ll9Ulnb.jpeg" group-title="TV ESPANA",6 | LA SEXTA ᴴᴰ |
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fMZeVvR.jpeg" group-title="TV NOTICIAS",1 | 24HORAS ᴴᴰ |
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bnPjl4K.jpeg" group-title="TV ESPANA",2 | TVE TV ᴴᴰ |
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQOSpSe.jpeg" group-title="TV ESPANA",3 | LA 1 ᴴᴰ |
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQOSpSe.jpeg" group-title="TV ESPANA",3.1 | LA 1 CANARIAS |
+https://ztnr.rtve.es/ztnr/5190066.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHDqRku.jpeg" group-title="TV ESPANA",4 | LA 2 SD |
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHDqRku.jpeg" group-title="TV ESPANA",4.1 | LA 2 CATALUNYA |
+https://ztnr.rtve.es/ztnr/3987218.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bTYbXA4.jpeg" group-title="TV ESPANA",5 | ANTENA 3 ᴴᴰ 1 |
+http://185.189.225.150:85/Antena3HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AB3T3ZF.jpeg" group-title="TV ESPANA",5.1 | ANTENA 3 ᴴᴰ 2 |
+http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/11826
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4mVe6Ke.jpeg" group-title="TV ESPANA",5.2 | ANTENA 3 ᴴᴰ 3 |
+http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/20878
+#EXTINF:-1 tvg-logo="" group-title="TV ESPANA",6 | CUATRO HD |
+http://185.189.225.150:85/CuatroHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3y0iqOx.jpeg" group-title="TV ESPANA",7 | TELECINCO ᴴᴰ |
+http://185.189.225.150:85/TeleCincoHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ll9Ulnb.jpeg" group-title="TV ESPANA",8 | LA SEXTA ᴴᴰ |
 http://185.189.225.150:85/LaSexta/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fhu5OQS.jpeg" group-title="TV ESPANA",6.1 | LA SEXTA |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fhu5OQS.jpeg" group-title="TV ESPANA",8.1 | LA SEXTA |
 http://kronostv.pro:8080/Hugo2024/Hugo2024/39893.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RVb6sTv.jpeg" group-title="TV ESPANA",7 | NICKELODEON ᴴᴰ |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RVb6sTv.jpeg" group-title="TV ESPANA",9 | NICKELODEON ᴴᴰ |
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo=".jpeg" group-title="TV ESPANA",8 | DREAMWORKS ᴴᴰ |
 
@@ -360,7 +365,7 @@ https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CmDFpro.jpeg" group-title="TV NOTICIAS",17 | EL CONFIDENCIAL ᴴᴰ  
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fMZeVvR.jpeg" group-title="TV NOTICIAS",18 | 24HORAS ᴴᴰ
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQOSpSe.jpeg" group-title="TV NOTICIAS",19 | La 1 ᴴᴰ
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZHDqRku.jpeg" group-title="TV NOTICIAS",20 | La 2 ᴴᴰ
