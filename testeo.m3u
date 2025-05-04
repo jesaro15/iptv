@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/panamericanape.png" group-title="TV NACIONAL",5.1 | PANAMERICANA TV |
+https://sae11.playlist.live-video.net/v1/playlist/CuoFJ0fYTZPcCZJn0qrsHpAdkd0tP9UM5dz2BevtwaMtY9b4fxSiQMvBI_2bG1yUMELl67dBEtDAxNiC8QN7BChB0uthUD7fE9WfcRRbC5A2K6dlU0WrGu0AH0SB3n5Z31xDqtLzjYV882NuZlevUuJnvuEFmtvvg8GNLiiiWDTdzORw8_dSh8-BIul1ddw-BygoWso708z9TURvwXtcnc3dxAt351Rl0UKhgO2JeZ35DUkoBuYjhcj6q2mvagDGKYNSWTjmNDKtSntvrfkUhAp6K7QozYH8MdcN63LNi6kU23vMoUyDNsHjYCx8OfkEgNjnn3KJQrrbwi1ifeLvidUKWwmDWl0WSgVJJR5K-P146_KfQkaMdexmLk97dVCHLbRSyORBslW2_TPXBZ6ts4YTywXqmNNO3a8-dT2W0HwlIJo77VKy7tZIr1VQyDFN8zYtwY1FYzhQCUOMeDhl9yXfBerNx2ny5hDVr3oK6hIYwZxxL0ndDj4La4px8E2JlwQEw1N2k44BYkYxHJ-rW7udmwaUYps3ItqcoBrMiKo5qIKCBAGc8evubGM--sHCs2kVlAqO75FXuLF0wrE0xcy0MNTaL5MfsHm2MDXcVZDnde7Q7nA3Yd_nElcWitmey3ATb3CdXkzL4Hbd0ULbdVxeFkPoMnRCEBd-gvSnq241QHzW3w0pWnHgwft9Bx6NOS8Md0FntDW4dGVL8_fyBpiiV6wZadzD4HUgPIdpoCY1_WmNIaDF0zFFk0rjJFzBEiVC77cS5FJVMRvi0hqAHPDOVrcpxEBVqK4thYbYL4iuvzsjXwWgN17nicqa5uZoXeXOjqE6TvCXPbGKHWdcBa1W4dYedpjpraeu-pwndMbgkWQlEiNAjj0KJDrEM8TSbiU0Hr9hV1yUC1o-uuhljqup4hhL3ydxo9wrOPv4zQxcQosQKPO8JA2RkYkDB4KHa_WrRd4RuU2Ontmy_2ulCOgeZMZcK-jX8k1vQKAaDPKdJMf2A2MU5Qb0xiABKgl1cy1lYXN0LTIwlww.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/willlax.jpg" group-title="TV NACIONAL",1 | WILLAX |
 http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/181714
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="TV NACIONAL",2 | LATINA TV |
@@ -10,6 +14,8 @@ http://haksba3.ovh:37500/972483615538/185177820594/104652
 http://tv.soccerplus.link:8000/Luigen/031794/22510
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/panamericanape.png" group-title="TV NACIONAL",5 | PANAMERICANA TV |
 https://cdnhd.iblups.com/hls/ptv5.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/exitosa.jpg" group-title="TV NACIONAL",6 | EXITOSA TV |
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="TV NACIONAL",7 | TV PERU |
