@@ -313,7 +313,9 @@ http://185.189.225.150:85/TeleCincoHD/index.m3u8
 http://185.189.225.150:85/LaSexta/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fhu5OQS.jpeg" group-title="TV ESPANA",8.1 | LA SEXTA |
 http://kronostv.pro:8080/Hugo2024/Hugo2024/39893.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RVb6sTv.jpeg" group-title="TV ESPANA",9 | NICKELODEON ᴴᴰ |
+#EXTINF:-1 tvg-logo="" group-title="TV ESPANA",9 | TELEMADRID |
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RVb6sTv.jpeg" group-title="TV ESPANA",10 | NICKELODEON ᴴᴰ |
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo=".jpeg" group-title="TV ESPANA",8 | DREAMWORKS ᴴᴰ |
 
