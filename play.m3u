@@ -788,7 +788,7 @@ http://kronostv.pro:8080/Jesus2024/Jesus2024/23713.ts
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="TV DOCUMENTALES", | NATURE TIME ᴴᴰ |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8OmhNc9.jpeg" group-title="TV DOCUMENTALES", | NATURE TIME ᴴᴰ |
 https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fa9ce50e5372b0370d861138ca7e935f.webp" group-title="TV DOCUMENTALES", | WILD EARTH |
 https://wildearth-plex.amagi.tv/masterR432p.m3u8
