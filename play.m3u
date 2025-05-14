@@ -812,18 +812,20 @@ https://video.ejeserver.com/live/verteve.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="SERIES", PANTERA ROSA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4e6jtKv.jpeg" group-title="SERIEA", | LOONEY TUNES |
+https://nxt.plus:8443/olmos/1234guz/161586
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C5JqwUP.jpeg" group-title="SERIES", | PANTERA ROSA |
 http://kronostv.pro:8080/Jesus2024/Jesus2024/23231.ts
-#EXTINF:-1 tvg-logo="" group-title="SERIES", PATO DONALD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ON6yl1g.jpeg" group-title="SERIES", | PATO DONALD |
 http://kronostv.pro:8080/Jesus2024/Jesus2024/23232.ts
 
-#EXTINF:-1 tvg-logo="" group-title="SERIES", SHOW DE PORKY
+#EXTINF:-1 tvg-logo="" group-title="SERIES", | SHOW DE PORKY |
 http://kronostv.pro:8080/Jesus2024/Jesus2024/23235.ts
-#EXTINF:-1 tvg-logo="" group-title="SERIES", SUPERSONICOS
+#EXTINF:-1 tvg-logo="" group-title="SERIES", | SUPERSONICOS |
 http://kronostv.pro:8080/Jesus2024/Jesus2024/23236.ts
-#EXTINF:-1 tvg-logo="" group-title="SERIES", LOS THUNDERCATS
+#EXTINF:-1 tvg-logo="" group-title="SERIES", | LOS THUNDERCATS |
 http://kronostv.pro:8080/Jesus2024/Jesus2024/23237.ts
-#EXTINF:-1 tvg-logo="" group-title="SERIES", CANUTO Y CANITO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ce6n7zv.jpeg" group-title="SERIES", | CANUTO Y CANITO |
 http://kronostv.pro:8080/Jesus2024/Jesus2024/23215.ts
 
 
