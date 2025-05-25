@@ -78,7 +78,7 @@ https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/bhTV.jpg" group-title="TV PERU",33 | BH TV |
 https://sc1.wasidata.com/Bhtv/tracks-v1a1/mono.m3u8   
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/vzTV.jpg" group-title="TV PERU",34 | VZ TV | 
-https://live.obslivestream.com/vztv/index.m3u8
+https://vztv.online/live/mysteam_web.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/vinilosTV.jpg" group-title="TV PERU",35 | VINILOS TV |
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/tvone.jpg" group-title="TV PERU",36 | TV ONE | 
