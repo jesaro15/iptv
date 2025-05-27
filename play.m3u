@@ -118,9 +118,9 @@ https://play.agenciastreaming.com:8081/uniteltv/index.mpd
 https://live-evg25.tv360.bitel.com.pe/bitel/36tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/0kDMLqs.jpeg" group-title="TV PERU",56 | HUACHO PERU TV ᴴᴰ |
 https://tv.huachotv.com/livelan/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Planea3.jpg" group-title="TV PERU",57 | PLANEA TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Planea3.jpg" group-title="TV PERU",57 | PLANEA AMAZONAS |
 https://play.agenciastreaming.com:8081/planeatv/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",58 | PLANEA JAEN TV |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWCOZRY.jpeg" group-title="TV PERU",58 | PLANEA JAEN |
 https://7.innovatestream.pe:19360/planetajaen/planetajaen.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/GfTelevision.jpg" group-title="TV PERU",59 | GF TV |
 https://live.obslivestream.com/regionaltv/tracks-v1a1/mono.m3u8
@@ -247,7 +247,7 @@ https://vivatv.juanjuiserver.com:3655/live/canal39live.m3u8
 https://vivatv.juanjuiserver.com:3657/live/a1televisionlive.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/ikcT5p2.jpeg" group-title="TV PERU",119 | RSELVA TV |
 https://live.obslivestream.com/selvatv/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/eXYH1gs.jpeg" group-title="TV PERU",120 | MEDIATV |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/eXYH1gs.jpeg" group-title="TV PERU",120 | 3 MEDIA TV |
 https://live-evg25.tv360.bitel.com.pe/bitel/mediatv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/apzgqT4.jpeg" group-title="TV PERU",121 | NQ TV |
 https://live.obslivestream.com/nq/tracks-v1a1/mono.m3u8
