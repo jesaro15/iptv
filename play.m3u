@@ -71,14 +71,15 @@ https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m
 https://live20.bozztv.com/giatv/giatv-Maticestv/Maticestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/e1K9mWZ.jpeg" group-title="TV PERU",30 | YURIVISON/DEPORTES |
 https://live.obslivestream.com/yurivision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CONECTADOS.jpg" group-title="TV PERU",31 | CONECTA2 TV |
-https://servilive.com:3114/live/liveulive.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Planeta1.jpg" group-title="TV PERU",32 | PLANETA TV | 
-https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/bhTV.jpg" group-title="TV PERU",33 | BH TV |
-https://sc1.wasidata.com/Bhtv/tracks-v1a1/mono.m3u8   
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/vzTV.jpg" group-title="TV PERU",34 | VZ TV | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/vzTV.jpg" group-title="TV PERU",31 | VZ TV/DEPORTES | 
 https://vztv.online/live/mysteam_web.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CONECTADOS.jpg" group-title="TV PERU",32 | CONECTA2 TV |
+https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Planeta1.jpg" group-title="TV PERU",33 | PLANETA TV | 
+https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/bhTV.jpg" group-title="TV PERU",34 | BH TV |
+https://sc1.wasidata.com/Bhtv/tracks-v1a1/mono.m3u8   
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/vinilosTV.jpg" group-title="TV PERU",35 | VINILOS TV |
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/tvone.jpg" group-title="TV PERU",36 | TV ONE | 
@@ -278,7 +279,7 @@ https://live.obslivestream.com/tvmas/tracks-v1a1/mono.m3u8
 https://servilive.com:3538/live/v6qe84b6flive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/tropical.jpg" group-title="TV PERU",134 | TROPICAL TV |
 https://tv.folkloretv.pe/tropical/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",135 | TELESISTEMAS CUZCO |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n5BIah3.jpeg" group-title="TV PERU",135 | TELESISTEMAS CUZCO |
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 
 
