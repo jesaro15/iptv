@@ -380,12 +380,12 @@ https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qnediN4.jpeg" group-title="TV NOTICIAS",22 | 324 TV 
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/HhkOvnj.jpeg" group-title="TV NOTICIAS",23 | FRANCE 24 ᴴᴰ  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6vBtcjW.jpeg" group-title="TV NOTICIAS",23 | FRANCE 24 ᴴᴰ  
 https://mexside-stream.b-cdn.net/france24/france24/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30zRUym.jpeg" group-title="TV NOTICIAS",24 | DEUSTCHE WELLE ᴴᴰ 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/M3eCHbo.jpeg" group-title="TV NOTICIAS",25 | EURONEWS ᴴᴰ
-https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/b3151d28-4143-4799-9ed9-17a8b5a64096/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30Y89SU.jpeg" group-title="TV NOTICIAS",26 | CGTN EN ESPAÑOL ᴴᴰ 
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PcOrpX6.jpeg" group-title="TV NOTICIAS",27 | ACTUALIDAD RT ᴴᴰ 
