@@ -264,7 +264,7 @@ https://live.obslivestream.com/rtvlibertad/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Dk3PgdU.jpeg" group-title="TV PERU",126  | INKAVISION |
 https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/GtvPisco.jpg" group-title="TV PERU",127 | GTV PISCO ᴴᴰ |
-https://v4.tustreaming.cl/gtvpisco/tracks-v1a1/index.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/gtvpisco/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/QT4VSAp.jpeg" group-title="TV PERU", |128 ARPEGIO TV ᴴᴰ |
 https://tv.oyotunserver.com:3954/live/demolive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/AtlantisRTv1.jpg" group-title="TV PERU",129 | ATLANTIS TV |
