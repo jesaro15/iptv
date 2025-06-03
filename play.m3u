@@ -235,7 +235,7 @@ https://play.agenciastreaming.com:8081/antena1/tracks-a1v1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/SolarTv.jpg" group-title="TV PERU",112 | SOLAR TV CUSCO |
 https://stmv1.voxhdnet.com/solartv/solartv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cositel.jpg" group-title="TV PERU",113 | COSITEL TV |
-https://eu1.servers10.com:8081/8290/tracks-v1a1/mono.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/cositel/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TropicalTv.jpg" group-title="TV PERU",114 | TROPICAL TV |
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVJwiqm.jpeg" group-title="TV PERU",115 | BNB TV |
