@@ -1,4 +1,17 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="",MEGATV JAEN
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",PANC TV
+https://panel.host-live.com:19360/20000/20000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",HIPER TV
+https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/chunklist_w1647274275.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",360RU
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8?hls_proxy_host=5a1d3b5f5754e92f17cc47f3adee28f3
+
 #EXTINF:-1 tvg-logo="" group-title="",HIPER TV
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/chunklist_w1647274275.m3u8
 
@@ -18,7 +31,7 @@ https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_720.m3u8
 https://v2.tustreaming.cl/clicktv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TARAPOTO TV
-https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/live/nvuvgjaT_OEXiM4W/chunks.m3u8?nimblesessionid=21091559
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/live/nvuvgjaT_OEXiM4W/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",LO NUESTRO TV
 https://vivatv.juanjuiserver.com:3669/live/lonuestrolive.m3u8
