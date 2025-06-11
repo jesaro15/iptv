@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="" group-title="",TVS (720p)
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",MEGATV JAEN
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
