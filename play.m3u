@@ -785,20 +785,12 @@ https://live-c.cf.dmcdn.net/sec2(hvbmELbWSM65qKjFut0oaHxNr5HZVQETDOrHYbTmO5vik5V
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ye2euTQ.jpeg" group-title="DEPORTES",0 | MAX⚽ ᴴᴰ |
-http://kronostv.pro:8080/Hugo2024/Hugo2024/1803.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ye2euTQ.jpeg" group-title="DEPORTES",1 | MAX⚽ ᴴᴰ |
-http://kronostv.pro:8080/Jorge2024/Jorge2024/1803.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ye2euTQ.jpeg" group-title="DEPORTES",2 | MAX⚽ ᴴᴰ |
-http://kronostv.pro:8080/Jorge2024/Jorge2024/1802.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ye2euTQ.jpeg" group-title="DEPORTES",3 | MAX⚽ ᴴᴰ |
-https://nxt.plus:8443/olmos/1234guz/227763
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p4ZZY0P.jpeg" group-title="DEPORTES",4 | ONE SOCCER ⚽ |
 http://tvmate.icu:8080/85646307/54885994/135810
 #EXTINF:-1 tvg-logo="https://i.imgur.com/96ebfyp.jpeg" group-title="DEPORTES",5 | SKY SPORTS ᴴᴰ ⚽ |
 http://tvmate.icu:8080/85646307/54885994/137720
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWzL9f.jpeg" group-title="DEPORTES",6 | MX TUDN ᴴᴰ ⚽ |
-http://kronostv.pro:8080/Hugo2024/Hugo2024/1453.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a8jwRcH.jpeg" group-title="DEPORTES",7 | US TUDN ᴴᴰ ⚽ |
 http://tvmate.icu:8080/85646307/54885994/11885
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sVDGfP8.jpeg" group-title="DEPORTES",8 | ESPN ARG ᴴᴰ ⚽ |
@@ -831,33 +823,16 @@ https://video.ejeserver.com/live/verteve.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4e6jtKv.jpeg" group-title="SERIES", | LOONEY TUNES |
-https://nxt.plus:8443/olmos/1234guz/161586
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C5JqwUP.jpeg" group-title="SERIES", | PANTERA ROSA |
-http://kronostv.pro:8080/Jesus2024/Jesus2024/23231.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ON6yl1g.jpeg" group-title="SERIES", | PATO DONALD |
-http://kronostv.pro:8080/Jesus2024/Jesus2024/23232.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aRS9b7q.jpeg" group-title="SERIES", | SHOW DE PORKY |
-http://kronostv.pro:8080/Jesus2024/Jesus2024/23235.ts
-#EXTINF:-1 tvg-logo="" group-title="SERIES", | SUPERSONICOS |
-http://kronostv.pro:8080/Jesus2024/Jesus2024/23236.ts
-#EXTINF:-1 tvg-logo="" group-title="SERIES", | LOS THUNDERCATS |
-http://kronostv.pro:8080/Jesus2024/Jesus2024/23237.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ce6n7zv.jpeg" group-title="SERIES", | CANUTO Y CANITO |
-http://kronostv.pro:8080/Jesus2024/Jesus2024/23215.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4e6jtKv.jpeg" group-title="SERIES", | RETRO PALMARES TV |
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/chunks.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vn2jQG67swcpaVEqe7ECnoqJs7e.jpg" group-title="PELICULAS SELECCIONADAS",Big Hero 6 (2014)
-https://nxt.plus:8443/movie/olmos/1234guz/132601.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zaqam2RNscH5ooYFWInV6hjx6y5.jpg" group-title="PELICULAS SELECCIONADAS",2012 (2009)
-https://nxt.plus:8443/movie/olmos/1234guz/177370.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6F0u2QkFMbLwcIROQW0ayunnOSi.jpg" group-title="PELICULAS SELECCIONADAS",La isla (2005)
-https://nxt.plus:8443/movie/olmos/1234guz/181271.mkv
+
+
+
 
 
 
