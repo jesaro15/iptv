@@ -825,7 +825,8 @@ https://video.ejeserver.com/live/verteve.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4e6jtKv.jpeg" group-title="SERIES", | RETRO PALMARES TV |
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aRS9b7q.jpeg" group-title="SERIES", | RETRO TV ᴴᴰ |
+https://server.streamtech.com.co:5443/retroTv/streams/sJlaR9zuk3cJ8jqN4467369974529.m3u8
 
 
 
