@@ -287,7 +287,10 @@ https://tv.folkloretv.pe/tropical/tracks-v1a1/mono.m3u8
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CpOboQw.jpeg" group-title="TV PERU",136 | INPECABLE TV |
 https://tv.sistemasandinos.org/INPECABLETV/tracks-v1a1/index.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",137 | YURIMAGUAS TV |
+https://live.obslivestream.com/yurimaguastelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",138 | TARAPOTO DIGITAL |
+https://live.obslivestream.com/actpro/tracks-v1a1/mono.m3u8
 
 
 
@@ -343,7 +346,7 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/0vqMDAF.jpeg" group-title="TV NOTICIAS",3 | NTN24 ᴴᴰ
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/noR4NUo.jpeg" group-title="TV NOTICIAS",4 | TELESUR ᴴᴰ 
-https://live.eu-north-1b.cf.dmcdn.net/sec2(yipYFdqI5HbwORRauq41uEziFICH6ymvXGeiHYzIf4V9vRJ-c47U35MkWZ7ydHBqdkdCiPImZAglOpoHQ9JJDpD3OP_C-jacga8dZSuaEEVHdlN79e0aBqsKJTvcL8yA)/dm/3/x82ug5r/s/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(s1URhoNc75nEjoCD2DrgJyK9kE-WMY0HEeu64oG28mIAndnQpOctcOJk4u8yzKsBkZKgiwjVFJrbtYxTSG0yJTvKPmsNM1lchShIZMGXMynvYTdfhymRbWzgQtrmwI3W)/dm/3/x82ug5r/s/live-720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/noR4NUo.jpeg" group-title="TV NOTICIAS",5 | TELESUR ᴴᴰ (ALT)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0Evou6.jpeg" group-title="TV NOTICIAS",5.1 | CANAL 22 WEB
