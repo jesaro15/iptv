@@ -71,6 +71,8 @@ https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m
 https://live20.bozztv.com/giatv/giatv-Maticestv/Maticestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/e1K9mWZ.jpeg" group-title="TV PERU",30 | YURIVISON/DEPORTES |
 https://live.obslivestream.com/yurivision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",30.1 | YURIMAGUAS TV/DEPORTES |
+https://live.obslivestream.com/yurimaguastelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/vzTV.jpg" group-title="TV PERU",31 | VZ TV/DEPORTES | 
 https://vztv.online/live/mysteam_web.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CONECTADOS.jpg" group-title="TV PERU",32 | CONECTA2 TV |
@@ -287,8 +289,7 @@ https://tv.folkloretv.pe/tropical/tracks-v1a1/mono.m3u8
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CpOboQw.jpeg" group-title="TV PERU",136 | INPECABLE TV |
 https://tv.sistemasandinos.org/INPECABLETV/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",137 | YURIMAGUAS TV |
-https://live.obslivestream.com/yurimaguastelevision/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",138 | TARAPOTO DIGITAL |
 https://live.obslivestream.com/actpro/tracks-v1a1/mono.m3u8
 
@@ -352,11 +353,11 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0Evou6.jpeg" group-title="TV NOTICIAS",5.1 | CANAL 22 WEB
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w1527944810.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/miHQF71.jpeg" group-title="TV NOTICIAS",6 | VENEZOLANA DE TELEVISIÓN
-https://live.eu-north-1b.cf.dmcdn.net/sec2(1o4qRz5nhsBuNm1MieKSXacrGCp5p177-VvWqYK98BF7Jtg9zv8PGZdxUkfBl4CRU0-Q-1Izgvgni9As4GuH3mbZ4Igt7Kw5NflStOJMqVIfMHUnLnmdm7IknvP0EIXK)/dm/3/x930kre/d/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(RXOdOxi4y7UXn3q-hljlnMB1rjCcxwibX9X-CS9YmDAvdWsaH01mnPcSHzUCcIoIPqpkm0saKrcucvLsKszTJTqyDIS22fyjHRK9RQDxxDMRe2OE7mMaOuL5BSrpLhLV)/dm/3/x930kre/d/live-720.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/t8r9Fn3.jpeg" group-title="TV NOTICIAS",7 | LA HOJILLA TV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/7fd9b0b5a9434fed05fa3f358934e8e9fe427d63/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",7.1 | TVFANB
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vSmhFja.jpeg" group-title="TV NOTICIAS",7.1 | TVFANB
 https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w756833044.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOUFdo8.jpeg" group-title="TV NOTICIAS",8 | PRENSA LATINA TV ᴴᴰ 
 https://eu1.servers10.com:8081/8192/index.m3u8
