@@ -290,7 +290,7 @@ https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CpOboQw.jpeg" group-title="TV PERU",136 | INPECABLE TV |
 https://tv.sistemasandinos.org/INPECABLETV/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",138 | TARAPOTO DIGITAL |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YC3BbNX.jpeg" group-title="TV PERU",138 | TARAPOTO DIGITAL |
 https://live.obslivestream.com/actpro/tracks-v1a1/mono.m3u8
 
 
