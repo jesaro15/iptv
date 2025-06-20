@@ -454,6 +454,9 @@ https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/48Swxxr.jpeg" group-title="TV NOTICIAS",50 | CANAL 12 ISRAEL
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1/hdntl=exp=1730902906~acl=%2f*~data=hdntl~hmac=6534bdf1e08c1673127ba9e4d8b0a3d33c2fc1ed2b68dec5c45b3973ed60739b/profileManifest.m3u8?_uid=d10212bc-f9f3-4da2-a6d6-2adad1603799&rK=a5&_did=9656a53ede983aa2ba78870cdfc3753af7767f9a
+#EXTINF:-1 tvg-logo="" group-title="TV NOTICIAS",50.1 | CANAL 14 ISRAEL
+https://n-121-6.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TRyfQau.jpeg" group-title="TV NOTICIAS",51 | TV5 MONDE INFO ᴴᴰ
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JaLxQ0i.jpeg" group-title="TV NOTICIAS",52 | ULKE ᴴᴰ TURQUIA 
