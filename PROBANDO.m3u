@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="",CANAL 14 ISRAEL
+https://n-121-6.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",KOREAN CENTRAL TV
 https://tv.nknews.org/tvhls/stream.m3u8
 
