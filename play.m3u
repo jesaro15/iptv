@@ -76,7 +76,7 @@ https://live.obslivestream.com/yurimaguastelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/vzTV.jpg" group-title="TV PERU",31 | VZ TV/DEPORTES | 
 https://vztv.online/live/mysteam_web.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CONECTADOS.jpg" group-title="TV PERU",32 | CONECTA2 TV |
-https://servilive.com:3114/live/liveulive.m3u8
+https://live.obslivestream.com/conecta2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Planeta1.jpg" group-title="TV PERU",33 | PLANETA TV | 
 https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/bhTV.jpg" group-title="TV PERU",34 | BH TV |
