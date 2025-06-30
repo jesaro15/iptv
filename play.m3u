@@ -268,7 +268,7 @@ https://live.obslivestream.com/rtvlibertad/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qVFkBJd.jpeg" group-title="TV PERU",125.1 | RTV LIBERTAD IQUITOS |
 https://live.obslivestream.com/rtvlibertadiqt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Dk3PgdU.jpeg" group-title="TV PERU",126  | INKAVISION |
-https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/bitel/inkavision_480p/chunks.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/bitel/inkavision_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/GtvPisco.jpg" group-title="TV PERU",127 | GTV PISCO ᴴᴰ |
 https://live-evg25.tv360.bitel.com.pe/bitel/gtvpisco/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/QT4VSAp.jpeg" group-title="TV PERU", |128 ARPEGIO TV ᴴᴰ |
@@ -827,13 +827,14 @@ https://video.ejeserver.com/live/verteve.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4e6jtKv.jpeg" group-title="SERIES", | RETRO PALMARES TV |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4e6jtKv.jpeg" group-title="INFANTILES", | RETRO PALMARES TV |
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aRS9b7q.jpeg" group-title="SERIES", | RETRO TV ᴴᴰ |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aRS9b7q.jpeg" group-title="INFANTILES", | RETRO TV ᴴᴰ |
 https://server.streamtech.com.co:5443/retroTv/streams/sJlaR9zuk3cJ8jqN4467369974529.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SERIES", | RETRO X TV |
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES", | RETRO X TV |
 https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES", | XTREMA KIDS |
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w1126563396.m3u8
 
 
 
