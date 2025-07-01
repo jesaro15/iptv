@@ -794,7 +794,8 @@ https://live-c.cf.dmcdn.net/sec2(hvbmELbWSM65qKjFut0oaHxNr5HZVQETDOrHYbTmO5vik5V
 http://tvmate.icu:8080/85646307/54885994/135810
 #EXTINF:-1 tvg-logo="https://i.imgur.com/96ebfyp.jpeg" group-title="DEPORTES",5 | SKY SPORTS ᴴᴰ ⚽ |
 http://tvmate.icu:8080/85646307/54885994/137720
-
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",6 | SPORTSMAX NEWS ⚽ |
+https://cdahum.streaming.ws/sportsmaxnews/live/chunklist_w1062378774.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a8jwRcH.jpeg" group-title="DEPORTES",7 | US TUDN ᴴᴰ ⚽ |
 http://tvmate.icu:8080/85646307/54885994/11885
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sVDGfP8.jpeg" group-title="DEPORTES",8 | ESPN ARG ᴴᴰ ⚽ |
@@ -835,7 +836,8 @@ https://server.streamtech.com.co:5443/retroTv/streams/sJlaR9zuk3cJ8jqN4467369974
 https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INFANTILES", | XTREMA KIDS |
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w1126563396.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES", | BAYRES TV HD |
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
 
