@@ -804,7 +804,7 @@ http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/20324
 http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/12755
 #EXTINF:-1 tvg-logo="https://i.imgur.com/heLBw7m.jpeg" group-title="DEPORTES",9 | SPORT EN FRANCE |
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",10 | BEK TV |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WoPRkoY.jpeg" group-title="DEPORTES",10 | BEK CHANNEL |
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/chunklist_b3596000_slENG.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",11 | ASTRAKHAN RU SPORT |
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.m3u8
