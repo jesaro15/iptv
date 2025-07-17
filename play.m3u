@@ -861,7 +861,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INFANTILES", | HIPER TV |
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/chunklist_w1647274275.m3u8
-#EXTINF:-1tvg-logo="" group-title="INFANTILES", | B TV JUNIORS |
+#EXTINF:-1tvg-logo="https://i.imgur.com/t51uky5.jpeg" group-title="INFANTILES", | BENINNI TV JUNIORS |
 https://strhls.streamakaci.tv/ortb/ortb2-multi/ortb/ortb2_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mQvGCck.jpeg" group-title="INFANTILES", | IMPACTO TELEVISION | 
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
