@@ -209,6 +209,8 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TvEnLinea.jpg" group-title="TV PERU",98 | TV EN LINEA CUSCO |
 https://s4.tvdatta.com:3450/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q93SrTS.jpeg" group-title="",99 | LO NUESTRO TV |
+https://vivatv.juanjuiserver.com:3669/live/lonuestrolive.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/canal8.jpg" group-title="TV PERU",100 | CANAL 8 |
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
@@ -527,7 +529,7 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/index.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dirD80u.jpeg" group-title="INFANTILES", | HIPER TV |
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/chunklist_w1647274275.m3u8
-#EXTINF:-1tvg-logo="https://i.imgur.com/t51uky5.jpeg" group-title="INFANTILES", | BENINNI TV JUNIORS |
+#EXTINF:-1tvg-logo="https://i.imgur.com/t51uky5.jpeg" group-title="INFANTILES", | BENINI TV JUNIORS |
 https://strhls.streamakaci.tv/ortb/ortb2-multi/ortb/ortb2_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mQvGCck.jpeg" group-title="INFANTILES", | IMPACTO TELEVISION | 
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
