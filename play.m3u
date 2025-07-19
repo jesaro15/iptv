@@ -62,9 +62,6 @@ https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/bellaabanquina/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/antares.jpg" group-title="TV PERU",26 | ANTARES TV |
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/perumagico.jpg" group-title="TV PERU",27 | PERU MAGICO |
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ovacion.jpg" group-title="TV PERU",28 | OVACION TV |
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Matices2.jpg" group-title="TV PERU",29 | MATICES/DEPORTES |
@@ -251,8 +248,7 @@ https://vivatv.juanjuiserver.com:3657/live/a1televisionlive.m3u8
 https://live.obslivestream.com/selvatv/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/eXYH1gs.jpeg" group-title="TV PERU",120 | 3 MEDIA TV |
 https://live-evg25.tv360.bitel.com.pe/bitel/mediatv/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/apzgqT4.jpeg" group-title="TV PERU",121 | NQ TV |
-https://live.obslivestream.com/nq/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/mega.jpg" group-title="TV PERU",122 | MEGA TV |
 https://mc.servidor.stream:19360/megatv/megatv.m3u8
 
@@ -309,19 +305,15 @@ http://185.189.225.150:85/Antena3HD/index.m3u8
 http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/11826
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4mVe6Ke.jpeg" group-title="TV ESPANA",5.2 | ANTENA 3 ᴴᴰ 3 |
 http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/20878
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HhjCcM6.jpeg" group-title="TV ESPANA",5.4 | ANTENA 3 INTER |
-http://181.78.109.48:8000/play/a00f/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u7aBN9v.jpeg" group-title="TV ESPANA",6 | CUATRO ᴴᴰ |
 http://185.189.225.150:85/CuatroHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3y0iqOx.jpeg" group-title="TV ESPANA",7 | TELECINCO ᴴᴰ |
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ll9Ulnb.jpeg" group-title="TV ESPANA",8 | LA SEXTA ᴴᴰ |
 http://185.189.225.150:85/LaSexta/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fhu5OQS.jpeg" group-title="TV ESPANA",8.1 | LA SEXTA |
-http://kronostv.pro:8080/Hugo2024/Hugo2024/39893.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iROMK11.jpeg" group-title="TV ESPANA",9 | TELEMADRID |
-https://telemadrid-23-secure2.akamaized.net/master.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iROMK11.jpeg" group-title="TV ESPANA",9 | TELEMADRID INT |
+https://new-international-23-secure2.akamaized.net/index.m3u8
 
 
 
@@ -376,7 +368,7 @@ https://mexside-stream.b-cdn.net/france24/france24/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30zRUym.jpeg" group-title="TV NOTICIAS",24 | DEUSTCHE WELLE ᴴᴰ 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/M3eCHbo.jpeg" group-title="TV NOTICIAS",25 | EURONEWS ᴴᴰ
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/b3151d28-4143-4799-9ed9-17a8b5a64096/5.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/2514df4b-38ed-4460-abcb-7a4a0ba98b66/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30Y89SU.jpeg" group-title="TV NOTICIAS",26 | CGTN EN ESPAÑOL ᴴᴰ 
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PcOrpX6.jpeg" group-title="TV NOTICIAS",27 | ACTUALIDAD RT ᴴᴰ 
