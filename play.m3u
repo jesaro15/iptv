@@ -327,6 +327,9 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/noR4NUo.jpeg" group-title="TV NOTICIAS",3 | TELESUR ᴴᴰ 
 https://live.eu-north-1b.cf.dmcdn.net/sec2(_8txZhAsAU6hoNktmceTmEcaLBDhODHOrbygz6DHfgSriBOEf9Di92Qv-vqsEv09jH17pyhHFoZmMl_ekDXq6x720eOoBQWOfdEks4-yVu-mYUWMjkWBjQhe3wo_lS0W)/dm/3/x82ug5r/s/live-720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vSmhFja.jpeg" group-title="TV NOTICIAS",4 | TV FANB 1
+https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1175399475.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0Evou6.jpeg" group-title="TV NOTICIAS",5 | CANAL 22 WEB
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w1527944810.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/miHQF71.jpeg" group-title="TV NOTICIAS",6 | VENEZOLANA DE TELEVISIÓN
@@ -334,8 +337,7 @@ https://live.eu-north-1b.cf.dmcdn.net/sec2(C-DwOJiWPT8ECF1s-1sz-JpM8PprVQKHYxHay
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/t8r9Fn3.jpeg" group-title="TV NOTICIAS",7 | LA HOJILLA TV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/7fd9b0b5a9434fed05fa3f358934e8e9fe427d63/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vSmhFja.jpeg" group-title="TV NOTICIAS",7.1 | TVFANB
-https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w756833044.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOUFdo8.jpeg" group-title="TV NOTICIAS",8 | PRENSA LATINA TV ᴴᴰ 
 https://eu1.servers10.com:8081/8192/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yo1WzLx.jpeg" group-title="TV NOTICIAS",9 | CUBAVISION INT ᴴᴰ
