@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="",TV FANB 1
+https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1175399475.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",LN 24 FRANCES
+https://live-ln24.digiteka.com/1911668011/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",EXITOSA TV
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", EXITORA ALT
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", EURONEWS
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/2514df4b-38ed-4460-abcb-7a4a0ba98b66/5.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",RT ACTUALIDAD 3
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",TELEMADRID
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
