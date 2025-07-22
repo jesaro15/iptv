@@ -25,13 +25,13 @@ https://telemadrid-23-secure2.akamaized.net/master.m3u8
 https://new-international-23-secure2.akamaized.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TVN CHILE
-https://andromeda2.trapemn.tv:1936/live/tvnHD.stream/chunks.m3u8?nimblesessionid=29930916
+https://andromeda2.trapemn.tv:1936/live/tvnHD.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",NUEVO TIEMPO
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",LATINA CLASICOS
-https://jireh-1-hls-video-pe-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream0/chunks.m3u8?dpssid=b21201213878687ff06864d83&sid=ba5t1l1xb240729171687ff06864d80&ndvc=1
+https://jireh-1-hls-video-pe-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream0/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",MEGA TV CHIMBOTE
 https://play.agenciastreaming.com:8081/megatvchimbote/tracks-v1a1/mono.m3u8
@@ -98,4 +98,4 @@ https://v2.tustreaming.cl/clicktv/tracks-v1a1/mono.m3u8
 https://vivatv.juanjuiserver.com:3669/live/lonuestrolive.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",LA RIBEREÑA.
-https://vivatv.juanjuiserver.com:3149/live/luandi2025live.m3u8
+https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8
