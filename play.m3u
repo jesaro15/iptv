@@ -101,8 +101,12 @@ https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/radiounotv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/dSoq8QK.jpeg" group-title="TV PERU",45 | VIVA TV |
 https://live.obslivestream.com/vivatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/supercanalTV.jpg" group-title="TV PERU",46 | SUPERCANALᴴᴰ |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/supercanalTV.jpg" group-title="TV PERU",46 | SUPERCANAL ᴴᴰ |
 https://live.obslivestream.com/supercanal/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",46.1 |  SUPER TV ᴴᴰ |
+https://play.agenciastreaming.com:8081/superhits/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TeleselvaTv.jpg" group-title="TV PERU",47 | TELESELVA |
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/VisionSur.jpg" group-title="TV PERU",48 | VISIÓN SUR |
@@ -126,8 +130,7 @@ https://7.innovatestream.pe:19360/planetajaen/planetajaen.m3u8
 https://live.obslivestream.com/regionaltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Usmp.jpg" group-title="TV PERU",60 | USMP TV |
 https://streamusmptv.ddns.net/live/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Usil2.jpg" group-title="TV PERU",61 | USIL TV |
-https://per01-lim01.servidor.stream/usiltv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CayetanoPlus.jpg" group-title="TV PERU",62 | CAYETANO PLUS |
 https://stream.cayetano.plus:3701/multi_web/play_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CadenaTv.jpg" group-title="TV PERU",63 | CADENA TV | 
@@ -185,6 +188,9 @@ https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/b6DzWyF.jpeg" group-title="TV PERU",89 | BETHEL TV |
 https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",89.1 | NUEVO TIEMPO |
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/rQPHG2b.jpeg" group-title="TV PERU",90 | AGRO HORIZONTE TV |
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/agroTV.jpg" group-title="TV PERU",90.1 | AGRO TV |
@@ -196,6 +202,8 @@ https://ca2.inka.net.pe/ctvperu-live/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/MegaJaen.jpg" group-title="TV PERU",93 | MEGA TV JAEN |
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",93.1 | MEGA TV CHIMBOTE |
+https://play.agenciastreaming.com:8081/megatvchimbote/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/palmeras.jpg" group-title="TV PERU",94 | PALMERAS TV |
 https://play.agenciastreaming.com:8081/palmerastv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/like1.jpg" group-title="TV PERU",95 | LIKE TV HD |
@@ -258,6 +266,9 @@ https://live.obslivestream.com/rtvlibertad/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/rtvlibertadiqt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Dk3PgdU.jpeg" group-title="TV PERU",126  | INKAVISION |
 https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/bitel/inkavision_ori_480p/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Dk3PgdU.jpeg" group-title="TV PERU",126.1 | INKAVISION ALT |
+https://play.agenciastreaming.com:8081/inkavision/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/GtvPisco.jpg" group-title="TV PERU",127 | GTV PISCO ᴴᴰ |
 https://live-evg25.tv360.bitel.com.pe/bitel/gtvpisco/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/QT4VSAp.jpeg" group-title="TV PERU", |128 ARPEGIO TV ᴴᴰ |
@@ -280,6 +291,15 @@ https://tv.sistemasandinos.org/INPECABLETV/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YC3BbNX.jpeg" group-title="TV PERU",138 | TARAPOTO DIGITAL |
 https://live.obslivestream.com/actpro/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",139 | CANAL 9 SELVA CENTRAL |
+https://play.agenciastreaming.com:8081/canal9selvacentral/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",140 | TV MUNDO |
+https://v4.tustreaming.cl/tvmundo/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",141 | EDUCA SM ᴴᴰ |
+https://tv.perustream.com:3056/stream/play.m3u8
 
 
 
