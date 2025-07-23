@@ -211,7 +211,8 @@ https://play.agenciastreaming.com:8081/Liketv/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/via.jpg" group-title="TV PERU",96 | VIA TELEVISION |
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/OasisTv.jpg" group-title="TV PERU",97 | OASIS RTV |
-https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
+https://play.agenciastreaming.com:8081/oasis/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TvEnLinea.jpg" group-title="TV PERU",98 | TV EN LINEA CUSCO |
 https://s4.tvdatta.com:3450/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q93SrTS.jpeg" group-title="TV PERU",99 | LO NUESTRO TV |
@@ -366,7 +367,8 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/in
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWobnW1.jpeg" group-title="TV NOTICIAS",12 | TELEMUNDO FLORIDA
 https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/5a817dba-a6f1-4dac-9871-91e9e76e1762/2.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="TV NOOTICIAS",13 | TVN CHILE ᴴᴰ
+https://andromeda2.trapemn.tv:1936/live/tvnHD.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Khz4ZH.jpeg" group-title="TV NOTICIAS",15 | A24 ᴴᴰ
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
