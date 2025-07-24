@@ -296,7 +296,7 @@ https://live.obslivestream.com/actpro/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",139 | CANAL 9 SELVA CENTRAL |
 https://play.agenciastreaming.com:8081/canal9selvacentral/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",140 | TV MUNDO |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4XOfXQ4.jpeg" group-title="TV PERU",140 | TV MUNDO |
 https://v4.tustreaming.cl/tvmundo/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",141 | EDUCA SM ᴴᴰ |
