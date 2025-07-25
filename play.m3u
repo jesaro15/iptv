@@ -204,6 +204,9 @@ https://ca2.inka.net.pe/ctvperu-live/index.fmp4.m3u8
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4pxaIjn.jpeg" group-title="TV PERU",93.1 | MEGA TV CHIMBOTE |
 https://play.agenciastreaming.com:8081/megatvchimbote/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/mega.jpg" group-title="TV PERU",93.2 | MEGA TV AREQUIPA |
+https://mc.servidor.stream:19360/megatv/megatv.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/palmeras.jpg" group-title="TV PERU",94 | PALMERAS TV |
 https://play.agenciastreaming.com:8081/palmerastv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/like1.jpg" group-title="TV PERU",95 | LIKE TV HD |
@@ -258,8 +261,7 @@ https://live.obslivestream.com/selvatv/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/eXYH1gs.jpeg" group-title="TV PERU",120 | 3 MEDIA TV |
 https://live-evg25.tv360.bitel.com.pe/bitel/mediatv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/mega.jpg" group-title="TV PERU",122 | MEGA TV |
-https://mc.servidor.stream:19360/megatv/megatv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HnyY9Iq.jpeg" group-title="TV PERU",125 | RTV LIBERTAD YURIMAGUAS |
 https://live.obslivestream.com/rtvlibertad/tracks-v1a1/mono.m3u8
@@ -293,10 +295,10 @@ https://tv.sistemasandinos.org/INPECABLETV/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YC3BbNX.jpeg" group-title="TV PERU",138 | TARAPOTO DIGITAL |
 https://live.obslivestream.com/actpro/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",139 | CANAL 9 SELVA CENTRAL |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIwpDkt.jpeg" group-title="TV PERU",139 | CANAL 9 SELVA CENTRAL |
 https://play.agenciastreaming.com:8081/canal9selvacentral/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4XOfXQ4.jpeg" group-title="TV PERU",140 | TV MUNDO |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iFqMFu0.jpeg" group-title="TV PERU",140 | TV MUNDO ᴴᴰ |
 https://v4.tustreaming.cl/tvmundo/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",141 | EDUCA SM ᴴᴰ |
