@@ -85,7 +85,8 @@ https://live.obslivestream.com/controversiatv/index.m3u8
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/s8Wu4Xb.jpeg" group-title="TV PERU",37 | ANDINA RTV | 
 https://live-evg25.tv360.bitel.com.pe/bitel/andinatv/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",38 | CABLE ALTURA C. DE PASCO |
+https://play.agenciastreaming.com:8081/tvalturalimalive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/karibenaTV.jpg" group-title="TV PERU",39 | KARIBEÑA TV |
 https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.m3u8
 
