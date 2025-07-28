@@ -7,8 +7,6 @@ https://jireh-4-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 #EXTINF:-1 tvg-logo="https://imgur.com/rYo3GDy.jpeg" group-title="TV PERU",02.1 | LATINA NOTICIAS |
 https://jireh-1-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream3/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",03 | RPP TV |
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/americatv.jpg" group-title="TV PERU",04 | AMERICA TV |
 https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/AmericaAlt.jpg" group-title="TV PERU",04.1 | AMERICA TV ALT  |
@@ -85,7 +83,7 @@ https://live.obslivestream.com/controversiatv/index.m3u8
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/s8Wu4Xb.jpeg" group-title="TV PERU",37 | ANDINA RTV | 
 https://live-evg25.tv360.bitel.com.pe/bitel/andinatv/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",38 | CABLE ALTURA C. DE PASCO |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DktUxyw.jpeg" group-title="TV PERU",38 | RTV ALTURA C. DE PASCO |
 https://play.agenciastreaming.com:8081/tvalturalimalive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/karibenaTV.jpg" group-title="TV PERU",39 | KARIBEÑA TV |
 https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.m3u8
