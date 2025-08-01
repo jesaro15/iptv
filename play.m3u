@@ -300,8 +300,10 @@ https://v4.tustreaming.cl/tvmundo/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uic3mEe.jpeg" group-title="TV PERU",141 | EDUCA SM ᴴᴰ |
 https://tv.perustream.com:3056/stream/play.m3u8
-
-
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",142 | CANAL 25 AYACUCHO |
+https://live-evg25.tv360.bitel.com.pe/bitel/canal25ayacucho/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",143 | IMPERIAL CUSCO |
+https://sc1.wasidata.com/Imperial/tracks-a1v1/mono.m3u8
 
 
 
