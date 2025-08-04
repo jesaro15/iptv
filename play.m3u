@@ -49,7 +49,8 @@ https://live.obslivestream.com/piuratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nacionaltvperu.jpg" group-title="TV PERU",20 | NACIONAL TV PERU |
 https://play.agenciastreaming.com:8081/nacionaltv/tracks-a1v1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/SENALPERU.jpg" group-title="TV PERU",21 | SEÑAL PERU TV |
-https://livestream.perucast.com/low/stream_low/index.m3u8
+https://livestream.perucast.com/hls/stream/1_2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/UranioTv.jpg" group-title="TV PERU",22 | URANIO TV |
 https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TelevisionTarapoto.jpg" group-title="TV PERU",23 | TELEVISION TARAPOTO | 
