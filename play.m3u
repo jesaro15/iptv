@@ -559,6 +559,18 @@ http://planettvweb.com:8091/movie/sebastianmartinez/6tvs33u3/119150.mkv
 #EXTINF:-1 tvg-logo="" group-title="INFANTILES",Robot salvaje FHD
 http://planettvweb.com:8091/movie/sebastianmartinez/6tvs33u3/109305.mkv
 
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",VNP
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Nova TV Star (360p) [Not 24/7]
+https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Global TV
+http://181.188.216.5:18000/play/a0m5/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Agro TV (Apurimac) (720p) [Not 24/7]
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+
 
 
 
