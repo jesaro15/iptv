@@ -545,7 +545,7 @@ https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sf3GT8N.jpeg" group-title="INFANTILES", | RETRO PALMARES TV |
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvdxH5Y.jpeg" group-title="INFANTILES", | RETRO TV ᴴᴰ |
-https://live20.bozztv.com/akamaissh101/ssh101/chocobeats/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yNOY7xW.jpeg" group-title="INFANTILES", | RETRO X TV |
 https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
 #EXTINF:-1tvg-logo="https://i.imgur.com/E9q9k16.jpeg" group-title="INFANTILES", | EXTREMA TV KIDS |
@@ -553,7 +553,7 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w2080
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RVb6sTv.jpeg" group-title="INFANTILES", | NICKELODEON ᴴᴰ |
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dirD80u.jpeg" group-title="INFANTILES", | HIPER TV |
-https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/chunklist_w1647274275.m3u8
+
 #EXTINF:-1tvg-logo="https://i.imgur.com/t51uky5.jpeg" group-title="INFANTILES", | BENINI TV JUNIORS |
 https://strhls.streamakaci.tv/ortb/ortb2-multi/ortb/ortb2_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mQvGCck.jpeg" group-title="INFANTILES", | IMPACTO TELEVISION | 
@@ -567,16 +567,11 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1 tvg-logo="" group-title="INFANTILES",Robot salvaje FHD
 http://planettvweb.com:8091/movie/sebastianmartinez/6tvs33u3/109305.mkv
-
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Agro TV (Apurimac) (720p) [Not 24/7]
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INFANTILES",VNP
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Nova TV Star (360p) [Not 24/7]
-https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Agro TV (Apurimac) (720p) [Not 24/7]
-https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
 
 
@@ -591,7 +586,10 @@ https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
 
 
-FIN
+
+
+
+FIN END
 
 
 
