@@ -32,6 +32,9 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/480p.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/FjOT9LP.jpeg" group-title="TV PERU",10 | PBO |
 https://live-evg25.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/globalTV.jpg" group-title="TV PERU",13 | GLOBAL TV |
+http://181.188.216.5:18000/play/a0m5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/globalTV.jpg" group-title="TV PERU",13.1 | GLOBAL TV ALT |
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/D0WdfTi.jpeg" group-title="TV PERU",14 | REGION TV |
@@ -553,8 +556,7 @@ https://strhls.streamakaci.tv/ortb/ortb2-multi/ortb/ortb2_720p/chunks.m3u8
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 #EXTINF:-1tvg-logo="https://i.imgur.com/E9q9k16.jpeg" group-title="INFANTILES", | EXTREMA CARTOONS |
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Robot salvaje
-http://planettvweb.com:8091/movie/sebastianmartinez/6tvs33u3/119150.mkv
+
 
 #EXTINF:-1 tvg-logo="" group-title="INFANTILES",Robot salvaje FHD
 http://planettvweb.com:8091/movie/sebastianmartinez/6tvs33u3/109305.mkv
@@ -565,8 +567,6 @@ https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INFANTILES",Nova TV Star (360p) [Not 24/7]
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Global TV
-http://181.188.216.5:18000/play/a0m5/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INFANTILES",Agro TV (Apurimac) (720p) [Not 24/7]
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
