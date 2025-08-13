@@ -312,13 +312,13 @@ https://sc1.wasidata.com/Imperial/tracks-a1v1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bnPjl4K.jpeg" group-title="TV ESPANA",2 | TVE TV ᴴᴰ |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bnPjl4K.jpeg" group-title="TV ESPANA",1 | TVE TV ᴴᴰ |
 http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fMZeVvR.jpeg" group-title="TV ESPANA",1 | 24HORAS ᴴᴰ |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fMZeVvR.jpeg" group-title="TV ESPANA",2 | 24HORAS ᴴᴰ |
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQOSpSe.jpeg" group-title="TV ESPANA",3.1 | LA 1 TELEVISIÓN |
-https://ztnr.rtve.es/ztnr/5190066.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K4niYEM.jpeg" group-title="TV ESPANA", | La 2 TELEVISIÓN. |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQOSpSe.jpeg" group-title="TV ESPANA",3 | LA 1 TELEVISIÓN |
+https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K4niYEM.jpeg" group-title="TV ESPANA",4 | La 2 TELEVISIÓN. |
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bTYbXA4.jpeg" group-title="TV ESPANA",5 | ANTENA 3 ᴴᴰ 1 |
