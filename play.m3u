@@ -312,19 +312,15 @@ https://sc1.wasidata.com/Imperial/tracks-a1v1/mono.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fMZeVvR.jpeg" group-title="TV ESPANA",1 | 24HORAS ᴴᴰ |
-https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnPjl4K.jpeg" group-title="TV ESPANA",2 | TVE TV ᴴᴰ |
 http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQOSpSe.jpeg" group-title="TV ESPANA",3 | LA 1 ᴴᴰ |
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQOSpSe.jpeg" group-title="TV ESPANA",3.1 | LA 1 CANARIAS |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fMZeVvR.jpeg" group-title="TV ESPANA",1 | 24HORAS ᴴᴰ |
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQOSpSe.jpeg" group-title="TV ESPANA",3.1 | LA 1 TELEVISIÓN |
 https://ztnr.rtve.es/ztnr/5190066.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHDqRku.jpeg" group-title="TV ESPANA",4 | LA 2 SD |
-https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHDqRku.jpeg" group-title="TV ESPANA",4.1 | LA 2 CATALUNYA |
-https://ztnr.rtve.es/ztnr/3987218.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K4niYEM.jpeg" group-title="TV ESPANA", | La 2 TELEVISIÓN. |
+https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bTYbXA4.jpeg" group-title="TV ESPANA",5 | ANTENA 3 ᴴᴰ 1 |
 http://185.189.225.150:85/Antena3HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AB3T3ZF.jpeg" group-title="TV ESPANA",5.1 | ANTENA 3 ᴴᴰ 2 |
@@ -518,7 +514,8 @@ https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fa9ce50e5372b0370d861138ca7e935f.webp" group-title="TV DOCUMENTALES", | WILD EARTH |
 https://wildearth-plex.amagi.tv/masterR432p.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0b8ba4e4d62638b77f1e34a316b213e1.webp" group-title="TV DOCUMENTALES", | EXTREMA TV ANIMAL |
-https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/chunklist_w1159794472.m3u8
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1504
+https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0f21a8334286d31135e8569ed96f417c.webp" group-title="TV DOCUMENTALES", | TAIWAN PLUS |
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9a2a9c364cd1cca23387610e626e0fa7.webp" group-title="TV DOCUMENTALES", | CGTN DOCUMENTARY |
