@@ -56,6 +56,9 @@ https://livestream.perucast.com/low/stream_low/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/UranioTv.jpg" group-title="TV PERU",22 | URANIO TV |
 https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HqeUep5.jpeg" group-title="TV PERU",22.1 | URANIO TV TINGO MARIA |
+https://video2.lhdserver.es/uraniotv/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TelevisionTarapoto.jpg" group-title="TV PERU",23 | TELEVISION TARAPOTO | 
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CNC.jpg" group-title="TV PERU",24 | CNC CAJAMARCA |
@@ -568,8 +571,7 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://planettvweb.com:8091/movie/sebastianmartinez/6tvs33u3/109305.mkv
 #EXTINF:-1 tvg-logo="" group-title="INFANTILES",Agro TV (Apurimac) (720p) [Not 24/7]
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INFANTILES",VNP
-https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+
 
 
 
