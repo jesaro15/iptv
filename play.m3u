@@ -471,7 +471,7 @@ https://tv.nknews.org/tvhls/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=".jpeg" group-title="DEPORTES",1 | TELE DEPORTES ⚽ |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l6fmLPf.jpeg" group-title="DEPORTES",1 | TELE DEPORTES ⚽ |
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p4ZZY0P.jpeg" group-title="DEPORTES",2 | ONE SOCCER ⚽ |
 http://tvmate.icu:8080/85646307/54885994/135810
@@ -559,7 +559,7 @@ https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF:-1tvg-logo="https://i.imgur.com/E9q9k16.jpeg" group-title="INFANTILES", | ANIME VISION ᴴᴰ |
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
-#EXTINF:-1tvg-logo="https://i.imgur.com/E9q9k16.jpeg" group-title="INFANTILES", | ANIME VISION CLASICS ᴴᴰ |
+#EXTINF:-1tvg-logo="https://i.imgur.com/JqylIfE.jpeg" group-title="INFANTILES", | ANIME VISION CLASICS ᴴᴰ |
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INFANTILES",Robot salvaje FHD
