@@ -277,6 +277,8 @@ https://play.agenciastreaming.com:8081/inkavision/tracks-v1a1/mono.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/gtvpisco/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/QT4VSAp.jpeg" group-title="TV PERU", |128 ARPEGIO TV ᴴᴰ |
 https://tv.oyotunserver.com:3954/live/demolive.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/QT4VSAp.jpeg" group-title="TV PERU", |128.1 ARPEGIO TV ᴴᴰ ALT |
+https://live-evg25.tv360.bitel.com.pe/bitel/arpegiotv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/AtlantisRTv1.jpg" group-title="TV PERU",129 | ATLANTIS TV |
 https://live-evg25.tv360.bitel.com.pe/bitel/atlantistv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TacalaTv.jpg" group-title="TV PERU",130 | TACALA TV |
@@ -304,7 +306,7 @@ https://v4.tustreaming.cl/tvmundo/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uic3mEe.jpeg" group-title="TV PERU",141 | EDUCA SM ᴴᴰ |
 https://tv.perustream.com:3056/stream/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",142 | CANAL 25 AYACUCHO |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZnB6D3V.jpeg" group-title="TV PERU",142 | CANAL 25 AYACUCHO |
 https://live-evg25.tv360.bitel.com.pe/bitel/canal25ayacucho/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/erybDj6.jpeg" group-title="TV PERU",143 | IMPERIAL CUSCO |
 https://sc1.wasidata.com/Imperial/tracks-a1v1/mono.m3u8
