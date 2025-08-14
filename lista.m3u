@@ -1,156 +1,160 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AvivamientoTV.co",Avivamiento TV (1080p) [Not 24/7]
-https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalVisionDorada.co",Bum Televisión (720p) [Not 24/7]
-https://movil.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1 tvg-id="CanalVisionDorada.co",Bum Televisión (720p) [Not 24/7]
-https://video.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1 tvg-id="Cablenoticias.co",Cablenoticias (1080p)
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-#EXTINF:-1 tvg-id="CaliTV.co",Cali TV (540p) [Not 24/7]
-https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal1.co",Canal 1 (1080p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-#EXTINF:-1 tvg-id="Canal2AlpavisionNeiva.co",Canal 2 Alpavisión Neiva (720p) [Not 24/7]
-https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal8TVPlus.co",Canal 8 TV+ (720p)
-https://movil.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:-1 tvg-id="Canal8TVPlus.co",Canal 8 TV+ (720p)
-https://video.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:-1 tvg-id="Canal10SOLTV.co",Canal 10 SOL TV (1080p)
-http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal14Codazzi.co",Canal 14 Codazzi (720p) [Not 24/7]
-https://eu1.servers10.com:8081/8056/index.m3u8
-#EXTINF:-1 tvg-id="Canal55TelemoriscoTV.co",Canal 55 Telemorisco TV (720p)
-http://canal.mediaserver.com.co/live/telemorisco.m3u8
-#EXTINF:-1 tvg-id="CanalDos.co",Canal Dos Yopal (720p)
-http://131.221.41.94/hls/canal2.m3u8
-#EXTINF:-1 tvg-id="CanalMasTelevision.co",Canal Más Televisión (720p)
-https://movil.ejeserver.com/live/teledoradahd.m3u8
-#EXTINF:-1 tvg-id="CanalMasTelevision.co",Canal Más Televisión (720p)
-https://video.ejeserver.com/live/teledoradahd.m3u8
-#EXTINF:-1 tvg-id="CanalNets.co",Canal Nets (720p) [Not 24/7]
-https://movil.ejeserver.com/live/nets.m3u8
-#EXTINF:-1 tvg-id="CanalNets.co",Canal Nets (720p) [Not 24/7]
-https://video.ejeserver.com/live/nets.m3u8
-#EXTINF:-1 tvg-id="CanalOracionConSon.co",Canal Oración Con Son (1080p)
-https://canal.mediaserver.com.co/live/oracionconson.m3u8
-#EXTINF:-1 tvg-id="CanalTelefamilia.co",Canal Telefamilia (360p) [Not 24/7]
-https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalTRO.co" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Canal TRO (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalTROPlus.co" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Canal TRO Plus (1080p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="",Caracol Noticias Ahora (720p)
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-#EXTINF:-1 tvg-id="ChampionTV.co",Champion TV (1080p)
-https://canal.mediaserver.com.co/live/ChampionTv.m3u8
-#EXTINF:-1 tvg-id="CMBTelevision.co",CMB Television (1080p)
-https://catv.cmbcolombia.tv/bethesda/bethesda/chunklist.m3u8
-#EXTINF:-1 tvg-id="CNCHDOnline.co",CNC HD Online (1080p) [Geo-blocked]
-https://hvtraficonew.ddns.net/pastocnc6/cnc6/playlist.m3u8
-#EXTINF:-1 tvg-id="CNCPasto.co",CNC Pasto (720p) [Geo-blocked]
-https://hvtraficonew.ddns.net/pastocnc9/cnc9/playlist.m3u8
-#EXTINF:-1 tvg-id="CNCSantanderdeQuilichao.co",CNC Santander de Quilichao (480p)
-https://movil.ejeserver.com/live/cncsantander.m3u8
-#EXTINF:-1 tvg-id="CNCSantanderdeQuilichao.co",CNC Santander de Quilichao (480p)
-https://video.ejeserver.com/live/cncsantander.m3u8
-#EXTINF:-1 tvg-id="Cosmovision.co",Cosmovision (720p)
-https://videohls2.cosmovision.tv/hls/sd.m3u8
-#EXTINF:-1 tvg-id="Cristovision.co" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Cristovisión (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/cristovisiontvlive/smil:rtmp01.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CTV.co",CTV Barranquilla (1080p) [Not 24/7]
-https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
-#EXTINF:-1 tvg-id="Eduvision.co",Eduvision (1080p)
-https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
-#EXTINF:-1 tvg-id="EnlaceTelevision.co@SD",Enlace Television
-https://edge.teveo.net/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmg0131AIAByAAAA/playlist.m3u8
-#EXTINF:-1 tvg-id="Eureka.co",Eureka
-https://cdns.livewave.co:19360/eurekatv/eurekatv.m3u8
-#EXTINF:-1 tvg-id="FrecuenciaFTV.co",Frecuencia F TV (1080p)
-https://tv.frecuenciaf.com/live/envivo.m3u8
-#EXTINF:-1 tvg-id="LaHermandadSalsera.co",La Hermandad Salsera (1080p) [Not 24/7]
-https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
-#EXTINF:-1 tvg-id="LunaEstereo1064FM.co",Luna Estéreo 106.4 FM (720p) [Not 24/7]
-https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8
-#EXTINF:-1 tvg-id="MasMusicaFM.co",MasMusica FM (720p)
-https://movil.ejeserver.com/live/masmusica.m3u8
-#EXTINF:-1 tvg-id="MasMusicaFM.co",MasMusica FM (720p)
-https://video.ejeserver.com/live/masmusica.m3u8
-#EXTINF:-1 tvg-id="MCITelevision.co",MCI Television
-https://video.ejeserver.com/live/mcitelevision.m3u8
-#EXTINF:-1 tvg-id="MundoMas.co@SD",Mundo Mas
-https://edge.teveo.net/live/AeAAAgA_AALTA1IAyADIUDAAAAGAAAAAAmg03eFAIAByAAAA/playlist.m3u8
-#EXTINF:-1 tvg-id="Noticiero90Minutos.co",Noticiero 90 Minutos (720p) [Not 24/7]
-https://cdns.livewave.co:8081/90minutoslive/index.m3u8
-#EXTINF:-1 tvg-id="NSTV.co",NSTV (720p)
-http://138.186.23.7:22281/nstv/nstv/playlist.m3u8
-#EXTINF:-1 tvg-id="NSTV.co@SD",NSTV (720p)
-https://stmv4.voxtvhd.com.br/nstv/nstv/playlist.m3u8
-#EXTINF:-1 tvg-id="OasisTV.co",Oasis TV (720p) [Not 24/7]
-https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
-#EXTINF:-1 tvg-id="OndambientalTV.co",Ondambiental TV (360p)
-https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
-#EXTINF:-1 tvg-id="RedPlus.co",Red+ (1080p)
-https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-#EXTINF:-1 tvg-id="Reyali.co",Reyali (614p)
-https://eu1.servers10.com:8081/8090/index.m3u8
-#EXTINF:-1 tvg-id="SalsaGordaTelevision.co",Salsa Gorda Television (480p) [Not 24/7]
-https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
-#EXTINF:-1 tvg-id="SuramTV.co",Suram TV (1080p)
-https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
-#EXTINF:-1 tvg-id="SuramTV.co@SD",Suram TV
-https://us.streaminghd.cl/suramtv/index.m3u8
-#EXTINF:-1 tvg-id="TeleAmiga.co" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Tele Amiga (480p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleSanJacinto.co",Tele San Jacinto (720p)
-https://movil.ejeserver.com/live/telesanjacinto.m3u8
-#EXTINF:-1 tvg-id="TeleSanJacinto.co",Tele San Jacinto (720p)
-https://video.ejeserver.com/live/telesanjacinto.m3u8
-#EXTINF:-1 tvg-id="TeleVid.co" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Tele Vid (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/televidtvlive/smil:dvrlive.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="Teleantioquia.co" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Teleantioquia (360p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleantioquia2.co" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Teleantioquia 2 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:live.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="Telecafe.co" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Telecafé (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/telecafelive/smil:dvrlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecaribe.co" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Telecaribe (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TelecaribePlus.co" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Telecaribe Plus (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleislas.co",Teleislas (486p) [Not 24/7]
-https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
-#EXTINF:-1 tvg-id="Telepacifico.co",Telepacifico (1080p)
-https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
-#EXTINF:-1 tvg-id="Telepetroleo.co@SD",Telepetroleo
-https://edge.teveo.net/live/AeAAAgAIAAE7A1IAyADIUCAAAAAAAAAAAmg0285AIAByAAAA/playlist.m3u8
-#EXTINF:-1 tvg-id="Trece.co",Trece (720p)
-https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TrecePlus.co",Trece + (720p)
-https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TrecePlus.co",Trece+ (480p)
-http://190.2.212.209:8050/play/a0nf
-#EXTINF:-1 tvg-id="TuUniversoTV.co",Tu Universo TV (720p)
-https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPenol.co",TV Peñol (720p)
-https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSanJorge.co",TV San Jorge (1080p) [Not 24/7]
-https://asucap.com/livestream/asucap_envivo.m3u8
-#EXTINF:-1 tvg-id="ViveTV.co",Vive TV Colombia (1080p)
-http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
-#EXTINF:-1 tvg-id="Zoom.co" http-referrer="https://canalzoom.org/senal-en-vivo",Zoom (1080p)
-#EXTVLCOPT:http-referrer=https://canalzoom.org/senal-en-vivo
-https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD",Caracol TV [Not 24/7]
-http://138.121.15.230:8000/play/CARACOL/index.m3u8
+#EXTINF:-1 tvg-id="AguacateTV.ve",Aguacate TV (1080p)
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="AnzoateguiTV.ve",Anzoátegui TV (360p)
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1 tvg-id="AudazTV.ve",Audaz TV (432p)
+https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8
+#EXTINF:-1 tvg-id="AvilaTV.ve",Ávila TV (Caracas) (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/9fc00ad00fd8b0f08ab11f2324c82ffd713c3cb6/master.m3u8
+#EXTINF:-1 tvg-id="BarinasTV.ve",Barinas TV (720p) [Not 24/7]
+https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8
+#EXTINF:-1 tvg-id="BTATV.ve",BTA TV (720p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+#EXTINF:-1 tvg-id="Canal21Tachira.ve",Canal 21 Táchira (360p)
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalDiplomatico.ve",Canal Diplomático (720p) [Not 24/7]
+https://vcp.myplaytv.com/canaldiplomatico/canaldiplomatico/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalI.ve",Canal i (720p) [Not 24/7]
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalNubehTV.ve",Canal Nubeh TV (720p)
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
+#EXTINF:-1 tvg-id="CantinaTV.ve",Cantina TV (1080p)
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+#EXTINF:-1 tvg-id="CatatumboTV.ve",Catatumbo TV (406p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+#EXTINF:-1 tvg-id="ChivacoaTVInternacional.ve",Chivacoa TV Internacional (720p) [Not 24/7]
+https://vdo1.panelstreaming.live:3875/live/guarotvlive.m3u8
+#EXTINF:-1 tvg-id="Colombeia.ve",Colombeia (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/ba3d31fdf59976d63976e5a2173df36b442104ba/master.m3u8
+#EXTINF:-1 tvg-id="ConCienciaTV.ve",ConCiencia TV (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/06843a89c55eb976f980641de0844259c76eca33/master.m3u8
+#EXTINF:-1 tvg-id="eSportsMaxTV.ve",eSports Max (480p) [Not 24/7]
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EXCTV.ve",Explosión Creativa (720p) [Not 24/7]
+https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
+#EXTINF:-1 tvg-id="FeTelevision.ve",Fe Televisión (360p)
+https://stream.oursnetworktv.com/latin/Canal75/playlist.m3u8
+#EXTINF:-1 tvg-id="FiestaMax.ve",Fiesta Max (720p)
+http://vcpar.myplaytv.com/fiestamax/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Globovision.ve",Globovision (720p)
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
+#EXTINF:-1 tvg-id="GlowTV.ve",Glow TV (720p) [Not 24/7]
+https://vcp7.myplaytv.com/glowtv/glowtv/playlist.m3u8
+#EXTINF:-1 tvg-id="GuaroTV.ve",Guaro TV (1080p)
+https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="HumorMax.ve",Humor Max (720p) [Not 24/7]
+http://vcpar.myplaytv.com/humormax/live/playlist.m3u8
+#EXTINF:-1 tvg-id="InterTV.ve",interTV (1080p)
+https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Italianissimo.ve",Italianissimo (360p) [Not 24/7]
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
+#EXTINF:-1 tvg-id="KandelaTV.ve",KandelaTV (480p)
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+#EXTINF:-1 tvg-id="LatinaTV.ve",Latina TV (1080p)
+https://streamtv.intervenhosting.net:3639/live/latinatvlive.m3u8
+#EXTINF:-1 tvg-id="LGDTelevision.ve",LGD TV (1080p)
+https://streamtv.intervenhosting.net:3259/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="MasTalk.ve",Más Talk (1080p)
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+#EXTINF:-1 tvg-id="MAXAnime.ve",MAX Anime (720p)
+https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
+#EXTINF:-1 tvg-id="MDATelevision.ve",MDA Televisión (720p)
+https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
+#EXTINF:-1 tvg-id="MonagasVision.ve",Monagas Visión (720p) [Not 24/7]
+https://cloud2.streaminglivehd.com:1936/monagasvision/monagasvision/playlist.m3u8
+#EXTINF:-1 tvg-id="OasisTelevision.ve",Oasis Televisión (720p)
+http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8
+#EXTINF:-1 tvg-id="OnzaTV.ve",Onza TV (720p)
+https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
+#EXTINF:-1 tvg-id="OxigenoTV.ve",Oxigeno TV (360p) [Not 24/7]
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+#EXTINF:-1 tvg-id="Panavision.ve",Panavisión (1080p)
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
+#EXTINF:-1 tvg-id="PLTV.ve",PLTV (614p)
+https://vcp2.myplaytv.com/pltv/pltv/playlist.m3u8
+#EXTINF:-1 tvg-id="PromarTV.ve",PromarTV (1080p) [Not 24/7]
+http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
+#EXTINF:-1 tvg-id="ReformaTV.ve",Reforma TV (1080p)
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="RLVTV.ve",RLV TV (720p) [Not 24/7]
+https://tv.mundostreaming.cl:3083/live/radiolatinavzlalive.m3u8
+#EXTINF:-1 tvg-id="ShowVenTV.ve",ShowVen TV (1080p)
+https://vcp.myplaytv.com/coll/coll/playlist.m3u8
+#EXTINF:-1 tvg-id="SomosTV.ve",Somos TV (720p) [Not 24/7]
+https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
+#EXTINF:-1 tvg-id="Sucretv.ve",Sucre tv (360p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/sucretv/playlist.m3u8
+#EXTINF:-1 tvg-id="SunChannel.ve",Sun Channel (720p) [Not 24/7]
+https://vcndistroscale.teleosmedia.com/linear/sun/sun/playlist.m3u8
+#EXTINF:-1 tvg-id="TAMTV.ve",TAM TV (240p)
+https://tv.webtuya.com:3459/live/tammeridalive.m3u8
+#EXTINF:-1 tvg-id="TeleAragua.ve",TeleAragua (480p)
+http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
+#EXTINF:-1 tvg-id="Telebocono.ve",Teleboconó (720p) [Not 24/7]
+https://rpn3.bozztv.com/ssh101/ssh101/tcbstreaming/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecentro.ve",Telecentro (480p)
+https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
+#EXTINF:-1 tvg-id="Telecolor.ve",Telecolor (480p)
+https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
+#EXTINF:-1 tvg-id="TelesolTV.ve",Telesol (720p) [Not 24/7]
+https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve",TeleSUR (1080p)
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="TelesurEnglish.ve",TeleSUR English (1080p) [Not 24/7]
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8
+#EXTINF:-1 tvg-id="Televen.ve",Televen (1080p)
+https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8
+#EXTINF:-1 tvg-id="TelevisoradeOriente.ve",Televisora de Oriente (406p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+#EXTINF:-1 tvg-id="TNORadio.ve",TNO Radio (720p)
+https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
+#EXTINF:-1 tvg-id="TorococoTV.ve",Torococo TV (720p) [Not 24/7]
+https://oracle.streaminghd.cl/torococotelevision/torococotelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT.ve",TRT (410p)
+https://vcp3.myplaytv.com/trt/trt/playlist.m3u8
+#EXTINF:-1 tvg-id="TRV.ve",TRV (480p)
+https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAndes.ve",TV Andes (720p) [Not 24/7]
+https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8
+#EXTINF:-1 tvg-id="TVFamilia.ve",TV Familia (720p)
+https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+#EXTINF:-1 tvg-id="TVFANB.ve",TV FANB (720p)
+https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
+#EXTINF:-1 tvg-id="TVes.ve",TVes (1080p) [Not 24/7]
+https://ls.tves.gob.ve/hls/tves.m3u8
+#EXTINF:-1 tvg-id="TVS.ve",TVS (720p)
+https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
+#EXTINF:-1 tvg-id="UnareTV.ve",Unare TV (392p)
+https://srv.panelcast.net/yohancarlos/yohancarlos/playlist.m3u8
+#EXTINF:-1 tvg-id="UniTV.ve",UniTV (720p)
+https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
+#EXTINF:-1 tvg-id="ValeTV.ve",Vale TV (480p) [Not 24/7]
+https://cloud.fastchannel.es/manifiest/hls/valetv/valetv_480p.m3u8
+#EXTINF:-1 tvg-id="ValeTV.ve",Vale TV (480p) [Not 24/7]
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
+#EXTINF:-1 tvg-id="VePlus.ve",Ve Plus (720p) [Geo-blocked]
+https://veplus.akamaized.net/hls/live/2101013/VEPLUS/master.m3u8
+#EXTINF:-1 tvg-id="VePlus.ve",Ve Plus (480p) [Not 24/7]
+http://190.122.96.187:8888/http/006
+#EXTINF:-1 tvg-id="Venevision.ve",Venevisión (1080p) [Geo-blocked]
+https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8
+#EXTINF:-1 tvg-id="VenevisionInternacional.ve",Venevisión Internacional (720p)
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:-1 tvg-id="VenezolanadeTelevision.ve",Venezolana de Televisión (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/9ad6390b9047d4c43ea0ae6ca3199a3ef70fc8aa/master.m3u8
+#EXTINF:-1 tvg-id="VepacoTV.ve",Vepaco TV (480p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+#EXTINF:-1 tvg-id="Vive.ve",Vive (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/fed20cff907550b0c7d83991fb3630e2a9f90454/master.m3u8
+#EXTINF:-1 tvg-id="VIVOplay.ve",VIVOplay (576p)
+https://linear-260.frequency.stream/mt/studio/260/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="VPItv.ve",VPItv (1080p)
+https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+#EXTINF:-1 tvg-id="YATVO.ve",YATVO (720p)
+https://rpn3.bozztv.com/ssh101/ssh101/yatvo/playlist.m3u8
