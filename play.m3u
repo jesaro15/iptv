@@ -119,7 +119,8 @@ https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/VitalTv.jpg" group-title="TV PERU",49 | VITAL TV |
 https://stream.mediacorp.pe/srt/2/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",51 | RUMBA TV |
+https://tv.sistemasandinos.org/rumbatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/nfuCAmL.jpeg" group-title="TV PERU",53 | UCAYALINA DE TELEVISION |
 https://play.agenciastreaming.com:8081/supertv/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/unitel.jpg" group-title="TV PERU",54 | UNITEL |
