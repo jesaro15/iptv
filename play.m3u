@@ -354,36 +354,35 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ingyWI.jpeg" group-title="TV NOTICIAS",2 | NOTICIAS CARACOL ᴴᴰ
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/noR4NUo.jpeg" group-title="TV NOTICIAS",3 | TELESUR ᴴᴰ 
-https://live.eu-north-1a.cf.dmcdn.net/sec2(dRLfE2i8mTBp-cQ_S347_XiapdyBZEvJXQrmBomGVYOAKHzJnFo2oqF5AYtljRL0rKyd1gYQCibjGTntW1Wwh1-Bl4n3A8HpPP4pjurJqkzPmIbUwaaYcW8ndPWvz6Eq)/dm/3/x82ug5r/s/live-720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0Evou6.jpeg" group-title="TV NOTICIAS",4 | CANAL 22 WEB
-https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w1527944810.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vSmhFja.jpeg" group-title="TV NOTICIAS",5 | TV FANB 
+https://live.eu-north-1a.cf.dmcdn.net/sec2(PMKDPA3TftBTzVSynP_4_bEIVn8nMMcpZk1CZ_-BhvR6UR-6TG1gFY5uNbx-LAmXPrdc-aQDF3J5sJrBy-GkucYXu0-CdHrZUhTKHKjsKt0lLT1CP9vA9rC_7DsMmaT7)/dm/3/x82ug5r/s/live-720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vSmhFja.jpeg" group-title="TV NOTICIAS",4 | TV FANB 
 https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1175399475.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GDgftXo.jpeg" group-title="TV NOTICIAS",6 | VENEZUELA NEWS TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GDgftXo.jpeg" group-title="TV NOTICIAS",5 | VENEZUELA NEWS TV
 https://vcp15.myplaytv.com/venenews/venenews/chunklist_w1384263562.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/miHQF71.jpeg" group-title="TV NOTICIAS",7 | VENEZOLANA DE TELEVISIÓN
-https://live.eu-north-1b.cf.dmcdn.net/sec2(CZ-BuZCWu5duQsVhLApnbAvpcMTpy94Ng2Bg7wFkOJ9R0OUjWjb2LHKWNdOwf6-Lc7Wu8m0cG4RPndOr7eUwVG5t3jpQnVo-sV4qlIlS0DNjPyhGASb2lASFJ1wQom92)/dm/3/x930kre/d/live-720.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/t8r9Fn3.jpeg" group-title="TV NOTICIAS",8 | LA HOJILLA TV ᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/miHQF71.jpeg" group-title="TV NOTICIAS",6 | VENEZOLANA DE TELEVISIÓN
+https://live.eu-north-1b.cf.dmcdn.net/sec2(Zyc2qSI8w4eo7jmUmEjzwzbBo6DJGhCg2XCCUYDj9u61J9EhG-XirGo2xWaxs6KQyVivdZJdjcaB4FHCRzc9zWrDKl72LfigWU-6gtrGZkOKEexa78VAxaD69GAzUkt8)/dm/3/x930kre/d/live-720.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/t8r9Fn3.jpeg" group-title="TV NOTICIAS",7 | LA HOJILLA TV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/7fd9b0b5a9434fed05fa3f358934e8e9fe427d63/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HOUFdo8.jpeg" group-title="TV NOTICIAS",9 | PRENSA LATINA TV ᴴᴰ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOUFdo8.jpeg" group-title="TV NOTICIAS",8 | PRENSA LATINA TV ᴴᴰ 
 https://eu1.servers10.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yo1WzLx.jpeg" group-title="TV NOTICIAS",10 | CUBAVISION INT ᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yo1WzLx.jpeg" group-title="TV NOTICIAS",9 | CUBAVISION INT ᴴᴰ
 #EXTVLCOPT:http-referrer=https://teveo.cu/live/video/A36pWmuWvZBQskuZ/embed?auto=true
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eWobnW1.jpeg" group-title="TV NOTICIAS",11 | TELEMUNDO FLORIDA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eWobnW1.jpeg" group-title="TV NOTICIAS",10 | TELEMUNDO FLORIDA
 https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/5a817dba-a6f1-4dac-9871-91e9e76e1762/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0Evou6.jpeg" group-title="TV NOTICIAS",11 | CANAL 22 WEB
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w1527944810.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UN1mEGL.jpeg" group-title="TV NOTICIAS",12 | TV PUBLICA ARGENTINA ᴴᴰ
 https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tx4J9mt.jpeg" group-title="TV NOTICIAS",13 | PURANOTICIA TV ᴴᴰ 
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dB9n4Ds.jpeg" group-title="TV NOTICIAS",14 | TVN DE CHILE ᴴᴰ
 https://andromeda2.trapemn.tv:1936/live/tvnHD.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0Khz4ZH.jpeg" group-title="TV NOTICIAS",15 | A24 ᴴᴰ
-#EXTVLCOPT:http-user-agent=iPhone
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+#EXTINF:-1 tvg-logo=".jpeg" group-title="TV NOTICIAS",15 | TELE TRECE ᴴᴰ
+https://jireh-1-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_1250.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/oygF7D4.jpeg" group-title="TV NOTICIAS" ,16 | CANAL RED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
@@ -574,7 +573,7 @@ https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INFANTILES",Robot salvaje FHD
-http://planettvweb.com:8091/movie/sebastianmartinez/6tvs33u3/109305.mkv
+
 #EXTINF:-1 tvg-logo="" group-title="INFANTILES",Agro TV (Apurimac) (720p) [Not 24/7]
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
