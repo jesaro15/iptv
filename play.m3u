@@ -381,7 +381,7 @@ https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dB9n4Ds.jpeg" group-title="TV NOTICIAS",14 | TVN DE CHILE ᴴᴰ
 https://andromeda2.trapemn.tv:1936/live/tvnHD.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo=".jpeg" group-title="TV NOTICIAS",15 | TELE TRECE ᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1OrRQ37.jpeg" group-title="TV NOTICIAS",15 | TELE TRECE ᴴᴰ
 https://jireh-1-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_1250.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/oygF7D4.jpeg" group-title="TV NOTICIAS" ,16 | CANAL RED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
