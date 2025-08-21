@@ -94,7 +94,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/andinatv/chunks.m3u8
 https://play.agenciastreaming.com:8081/tvalturalimalive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/karibenaTV.jpg" group-title="TV PERU",39 | KARIBEÑA TV |
 https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.m3u8
-
+#EXTINF:-1 tvg-logo=".jpeg" group-title="TV PERU",40 | JNE TV |
+https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/rnTV.jpg" group-title="TV PERU",41 | RN TELEVISION |
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Riberena1.jpg" group-title="TV PERU",42 | RIBEREÑA TV | 
@@ -386,18 +387,21 @@ https://jireh-1-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/oygF7D4.jpeg" group-title="TV NOTICIAS" ,16 | CANAL RED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CmDFpro.jpeg" group-title="TV NOTICIAS",17 | EL CONFIDENCIAL ᴴᴰ  
-https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fMZeVvR.jpeg" group-title="TV NOTICIAS",18 | 24HORAS ᴴᴰ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fMZeVvR.jpeg" group-title="TV NOTICIAS",17 | 24HORAS ᴴᴰ
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQOSpSe.jpeg" group-title="TV NOTICIAS",19 | La 1 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQOSpSe.jpeg" group-title="TV NOTICIAS",18 | La 1 ᴴᴰ
 https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHDqRku.jpeg" group-title="TV NOTICIAS",20 | La 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHDqRku.jpeg" group-title="TV NOTICIAS",19 | La 2 ᴴᴰ
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qnediN4.jpeg" group-title="TV NOTICIAS",20 | 324 TV 
+https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QmhlJcF.jpeg" group-title="TV NOTICIAS",21 | NEGOCIOS TV ᴴᴰ 
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qnediN4.jpeg" group-title="TV NOTICIAS",22 | 324 TV 
-https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CmDFpro.jpeg" group-title="TV NOTICIAS",22 | EL CONFIDENCIAL ᴴᴰ  
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6vBtcjW.jpeg" group-title="TV NOTICIAS",23 | FRANCE 24 ᴴᴰ  
 https://s5.mexside.net:1936/france24/france24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30zRUym.jpeg" group-title="TV NOTICIAS",24 | DEUSTCHE WELLE ᴴᴰ 
@@ -453,11 +457,8 @@ https://cdn.bst.bratsk.ru/hls/bst2/sd/stream.m3u8
 http://cdn.ntv.ru/unknown_russia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LPzi3fu.jpeg" group-title="TV NOTICIAS",48 | AFRICA 24 ᴴᴰ
 https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LG4FkYF.jpeg" group-title="TV NOTICIAS",49 | CANAL 11 ISRAEL
-https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/48Swxxr.jpeg" group-title="TV NOTICIAS",50 | CANAL 12 ISRAEL
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1/hdntl=exp=1730902906~acl=%2f*~data=hdntl~hmac=6534bdf1e08c1673127ba9e4d8b0a3d33c2fc1ed2b68dec5c45b3973ed60739b/profileManifest.m3u8?_uid=d10212bc-f9f3-4da2-a6d6-2adad1603799&rK=a5&_did=9656a53ede983aa2ba78870cdfc3753af7767f9a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q8xQecP.jpeg" group-title="TV NOTICIAS",50.1 | CANAL 14 ISRAEL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q8xQecP.jpeg" group-title="TV NOTICIAS",50 | CANAL 14 ISRAEL
 https://n-121-6.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TRyfQau.jpeg" group-title="TV NOTICIAS",51 | TV5 MONDE INFO ᴴᴰ
