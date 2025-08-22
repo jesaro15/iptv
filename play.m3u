@@ -22,7 +22,7 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/uPxIGZb.jpeg" group-title="TV PERU",7.2 | CANAL IPe ᴴᴰ |
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
-#EXTINF:-1 tvg-logo=".jpeg" group-title="TV PERU",7.3 | JNE TV |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bInzVde.jpeg" group-title="TV PERU",7.3 | JNE TV |
 https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ozCZYSN.jpeg" group-title="TV PERU",08 | CANAL N |
@@ -98,7 +98,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/andinatv/chunks.m3u8
 https://play.agenciastreaming.com:8081/tvalturalimalive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/karibenaTV.jpg" group-title="TV PERU",39 | KARIBEÑA TV |
 https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",40 | AMAZONIA TVR |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LoQRsz0.jpeg" group-title="TV PERU",40 | AMAZONIA TVR |
 https://servilive.com:3295/live/v8nkywddqlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/rnTV.jpg" group-title="TV PERU",41 | RN TELEVISION |
@@ -366,7 +366,8 @@ https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1175399475.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GDgftXo.jpeg" group-title="TV NOTICIAS",5 | VENEZUELA NEWS TV
 https://vcp15.myplaytv.com/venenews/venenews/chunklist_w1384263562.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/miHQF71.jpeg" group-title="TV NOTICIAS",6 | VENEZOLANA DE TELEVISIÓN
-https://live.eu-north-1b.cf.dmcdn.net/sec2(Zyc2qSI8w4eo7jmUmEjzwzbBo6DJGhCg2XCCUYDj9u61J9EhG-XirGo2xWaxs6KQyVivdZJdjcaB4FHCRzc9zWrDKl72LfigWU-6gtrGZkOKEexa78VAxaD69GAzUkt8)/dm/3/x930kre/d/live-720.m3u8
+
+https://live.eu-north-1a.cf.dmcdn.net/sec2(nAk8tGCQa46pmUSMjf0wnbaUU0u8CDg13cWjcp0awDbXfCHj_rDR04wu9AGgQcTW1odO3WbysFWlOfgFi3sIF9pngUK28h_Maz5aNovW7VD5pXzgnvLt6rx-5PzYqGE-)/dm/3/x930kre/d/live-720.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/t8r9Fn3.jpeg" group-title="TV NOTICIAS",7 | LA HOJILLA TV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/7fd9b0b5a9434fed05fa3f358934e8e9fe427d63/live.m3u8
