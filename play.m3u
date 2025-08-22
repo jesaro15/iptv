@@ -21,6 +21,10 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/uPxIGZb.jpeg" group-title="TV PERU",7.2 | CANAL IPe ᴴᴰ |
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+
+#EXTINF:-1 tvg-logo=".jpeg" group-title="TV PERU",7.3 | JNE TV |
+https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ozCZYSN.jpeg" group-title="TV PERU",08 | CANAL N |
 http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/14030
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVhd.jpg" group-title="TV PERU",09 | ATV HD |
@@ -94,8 +98,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/andinatv/chunks.m3u8
 https://play.agenciastreaming.com:8081/tvalturalimalive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/karibenaTV.jpg" group-title="TV PERU",39 | KARIBEÑA TV |
 https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.m3u8
-#EXTINF:-1 tvg-logo=".jpeg" group-title="TV PERU",40 | JNE TV |
-https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",40 | AMAZONIA TVR |
+https://servilive.com:3295/live/v8nkywddqlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/rnTV.jpg" group-title="TV PERU",41 | RN TELEVISION |
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Riberena1.jpg" group-title="TV PERU",42 | RIBEREÑA TV | 
