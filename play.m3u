@@ -273,7 +273,10 @@ https://vivatv.juanjuiserver.com:3657/live/a1televisionlive.m3u8
 https://live.obslivestream.com/selvatv/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/eXYH1gs.jpeg" group-title="TV PERU",120 | 3 MEDIA TV |
 https://live-evg25.tv360.bitel.com.pe/bitel/mediatv/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FAyTyNa.jpeg" group-title="TV PERU",121 | FRECUENCIA AMAZONICA TV |
+https://vivatv.juanjuiserver.com:3349/live/frecuenciaamazonicalive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/whsAXAN.jpeg" group-title="TV PERU",122 | AURA TV ᴴᴰ |
+https://live-evg25.tv360.bitel.com.pe/bitel/auratv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HnyY9Iq.jpeg" group-title="TV PERU",125 | RTV LIBERTAD YURIMAGUAS |
 https://live.obslivestream.com/rtvlibertad/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qVFkBJd.jpeg" group-title="TV PERU",125.1 | RTV LIBERTAD IQUITOS |
@@ -285,9 +288,8 @@ https://play.agenciastreaming.com:8081/inkavision/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/GtvPisco.jpg" group-title="TV PERU",127 | GTV PISCO ᴴᴰ |
 https://live-evg25.tv360.bitel.com.pe/bitel/gtvpisco/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/QT4VSAp.jpeg" group-title="TV PERU", |128 ARPEGIO TV ᴴᴰ |
-https://tv.oyotunserver.com:3954/live/demolive.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/QT4VSAp.jpeg" group-title="TV PERU", |128.1 ARPEGIO TV ᴴᴰ ALT |
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/QT4VSAp.jpeg" group-title="TV PERU"128 | ARPEGIO TV ᴴᴰ |
 https://live-evg25.tv360.bitel.com.pe/bitel/arpegiotv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/AtlantisRTv1.jpg" group-title="TV PERU",129 | ATLANTIS TV |
 https://live-evg25.tv360.bitel.com.pe/bitel/atlantistv/playlist.m3u8
