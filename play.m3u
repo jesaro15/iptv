@@ -288,9 +288,13 @@ https://play.agenciastreaming.com:8081/inkavision/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/GtvPisco.jpg" group-title="TV PERU",127 | GTV PISCO ᴴᴰ |
 https://live-evg25.tv360.bitel.com.pe/bitel/gtvpisco/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/QT4VSAp.jpeg" group-title="TV PERU"128 | ARPEGIO TV ᴴᴰ |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/QT4VSAp.jpeg" group-title="TV PERU",128 | ARPEGIO TV ᴴᴰ |
+https://tv.oyotunstream.com:1936/arpegio/arpegio/media_w1504170744_21643.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/QT4VSAp.jpeg" group-title="TV PERU",128.1 | ARPEGIO TV ᴴᴰ ALT 1 |
+https://tv.oyotunstream.com:1936/arpegio/arpegio/chunklist_w1622730642.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/QT4VSAp.jpeg" group-title="TV PERU",128.2 | ARPEGIO TV ᴴᴰ ALT 2 |
 https://live-evg25.tv360.bitel.com.pe/bitel/arpegiotv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/AtlantisRTv1.jpg" group-title="TV PERU",129 | ATLANTIS TV |
 https://live-evg25.tv360.bitel.com.pe/bitel/atlantistv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TacalaTv.jpg" group-title="TV PERU",130 | TACALA TV |
