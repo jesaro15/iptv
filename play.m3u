@@ -364,16 +364,15 @@ https://new-international-23-secure2.akamaized.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P5UMZuq.jpeg" group-title="TV NOTICIAS",1 | AMX NOTICIAS ᴴᴰ  
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ingyWI.jpeg" group-title="TV NOTICIAS",2 | NOTICIAS CARACOL ᴴᴰ
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/noR4NUo.jpeg" group-title="TV NOTICIAS",3 | TELESUR ᴴᴰ 
-https://metromaxtv.net/auth/b6PmKvT_c7TtVHx9FEU2TmB_vEEs3ucPQ3ltm2rWCIWtEmAUUhWleCGFHPbBAgUBJ6H6UPpVGlH7CndkUMVlkDr8X71dIVM0fHhV404vzSNIX4dNgNrXsMY8ThiwXYBjuU1J9Bn8FQeQl9zUQrqnlgvecKYYq9_-BoqgR543WZfGGjKvGyQ05LT9wvI9u4YN8Bn-BMmS6GAk3QqemKobOblSRV6dIDsrWNe38RpOHB1a4AD_yWFXeixOkNi1xr6qu0rUqPqfDg1y-4-k1_U0yFJln23wAWSzHXKeaIw-7NVj-jcxzfWVl9I-26qY1AocqaCVB_h2ATqFEgopbkUx5zenjCcqA4XnoFroyQsmrfBJtWelmB0hlOFw2PfLShR4Vk3VLLV_xTh5tgJPKZGzfF87GMVaUcQuMCsmOBdC0LB0udWL7K1VJ_-Eurwok-qI25NDoKH5LhFTHpRp_yLM9gm-Mml83IrpgUzhNUdsv-hWV1PzJMQcudRrP6GFh4TQfAT8OhXyVVZHgAfVYjveI8WQuhYBTeXA_4o8Gp4pOwH_ALAUDHbv26uy6hle4VpPoqNH3uN1Veh3fiOesP-2rtjSwNFTSQmoxm-aNbyRosWdF3Tp1hqUB-dihGmmQpUF
+https://live.eu-north-1b.cf.dmcdn.net/sec2(WxD7geY4jYn0Iql-rKePJGDFxUjRtKNCCtTo2s2lkfqsxJIFp4xnsScuVg7yJ7kKgNAMEVZukKcNnx9-4WkEd8lL76EupoMagY4X_NbCF6L15hBVbyv4RTAO0rn-6hj5)/dm/3/x930kre/d/live-720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/noR4NUo.jpeg" group-title="TV NOTICIAS",3 | TELESUR ᴴᴰ 48
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSmhFja.jpeg" group-title="TV NOTICIAS",4 | TV FANB 
 https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1175399475.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GDgftXo.jpeg" group-title="TV NOTICIAS",5 | VENEZUELA NEWS TV
 https://vcp15.myplaytv.com/venenews/venenews/chunklist_w1384263562.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/miHQF71.jpeg" group-title="TV NOTICIAS",6 | VENEZOLANA DE TELEVISIÓN
-https://metromaxtv.net/hls/ePF-oLrSpatZthH3h10ExsQ3qj_tIvgRpydHVrdWbrRov2-3dvtl9Vcgl23Ywx9QEqqbnQLDvgbGwKDNg93b0cVy7BZ4gAA04jxcDlQuPU0xmmf6ZlfrTlnV3nYSNhey
-
+https://live.eu-north-1b.cf.dmcdn.net/sec2(mIiIPsWYq7szvzFr7JZJMJxodab_ZPzNTb4T9YwUkR1rrrCigPMeO9T6whXmCnLSOO4bnIi-y8V0KeSqHrPau5uRaalnnQeTLmb9M4m91hQQiO5vOXsBubn-w6kDapDE)/dm/3/x930kre/d/live-720.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/t8r9Fn3.jpeg" group-title="TV NOTICIAS",7 | LA HOJILLA TV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/7fd9b0b5a9434fed05fa3f358934e8e9fe427d63/live.m3u8
