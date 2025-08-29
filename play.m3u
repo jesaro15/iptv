@@ -364,15 +364,15 @@ https://new-international-23-secure2.akamaized.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P5UMZuq.jpeg" group-title="TV NOTICIAS",1 | AMX NOTICIAS ᴴᴰ  
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ingyWI.jpeg" group-title="TV NOTICIAS",2 | NOTICIAS CARACOL ᴴᴰ
-https://live.eu-north-1b.cf.dmcdn.net/sec2(WxD7geY4jYn0Iql-rKePJGDFxUjRtKNCCtTo2s2lkfqsxJIFp4xnsScuVg7yJ7kKgNAMEVZukKcNnx9-4WkEd8lL76EupoMagY4X_NbCF6L15hBVbyv4RTAO0rn-6hj5)/dm/3/x930kre/d/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2()/dm/3/x930kre/d/live-720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/noR4NUo.jpeg" group-title="TV NOTICIAS",3 | TELESUR ᴴᴰ 48
-
+https://live.eu-north-1a.cf.dmcdn.net/sec2(MbouZZdjC4Jc1b7xHBMMTl9MzzDxsc5J6MqG-sRVCT-CRD8jz4WhzkCEvfcMxUmS8znoYEDNQUlO-4-el5EkgZFKReY6gcxoTzP40AAf9eC3xKvxCzzH2tlkpGIeUKev)/dm/3/x930kre/d/live-720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSmhFja.jpeg" group-title="TV NOTICIAS",4 | TV FANB 
 https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1175399475.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GDgftXo.jpeg" group-title="TV NOTICIAS",5 | VENEZUELA NEWS TV
 https://vcp15.myplaytv.com/venenews/venenews/chunklist_w1384263562.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/miHQF71.jpeg" group-title="TV NOTICIAS",6 | VENEZOLANA DE TELEVISIÓN
-https://live.eu-north-1a.cf.dmcdn.net/sec2(KFRn76oHlrW4o3F-P0stc4irRuJNrM-cAjG8cBx23ff3o2ToypPrIE-nibQCreuKHc-CBZvpvVaYAwjN11tx5GPqGq9peu6EfZFsTsikHzRK3sQje7uK8dmlh9WYUQE_)/dm/3/x930kre/d/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(MbouZZdjC4Jc1b7xHBMMTl9MzzDxsc5J6MqG-sRVCT-CRD8jz4WhzkCEvfcMxUmS8znoYEDNQUlO-4-el5EkgZFKReY6gcxoTzP40AAf9eC3xKvxCzzH2tlkpGIeUKev)/dm/3/x930kre/d/live-720.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/t8r9Fn3.jpeg" group-title="TV NOTICIAS",7 | LA HOJILLA TV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/7fd9b0b5a9434fed05fa3f358934e8e9fe427d63/live.m3u8
