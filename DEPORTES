@@ -292,11 +292,10 @@ https://play.agenciastreaming.com:8081/inkavision/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/GtvPisco.jpg" group-title="TV PERU",127 | GTV PISCO ᴴᴰ |
 https://live-evg25.tv360.bitel.com.pe/bitel/gtvpisco/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/QT4VSAp.jpeg" group-title="TV PERU",128 | ARPEGIO TV ᴴᴰ |
-https://tv.oyotunstream.com:1936/arpegio/arpegio/media_w1504170744_21643.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/QT4VSAp.jpeg" group-title="TV PERU",128.1 | ARPEGIO TV ᴴᴰ ALT 1 |
 https://tv.oyotunstream.com:1936/arpegio/arpegio/chunklist_w1622730642.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/QT4VSAp.jpeg" group-title="TV PERU",128.2 | ARPEGIO TV ᴴᴰ ALT 2 |
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/QT4VSAp.jpeg" group-title="TV PERU",128.1 | ARPEGIO TV ᴴᴰ |
 https://live-evg25.tv360.bitel.com.pe/bitel/arpegiotv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/AtlantisRTv1.jpg" group-title="TV PERU",129 | ATLANTIS TV |
@@ -376,7 +375,8 @@ https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1175399475.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GDgftXo.jpeg" group-title="TV NOTICIAS",5 | VENEZUELA NEWS TV
 https://vcp15.myplaytv.com/venenews/venenews/chunklist_w1384263562.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/miHQF71.jpeg" group-title="TV NOTICIAS",6 | VENEZOLANA DE TELEVISIÓN
-https://live.eu-north-1a.cf.dmcdn.net/sec2(W9J0UiSJg945EG7t2yTcEhcOmUmvK8vAgm1UQGA5tlMITjd_qwV-WCDHpLgnOwcoMLwseK3fAsaU4nln0QO0u6Ip20nXGIZc3ZeLQT9O_Qya53sEoTHcqnlFnIx7UOV8)/dm/3/x930kre/d/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(spCD_yrOCmAc6qYfZ698yMIjGBbusWpWD_CIPkycvM9QrcLli1auze07ahzxZ0pQg2-asVtWSDSWe6On3_ZphbpVBh-P-f46Ok6rbAPdRYL2wu2DsK67HKt_ZooP9KfQ)/dm/3/x930kre/d/live-720.m3u8
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/t8r9Fn3.jpeg" group-title="TV NOTICIAS",7 | LA HOJILLA TV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/7fd9b0b5a9434fed05fa3f358934e8e9fe427d63/live.m3u8
