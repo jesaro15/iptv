@@ -308,7 +308,7 @@ https://live.obslivestream.com/tvmas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Primavera15.jpg" group-title="TV PERU",133 | PRIMAVERA 15 |
 https://servilive.com:3538/live/v6qe84b6flive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/tropical.jpg" group-title="TV PERU",134 | TROPICAL TV |
-https://tv.folkloretv.pe/tropical/tracks-v1a1/mono.m3u8
+https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/chunklist_w1855008952.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n5BIah3.jpeg" group-title="TV PERU",135 | TELESISTEMAS CUZCO |
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CpOboQw.jpeg" group-title="TV PERU",136 | INPECABLE TV |
