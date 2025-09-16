@@ -366,8 +366,8 @@ https://new-international-23-secure2.akamaized.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P5UMZuq.jpeg" group-title="TV NOTICIAS",1 | AMX NOTICIAS ᴴᴰ  
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ingyWI.jpeg" group-title="TV NOTICIAS",2 | NOTICIAS CARACOL ᴴᴰ
-https://live.eu-north-1a.cf.dmcdn.net/sec2/d/live-720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ingyWI.jpeg" group-title="TV NOTICIAS",2 | CANAL ONCE ᴴᴰ
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1398304.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/noR4NUo.jpeg" group-title="TV NOTICIAS",3 | TELESUR ᴴᴰ
 https://live.eu-north-1a.cf.dmcdn.net/sec2(EtcO5R66VrttsL45MiXJdRKPPnewVGfTanY1mrXwGJt8mCc38H1c7eXwK2jdKz3Y-ESmR6nX8627J-BEEo3cmt-0MwCEyunKftzVxJndy2GEEpMMOSw19iP4szGgaL5z)/dm/3/x930kre/d/live-720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSmhFja.jpeg" group-title="TV NOTICIAS",4 | TV FANB 
@@ -375,7 +375,7 @@ https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1175399475.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GDgftXo.jpeg" group-title="TV NOTICIAS",5 | VENEZUELA NEWS TV
 https://vcp15.myplaytv.com/venenews/venenews/chunklist_w1384263562.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/miHQF71.jpeg" group-title="TV NOTICIAS",6 | VENEZOLANA DE TELEVISIÓN
-https://live.eu-north-1b.cf.dmcdn.net/sec2(Nx3EeIqpgUDzzNzYLN9-svJBDCVw-lNwOxWBQuWV92lxfkFDP0LW9RoRJwIC0JUGfoxZyknDtJLFai871lg0_1oGRc0yK0oJavvKNr6ESIikZGRYGJmXEQQduHXMSyLL)/dm/3/x930kre/d/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(VNUP9RFLlSD81JXtgRS3qO3Cp5CwRM40Y-BeW4S3yuXdxILN2Mo_gFwn0_1umdY6BOwAcoOxCqC6fb7nQgyFQyVs7b6xWgzWycVeHK4YOgxA-rngizOIDCNpP8ryaDQm)/dm/3/x930kre/d/live-720.m3u8
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/t8r9Fn3.jpeg" group-title="TV NOTICIAS",7 | LA HOJILLA TV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://odysee.com/
