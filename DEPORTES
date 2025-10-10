@@ -16,7 +16,7 @@ https://live-evg20.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/exitosa1.jpg" group-title="TV PERU",06 | EXITOSA TV |
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TVPERU.jpg" group-title="TV PERU",07 | TV PERU |
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+http://181.188.216.5:18000/play/a0qn/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TVPerúNoticias.jpg" group-title="TV PERU",7.1 | TV PERU NOTICIAS |
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/uPxIGZb.jpeg" group-title="TV PERU",7.2 | CANAL IPe ᴴᴰ |
@@ -27,7 +27,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ozCZYSN.jpeg" group-title="TV PERU",08 | CANAL N |
 http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/14030
-
+#EXTINF:0 tvg-logo="https://i.imgur.com/ozCZYSN.jpeg" group-title="TV PERU",08.1 | CANAL N ALT |
+http://181.188.216.5:18000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVhd.jpg" group-title="TV PERU",09 | ATV HD |
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVPLUS.jpg" group-title="TV PERU",9.1 | ATV PLUS |
