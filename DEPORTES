@@ -4,9 +4,9 @@
 https://live-evg20.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/latina.jpg" group-title="TV PERU",02 | LATINA TV |
 https://jireh-4-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/rYo3GDy.jpeg" group-title="TV PERU",02.1 | LATINA NOTICIAS |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rYo3GDy.jpeg" group-title="TV PERU",02.1 | LATINA NOTICIAS |
 https://jireh-1-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream3/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",03 | RPP TV |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XfRqKoI.jpeg" group-title="TV PERU",03 | RPP TV |
 http://38.183.182.166:8000/play/a13g/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/americatv.jpg" group-title="TV PERU",04 | AMERICA TV |
 https://live-evg20.tv360.bitel.com.pe/bitel/america_tv_abr/bitel/america_tv_480p/chunks.m3u8
@@ -28,7 +28,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ozCZYSN.jpeg" group-title="TV PERU",08 | CANAL N |
 http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/14030
-#EXTINF:0 tvg-logo="https://i.imgur.com/ozCZYSN.jpeg" group-title="TV PERU",08.1 | CANAL N ALT |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ozCZYSN.jpeg" group-title="TV PERU",08.1 | CANAL N ALT |
 http://181.188.216.5:18000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVhd.jpg" group-title="TV PERU",09 | ATV HD |
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
@@ -541,9 +541,9 @@ https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
 https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelth-tennischannelnl-samsungnl/cb563f166570609098c82164d0f062eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aaa6852db80148b6f4adafb8c2360625f5c98435ee3b02bf7a8fe5c46df72a1af1c56953d51b58740c0d54db383c95e964b826bf015cb92edd9d014d69b9432ad05b2640c0e7b2bcb834b93a325de5b31f45be6131d755c38d3ad9aea4b38c674575decfad8cd1d9571e0a8554ce4aad97af5618b229e63ea28aae45ca9aebaa5220b59f68233e940d16665715f75b39f46823ada5eb6878dceb43228e860dd30223b91b2e81c8dc01491b91922d5030015cf8b4c9791b3ccbafedd0ad412c3c9f0972a510e4d3042d70decca369b1ed476fe9a4861441b10e4da74d496d55b07674dad894a9b4648ee95d8d59f4610e2543676a420d5520e698c13697fee22b0da1f649b2907807a6ca80f7bd00cacf67cb594dae30729bc919211a821bce34af7f205e63c6f0e4ce3bc7c11153e08ba8451043e7dcc52f7939bb1056e2ed8b79cae8e034248537e7f0588f0e8639488d45b743bc850346f671f11827eb84cdb074c40638929daa20d7b9215634ac2a22c564e6386c2d2d0d4842a254d922e6c9b7ae48cb5263beeb356150b54568ef9f5/132/1280x720_3572800/index.m3u8
 #EXTINF:-1tvg-logo="https://i.imgur.com/FpJUUOf.jpeg" group-title="DEPORTES",16 | CNAR DEPORTES TV |
 https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",17 | L1 MAX |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W5udHFu.jpeg" group-title="DEPORTES",17 | L1 ⚽ MAX |
 http://38.183.182.166:8000/play/a12t/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",18 | GOL PERU |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5snJitz.jpeg" group-title="DEPORTES",18 | GOL ⚽ PERU |
 http://38.183.182.166:8000/play/a120/index.m3u8
 
 
@@ -625,9 +625,8 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
-CHAU 08-10-25
+CHAU 10-10-25
 FIN END
-
 
 
 
