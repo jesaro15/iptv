@@ -30,9 +30,10 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ozCZYSN.jpeg" group-title="TV PERU",08 | CANAL N |
-http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/14030
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ozCZYSN.jpeg" group-title="TV PERU",08.1 | CANAL N ALT |
 http://181.188.216.5:18000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ozCZYSN.jpeg" group-title="TV PERU",08.1 | CANAL N ALT |
+http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/14030
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVhd.jpg" group-title="TV PERU",09 | ATV HD |
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVPLUS.jpg" group-title="TV PERU",9.1 | ATV PLUS |
@@ -133,6 +134,9 @@ https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/VitalTv.jpg" group-title="TV PERU",49 | VITAL TV |
 https://stream.mediacorp.pe/srt/2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RVHUPqD.jpeg" group-title="TV PERU",50 | DUNAS TV |
+https://live-evg25.tv360.bitel.com.pe/bitel/dunastv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qSjQ0De.jpeg" group-title="TV PERU",51 | RUMBA TV |
 https://tv.sistemasandinos.org/rumbatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/nfuCAmL.jpeg" group-title="TV PERU",53 | UCAYALINA DE TELEVISION |
@@ -256,6 +260,8 @@ https://www.milenial.news/salida/milenial.m3u8
 https://videoserver.tmcreativos.com:19360/selvatv/selvatv.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/YT5KDc6.jpeg" group-title="TV PERU",109 | FOLKLORE TV |
 https://tv.folkloretv.pe/folkloretv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/YT5KDc6.jpeg" group-title="TV PERU",109.1 | FOLKLORE TV ALT |
+https://live-evg18.tv360.bitel.com.pe/bitel/folkloretvSRT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/oriente1.jpg" group-title="TV PERU",110 | ORIENTE TV |
 https://live.obslivestream.com/tvoriente/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1H70MUO.jpeg" group-title="TV PERU",111 | ANTENA 1 TV |
@@ -332,17 +338,17 @@ https://tv.perustream.com:3056/stream/play.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/canal25ayacucho/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/erybDj6.jpeg" group-title="TV PERU",143 | IMPERIAL CUSCO |
 https://sc1.wasidata.com/Imperial/tracks-a1v1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UkI4VMb.jpeg" group-title="TV PERU",143 | QUASSAR TV |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UkI4VMb.jpeg" group-title="TV PERU",144 | QUASSAR TV |
 https://gnstreammedia.com:19360/4000/4000.m3u8
-#EXTINF:0 tvg-logo="" group-title="TV PERU",144 | PERUANISIMA TV |
+#EXTINF:0 tvg-logo="" group-title="TV PERU",145 | PERUANISIMA TV |
 https://sc1.wasidata.com/Peruanisima/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="TV PERU",145 | RHTV SELVA CENTRAL |
+#EXTINF:0 tvg-logo="" group-title="TV PERU",146 | RHTV SELVA CENTRAL |
 https://vivatv.juanjuiserver.com:3888/live/rhtv2025live.m3u8
-#EXTINF:0 tvg-logo="" group-title="TV PERU",146 | COVATEL HD |
+#EXTINF:0 tvg-logo="" group-title="TV PERU",147 | COVATEL HD |
 https://sc1.wasidata.com/Covatel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 tvg-logo="" group-title="TV PERU",147 | ANTENA SUR TV |	
+#EXTINF:0 tvg-logo="" group-title="TV PERU",148 | ANTENA SUR TV |	
 https://play.agenciastreaming.com:8081/agenciaandinartv/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="TV PERU",148 | KBO TV HD |
+#EXTINF:0 tvg-logo="" group-title="TV PERU",149 | KBO TV HD |
 https://7.innovatestream.pe:19360/kbo/kbo.m3u8
 
 
@@ -630,7 +636,7 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
-CHAU 11-10-25
+CHAU 14-10-25
 FIN END
 
 
