@@ -136,7 +136,7 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 https://stream.mediacorp.pe/srt/2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RVHUPqD.jpeg" group-title="TV PERU",50 | DUNAS TV |
-https://live-evg25.tv360.bitel.com.pe/bitel/dunastv/chunks.m3u8
+https://live-evg18.tv360.bitel.com.pe/bitel/dunastv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qSjQ0De.jpeg" group-title="TV PERU",51 | RUMBA TV |
 https://tv.sistemasandinos.org/rumbatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/nfuCAmL.jpeg" group-title="TV PERU",53 | UCAYALINA DE TELEVISION |
@@ -189,8 +189,8 @@ https://video2.lhdserver.es/cableperu/live.m3u8
 https://play.agenciastreaming.com:8081/nuestrocanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/NovaStar1.jpg" group-title="TV PERU",76 | NOVA STAR TV | 
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ChinchaTv.jpg" group-title="TV PERU",77 | TV+ CHINCHA |
-https://live-evg25.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ChinchaTv.jpg" group-title="TV PERU",77 | TV PLUS CHINCHA |
+https://v4.tustreaming.cl/tvplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypmbpLu.jpeg" group-title="TV PERU",78 | TV COSMOS |
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w759963595.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/master.jpg" group-title="TV PERU",79 | MASTER TV |  
@@ -217,9 +217,7 @@ https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 https://alfa.betheltv.tv/srt/3_abr/srt/3_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X4LRIVX.jpeg" group-title="TV PERU",89.1 | NUEVO TIEMPO |
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/rQPHG2b.jpeg" group-title="TV PERU",90 | AGRO HORIZONTE TV |
-https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/agroTV.jpg" group-title="TV PERU",90.1 | AGRO TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/agroTV.jpg" group-title="TV PERU",90 | AGRO TV |
 https://play.agenciastreaming.com:8081/agrotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/RCR.jpg" group-title="TV PERU",91 | RCR | 
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/chunklist_w68889844.m3u8
@@ -252,15 +250,17 @@ https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/HechiceraTV.jpg" group-title="TV PERU",101 | HECHICERA TV | 
 https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=".jpeg" group-title="TV PERU",102 | CHINCHA TV |
+https://inliveserver.com:1936/10508/10508/chunklist_w474809422.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/RTvTotal.jpg" group-title="TV PERU",106 | RTV TOTAL |
 https://live.obslivestream.com/rtvtotal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/milenialTV.jpg" group-title="TV PERU",107 | MILENIAL TV |
 https://www.milenial.news/salida/milenial.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/TrB2YJf.jpeg" group-title="TV PERU",108 | SELVA TV |
 https://videoserver.tmcreativos.com:19360/selvatv/selvatv.m3u8
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/YT5KDc6.jpeg" group-title="TV PERU",109 | FOLKLORE TV |
-https://tv.folkloretv.pe/folkloretv/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/YT5KDc6.jpeg" group-title="TV PERU",109.1 | FOLKLORE TV ALT |
 https://live-evg18.tv360.bitel.com.pe/bitel/folkloretvSRT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/oriente1.jpg" group-title="TV PERU",110 | ORIENTE TV |
 https://live.obslivestream.com/tvoriente/tracks-v1a1/mono.m3u8
@@ -396,7 +396,7 @@ https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1175399475.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GDgftXo.jpeg" group-title="TV NOTICIAS",5 | VENEZUELA NEWS TV
 https://vcp15.myplaytv.com/venenews/venenews/chunklist_w1384263562.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/miHQF71.jpeg" group-title="TV NOTICIAS",6 | VENEZOLANA DE TELEVISIÓN
-https://live.eu-north-1a.cf.dmcdn.net/sec2(ND3b23duJoOU24NUu2VrjdliursejkcCA0nKfaDuNRT417e1uSxtgDXx7_JfLDPQtiNt22Mtu9-PxXlE7C7P7m4WfGdcAhTCnoKb9oSaixwE3WMA6VqdYQFOu6g_AcL0)/dm/3/x930kre/d/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(NNVBbFrMQagI2dZ22exl0qQbtM6hhyFk6pRMzxBxQABcGnSOYm7cJ_D1OqmimBcJXtH9jbhbAyq9gMoBxpEO-v4yILH-fJHcNDQhoI3A397qtr_krV2YalAC0sMk2ll0)/dm/3/x930kre/d/live-720.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/t8r9Fn3.jpeg" group-title="TV NOTICIAS",7 | LA HOJILLA TV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/7fd9b0b5a9434fed05fa3f358934e8e9fe427d63/live.m3u8
@@ -422,7 +422,7 @@ https://pnt.janusmedia.tv/hls/pnt.m3u8
 https://andromeda2.trapemn.tv:1936/live/tvnHD.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1OrRQ37.jpeg" group-title="TV NOTICIAS",15 | TELE TRECE ᴴᴰ
 https://jireh-1-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_1250.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/oygF7D4.jpeg" group-title="TV NOTICIAS" ,16 | CANAL RED
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MInu08P.jpeg" group-title="TV NOTICIAS" ,16 | CANAL RED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 
@@ -636,7 +636,7 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
-CHAU 14-10-25
+CHAU 21-10-25
 FIN END
 
 
