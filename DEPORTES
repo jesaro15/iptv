@@ -31,8 +31,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ozCZYSN.jpeg" group-title="TV PERU",08 | CANAL N |
 http://181.188.216.5:18000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ozCZYSN.jpeg" group-title="TV PERU",08.1 | CANAL N ALT |
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVhd.jpg" group-title="TV PERU",09 | ATV HD |
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
@@ -44,10 +42,8 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/FjOT9LP.jpeg" group-title="TV PERU",10 | PBO |
 http://38.183.182.166:8000/play/a13k/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/globalTV.jpg" group-title="TV PERU",13 | GLOBAL TV |
-http://181.188.216.5:18000/play/a0m5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/globalTV.jpg" group-title="TV PERU",13.1 | GLOBAL TV ALT |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/globalTV.jpg" group-title="TV PERU",13 | GLOBAL TV ALT |
 https://live-evg20.tv360.bitel.com.pe/bitel/global_abr/bitel/global_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/D0WdfTi.jpeg" group-title="TV PERU",14 | REGION TV |
@@ -398,14 +394,14 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1398304.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/noR4NUo.jpeg" group-title="TV NOTICIAS",3 | TELESUR ᴴᴰ
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/noR4NUo.jpeg" group-title="TV NOTICIAS",3.1 | TELESUR ALT ᴴᴰ
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/noR4NUo.jpeg" group-title="TV NOTICIAS",3.1 | TELESUR ENG ᴴᴰ
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSmhFja.jpeg" group-title="TV NOTICIAS",4 | TV FANB 
 https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1175399475.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GDgftXo.jpeg" group-title="TV NOTICIAS",5 | VENEZUELA NEWS TV
 https://vcp15.myplaytv.com/venenews/venenews/chunklist_w1384263562.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/miHQF71.jpeg" group-title="TV NOTICIAS",6 | VENEZOLANA DE TELEVISIÓN
-https://live.eu-north-1b.cf.dmcdn.net/sec2(SiRyRMSHfgJk90SwHhiV0-uKCA1u6FYxXTETGzHyEhb4QLmQymx7MpU8PGJcVdcFg7zAFkvYObemTa41DqXAng4mJPaFEvi9pSI8nG8PPDTZXDWcov38a6FwkuCbrWpK)/dm/3/x930kre/d/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(e1UldwBuLi567IsW4LeXiq6P2UsdEdbXI28HCPR2GwCAKWnGLJ6WWTCLPjwBeQM-qQ6k2UefvmmQJX8J4BU7QlMNxS2OwEAui9TXpIFcfTbCkx3TxrkLu55bk_bOP-Qi)/dm/3/x930kre/d/live-720.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/t8r9Fn3.jpeg" group-title="TV NOTICIAS",7 | LA HOJILLA TV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/7fd9b0b5a9434fed05fa3f358934e8e9fe427d63/live.m3u8
@@ -516,8 +512,7 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D7sBXIF.jpeg" group-title="TV NOTICIAS",54 | TRT WORLD | 
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CkySImx.jpeg" group-title="TV NOTICIAS",55 | KOREA CENTRAL TV |
-https://tv.nknews.org/tvhls/stream.m3u8
+
 
 
 
@@ -619,7 +614,6 @@ https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1tvg-logo="https://i.imgur.com/JqylIfE.jpeg" group-title="INFANTILES", | ANIME VISION CLASICS ᴴᴰ |
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Robot salvaje FHD
 
 
 
@@ -639,8 +633,7 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
-
-CHAU 25-10-25
+CHAU 27-10-25
 FIN END
 
 
