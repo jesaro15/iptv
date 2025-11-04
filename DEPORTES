@@ -339,9 +339,9 @@ https://sc1.wasidata.com/Imperial/tracks-a1v1/mono.m3u8
 https://gnstreammedia.com:19360/4000/4000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B9E8yWR.jpeg" group-title="TV PERU",145 | PERUANISIMA TV |
 https://sc1.wasidata.com/Peruanisima/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",146 | RHTV SELVA CENTRAL |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vWXPJcj.jpeg" group-title="TV PERU",146 | RHTV SELVA CENTRAL |
 https://vivatv.juanjuiserver.com:3888/live/rhtv2025live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",147 | COVATEL HD |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PcXk5GW.jpeg" group-title="TV PERU",147 | COVATEL HD |
 https://sc1.wasidata.com/Covatel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qh5lzPk.jpeg" group-title="TV PERU",148 | ANTENA SUR TV |	
 https://play.agenciastreaming.com:8081/agenciaandinartv/tracks-v1a1/mono.m3u8
@@ -401,7 +401,7 @@ https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1175399475.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GDgftXo.jpeg" group-title="TV NOTICIAS",5 | VENEZUELA NEWS TV
 https://vcp15.myplaytv.com/venenews/venenews/chunklist_w1384263562.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/miHQF71.jpeg" group-title="TV NOTICIAS",6 | VENEZOLANA DE TELEVISIÓN
-https://live.eu-north-1a.cf.dmcdn.net/sec2(e1UldwBuLi567IsW4LeXiq6P2UsdEdbXI28HCPR2GwCAKWnGLJ6WWTCLPjwBeQM-qQ6k2UefvmmQJX8J4BU7QlMNxS2OwEAui9TXpIFcfTbCkx3TxrkLu55bk_bOP-Qi)/dm/3/x930kre/d/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(ac8B3m_K65BmA3nEinQ446qsJrgGU23YQM3jQsJ_IuNjZpZ62oj6JUgZ8Mw-z6c9UmvsuK0mGZ4W003RDphuIQUPCDI4sd7Hp8ggopmsu2gEnBwN2L1OS8lVoQD0HPcS)/dm/3/x930kre/d/live-720.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/t8r9Fn3.jpeg" group-title="TV NOTICIAS",7 | LA HOJILLA TV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/7fd9b0b5a9434fed05fa3f358934e8e9fe427d63/live.m3u8
@@ -633,7 +633,7 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
-CHAU 2-11-25
+CHAU 03-11-25
 FIN END
 
 
