@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",CANAL 26 HD
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="",TN HD
+https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/c086055a-58d6-4916-a19c-484b8cb1995c:SCL2/master.m3u8
+
+#EXTINF:-1 tvg-logo="",ECUADOR TV
+https://samson.streamerr.co:8081/shogun/index.m3u8
+
+#EXTINF:-1 tvg-logo="",PRENSA LATINA
+https://eu1.servers10.com:8081/8192/index.m3u8
+
+#EXTINF:-1 tvg-logo="",CANAL CLARO HD
+http://181.188.216.5:18000/play/a09l/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",KANAL D
 https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/ts-eu-w1-n2/playlist/amg01602-themahqfrance-vivekanald-canelatv/cb543f166570608d84cb3a6ecef040a5f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7252db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a1af1c56953145f59617cb8719ed82875c83118323f1099c93a68bce41838e947eab02e0370d0f7b2ac8d978c7fb5ddca2f2e892011352242b66a4cea6f047288343036fecfedfba768d6ba4eb0ba010fa3f9dfa35e91e8579be01e7c043a5bfb2dc433b59eea409274f2882d1093ece97fde6d982904540ff5c0d0040e78302f92f2e2a99feca5ba7cb1c95b7248a8ece7c52ddbc4a8194be8feeffd804cc6582f0fd96394d5970442cb21df3ca238b729d4fa1c04575070d5cfbce1c84a7c94e3c6778838275dd0754ec88dccd8c587b824b336ec54c951b0965c7312c5be02ef295752caa2e188a3838b40961d00cacf67cbbf79bd6073db4ccce0daa3cb8fb5984b627ad6a730856e3bc7c1115022da29b0c670770cd41ebc4d9a12659728bd9f9be9103765743583865a6ebe462949dcf2f0964a87e2f63661f049902c213b1254d072b8953939b007a8109363ea4c01b58496782c7a18be5809ea4d4ee6320555f8feb81a536197733e7f085d0799cbaa0/64/1920x1080_6046040/index.m3u8
 
