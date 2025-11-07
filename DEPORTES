@@ -30,7 +30,7 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ozCZYSN.jpeg" group-title="TV PERU",08 | CANAL N |
-http://181.188.216.5:18000/play/a01p/index.m3u8
+http://38.183.182.166:8000/play/a120/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVhd.jpg" group-title="TV PERU",09 | ATV HD |
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
