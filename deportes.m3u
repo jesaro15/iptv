@@ -9,6 +9,8 @@ https://jireh-4-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 https://jireh-1-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XfRqKoI.jpeg" group-title="TV PERU",03 | RPP TV |
 http://38.183.182.166:8000/play/a13g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XfRqKoI.jpeg" group-title="TV PERU",03.1 | RPP TV ᴴᴰ ALT |
+https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/rpptv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/AmericaAlt.jpg" group-title="TV PERU",04 | AMERICA TV ᴴᴰ |
 http://38.183.182.166:8000/play/a0rb/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/americatv.jpg" group-title="TV PERU",04.1 | AMERICA TV ALT 
@@ -406,7 +408,7 @@ https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1175399475.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GDgftXo.jpeg" group-title="TV NOTICIAS",5 | VENEZUELA NEWS TV
 https://vcp15.myplaytv.com/venenews/venenews/chunklist_w1384263562.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/miHQF71.jpeg" group-title="TV NOTICIAS",6 | VENEZOLANA DE TELEVISIÓN
-https://live.eu-north-1b.cf.dmcdn.net/sec2(W927Js0Q7qiB4M0EyfPYRqEKl0ZYWLWisuaM-OYqSCGZaYwgec7KLNGKWhabLhFhg23iNmZVlgHgwHADoDkFic7U7zbBkoG0_a4vrhhUs0opQxi-yJgOV0ue2xe2WJ8M)/dm/3/x930kre/d/live-720@60.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(6RZ_KJ4DpgAxacRuGd2mJxXYL-RVv-4wwn6GfdYqTzGognNkH-mSa0ay4nBXAGz373gvGqmqbxmBCNDNZouqdpDDDU2p9OwID1uQmWqj6BMOGmgSuRoW8B_BQ20t4cPM)/dm/3/x930kre/d/live-720@60.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/t8r9Fn3.jpeg" group-title="TV NOTICIAS",7 | LA HOJILLA TV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/7fd9b0b5a9434fed05fa3f358934e8e9fe427d63/live.m3u8
@@ -638,8 +640,7 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
-CHAU 30-11-25
+CHAU 01-12-25
 FIN END
-
 
 
