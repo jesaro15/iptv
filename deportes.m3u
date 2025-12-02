@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4NMlwrm.jpeg" group-title="TV PERU",01 | WILLAX |
 http://38.183.182.166:8000/play/a0zn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/10dUmPg.jpeg" group-title="TV PERU",01.1 | WILLAX ALT |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K4v2B7T.jpeg" group-title="TV PERU",01.1 | WILLAX ALT |
 https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/latina.jpg" group-title="TV PERU",02 | LATINA TV |
 https://jireh-4-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8
@@ -80,7 +80,7 @@ https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/antares.jpg" group-title="TV PERU",26 | ANTARES TV |
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",27 | LA TELE |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BDqtjX2.jpeg" group-title="TV PERU",27 | LA TELE |
 https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ovacion.jpg" group-title="TV PERU",28 | OVACION TV |
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
@@ -134,7 +134,7 @@ https://play.agenciastreaming.com:8081/superhits/tracks-v1a1/mono.m3u8
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/VisionSur.jpg" group-title="TV PERU",48 | VISIÓN SUR |
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/VitalTv.jpg" group-title="TV PERU",49 | VITAL TV |
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",49 | IDENTIDAD TV |
 https://stream.mediacorp.pe/srt/2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/VitalTv.jpg" group-title="TV PERU",49.1 | VITAL TV |
@@ -640,7 +640,7 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
-CHAU 01-12-25
+CHAU 02-12-25
 FIN END
 
 
