@@ -64,7 +64,7 @@ https://video2.lhdserver.es/uraniotv/live.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CNC.jpg" group-title="TV PERU",24 | CNC CAJAMARCA |
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CNC.jpg" group-title="TV PERU",24.1 | CNC |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5rja2ea.jpeg" group-title="TV PERU",24.1 | CNC IQUITOS |
 https://srt.grupolimalive.com:8081/cnc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/BellaAbanquina.jpg" group-title="TV PERU",25 | BELLA ABANQUINA TV |
 https://live-evg25.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/chunks.m3u8
@@ -314,8 +314,8 @@ https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CpOboQw.jpeg" group-title="TV PERU",136 | INPECABLE TV |
 https://tv.sistemasandinos.org/INPECABLETV/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YC3BbNX.jpeg" group-title="TV PERU",138 | TARAPOTO DIGITAL |
-https://live.obslivestream.com/actpro/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=".jpeg" group-title="TV PERU",138 | SOLAR TELEVISIÓN |
+https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CIwpDkt.jpeg" group-title="TV PERU",139 | CANAL 9 SELVA CENTRAL |
 https://play.agenciastreaming.com:8081/canal9selvacentral/tracks-v1a1/mono.m3u8
@@ -342,9 +342,9 @@ https://play.agenciastreaming.com:8081/agenciaandinartv/tracks-v1a1/mono.m3u8
 https://7.innovatestream.pe:19360/kbo/kbo.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",150 | RIKU TV ᴴᴰ |
 https://live-evg7.tv360.bitel.com.pe/bitel/riku/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",151 | UNICENTRO TV |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lbgpXyV.jpeg" group-title="TV PERU",151 | UNICENTRO TV |
 https://cablered.iptvperu.tv:1936/cablered/unicentro.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",152 | ECO TV |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nK95qyt.jpeg" group-title="TV PERU",152 | ECO TV |
 https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8
 
 
@@ -643,6 +643,6 @@ https://tv.perustream.com:3056/stream/play.m3u8
 
 
 
-CHAU 16-DIC-25
+CHAU 19-DIC-25
 FIN END
 
