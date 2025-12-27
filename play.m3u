@@ -616,20 +616,20 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="MIS CANALES", | VENEZOLANA DE TELEVISION |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/miHQF71.jpeg" group-title="MIS CANALES", | VENEZOLANA DE TELEVISION |
 https://dailymotion.com/video/x930kre
 
-#EXTINF:-1 tvg-logo="" group-title="MIS CANALES", | TELESUR |
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/noR4NUo.jpeg" group-title="MIS CANALES", | TELESUR |
+https://dailymotion.com/video/x82ug5r
 
-#EXTINF:-1 tvg-logo="" group-title="MIS CANALES", | ACTUALIDAD RT |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PcOrpX6.jpeg" group-title="MIS CANALES", | ACTUALIDAD RT |
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MIS CANALES", | HISPANTV |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMIJbga.jpeg" group-title="MIS CANALES", | HISPANTV |
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/df0a443c1e8e53babc41fede14548c9b5fd1a6d2/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MIS CANALES", | CANAL RED |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MInu08P.jpeg" group-title="MIS CANALES", | CANAL RED |
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 
@@ -637,6 +637,6 @@ https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 
 
 
-CHAU 26-DIC-25
+CHAU 27-DIC-25
 FIN END
 
