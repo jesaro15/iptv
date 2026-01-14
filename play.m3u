@@ -45,9 +45,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/cajamarcatvSRT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nativaTV.jpg" group-title="TV PERU",16 | NATIVA TV |
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ondadigitalTV2.jpg" group-title="TV PERU",17 | ONDA DIGITAL |
-https://v4.tustreaming.cl/ondadigitaltv/tracks-v1a1/mono.m3u8
+https://servilive.com:3510/live/odtv1live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GIfhFLx.jpeg" group-title="TV PERU",18 | ONDA DIGITAL 2 |
-https://v4.tustreaming.cl/odtv2/tracks-v1a1/mono.m3u8
+https://servilive.com:3461/live/odtv2live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/piuraTV.jpg" group-title="TV PERU",19 | PIURA TV |
 https://live.obslivestream.com/piuratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nacionaltvperu.jpg" group-title="TV PERU",20 | NACIONAL TV PERU |
@@ -165,9 +165,9 @@ https://play.agenciastreaming.com:8081/tvwanka/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Millenium1.jpg" group-title="TV PERU",68 | MILLENIUM TV |
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UXUXNqD.jpeg" group-title="TV PERU",69 | XTV |
-https://xtv.ottmasperu.workers.dev/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vYWNy8z.jpeg" group-title="TV PERU",69.1 | XTV PLUS |
-https://xtvplus.ottmasperu.workers.dev/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/genios1.jpg" group-title="TV PERU",70 | GENIOS TV |
 https://sc1.wasidata.com/Genios/tracks-a1v1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/telecolor2.jpg" group-title="TV PERU",71 | TELECOLOR |
@@ -640,6 +640,6 @@ https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 
 
 
-CHAU 05-ENE-26
+CHAU 14-ENE-26
 FIN END
 
