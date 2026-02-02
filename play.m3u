@@ -99,7 +99,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/andinatv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DktUxyw.jpeg" group-title="TV PERU",38 | RTV ALTURA C. DE PASCO |
 https://play.agenciastreaming.com:8081/tvalturalimalive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/karibenaTV.jpg" group-title="TV PERU",39 | KARIBEÑA TV |
-https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.m3u8
+https://luna-1-video.mediaserver.digital/karibenatv_685a-pe-a5676-584412/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LoQRsz0.jpeg" group-title="TV PERU",40 | AMAZONIA TVR |
 https://servilive.com:3295/live/v8nkywddqlive.m3u8
 
@@ -143,7 +143,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/36tvSRT/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/0kDMLqs.jpeg" group-title="TV PERU",56 | HUACHO PERU TV ᴴᴰ |
 https://tv.huachotv.com/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Planea3.jpg" group-title="TV PERU",57 | PLANEA AMAZONAS |
-https://play.agenciastreaming.com:8081/planeatv/tracks-v1a1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bWCOZRY.jpeg" group-title="TV PERU",58 | PLANEA JAEN |
 https://7.innovatestream.pe:19360/planetajaen/planetajaen.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/GfTelevision.jpg" group-title="TV PERU",59 | GF TV |
@@ -269,7 +269,7 @@ https://live-evg18.tv360.bitel.com.pe/bitel/cositeljuliaca/chunks.m3u8
 https://vod3.qbi.lat:15123/cositel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TropicalTv.jpg" group-title="TV PERU",114 | TROPICAL TV |
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DVJwiqm.jpeg" group-title="TV PERU",115 | BNB TV |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVJwiqm.jpeg" group-title="TV PERU",115 | ALPHA TV ᴴᴰ |
 https://live-evg25.tv360.bitel.com.pe/bitel/bnb/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/FrecuenciaMusical.jpg" group-title="TV PERU",116 | FRECUENCIA MUSICAL TV |
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
@@ -323,7 +323,7 @@ https://play.agenciastreaming.com:8081/canal9selvacentral/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iFqMFu0.jpeg" group-title="TV PERU",140 | TV MUNDO ᴴᴰ |
 https://v4.tustreaming.cl/tvmundo/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qh5lzPk.jpeg" group-title="TV PERU",141 | ANTENA SUR ᴴᴰ |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qh5lzPk.jpeg" group-title="TV PERU",141 | IMPACTO ᴴᴰ |
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZnB6D3V.jpeg" group-title="TV PERU",142 | CANAL 25 AYACUCHO |
 https://live-evg25.tv360.bitel.com.pe/bitel/canal25ayacucho/chunks.m3u8
@@ -641,6 +641,6 @@ https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 
 
 
-CHAU 31-ENE-26
+CHAU 2-FEB-26
 FIN END
 
