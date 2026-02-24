@@ -82,7 +82,7 @@ https://live.obslivestream.com/yurivision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FIlclR5.jpeg" group-title="TV PERU",30.1 | YURIMAGUAS TV/DEPORTES |
 https://live.obslivestream.com/yurimaguastelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/vzTV.jpg" group-title="TV PERU",31 | VZ TV/DEPORTES | 
-https://www.vztv.online/canalvztelevisionweb/tracks-v1a1/mono.ts.m3u8
+https://www.vztv.online/canalvztelevisionweb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CONECTADOS.jpg" group-title="TV PERU",32 | CONECTA2 TV |
 https://live.obslivestream.com/conecta2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Planeta1.jpg" group-title="TV PERU",33 | PLANETA TV | 
@@ -370,9 +370,10 @@ https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bTYbXA4.jpeg" group-title="TV ESPANA",5 | ANTENA 3 ᴴᴰ |
 http://176.65.146.237:8401/play/a0ae/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AB3T3ZF.jpeg" group-title="TV ESPANA",5.1 | ANTENA 3 INT |
-http://38.183.182.166:8000/play/a0sx/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4mVe6Ke.jpeg" group-title="TV ESPANA",5.2 | ANTENA 3 ᴴᴰ 3 |
+http://177.10.184.193:8000/play/a06a/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4mVe6Ke.jpeg" group-title="TV ESPANA",5.2 | ANTENA 3 ᴴᴰ INT |
+http://181.114.57.246:4000/play/akjWPSp33R6D9dv3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u7aBN9v.jpeg" group-title="TV ESPANA",6 | CUATRO ᴴᴰ |
 http://176.65.146.237:8401/play/a09s/index.m3u8
@@ -617,7 +618,8 @@ https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 #EXTINF:-1tvg-logo="https://i.imgur.com/JqylIfE.jpeg" group-title="INFANTILES", | ANIME VISION CLASICS ᴴᴰ |
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-
+#EXTINF:-1tvg-logo="" group-title="INFANTILES", | ZAROK ᴴᴰ |
+https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8
 
 
 
@@ -644,6 +646,6 @@ https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 
 
 
-CHAU 16-FEB-26
+CHAU 24-FEB-26
 FIN END
 
