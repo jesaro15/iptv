@@ -45,9 +45,9 @@ https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nativaTV.jpg" group-title="TV PERU",16 | NATIVA TV |
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ondadigitalTV2.jpg" group-title="TV PERU",17 | ONDA DIGITAL |
-https://servilive.com:3510/live/odtv1live.m3u8
+https://live.ondadigitaltv.com/ODTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GIfhFLx.jpeg" group-title="TV PERU",18 | ONDA DIGITAL 2 |
-https://servilive.com:3461/live/odtv2live.m3u8
+https://live.ondadigitaltv.com/ODTV2/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/piuraTV.jpg" group-title="TV PERU",19 | PIURA TV |
 https://live.obslivestream.com/piuratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/nacionaltvperu.jpg" group-title="TV PERU",20 | NACIONAL TV PERU |
@@ -218,7 +218,7 @@ https://play.agenciastreaming.com:8081/agrotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/RCR.jpg" group-title="TV PERU",91 | RCR | 
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/chunklist_w68889844.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/MCt2cPG.jpeg" group-title="TV PERU",92 | CTV |
-https://ca2.inka.net.pe/ctvperu-live/index.fmp4.m3u8 
+https://live-evg18.tv360.bitel.com.pe/bitel/ctvSRT/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/MegaJaen.jpg" group-title="TV PERU",93 | MEGA TV JAEN |
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
@@ -646,6 +646,6 @@ https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 
 
 
-CHAU 24-FEB-26
+CHAU 6-MARZO-26
 FIN END
 
