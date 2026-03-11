@@ -11,10 +11,11 @@ https://jireh-1-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/rpptv/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/americatv.jpg" group-title="TV PERU",04 | AMERICA TV ᴴᴰ |
-https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/3iKheP2RXr_SUf9JBnqvAA/1773321636/bitel/America-udp/bitel/America-udp_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dElUGL.jpeg" group-title="TV PERU",05 | PANAMERICANA TV ᴴᴰ |
-https://live-evg20.tv360.bitel.com.pe/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/un2Y4TBV-OmQxxN5fz7TIg/1773323007/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_480p/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/exitosa1.jpg" group-title="TV PERU",06 | EXITOSA TV |
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TVPERU.jpg" group-title="TV PERU",07 | TV PERU |
@@ -67,7 +68,8 @@ https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5rja2ea.jpeg" group-title="TV PERU",24.1 | CNC IQUITOS |
 https://srt.grupolimalive.com:8081/cnc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/BellaAbanquina.jpg" group-title="TV PERU",25 | BELLA ABANQUINA TV |
-https://live-evg25.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/chunks.m3u8
+https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/antares.jpg" group-title="TV PERU",26 | ANTARES TV |
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BDqtjX2.jpeg" group-title="TV PERU",27 | LA TELE |
@@ -75,7 +77,7 @@ https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ovacion.jpg" group-title="TV PERU",28 | OVACION TV |
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Matices2.jpg" group-title="TV PERU",29 | MATICES/DEPORTES |
-https://live20.bozztv.com/akamaissh101/ssh101/matices/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/e1K9mWZ.jpeg" group-title="TV PERU",30 | YURIVISON/DEPORTES |
 https://live.obslivestream.com/yurivision/tracks-v1a1/mono.m3u8
@@ -531,19 +533,19 @@ https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W5udHFu.jpeg" group-title="DEPORTES",1 | L1 ⚽ MAX ᴴᴰ |
-http://38.183.182.166:8000/play/a12t/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5snJitz.jpeg" group-title="DEPORTES",2 | GOL ⚽ PERU ᴴᴰ |
-http://38.183.182.166:8000/play/a120/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l6fmLPf.jpeg" group-title="DEPORTES",3 | TELE DEPORTES ⚽ |
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p4ZZY0P.jpeg" group-title="DEPORTES",4 | ONE SOCCER ⚽ |
-http://tvmate.icu:8080/85646307/54885994/135810
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/96ebfyp.jpeg" group-title="DEPORTES",5 | SKY SPORTS ᴴᴰ ⚽ |
-http://tvmate.icu:8080/85646307/54885994/137720
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2usac7N.jpeg" group-title="DEPORTES",6 | SPORTSMAX NEWS ⚽ |
 https://cdahum.streaming.ws/sportsmaxnews/live/chunklist_w1062378774.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a8jwRcH.jpeg" group-title="DEPORTES",7 | US TUDN ᴴᴰ ⚽ |
-http://tvmate.icu:8080/85646307/54885994/11885
+
 #EXTINF:-1tvg-logo="https://i.imgur.com/Rdc5Vlk.jpeg" group-title="DEPORTES",8 | SPORTS TV ᴴᴰ |
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/heLBw7m.jpeg" group-title="DEPORTES",9 | SPORT EN FRANCE |
@@ -649,6 +651,6 @@ https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 
 
 
-CHAU 6-MARZO-26
+CHAU 11-MARZO-26
 FIN END
 
