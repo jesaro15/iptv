@@ -92,7 +92,7 @@ https://live.obslivestream.com/conecta2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/bhTV.jpg" group-title="TV PERU",34 | BH TV |
 https://sc1.wasidata.com/Bhtv/tracks-v1a1/mono.m3u8   
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/vinilosTV.jpg" group-title="TV PERU",35 | COONTROVERSIA TV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/vinilosTV.jpg" group-title="TV PERU",35 | CONTROVERSIA TV |
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/tvone.jpg" group-title="TV PERU",36 | TV ONE | 
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
@@ -145,7 +145,7 @@ https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/0kDMLqs.jpeg" group-title="TV PERU",56 | HUACHO PERU TV ᴴᴰ |
 https://tv.huachotv.com/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Planea3.jpg" group-title="TV PERU",57 | ANTENA SUR |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qh5lzPk.jpeg" group-title="TV PERU",57 | ANTENA SUR |
 https://cloudpro.servidoresdestream.com:8081/8122/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bWCOZRY.jpeg" group-title="TV PERU",58 | PLANEA JAEN |
 https://7.innovatestream.pe:19360/planetajaen/planetajaen.m3u8
@@ -195,7 +195,7 @@ https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/master.jpg" group-title="TV PERU",79 | MASTER TV |  
 https://live.obslivestream.com/mastertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/soltv.jpg" group-title="TV PERU",80 | SOL TV |  
-https://video03.logicahost.com.br/soltv/soltv/chunklist_w1946435464.m3u8
+https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Amazonica1.jpg" group-title="TV PERU",81 | AMAZONICA TV |
 https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8
@@ -332,7 +332,7 @@ https://play.agenciastreaming.com:8081/canal9selvacentral/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iFqMFu0.jpeg" group-title="TV PERU",140 | TV MUNDO ᴴᴰ |
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qh5lzPk.jpeg" group-title="TV PERU",141 | IMPACTO ᴴᴰ |
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",141 | IMPACTO ᴴᴰ |
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZnB6D3V.jpeg" group-title="TV PERU",142 | CANAL 25 AYACUCHO |
 https://live-evg10.tv360.bitel.com.pe/bitel/canal25ayacucho/chunks.m3u8
@@ -343,7 +343,7 @@ https://sc1.wasidata.com/Imperial/tracks-a1v1/mono.m3u8
 https://gnstreammedia.com:19360/4000/4000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B9E8yWR.jpeg" group-title="TV PERU",145 | PERUANISIMA TV |
 https://sc1.wasidata.com/Peruanisima/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vWXPJcj.jpeg" group-title="TV PERU",146 | CUBA TV AYACUCHO |
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fyg0zMD.jpeg" group-title="TV PERU",146 | CUBA TV AYACUCHO |
 https://live20.bozztv.com/giatv/giatv-cubatvayacucho/cubatvayacucho/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PcXk5GW.jpeg" group-title="TV PERU",147 | COVATEL ᴴᴰ |
@@ -636,8 +636,8 @@ https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/miHQF71.jpeg" group-title="MIS CANALES", | VENEZOLANA DE TELEVISION |
 https://dailymotion.com/video/x930kre
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/noR4NUo.jpeg" group-title="MIS CANALES", | TELESUR |
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/noR4NUo.jpeg" group-title="MIS CANALES", | TELESUR ᴴᴰ |
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PcOrpX6.jpeg" group-title="MIS CANALES", | ACTUALIDAD RT |
 #EXTVLCOPT:http-referrer=https://odysee.com/
@@ -654,6 +654,6 @@ https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 
 
 
-CHAU 24-MARZO-26
+CHAU 25-MARZO-26
 FIN END
 
