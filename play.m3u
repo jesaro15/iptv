@@ -8,7 +8,7 @@ https://jireh-4-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 https://jireh-1-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XfRqKoI.jpeg" group-title="TV PERU",03 | RPP TV ᴴᴰ |
-https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/rpptv/livestream1/chunks.m3u8
+https://cdn-ssai.smartbit.co/rpp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/americatv.jpg" group-title="TV PERU",04 | AMERICA TV ᴴᴰ |
 
@@ -156,6 +156,7 @@ https://streamusmptv.ddns.net/live/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CayetanoPlus.jpg" group-title="TV PERU",62 | CAYETANO PLUS |
 https://stream.cayetano.plus:3701/multi_web/play_1080.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/CadenaTv.jpg" group-title="TV PERU",63 | CADENA TV | 
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/autnetica.jpg" group-title="TV PERU",64 | AUTENTICA TELEVISION |
@@ -235,7 +236,9 @@ https://play.agenciastreaming.com:8081/megatvchimbote/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/palmeras.jpg" group-title="TV PERU",94 | PALMERAS TV |
 https://play.agenciastreaming.com:8081/palmerastv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/like1.jpg" group-title="TV PERU",95 | FUEGO TV ᴴᴰ |
-https://play.agenciastreaming.com:8081/Liketv/tracks-v1a1/playlist.m3u8
+https://play.agenciastreaming.com:8081/Liketv/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/via.jpg" group-title="TV PERU",96 | VIA TELEVISION |
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/OasisTv.jpg" group-title="TV PERU",97 | OASIS RTV |
@@ -654,6 +657,6 @@ https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 
 
 
-CHAU 25-MARZO-26
+CHAU 12-ABRIL-26
 FIN END
 
