@@ -322,7 +322,8 @@ https://live.obslivestream.com/tacalatv/tracks-v1a1/mono.m3u8
 https://mc.servidor.stream:19360/8244/8244.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/tropical.jpg" group-title="TV PERU",134 | TROPICAL TV |
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/chunklist_w1855008952.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n5BIah3.jpeg" group-title="TV PERU",135 | TELESISTEMAS CUZCO |
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",135 | OK TV |
+https://live.obslivestream.com/oktv/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CpOboQw.jpeg" group-title="TV PERU",136 | INPECABLE TV |
 
@@ -657,6 +658,6 @@ https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 
 
 
-CHAU 27-ABRIL-26
+CHAU 30-ABRIL-26
 FIN END
 
