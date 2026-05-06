@@ -11,7 +11,6 @@ https://jireh-1-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 https://cdn-ssai.smartbit.co/rpp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/americatv.jpg" group-title="TV PERU",04 | AMERICA TV ᴴᴰ |
-https://live-evg20.tv360.bitel.com.pe/mQAzQM4vlR6Be5zGIm-9CA/1777305390/bitel/America-udp/bitel/America-udp_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dElUGL.jpeg" group-title="TV PERU",05 | PANAMERICANA TV ᴴᴰ |
 
@@ -19,12 +18,11 @@ https://live-evg20.tv360.bitel.com.pe/mQAzQM4vlR6Be5zGIm-9CA/1777305390/bitel/Am
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/exitosa1.jpg" group-title="TV PERU",06 | EXITOSA TV |
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TVPERU.jpg" group-title="TV PERU",07 | TV PERU |
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TVPerúNoticias.jpg" group-title="TV PERU",7.1 | TV PERU NOTICIAS |
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/uPxIGZb.jpeg" group-title="TV PERU",7.2 | CANAL IPe ᴴᴰ |
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
+ 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bInzVde.jpeg" group-title="TV PERU",7.3 | JNE TV |
 https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8
@@ -326,7 +324,7 @@ https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/chunklist_w1855008952.m3u
 https://live.obslivestream.com/oktv/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CpOboQw.jpeg" group-title="TV PERU",136 | INPECABLE TV |
-
+https://tv.sistemasandinos.org/INPECABLETV/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jb9NYng.jpeg" group-title="TV PERU",138 | SOLAR TELEVISIÓN |
 https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8
@@ -658,6 +656,6 @@ https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 
 
 
-CHAU 30-ABRIL-26
+CHAU 06-MAYO-26
 FIN END
 
