@@ -265,6 +265,9 @@ https://videoserver.tmcreativos.com:19360/selvatv/selvatv.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/YT5KDc6.jpeg" group-title="TV PERU",109 | FOLKLORE TV |
 https://play.folkloretv.pe/StreamSD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/YT5KDc6.jpeg" group-title="TV PERU",109.1 | FOLKLORE ALT |
+https://live-evg18.tv360.bitel.com.pe/bitel/folkloretv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/oriente1.jpg" group-title="TV PERU",110 | ORIENTE TV |
 https://live.obslivestream.com/tvoriente/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1H70MUO.jpeg" group-title="TV PERU",111 | ANTENA 1 TV |
@@ -361,6 +364,17 @@ https://live-evg7.tv360.bitel.com.pe/bitel/riku/chunks.m3u8
 https://cablered.iptvperu.tv:1936/cablered/unicentro.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nK95qyt.jpeg" group-title="TV PERU",152 | ECO TV |
 https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",155 | MAYO TELEVISION |
+https://live.obslivestream.com/mayo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",156 | TUMI TV |
+https://live.obslivestream.com/tumitv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",157 | CONTACTO TV |
+https://live.obslivestream.com/contactoplaymax/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",158 | RTV EXPLORER |
+https://live.obslivestream.com/rtvxplorer/tracks-v1a1/mono.m3u8
 
 
 
@@ -657,6 +671,6 @@ https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 
 
 
-CHAU 07-MAYO-26
+CHAU 10-MAYO-26
 FIN END
 
