@@ -376,6 +376,12 @@ https://live.obslivestream.com/contactoplaymax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",158 | RTV EXPLORER |
 https://live.obslivestream.com/rtvxplorer/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",159 | CANAL X TV |
+https://xtv.moxapps.shop/live/6Z5Esvtga8Q19NTwWETHN9TrhKl2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",160 | CANAL X TV PLUS |
+https://live20.bozztv.com/giatv/giatv-xtvplus/xtvplus/chunks.m3u8
+
 
 
 
@@ -671,6 +677,6 @@ https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 
 
 
-CHAU 10-MAYO-26
+CHAU 21-MAYO-26
 FIN END
 
