@@ -23,8 +23,8 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/panamericana.stream/playlist.m3u8
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TVPERU.jpg" group-title="TV PERU",07 | TV PERU |
-#EXTVLCOPT:http-referrer=http://tvperu.gob.pe/
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperu.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/TVPerúNoticias.jpg" group-title="TV PERU",7.1 | TV PERU NOTICIAS |
 
@@ -388,6 +388,7 @@ https://play.agenciastreaming.com:8081/canal9selvacentral/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",141 | IMPACTO ᴴᴰ |
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZnB6D3V.jpeg" group-title="TV PERU",142 | CANAL 25 AYACUCHO |
 https://live-evg10.tv360.bitel.com.pe/bitel/canal25ayacucho/chunks.m3u8
 
@@ -421,11 +422,17 @@ https://live.obslivestream.com/tumitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",158 | RTV EXPLORER |
 https://live.obslivestream.com/rtvxplorer/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",159 | HUACHO TV |
+https://tv.huachotv.com/stream.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",160 | Studio Pasco TV |
+https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",161 | ZELEVE TV |
+https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",162 | RTV ESTACION SOLAR |
+https://7.innovatestream.pe:19360/tvcliente0026/tvcliente0026.m3u8
 
 
 
@@ -718,6 +725,6 @@ https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 
 
 
-CHAU 29-junio-26
+CHAU 30-JUNIO-26
 FIN END
 
