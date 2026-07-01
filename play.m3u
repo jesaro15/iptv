@@ -134,7 +134,7 @@ https://live-evg8.tv360.bitel.com.pe/bitel/andinatvSRT/chunks.m3u8
 https://play.agenciastreaming.com:8081/tvalturalimalive/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/karibenaTV.jpg" group-title="TV PERU",40 | KARIBEÑA TV |
-https://luna-1-video.mediaserver.digital/karibenatv_685a-pe-a5676-584412/tracks-v1a1/index.m3u8
+https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LoQRsz0.jpeg" group-title="TV PERU",41 | AMAZONIA TVR |
 https://servilive.com:3295/live/v8nkywddqlive.m3u8
@@ -214,7 +214,8 @@ https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1888254998.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/genios1.jpg" group-title="TV PERU",70 | GENIOS TV |
-https://sc1.wasidata.com/Genios/tracks-a1v1/mono.m3u8
+https://sc3.wasidata.com/Genios2_1902/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/telecolor2.jpg" group-title="TV PERU",71 | TELECOLOR |
 https://live.obslivestream.com/telecolormux/index.m3u8
 
@@ -279,6 +280,8 @@ https://play.agenciastreaming.com:8081/megatvchimbote/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/palmeras.jpg" group-title="TV PERU",94 | PALMERAS TV |
 https://play.agenciastreaming.com:8081/palmerastv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/like1.jpg" group-title="TV PERU",95 | FUEGO TV ᴴᴰ |
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fuegotv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/via.jpg" group-title="TV PERU",96 | VIA TELEVISION |
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
@@ -403,7 +406,11 @@ https://live20.bozztv.com/giatv/giatv-cubatvayacucho/cubatvayacucho/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PcXk5GW.jpeg" group-title="TV PERU",147 | COVATEL ᴴᴰ |
 https://sc1.wasidata.com/Covatel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/44LgZOo.jpeg" group-title="TV PERU",148 | PUCALLPA TV |	
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",148 | JUSTICIA TV |	
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/44LgZOo.jpeg" group-title="TV PERU",148 | PUCALLPA TV |
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MsLPNr3.jpeg" group-title="TV PERU",149 | KBO TV ᴴᴰ |
 https://7.innovatestream.pe:19360/kbo/kbo.m3u8
@@ -422,10 +429,11 @@ https://live.obslivestream.com/tumitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",158 | RTV EXPLORER |
 https://live.obslivestream.com/rtvxplorer/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",159 | HUACHO TV |
-https://tv.huachotv.com/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",159 | TELELIMA ᴴᴰ |
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",160 | Studio Pasco TV |
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",160 | STUDIO PASCO ᴴᴰ |
 https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",161 | ZELEVE TV |
@@ -433,6 +441,19 @@ https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",162 | RTV ESTACION SOLAR |
 https://7.innovatestream.pe:19360/tvcliente0026/tvcliente0026.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",163 | CVN TV |
+https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",164 | ESTELAR TV |
+https://srt.tvdatta.com/tvestelar/index.m3u8
+
+
+
+
+
+
+
 
 
 
@@ -725,6 +746,6 @@ https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 
 
 
-CHAU 30-JUNIO-26
+CHAU 01-JULIO-26
 FIN END
 
