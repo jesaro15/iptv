@@ -119,7 +119,7 @@ https://live.obslivestream.com/conecta2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Planeta1.jpg" group-title="TV PERU",35 | PLANETA TV | 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/bhTV.jpg" group-title="TV PERU",35 | BH TV |
-https://sc1.wasidata.com/Bhtv/tracks-v1a1/mono.m3u8   
+https://5949aa132c8fb.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist.m3u8  
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/vinilosTV.jpg" group-title="TV PERU",36 | CONTROVERSIA TV |
 https://live.obslivestream.com/controversiatv/index.m3u8
@@ -249,7 +249,8 @@ https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HJq12Dt.jpeg" group-title="TV PERU",84 | DOBLE C TV | 
-https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/chunks.m3u8
+https://sc1.wasidata.com/DobleC/tracks-v1a1/mono.ts.m3u8?token=enlacesprueba01
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ucayalitv.jpg" group-title="TV PERU",85 | UCAYALI TV |
 https://eu1.servers10.com:8081/8180/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/miel.jpg" group-title="TV PERU",86 | MIEL TV |
@@ -397,15 +398,20 @@ https://live-evg10.tv360.bitel.com.pe/bitel/canal25ayacucho/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/erybDj6.jpeg" group-title="TV PERU",143 | IMPERIAL CUSCO |
 https://sc1.wasidata.com/Imperial/tracks-a1v1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UkI4VMb.jpeg" group-title="TV PERU",144 | QUASSAR TV |
 https://gnstreammedia.com:19360/4000/4000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B9E8yWR.jpeg" group-title="TV PERU",145 | PERUANISIMA TV |
 https://sc1.wasidata.com/Peruanisima/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fyg0zMD.jpeg" group-title="TV PERU",146 | CUBA TV AYACUCHO |
 https://live20.bozztv.com/giatv/giatv-cubatvayacucho/cubatvayacucho/chunks.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PcXk5GW.jpeg" group-title="TV PERU",147 | COVATEL ᴴᴰ |
 https://sc1.wasidata.com/Covatel/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",148 | JUSTICIA TV |	
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/playlist.m3u8
@@ -414,12 +420,16 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MsLPNr3.jpeg" group-title="TV PERU",149 | KBO TV ᴴᴰ |
 https://7.innovatestream.pe:19360/kbo/kbo.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8mwoYpu.jpeg" group-title="TV PERU",150 | RIKU TV ᴴᴰ |
 https://live-evg7.tv360.bitel.com.pe/bitel/riku/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lbgpXyV.jpeg" group-title="TV PERU",151 | UNICENTRO TV |
 https://cablered.iptvperu.tv:1936/cablered/unicentro.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nK95qyt.jpeg" group-title="TV PERU",152 | ECO TV |
 https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",155 | MAYO TELEVISION |
 https://live.obslivestream.com/mayo/tracks-v1a1/mono.m3u8
 
@@ -448,6 +458,16 @@ https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",164 | ESTELAR TV |
 https://srt.tvdatta.com/tvestelar/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",165 | CASMA TV |
+https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",166 | WAYRA TV |
+https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",167 | TELECENTRO |
+https://live-evg7.tv360.bitel.com.pe/bitel/telecentro/playlist.m3u8
+
+
 
 
 
@@ -468,7 +488,7 @@ https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_720.m3u8
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4mVe6Ke.jpeg" group-title="TV ESPANA",5 | ANTENA 3 ST |
-https://zona593movie.com:8443/543676443/6bezG8dWuV/408962
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bTYbXA4.jpeg" group-title="TV ESPANA",5 | ANTENA 3 ᴴᴰ |
 https://zona593movie.com:8443/543676443/6bezG8dWuV/408961
@@ -750,6 +770,6 @@ https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 
 
 
-CHAU 03-JULIO-26
+CHAU 07-JULIO-26
 FIN END
 
