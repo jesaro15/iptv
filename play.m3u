@@ -41,14 +41,16 @@ https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8
 http://190.108.91.206:9050/play/a0bd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVhd.jpg" group-title="TV PERU",09 | ATV ᴴᴰ |
-
-https://da4beup24mhfa.cloudfront.net/7_4/index.m3u8
+http://190.93.224.42/ATV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVPLUS.jpg" group-title="TV PERU",10 | ATV PLUS |
 https://d26l0c7cli5gzs.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVSUR.jpg" group-title="TV PERU",11 | ATV SUR |
 http://190.93.224.42/ATV-SUR/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",12 | PBO ᴴᴰ |
+http://190.93.224.42/PBO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/globalTV.jpg" group-title="TV PERU",13 | GLOBAL TV |
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8
@@ -122,6 +124,9 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/juntos_tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",29.2 | MOVISTAR PLUS |
 http://190.108.91.206:9050/play/a0bb/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",29.3 | MOVISTAR DEPORTES |
+http://195.178.110.110/movistar/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",30 | CONTACTO TV/DEPORTES |
 https://live.obslivestream.com/contactoplaymax/tracks-v1a1/mono.m3u8
 
@@ -189,10 +194,10 @@ https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R2s9c5D.jpeg" group-title="TV PERU",51 | IDENTIDAD TV |
-https://stream.mediacorp.pe/srt/2/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/VitalTv.jpg" group-title="TV PERU",49.1 | VITAL TV |
-https://stream.mediacorp.pe/srt/1/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RVHUPqD.jpeg" group-title="TV PERU",52 | DUNAS TV ᴴᴰ |
 https://v4.tustreaming.cl/dunastv/tracks-v1a1/mono.ts.m3u8
@@ -492,10 +497,11 @@ https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PERU",166 | WAYRA TV |
 https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV PERU",167 | ANDES TV |
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",167 | ANDES TV SICUANI |
 https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="" group-title="TV PERU",168 | ANDES TV |
+https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
 
 
 
@@ -778,7 +784,7 @@ https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/miHQF71.jpeg" group-title="MIS CANALES", | VENEZOLANA DE TELEVISION |
-https://dailymotion.com/video/x930kre
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/noR4NUo.jpeg" group-title="MIS CANALES", | TELESUR ᴴᴰ |
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
@@ -796,6 +802,6 @@ https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 
 
 
-17 SETIEMBRE-2026
+08-OCTUBRE-2026
 FIN END
 
